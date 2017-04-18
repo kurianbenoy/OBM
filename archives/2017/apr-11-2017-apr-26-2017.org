@@ -6,43 +6,41 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS                                        | WAITING                                           | DONE | CANCELED |
-|------+------+----------------------------------------------------+---------------------------------------------------+------+----------|
-|      |      | HACKING.1485136980. Org-mode task DONE should auto | KERNEL.1489242032. [PR-1] Review and merge for Li |      |          |
-|      |      | KERNEL.1492076921. Linux Device Drivers, 3rd edit  |                                                   |      |          |
-|      |      | KERNEL.1489241685. Test suite for shakthimaan Lin  |                                                   |      |          |
-|      |      | WEB.1492077085. Reselling ticket Django applic     |                                                   |      |          |
+| TODO | NEXT | IN_PROGRESS                                        | WAITING | DONE                                                           | CANCELED |
+|------+------+----------------------------------------------------+---------+----------------------------------------------------------------+----------|
+|      |      | HACKING.1485136980. Org-mode task DONE should auto |         | KERNEL.1489241685. Test suite for shakthimaan Lin (2017-04-18) |          |
+|      |      | KERNEL.1492076921. Linux Device Drivers, 3rd edit  |         | KERNEL.1489242032. [PR-1] Review and merge for Li (2017-04-17) |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME   | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |--------+-----------+--------+------+-----------+--------------+------------|
-| Mbuf   |       4.5 |      0 |    0 |       4.5 |   2017-04-20 | ---------- |
-| Mpduty |      24.0 |      0 |    0 |      24.0 |   2017-05-01 | ---------- |
-| Imack  |      11.0 |      0 |    0 |      11.0 |   2017-04-21 | ---------- |
+| Mbuf   |       4.5 |   0.75 |  0.5 |       4.0 |   2017-04-24 | #--------- |
+| Mpduty |      24.0 |    3.8 | 12.0 |      12.0 |   2017-04-26 | #####----- |
+| Imack  |         0 |      0 |    0 |         0 |   2017-04-18 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
 :                                                                               
 :                                    Burndown                                   
 :                                                                               
-:  40 ++--##########----+-------+--------+--------+--------+-------+-------++   
-:     |   .....                                                             |   
-:  35 ++       ...                                           ACTUAL #######++   
-:     |           .                                           IDEAL ....... |   
-:  30 ++           ........                                                ++   
-:     |                    .                                                |   
-:     |                     ....                                            |   
-:  25 ++                        .....                                      ++   
-:     |                              ....                                   |   
-:  20 ++                                 ....                              ++   
-:     |                                      .....                          |   
-:  15 ++                                          ...                      ++   
-:     |                                              .                      |   
-:  10 ++                                              ........             ++   
-:     |                                                       .             |   
-:     |                                                        ....         |   
-:   5 ++                                                           .....   ++   
+:  30 ++-------+--------+-------+--------+--------+--------+-------+-------++   
+:     |   ############################                                      |   
+:     |   .....                       #                      ACTUAL ####### |   
+:  25 ++       ....                   #                       IDEAL .......++   
+:     |            .....               #                                    |   
+:     |                 ....           #                                    |   
+:  20 ++                    ....        #                                  ++   
+:     |                         .....   #                                   |   
+:     |                              ... #                                  |   
+:  15 ++                                .                                  ++   
+:     |                                  ....                               |   
+:     |                                      ........                       |   
+:  10 ++                                             .                     ++   
+:     |                                               .....                 |   
+:     |                                                    ....             |   
+:   5 ++                                                       ....        ++   
+:     |                                                            .....    |   
 :     |                                                                 ....|   
 :   0 ++-------+--------+-------+--------+--------+--------+-------+-------+.   
 :     0        2        4       6        8        10       12      14       16  
@@ -52,39 +50,38 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:16]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2017-04-11 |   39.5 |    37 |                 |
-|   2 | 2017-04-12 |   39.5 |    35 |                 |
-|   3 | 2017-04-13 |   39.5 |    32 |                 |
-|   4 | 2017-04-14 |        |    30 |                 |
-|   5 | 2017-04-15 |        |    27 |                 |
-|   6 | 2017-04-16 |        |    25 |                 |
-|   7 | 2017-04-17 |        |    22 |                 |
-|   8 | 2017-04-18 |        |    20 |                 |
-|   9 | 2017-04-19 |        |    17 |                 |
-|  10 | 2017-04-20 |        |    15 |                 |
-|  11 | 2017-04-21 |        |    12 |                 |
-|  12 | 2017-04-22 |        |    10 |                 |
-|  13 | 2017-04-23 |        |     7 |                 |
-|  14 | 2017-04-24 |        |     5 |                 |
-|  15 | 2017-04-25 |        |     2 |                 |
-|  16 | 2017-04-26 |        |     0 |                 |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED   |
+|-----+------------+--------+-------+-------------------|
+|   1 | 2017-04-11 |   28.5 |    27 |                   |
+|   2 | 2017-04-12 |   28.5 |    25 |                   |
+|   3 | 2017-04-13 |   28.5 |    23 |                   |
+|   4 | 2017-04-14 |   28.5 |    21 |                   |
+|   5 | 2017-04-15 |   28.5 |    20 |                   |
+|   6 | 2017-04-16 |   28.5 |    18 |                   |
+|   7 | 2017-04-17 |   28.0 |    16 | KERNEL.1489242032 |
+|   8 | 2017-04-18 |   16.0 |    14 | KERNEL.1489241685 |
+|   9 | 2017-04-19 |        |    12 |                   |
+|  10 | 2017-04-20 |        |    11 |                   |
+|  11 | 2017-04-21 |        |     9 |                   |
+|  12 | 2017-04-22 |        |     7 |                   |
+|  13 | 2017-04-23 |        |     5 |                   |
+|  14 | 2017-04-24 |        |     4 |                   |
+|  15 | 2017-04-25 |        |     2 |                   |
+|  16 | 2017-04-26 |        |     0 |                   |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                                                 | TASKID             | OWNER  | PRIORITY | TODO        | ESTIMATED | ACTUAL |
 |----------------------------------------------------------------------+--------------------+--------+----------+-------------+-----------+--------|
-| * TASKS                                                              |                    |        | B        |             |      39.5 |        |
+| * TASKS                                                              |                    |        | B        |             |      28.5 |   4.55 |
 |----------------------------------------------------------------------+--------------------+--------+----------+-------------+-----------+--------|
 | ** APPLICATIONS                                                      |                    |        | B        |             |       4.0 |        |
 | *** Org-mode task DONE should automatically update PROPERTIES ACTUAL | HACKING.1485136980 | mbuf   | B        | IN_PROGRESS |       4.0 |        |
 |----------------------------------------------------------------------+--------------------+--------+----------+-------------+-----------+--------|
-| ** KERNEL                                                            |                    |        | B        |             |      24.5 |        |
-| *** Linux Device Drivers, 3rd edition, Part IV [0/6]                 | KERNEL.1492076921  | mpduty | B        | IN_PROGRESS |      12.0 |        |
-| *** Test suite for shakthimaan Linux device driver code examples III | KERNEL.1489241685  | mpduty | B        | IN_PROGRESS |      12.0 |        |
-| *** [PR-1] Review and merge for Linux device driver code examples    | KERNEL.1489242032  | mbuf   | B        | WAITING     |       0.5 |        |
-| *** Reselling ticket Django application module II [0/6]              | WEB.1492077085     | imack  | B        | IN_PROGRESS |      11.0 |        |
+| ** KERNEL                                                            |                    |        | B        |             |      24.5 |   4.55 |
+| *** Linux Device Drivers, 3rd edition, Part IV [4/6]                 | KERNEL.1492076921  | mpduty | B        | IN_PROGRESS |      12.0 |        |
+| *** Test suite for shakthimaan Linux device driver code examples III | KERNEL.1489241685  | mpduty | B        | DONE        |      12.0 |    3.8 |
+| *** [PR-1] Review and merge for Linux device driver code examples    | KERNEL.1489242032  | mbuf   | B        | DONE        |       0.5 |   0.75 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -111,7 +108,7 @@
     #+END_SRC
 
 ** KERNEL
-*** IN_PROGRESS Linux Device Drivers, 3rd edition, Part IV [0/6]
+*** IN_PROGRESS Linux Device Drivers, 3rd edition, Part IV [4/6]
     :PROPERTIES:
     :ESTIMATED: 12.0
     :ACTUAL:
@@ -119,24 +116,40 @@
     :ID: KERNEL.1492076921
     :TASKID: KERNEL.1492076921
     :END:
-    - [ ] Chapter 13: USB Drivers 	
-    - [ ] Chapter 14: The Linux Device Model 	
-    - [ ] Chapter 15: Memory Mapping and DMA 	
-    - [ ] Chapter 16: Block Drivers 	
-    - [ ] Chapter 17: Network Drivers 	
-    - [ ] Chapter 18: TTY Drivers    
-*** WAITING Test suite for shakthimaan Linux device driver code examples III
+    :LOGBOOK:
+    CLOCK: [2017-04-15 Sat 07:40]--[2017-04-15 Sat 10:20] =>  2:40
+    CLOCK: [2017-04-14 Fri 22:10]--[2017-04-14 Fri 23:50] =>  1:40
+    CLOCK: [2017-04-13 Thu 21:25]--[2017-04-13 Thu 23:35] =>  2:10
+    CLOCK: [2017-04-12 Wed 21:10]--[2017-04-12 Wed 22:55] =>  1:45
+    CLOCK: [2017-04-11 Tue 08:45]--[2017-04-11 Tue 10:10] =>  1:25
+    CLOCK: [2017-04-10 Mon 09:10]--[2017-04-10 Mon 10:15] =>  1:05
+    :END:
+    - [X] Chapter 13: USB Drivers
+    - [X] Chapter 14: The Linux Device Model
+    - [X] Chapter 15: Memory Mapping and DMA
+    - [X] Chapter 16: Block Drivers
+    - [ ] Chapter 17: Network Drivers
+    - [ ] Chapter 18: TTY Drivers
+*** DONE Test suite for shakthimaan Linux device driver code examples III
+    CLOSED: [2017-04-18 Tue 20:00]
     :PROPERTIES:
     :ESTIMATED: 12.0
-    :ACTUAL:
+    :ACTUAL: 3.8
     :OWNER: mpduty
     :ID: KERNEL.1489241685
     :TASKID: KERNEL.1489241685
     :END:
-*** WAITING [PR-1] Review and merge for Linux device driver code examples
+    :LOGBOOK:
+    CLOCK: [2017-04-17 Mon 14:25]--[2017-04-17 Mon 14:40] =>  0:15
+    CLOCK: [2017-04-13 Thu 13:20]--[2017-04-13 Thu 14:05] =>  0:45
+    CLOCK: [2017-04-12 Wed 13:15]--[2017-04-12 Wed 14:55] =>  1:40
+    CLOCK: [2017-04-11 Tue 13:40]--[2017-04-18 Tue 20:00] => 174:20
+    :END:
+*** DONE [PR-1] Review and merge for Linux device driver code examples
+    CLOSED: [2017-04-17 Mon 14:41]
     :PROPERTIES:
     :ESTIMATED: 0.5
-    :ACTUAL:
+    :ACTUAL: 0.75
     :OWNER: mbuf
     :ID: KERNEL.1489242032
     :TASKID: KERNEL.1489242032
@@ -145,18 +158,4 @@
     CLOCK: [2017-04-13 Thu 17:00]--[2017-04-13 Thu 17:30] =>  0:30
     :END:
     Source: https://github.com/shakthimaan/linux-device-driver-examples/pull/1
-** WEB 
-*** IN_PROGRESS Reselling ticket Django application module II [0/6]
-    :PROPERTIES:
-    :ESTIMATED: 11.0
-    :ACTUAL:
-    :OWNER: imack
-    :ID: WEB.1492077085
-    :TASKID: WEB.1492077085
-    :END:
-    - [ ] 05-04-17: Building templates part 1. [2 hours]
-    - [ ] 06-04-17: Building templates part 2. [2 hours]
-    - [ ] 07-04-17: Testing the app. [2 hours]
-    - [ ] 08-04-17: Bug fixing. [2 hours]
-    - [ ] 09-04-17: Analysis over deployment. [2 hours]
-    - [ ] 10-04-17: Deployment. [1 hours]
+
