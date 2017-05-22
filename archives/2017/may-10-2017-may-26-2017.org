@@ -97,7 +97,7 @@
   :wpd-amey:   2
   :END:
 ** READING
-*** Study of Linux kernel bug life-cycle
+*** IN_PROGRESS Study of Linux kernel bug life-cycle
     :PROPERTIES:
     :ESTIMATED: 16.0
     :ACTUAL:
@@ -105,11 +105,23 @@
     :ID: READING.1495095647
     :TASKID: READING.1495095647
     :END:
+    :LOGBOOK:
+    CLOCK: [2017-05-20 Sat 09:15]--[2017-05-20 Sat 10:05] =>  0:50
+    CLOCK: [2017-05-19 Fri 08:10]--[2017-05-19 Fri 10:20] =>  2:10
+    CLOCK: [2017-05-17 Wed 07:45]--[2017-05-17 Wed 10:15] =>  2:30
+    :END:
     Study of bug reports, bug fixes and bug closes related to the
     Linux kernel from two places:
 
     https://fedoraproject.org/wiki/KernelBugTriage
     https://bugzilla.kernel.org/
+
+    Exploring
+    https://bugzilla.redhat.com/query.cgi? and
+    https://bugzill.kernel.org/query.cgi
+
+    Exploring tools for website scraping and finally decided with
+    scrapy.
 *** Study of kernel regression testing tools
     :PROPERTIES:
     :ESTIMATED: 16.0
