@@ -6,41 +6,41 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS                                        | WAITING | DONE | CANCELED |
-|------+------+----------------------------------------------------+---------+------+----------|
-|      |      | READING.1495095647. Study of Linux kernel bug life |         |      |          |
-|      |      | WRITING.1495095749. Make flow diagram for audio fi |         |      |          |
-|      |      | WRITING.1495095780. Defining and including paramet |         |      |          |
-|      |      | WRITING.1495096110. Dry run and space-time complex |         |      |          |
+| TODO | NEXT | IN_PROGRESS                                        | WAITING | DONE                                                            | CANCELED |
+|------+------+----------------------------------------------------+---------+-----------------------------------------------------------------+----------|
+|      |      | READING.1495095647. Study of Linux kernel bug life |         | WRITING.1495095749. Make flow diagram for audio fi (2017-05-26) |          |
+|      |      |                                                    |         | WRITING.1495095780. Defining and including paramet (2017-05-26) |          |
+|      |      |                                                    |         | WRITING.1495096110. Dry run and space-time complex (2017-05-26) |          |
+|      |      |                                                    |         | EVENTS.1495633044. amey daily community bonding ( (2017-05-26)  |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME   | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |--------+-----------+--------+------+-----------+--------------+------------|
-| Amey   |      12.0 |      0 |    0 |      12.0 |   2017-06-01 | ---------- |
-| Mpduty |      16.0 |      0 |    0 |      16.0 |   2017-06-05 | ---------- |
+| Amey   |      18.0 |   23.9 | 18.0 |         0 |   2017-06-01 | ########## |
+| Mpduty |      16.0 |      0 |    0 |      16.0 |   2017-06-13 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
 :                                                                               
 :                                    Burndown                                   
 :                                                                               
-:  70 ++------+-------+--------+-------+-------+-------+--------+-------+--++   
-:     |   ###########################################################       |   
-:     |   ....                                               ACTUAL ####### |   
-:  60 ++      ....                                            IDEAL .......++   
-:     |           ....                                                      |   
-:  50 ++              .....                                                ++   
-:     |                    ....                                             |   
-:     |                        ....                                         |   
-:  40 ++                           ....                                    ++   
-:     |                                ....                                 |   
-:  30 ++                                   ....                            ++   
-:     |                                        ....                         |   
+:  50 ++--###############################################################--++   
+:     |   ....                                                           #  |   
+:     |       ....                                           ACTUAL ####### |   
+:     |           ....                                        IDEAL ......# |   
+:  40 ++              .....                                                #+   
+:     |                    ....                                            #|   
+:     |                        ...                                          #   
+:  30 ++                          .                                        ++   
+:     |                            ....                                     |   
+:     |                                ........                             |   
+:     |                                        ...                          |   
+:  20 ++                                          .                        ++   
 :     |                                            ....                     |   
-:  20 ++                                               .....               ++   
-:     |                                                     ....            |   
-:  10 ++                                                        ....       ++   
+:     |                                                .....                |   
+:  10 ++                                                    ....           ++   
+:     |                                                         ....        |   
 :     |                                                             ....    |   
 :     |                                                                 ....|   
 :   0 ++------+-------+--------+-------+-------+-------+--------+-------+--+.   
@@ -51,49 +51,43 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2017-05-10 |   66.0 |    62 |                 |
-|   2 | 2017-05-11 |   66.0 |    58 |                 |
-|   3 | 2017-05-12 |   66.0 |    54 |                 |
-|   4 | 2017-05-13 |   66.0 |    50 |                 |
-|   5 | 2017-05-14 |   66.0 |    47 |                 |
-|   6 | 2017-05-15 |   66.0 |    43 |                 |
-|   7 | 2017-05-16 |   66.0 |    39 |                 |
-|   8 | 2017-05-17 |   66.0 |    35 |                 |
-|   9 | 2017-05-18 |   66.0 |    31 |                 |
-|  10 | 2017-05-19 |   66.0 |    27 |                 |
-|  11 | 2017-05-20 |   66.0 |    23 |                 |
-|  12 | 2017-05-21 |   66.0 |    19 |                 |
-|  13 | 2017-05-22 |   66.0 |    16 |                 |
-|  14 | 2017-05-23 |   66.0 |    12 |                 |
-|  15 | 2017-05-24 |   66.0 |     8 |                 |
-|  16 | 2017-05-25 |        |     4 |                 |
-|  17 | 2017-05-26 |        |     0 |                 |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                                            |
+|-----+------------+--------+-------+----------------------------------------------------------------------------|
+|   1 | 2017-05-10 |   50.0 |    47 |                                                                            |
+|   2 | 2017-05-11 |   50.0 |    44 |                                                                            |
+|   3 | 2017-05-12 |   50.0 |    41 |                                                                            |
+|   4 | 2017-05-13 |   50.0 |    38 |                                                                            |
+|   5 | 2017-05-14 |   50.0 |    35 |                                                                            |
+|   6 | 2017-05-15 |   50.0 |    32 |                                                                            |
+|   7 | 2017-05-16 |   50.0 |    29 |                                                                            |
+|   8 | 2017-05-17 |   50.0 |    26 |                                                                            |
+|   9 | 2017-05-18 |   50.0 |    24 |                                                                            |
+|  10 | 2017-05-19 |   50.0 |    21 |                                                                            |
+|  11 | 2017-05-20 |   50.0 |    18 |                                                                            |
+|  12 | 2017-05-21 |   50.0 |    15 |                                                                            |
+|  13 | 2017-05-22 |   50.0 |    12 |                                                                            |
+|  14 | 2017-05-23 |   50.0 |     9 |                                                                            |
+|  15 | 2017-05-24 |   50.0 |     6 |                                                                            |
+|  16 | 2017-05-25 |   50.0 |     3 |                                                                            |
+|  17 | 2017-05-26 |   32.0 |     0 | EVENTS.1495633044 WRITING.1495096110 WRITING.1495095780 WRITING.1495095749 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                                                  | TASKID             | OWNER  | PRIORITY | TODO        | ESTIMATED | ACTUAL |
-|-------------------------------------------------------+--------------------+--------+----------+-------------+-----------+--------|
-| TASKS                                                 |                    |        | B        |             |      66.0 |        |
-|-------------------------------------------------------+--------------------+--------+----------+-------------+-----------+--------|
-| READING                                               |                    |        | B        |             |      32.0 |        |
-| Study of Linux kernel bug life-cycle                  | READING.1495095647 | mpduty | B        | IN_PROGRESS |      16.0 |        |
-| Study of kernel regression testing tools              | READING.1495095693 | mpduty | B        |             |      16.0 |        |
-|-------------------------------------------------------+--------------------+--------+----------+-------------+-----------+--------|
-| WRITING                                               |                    |        | B        |             |      24.0 |        |
-| Make flow diagram for audio fingerprinting            | WRITING.1495095749 | amey   | B        | IN_PROGRESS |       4.0 |        |
-| Defining and including parameters                     | WRITING.1495095780 | amey   | B        | IN_PROGRESS |       4.0 |        |
-| Review of flow diagram, parameters and proposal       | WRITING.1495095805 | amey   | B        |             |       4.0 |        |
-| Flow diagram from phases/modules                      | WRITING.1495095922 | amey   | B        |             |       4.0 |        |
-| Add parameters                                        | WRITING.1495096024 | amey   | B        |             |       4.0 |        |
-| Dry run and space-time complexity                     | WRITING.1495096110 | amey   | B        | IN_PROGRESS |       4.0 |        |
-|-------------------------------------------------------+--------------------+--------+----------+-------------+-----------+--------|
-| TESTING                                               |                    |        | B        |             |       4.0 |        |
-| Dry runs and basic time and space complexity analysis | TESTING.1495095842 | amey   | B        |             |       4.0 |        |
-|-------------------------------------------------------+--------------------+--------+----------+-------------+-----------+--------|
-| EVENTS                                                |                    |        | B        |             |       6.0 |        |
-| amey daily community bonding                          | EVENTS.1495633044  | amey   | B        |             |       6.0 |        |
+| ITEM                                                | TASKID             | OWNER  | PRIORITY | TODO        | ESTIMATED |             ACTUAL |
+|-----------------------------------------------------+--------------------+--------+----------+-------------+-----------+--------------------|
+| TASKS                                               |                    |        | B        |             |      50.0 |               23.9 |
+|-----------------------------------------------------+--------------------+--------+----------+-------------+-----------+--------------------|
+| READING                                             |                    |        | B        |             |      32.0 |                    |
+| Study of Linux kernel bug life-cycle                | READING.1495095647 | mpduty | B        | IN_PROGRESS |      16.0 |                    |
+| Study of kernel regression testing tools            | READING.1495095693 | mpduty | B        |             |      16.0 |                    |
+|-----------------------------------------------------+--------------------+--------+----------+-------------+-----------+--------------------|
+| WRITING                                             |                    |        | B        |             |      12.0 | 22.729999999999997 |
+| Make flow diagram for audio fingerprinting (Part I) | WRITING.1495095749 | amey   | B        | DONE        |       4.0 |              14.45 |
+| Defining and including parameters (Part I)          | WRITING.1495095780 | amey   | B        | DONE        |       4.0 |               7.11 |
+| Dry run and space-time complexity (Part I)          | WRITING.1495096110 | amey   | B        | DONE        |       4.0 |               1.17 |
+|-----------------------------------------------------+--------------------+--------+----------+-------------+-----------+--------------------|
+| EVENTS                                              |                    |        | B        |             |       6.0 |               1.17 |
+| amey daily community bonding (Part I)               | EVENTS.1495633044  | amey   | B        | DONE        |       6.0 |               1.17 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -139,15 +133,24 @@
     :END:
     Use and study of some kernel regression testing tools.
 ** WRITING
-*** IN_PROGRESS Make flow diagram for audio fingerprinting
+*** DONE Make flow diagram for audio fingerprinting (Part I)
+    CLOSED: [2017-05-26 Fri 21:00]
     :PROPERTIES:
     :ESTIMATED: 4.0
-    :ACTUAL:
+    :ACTUAL: 14.45
     :OWNER: amey
     :ID: WRITING.1495095749
     :TASKID: WRITING.1495095749
     :END:
     :LOGBOOK:
+    CLOCK: [2017-05-26 Fri 22:24]--[2017-05-26 Fri 23:08] =>  0:44
+    CLOCK: [2017-05-26 Fri 22:28]--[2017-05-26 Fri 22:34] =>  0:06
+    CLOCK: [2017-05-26 Fri 20:15]--[2017-05-26 Fri 21:00] =>  0:45
+    CLOCK: [2017-05-25 Thu 18:49]--[2017-05-25 Thu 19:49] =>  1:00
+    CLOCK: [2017-05-25 Thu 17:43]--[2017-05-25 Thu 18:16] =>  0:33
+    CLOCK: [2017-05-25 Thu 16:00]--[2017-05-25 Thu 17:00] =>  1:00
+    CLOCK: [2017-05-25 Thu 13:49]--[2017-05-25 Thu 14:49] =>  1:00
+
     CLOCK: [2017-05-20 Sat 17:44]--[2017-05-20 Sat 18:45] =>  1:01
     CLOCK: [2017-05-20 Sat 15:52]--[2017-05-20 Sat 15:57] =>  0:05
     CLOCK: [2017-05-20 Sat 14:09]--[2017-05-20 Mon 14:41] =>  0:32
@@ -159,52 +162,29 @@
     CLOCK: [2017-05-18 Thu 13:52]--[2017-05-18 Wed 15:54] =>  2:02
     CLOCK: [2017-05-17 Wed 21:00]--[2017-05-17 Wed 22:00] =>  1:00
     :END:
-*** IN_PROGRESS Defining and including parameters
+*** DONE Defining and including parameters (Part I)
+    CLOSED: [2017-05-26 Fri 21:00]
     :PROPERTIES:
     :ESTIMATED: 4.0
-    :ACTUAL:
+    :ACTUAL: 7.11
     :OWNER: amey
     :ID: WRITING.1495095780
     :TASKID: WRITING.1495095780
     :END:
     :LOGBOOK:
+    CLOCK: [2017-05-23 Tue 20:17]--[2017-05-23 Tue 23:02] =>  2:45
+    CLOCK: [2017-05-23 Tue 14:33]--[2017-05-23 Tue 15:11] =>  0:38
+    CLOCK: [2017-05-23 Tue 13:04]--[2017-05-23 Tue 14:01] =>  0:57
+
     CLOCK: [2017-05-22 Mon 09:25]--[2017-05-22 Mon 10:27] =>  1:02
     CLOCK: [2017-05-22 Mon 13:38]--[2017-05-22 Mon 14:13] =>  0:35
     CLOCK: [2017-05-22 Mon 14:27]--[2017-05-22 Mon 15:37] =>  1:10
     :END:
-*** Review of flow diagram, parameters and proposal
+*** DONE Dry run and space-time complexity (Part I)
+    CLOSED: [2017-05-26 Fri 21:00]
     :PROPERTIES:
     :ESTIMATED: 4.0
-    :ACTUAL:
-    :OWNER: amey
-    :ID: WRITING.1495095805
-    :TASKID: WRITING.1495095805
-    :END:
-*** Flow diagram from phases/modules
-    :PROPERTIES:
-    :ESTIMATED: 4.0
-    :ACTUAL:
-    :OWNER: amey
-    :ID: WRITING.1495095922
-    :TASKID: WRITING.1495095922
-    :END:
-    Flow diagram: A diagram representing processing of data from
-    various phases/modules like pre-processing, Fast fourier
-    transform, feature extraction etc.
-*** Add parameters
-    :PROPERTIES:
-    :ESTIMATED: 4.0
-    :ACTUAL:
-    :OWNER: amey
-    :ID: WRITING.1495096024
-    :TASKID: WRITING.1495096024
-    :END:
-    Parameters on which phases are going to depend. Like range of
-    operating frequency, sampling rate etc.
-*** IN_PROGRESS Dry run and space-time complexity
-    :PROPERTIES:
-    :ESTIMATED: 4.0
-    :ACTUAL:
+    :ACTUAL: 1.17
     :OWNER: amey
     :ID: WRITING.1495096110
     :TASKID: WRITING.1495096110
@@ -212,21 +192,16 @@
     :LOGBOOK:
     CLOCK: [2017-05-22 Mon 18:54]--[2017-05-22 Mon 20:06] =>  1:12
     :END:
-** TESTING
-*** Dry runs and basic time and space complexity analysis
-    :PROPERTIES:
-    :ESTIMATED: 4.0
-    :ACTUAL:
-    :OWNER: amey
-    :ID: TESTING.1495095842
-    :TASKID: TESTING.1495095842
-    :END:
 ** EVENTS
-*** amey daily community bonding
+*** DONE amey daily community bonding (Part I)
+    CLOSED: [2017-05-26 Fri 21:00]
     :PROPERTIES:
     :ESTIMATED: 6.0
-    :ACTUAL:
+    :ACTUAL: 1.17
     :OWNER: amey
     :ID: EVENTS.1495633044
     :TASKID: EVENTS.1495633044
+    :END:
+    :LOGBOOK:
+    CLOCK: [2017-05-23 Tue 10:00]--[2017-05-23 Tue 11:11] => 1:11
     :END:

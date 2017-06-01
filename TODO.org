@@ -58,3 +58,49 @@
 *** RPM packaging steps time measurement and improvement
 * WRITING
 ** Emacs a day keeps the vi-zing away Org reference card
+* Amey Jain
+*** Review of flow diagram, parameters and proposal
+    :PROPERTIES:
+    :ESTIMATED: 4.0
+    :ACTUAL:
+    :OWNER: amey
+    :ID: WRITING.1495095805
+    :TASKID: WRITING.1495095805
+    :END:
+*** Flow diagram from phases/modules
+    :PROPERTIES:
+    :ESTIMATED: 4.0
+    :ACTUAL:
+    :OWNER: amey
+    :ID: WRITING.1495095922
+    :TASKID: WRITING.1495095922
+    :END:
+    Flow diagram: A diagram representing processing of data from
+    various phases/modules like pre-processing, Fast fourier
+    transform, feature extraction etc.
+*** Add parameters
+    :PROPERTIES:
+    :ESTIMATED: 4.0
+    :ACTUAL:
+    :OWNER: amey
+    :ID: WRITING.1495096024
+    :TASKID: WRITING.1495096024
+    :END:
+    Parameters on which phases are going to depend. Like range of
+    operating frequency, sampling rate etc.
+
+*** Dry runs and basic time and space complexity analysis
+    :PROPERTIES:
+    :ESTIMATED: 4.0
+    :ACTUAL:
+    :OWNER: amey
+    :ID: TESTING.1495095842
+    :TASKID: TESTING.1495095842
+    :END:
+
+*** Make flow diagram for audio fingerprinting (Part II)
+*** Defining and including parameters (Part I)
+*** Dry run and space-time complexity (Part I)
+** TESTING
+** EVENTS
+*** amey daily community bonding (Part I)
