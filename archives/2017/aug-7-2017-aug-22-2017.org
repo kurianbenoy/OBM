@@ -1,0 +1,198 @@
+#+TITLE: August 7, 2017 - August 22, 2017
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
+|------+------+-------------+---------+------+----------|
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+| NAME     | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|----------+-----------+--------+------+-----------+--------------+------------|
+| Ikshitji |         0 |      0 |    0 |         0 |   2017-08-11 | ---------- |
+| Amey     |         0 |      0 |    0 |         0 |   2017-08-11 | ---------- |
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  80 ++--###################---+--------+--------+--------+-------+-------++   
+:     |   .....                                                             |   
+:  70 ++       ....                                          ACTUAL #######++   
+:     |            .....                                      IDEAL ....... |   
+:  60 ++                ...                                                ++   
+:     |                    .                                                |   
+:     |                     ....                                            |   
+:  50 ++                        .....                                      ++   
+:     |                              ....                                   |   
+:  40 ++                                 ....                              ++   
+:     |                                      .....                          |   
+:  30 ++                                          ....                     ++   
+:     |                                               .....                 |   
+:  20 ++                                                   ...             ++   
+:     |                                                       .             |   
+:     |                                                        ....         |   
+:  10 ++                                                           .....   ++   
+:     |                                                                 ....|   
+:   0 ++-------+--------+-------+--------+--------+--------+-------+-------+.   
+:     0        2        4       6        8        10       12      14       16  
+:                                                                               
+:
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:16]"
+#+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2017-08-07 |   80.0 |    75 |                 |
+|   2 | 2017-08-08 |   80.0 |    70 |                 |
+|   3 | 2017-08-09 |   80.0 |    65 |                 |
+|   4 | 2017-08-10 |   80.0 |    60 |                 |
+|   5 | 2017-08-11 |   80.0 |    55 |                 |
+|   6 | 2017-08-12 |        |    50 |                 |
+|   7 | 2017-08-13 |        |    45 |                 |
+|   8 | 2017-08-14 |        |    40 |                 |
+|   9 | 2017-08-15 |        |    35 |                 |
+|  10 | 2017-08-16 |        |    30 |                 |
+|  11 | 2017-08-17 |        |    25 |                 |
+|  12 | 2017-08-18 |        |    20 |                 |
+|  13 | 2017-08-19 |        |    15 |                 |
+|  14 | 2017-08-20 |        |    10 |                 |
+|  15 | 2017-08-21 |        |     5 |                 |
+|  16 | 2017-08-22 |        |     0 |                 |
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                                        | TASKID             | OWNER    | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|-------------------------------------------------------------+--------------------+----------+----------+------+-----------+--------|
+| TASKS                                                       |                    |          | B        |      |      80.0 |        |
+|-------------------------------------------------------------+--------------------+----------+----------+------+-----------+--------|
+| READING                                                     |                    |          | B        |      |      10.0 |        |
+| Locally sensitive hashing                                   | READING.1502388306 | amey     | B        |      |       2.0 |        |
+| Watch Grafana tutorials on creating dashboards              | WEB.1502389401     | ikshitij | B        |      |       8.0 |        |
+|-------------------------------------------------------------+--------------------+----------+----------+------+-----------+--------|
+| WRITING                                                     |                    |          | B        |      |      26.0 |        |
+| Implementing locally sensitive hashing                      | WRITING.1502388337 | amey     | B        |      |       4.0 |        |
+| Implementing structure to carry min-hash and timing details | WRITING.1502388357 | amey     | B        |      |       6.0 |        |
+| Joining files together                                      | WRITING.1502388372 | amey     | B        |      |       6.0 |        |
+| Debugging information to be added                           | WRITING.1502388385 | amey     | B        |      |       2.0 |        |
+| Tool B                                                      | WRITING.1502388395 | amey     | B        |      |       8.0 |        |
+|-------------------------------------------------------------+--------------------+----------+----------+------+-----------+--------|
+| TESTING                                                     |                    |          | B        |      |      12.0 |        |
+| Testing tool and implementation                             | TESTING.1502388425 | amey     | B        |      |      12.0 |        |
+|-------------------------------------------------------------+--------------------+----------+----------+------+-----------+--------|
+| Setup Grafana from source                                   | WEB.1502388953     | ikshitij | B        |      |       8.0 |        |
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 16
+  :SPRINTSTART: <2017-08-07 Mon>
+  :wpd-amey:      2.5
+  :wpd-ikshitji:  2.5
+  :END:
+** READING
+*** Locally sensitive hashing
+    :PROPERTIES:
+    :ESTIMATED: 2.0
+    :ACTUAL:
+    :OWNER: amey
+    :ID: READING.1502388306
+    :TASKID: READING.1502388306
+    :END:
+*** Watch Grafana tutorials on creating dashboards
+    :PROPERTIES:
+    :ESTIMATED: 8.0
+    :ACTUAL:
+    :OWNER: ikshitij
+    :ID: WEB.1502389401
+    :TASKID: WEB.1502389401
+    :END:
+** WRITING
+*** Implementing locally sensitive hashing
+    :PROPERTIES:
+    :ESTIMATED: 4.0
+    :ACTUAL:
+    :OWNER: amey
+    :ID: WRITING.1502388337
+    :TASKID: WRITING.1502388337
+    :END:
+*** Implementing structure to carry min-hash and timing details
+    :PROPERTIES:
+    :ESTIMATED: 6.0
+    :ACTUAL:
+    :OWNER: amey
+    :ID: WRITING.1502388357
+    :TASKID: WRITING.1502388357
+    :END:
+*** Joining files together
+    :PROPERTIES:
+    :ESTIMATED: 6.0
+    :ACTUAL:
+    :OWNER: amey
+    :ID: WRITING.1502388372
+    :TASKID: WRITING.1502388372
+    :END:
+*** Debugging information to be added
+    :PROPERTIES:
+    :ESTIMATED: 2.0
+    :ACTUAL:
+    :OWNER: amey
+    :ID: WRITING.1502388385
+    :TASKID: WRITING.1502388385
+    :END:
+*** Tool B
+    :PROPERTIES:
+    :ESTIMATED: 8.0
+    :ACTUAL:
+    :OWNER: amey
+    :ID: WRITING.1502388395
+    :TASKID: WRITING.1502388395
+    :END:
+** TESTING
+*** Testing tool and implementation
+    :PROPERTIES:
+    :ESTIMATED: 12.0
+    :ACTUAL:
+    :OWNER: amey
+    :ID: TESTING.1502388425
+    :TASKID: TESTING.1502388425
+    :END:
+** WEB 
+*** Setup Grafana from source code
+    :PROPERTIES:
+    :ESTIMATED: 8.0
+    :ACTUAL:
+    :OWNER: ikshitij
+    :ID: WEB.1502388953
+    :TASKID: WEB.1502388953
+    :END:
+*** Add MySQL database configuration
+    :PROPERTIES:
+    :ESTIMATED: 8.0
+    :ACTUAL:
+    :OWNER: ikshitij
+    :ID: WEB.1502389364
+    :TASKID: WEB.1502389364
+    :END:
+*** Load CSV data into MySQL
+    :PROPERTIES:
+    :ESTIMATED: 8.0
+    :ACTUAL:
+    :OWNER: ikshitij
+    :ID: WEB.1502389380
+    :TASKID: WEB.1502389380
+    :END:
+*** Create custom Grafana dashboard
+    :PROPERTIES:
+    :ESTIMATED: 8.0
+    :ACTUAL:
+    :OWNER: ikshitij
+    :ID: WEB.1502389411
+    :TASKID: WEB.1502389411
+    :END:
