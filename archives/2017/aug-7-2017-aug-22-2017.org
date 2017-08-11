@@ -104,7 +104,7 @@
   :SPRINTSTART: <2017-08-07 Mon>
   :wpd-amey:      2.5
   :wpd-ikshitji:  1.0
-  :wpd-jasonbraganza: 2.0
+  :wpd-jasonbraganza: 1.0
   :END:
 ** READING
 *** Locally sensitive hashing
