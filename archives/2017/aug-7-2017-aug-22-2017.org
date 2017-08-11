@@ -95,6 +95,7 @@
   :SPRINTSTART: <2017-08-07 Mon>
   :wpd-amey:      2.5
   :wpd-ikshitji:  2.5
+  :wpd-jasonbraganza: 2.0
   :END:
 ** READING
 *** Locally sensitive hashing
@@ -112,6 +113,23 @@
     :OWNER: ikshitij
     :ID: WEB.1502389401
     :TASKID: WEB.1502389401
+    :END:
+
+*** Watch videos on "Literate Programming"
+    :PROPERTIES:
+    :ESTIMATED: 3.0
+    :ACTUAL:
+    :OWNER: jasonbraganza
+    :ID: READING.1502439312
+    :TASKID: READING.1502439312
+    :END:
+*** Review Python Literate Programming tools
+    :PROPERTIES:
+    :ESTIMATED: 8.0
+    :ACTUAL:
+    :OWNER: jasonbraganza
+    :ID: READING.1502439349
+    :TASKID: READING.1502439349
     :END:
 ** WRITING
 *** Implementing locally sensitive hashing
@@ -154,6 +172,14 @@
     :ID: WRITING.1502388395
     :TASKID: WRITING.1502388395
     :END:
+*** Blog post on Literate Programming tools in Python
+    :PROPERTIES:
+    :ESTIMATED: 8.0
+    :ACTUAL:
+    :OWNER: jasonbraganza
+    :ID: WRITING.1502439417
+    :TASKID: WRITING.1502439417
+    :END:
 ** TESTING
 *** Testing tool and implementation
     :PROPERTIES:
@@ -162,6 +188,14 @@
     :OWNER: amey
     :ID: TESTING.1502388425
     :TASKID: TESTING.1502388425
+    :END:
+*** Experiment Python Literate Programming in a PYM chapter
+    :PROPERTIES:
+    :ESTIMATED: 8.0
+    :ACTUAL:
+    :OWNER: jasonbraganza
+    :ID: TESTING.1502439390
+    :TASKID: TESTING.1502439390
     :END:
 ** WEB 
 *** Setup Grafana from source code
