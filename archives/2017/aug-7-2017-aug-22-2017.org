@@ -6,96 +6,74 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
-|------+------+-------------+---------+------+----------|
+| TODO | NEXT | IN_PROGRESS                                        | WAITING | DONE                                                       | CANCELED |
+|------+------+----------------------------------------------------+---------+------------------------------------------------------------+----------|
+|      |      | READING.1502439312. Watch videos on "Literate Prog |         | READING.1502388306. Locally sensitive hashing (2017-08-14) |          |
+|      |      | WRITING.1502388337. Implementing locally sensitive |         |                                                            |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |---------------+-----------+--------+------+-----------+--------------+------------|
-| Jasonbraganza |         0 |      0 |    0 |         0 |   2017-08-11 | ---------- |
-| Ikshitji      |         0 |      0 |    0 |         0 |   2017-08-11 | ---------- |
-| Amey          |         0 |      0 |    0 |         0 |   2017-08-11 | ---------- |
+| Jasonbraganza |       3.0 |      0 |    0 |       3.0 |   2017-08-17 | ---------- |
+| Ikshitji      |         0 |      0 |    0 |         0 |   2017-08-14 | ---------- |
+| Amey          |       6.0 |    6.0 |  2.0 |       4.0 |   2017-08-16 | ###------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
-:                                                                               
-:                                    Burndown                                   
-:                                                                               
-:  120 ++-------+-------+--------+--------+-------+--------+-------+-------++   
-:      |                                                                    |   
-:      |   ###################                               ACTUAL ####### |   
-:  100 ++  .....                                              IDEAL .......++   
-:      |        ....                                                        |   
-:      |            ....                                                    |   
-:   80 ++               .....                                              ++   
-:      |                     ....                                           |   
-:      |                         ....                                       |   
-:   60 ++                            .....                                 ++   
-:      |                                  ....                              |   
-:      |                                      ....                          |   
-:   40 ++                                         ....                     ++   
-:      |                                              .....                 |   
-:      |                                                   ....             |   
-:   20 ++                                                      ....        ++   
-:      |                                                           .....    |   
-:      |                                                                ....|   
-:    0 ++-------+-------+--------+--------+-------+--------+-------+-------+.   
-:      0        2       4        6        8       10       12      14       16  
-:                                                                               
-:
+
 #+END:
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:16]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2017-08-07 |  107.0 |   100 |                 |
-|   2 | 2017-08-08 |  107.0 |    94 |                 |
-|   3 | 2017-08-09 |  107.0 |    87 |                 |
-|   4 | 2017-08-10 |  107.0 |    80 |                 |
-|   5 | 2017-08-11 |  107.0 |    74 |                 |
-|   6 | 2017-08-12 |        |    67 |                 |
-|   7 | 2017-08-13 |        |    60 |                 |
-|   8 | 2017-08-14 |        |    54 |                 |
-|   9 | 2017-08-15 |        |    47 |                 |
-|  10 | 2017-08-16 |        |    40 |                 |
-|  11 | 2017-08-17 |        |    33 |                 |
-|  12 | 2017-08-18 |        |    27 |                 |
-|  13 | 2017-08-19 |        |    20 |                 |
-|  14 | 2017-08-20 |        |    13 |                 |
-|  15 | 2017-08-21 |        |     7 |                 |
-|  16 | 2017-08-22 |        |     0 |                 |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED    |
+|-----+------------+--------+-------+--------------------|
+|   1 | 2017-08-07 |  107.0 |   100 |                    |
+|   2 | 2017-08-08 |  107.0 |    94 |                    |
+|   3 | 2017-08-09 |  107.0 |    87 |                    |
+|   4 | 2017-08-10 |  107.0 |    80 |                    |
+|   5 | 2017-08-11 |  107.0 |    74 |                    |
+|   6 | 2017-08-12 |  107.0 |    67 |                    |
+|   7 | 2017-08-13 |  107.0 |    60 |                    |
+|   8 | 2017-08-14 |  105.0 |    54 | READING.1502388306 |
+|   9 | 2017-08-15 |        |    47 |                    |
+|  10 | 2017-08-16 |        |    40 |                    |
+|  11 | 2017-08-17 |        |    33 |                    |
+|  12 | 2017-08-18 |        |    27 |                    |
+|  13 | 2017-08-19 |        |    20 |                    |
+|  14 | 2017-08-20 |        |    13 |                    |
+|  15 | 2017-08-21 |        |     7 |                    |
+|  16 | 2017-08-22 |        |     0 |                    |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                                                        | TASKID             | OWNER         | PRIORITY | TODO | ESTIMATED | ACTUAL |
-|-------------------------------------------------------------+--------------------+---------------+----------+------+-----------+--------|
-| TASKS                                                       |                    |               | B        |      |     107.0 |        |
-|-------------------------------------------------------------+--------------------+---------------+----------+------+-----------+--------|
-| READING                                                     |                    |               | B        |      |      21.0 |        |
-| Locally sensitive hashing                                   | READING.1502388306 | amey          | B        |      |       2.0 |        |
-| Watch Grafana tutorials on creating dashboards              | WEB.1502389401     | ikshitij      | B        |      |       8.0 |        |
-| Watch videos on "Literate Programming"                      | READING.1502439312 | jasonbraganza | B        |      |       3.0 |        |
-| Review Python Literate Programming tools                    | READING.1502439349 | jasonbraganza | B        |      |       8.0 |        |
-|-------------------------------------------------------------+--------------------+---------------+----------+------+-----------+--------|
-| WRITING                                                     |                    |               | B        |      |      34.0 |        |
-| Implementing locally sensitive hashing                      | WRITING.1502388337 | amey          | B        |      |       4.0 |        |
-| Implementing structure to carry min-hash and timing details | WRITING.1502388357 | amey          | B        |      |       6.0 |        |
-| Joining files together                                      | WRITING.1502388372 | amey          | B        |      |       6.0 |        |
-| Debugging information to be added                           | WRITING.1502388385 | amey          | B        |      |       2.0 |        |
-| Tool B                                                      | WRITING.1502388395 | amey          | B        |      |       8.0 |        |
-| Blog post on Literate Programming tools in Python           | WRITING.1502439417 | jasonbraganza | B        |      |       8.0 |        |
-|-------------------------------------------------------------+--------------------+---------------+----------+------+-----------+--------|
-| TESTING                                                     |                    |               | B        |      |      20.0 |        |
-| Testing tool and implementation                             | TESTING.1502388425 | amey          | B        |      |      12.0 |        |
-| Experiment Python Literate Programming in a PYM chapter     | TESTING.1502439390 | jasonbraganza | B        |      |       8.0 |        |
-|-------------------------------------------------------------+--------------------+---------------+----------+------+-----------+--------|
-| WEB                                                         |                    |               | B        |      |      32.0 |        |
-| Setup Grafana from source code                              | WEB.1502388953     | ikshitij      | B        |      |       8.0 |        |
-| Add MySQL database configuration                            | WEB.1502389364     | ikshitij      | B        |      |       8.0 |        |
-| Load CSV data into MySQL                                    | WEB.1502389380     | ikshitij      | B        |      |       8.0 |        |
-| Create custom Grafana dashboard                             | WEB.1502389411     | ikshitij      | B        |      |       8.0 |        |
+| ITEM                                                        | TASKID             | OWNER         | PRIORITY | TODO        | ESTIMATED | ACTUAL |
+|-------------------------------------------------------------+--------------------+---------------+----------+-------------+-----------+--------|
+| TASKS                                                       |                    |               | B        |             |     107.0 |    6.0 |
+|-------------------------------------------------------------+--------------------+---------------+----------+-------------+-----------+--------|
+| READING                                                     |                    |               | B        |             |      21.0 |    6.0 |
+| Locally sensitive hashing                                   | READING.1502388306 | amey          | B        | DONE        |       2.0 |    6.0 |
+| Watch Grafana tutorials on creating dashboards              | WEB.1502389401     | ikshitij      | B        |             |       8.0 |        |
+| Watch videos on "Literate Programming"                      | READING.1502439312 | jasonbraganza | B        | IN_PROGRESS |       3.0 |        |
+| Review Python Literate Programming tools                    | READING.1502439349 | jasonbraganza | B        |             |       8.0 |        |
+|-------------------------------------------------------------+--------------------+---------------+----------+-------------+-----------+--------|
+| WRITING                                                     |                    |               | B        |             |      34.0 |        |
+| Implementing locally sensitive hashing                      | WRITING.1502388337 | amey          | B        | IN_PROGRESS |       4.0 |        |
+| Implementing structure to carry min-hash and timing details | WRITING.1502388357 | amey          | B        |             |       6.0 |        |
+| Joining files together                                      | WRITING.1502388372 | amey          | B        |             |       6.0 |        |
+| Debugging information to be added                           | WRITING.1502388385 | amey          | B        |             |       2.0 |        |
+| Tool B                                                      | WRITING.1502388395 | amey          | B        |             |       8.0 |        |
+| Blog post on Literate Programming tools in Python           | WRITING.1502439417 | jasonbraganza | B        |             |       8.0 |        |
+|-------------------------------------------------------------+--------------------+---------------+----------+-------------+-----------+--------|
+| TESTING                                                     |                    |               | B        |             |      20.0 |        |
+| Testing tool and implementation                             | TESTING.1502388425 | amey          | B        |             |      12.0 |        |
+| Experiment Python Literate Programming in a PYM chapter     | TESTING.1502439390 | jasonbraganza | B        |             |       8.0 |        |
+|-------------------------------------------------------------+--------------------+---------------+----------+-------------+-----------+--------|
+| WEB                                                         |                    |               | B        |             |      32.0 |        |
+| Setup Grafana from source code                              | WEB.1502388953     | ikshitij      | B        |             |       8.0 |        |
+| Add MySQL database configuration                            | WEB.1502389364     | ikshitij      | B        |             |       8.0 |        |
+| Load CSV data into MySQL                                    | WEB.1502389380     | ikshitij      | B        |             |       8.0 |        |
+| Create custom Grafana dashboard                             | WEB.1502389411     | ikshitij      | B        |             |       8.0 |        |
 #+END:
 * TASKS
   :PROPERTIES:
