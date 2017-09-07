@@ -167,6 +167,16 @@
     :TASKID: WRITING.1502439417
     :END:
 
+* READING
+** Watch videos on "Literate Programming"
+    :PROPERTIES:
+    :ESTIMATED: 3.0
+    :ACTUAL:
+    :OWNER: jasonbraganza
+    :ID: READING.1502439312
+    :TASKID: READING.1502439312
+    :END:
+
 * Amey Jain
 *** Review of flow diagram, parameters and proposal
     :PROPERTIES:

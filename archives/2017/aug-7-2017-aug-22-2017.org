@@ -102,14 +102,6 @@
     CLOCK: [2017-08-10 Thu 10:55]--[2017-08-10 Thu 11:15] =>  0:20
     CLOCK: [2017-08-09 Wed 08:50]--[2017-08-09 Wed 09:30] =>  0:40
     CLOCK: [2017-08-08 Tue 11:35]--[2017-08-08 Tue 12:26] =>  0:51
-*** IN_PROGRESS Watch videos on "Literate Programming"
-    :PROPERTIES:
-    :ESTIMATED: 3.0
-    :ACTUAL:
-    :OWNER: jasonbraganza
-    :ID: READING.1502439312
-    :TASKID: READING.1502439312
-    :END:
 ** WRITING
 *** IN_PROGRESS Implementing locally sensitive hashing
     :PROPERTIES:
