@@ -134,14 +134,6 @@
     :ID: WRITING.1502388357
     :TASKID: WRITING.1502388357
     :END:
-** Joining files together
-    :PROPERTIES:
-    :ESTIMATED: 6.0
-    :ACTUAL:
-    :OWNER: amey
-    :ID: WRITING.1502388372
-    :TASKID: WRITING.1502388372
-    :END:
 ** Debugging information to be added
     :PROPERTIES:
     :ESTIMATED: 2.0
