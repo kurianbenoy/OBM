@@ -6,19 +6,75 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
+|------+------+-------------+---------+------+----------|
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME      | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|-----------+-----------+--------+------+-----------+--------------+------------|
+| Bhavin192 |         0 |      0 |    0 |         0 |   2017-09-26 | ---------- |
+| Ashwanig  |         0 |      0 |    0 |         0 |   2017-09-26 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  30 ++---##########################---------+---------+---------+--------++   
+:     |    .....                                                            |   
+:     |         ....                                         ACTUAL ####### |   
+:  25 ++            .                                         IDEAL .......++   
+:     |              .....                                                  |   
+:     |                   ....                                              |   
+:  20 ++                      .                                            ++   
+:     |                        .....                                        |   
+:     |                             .....                                   |   
+:  15 ++                                 .....                             ++   
+:     |                                       .....                         |   
+:     |                                            ....                     |   
+:  10 ++                                               .                   ++   
+:     |                                                 .....               |   
+:     |                                                      ....           |   
+:   5 ++                                                         .         ++   
+:     |                                                           .....     |   
+:     |                                                                .....|   
+:   0 ++--------+---------+---------+---------+---------+---------+--------+.   
+:     0         2         4         6         8         10        12        14  
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:14]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2017-09-21 |   30.0 |    28 |                 |
+|   2 | 2017-09-22 |   30.0 |    26 |                 |
+|   3 | 2017-09-23 |   30.0 |    24 |                 |
+|   4 | 2017-09-24 |   30.0 |    21 |                 |
+|   5 | 2017-09-25 |   30.0 |    19 |                 |
+|   6 | 2017-09-26 |   30.0 |    17 |                 |
+|   7 | 2017-09-27 |        |    15 |                 |
+|   8 | 2017-09-28 |        |    13 |                 |
+|   9 | 2017-09-29 |        |    11 |                 |
+|  10 | 2017-09-30 |        |     9 |                 |
+|  11 | 2017-10-01 |        |     6 |                 |
+|  12 | 2017-10-02 |        |     4 |                 |
+|  13 | 2017-10-03 |        |     2 |                 |
+|  14 | 2017-10-04 |        |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                          | TASKID           | OWNER     | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|-----------------------------------------------+------------------+-----------+----------+------+-----------+--------|
+| TASKS                                         |                  |           | B        |      |      30.0 |        |
+|-----------------------------------------------+------------------+-----------+----------+------+-----------+--------|
+| Review existing Python static site generators | read.1506395939  | ashwanig  | B        |      |      15.0 |        |
+|-----------------------------------------------+------------------+-----------+----------+------+-----------+--------|
+| Use cases for Python XML-RPC Wordpress plugin | write.1506395986 | ashwanig  | B        |      |       5.0 |        |
+|-----------------------------------------------+------------------+-----------+----------+------+-----------+--------|
+| Read on Kubernetes                            | READ.1506395842  | bhavin192 | B        |      |      10.0 |        |
 #+END:
 * TASKS
   :PROPERTIES:
