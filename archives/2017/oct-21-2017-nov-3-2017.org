@@ -29,6 +29,27 @@
   :wpd-bhavin192: 0.3
   :wpd-ashwanig: 5
   :END:
+** TODO Writing Problems Chapter 1, K-R
+   :PROPERTIES:
+   :ESTIMATED: 2
+   :ACTUAL: 
+   :OWNER: amey
+   :ID: WRITE.1
+   :TASKID: WRITE.1
+   :END:      
+   :LOGBOOK:
+   :END:
+** TODO Reading ISPs, backbones and peering (Norton2010,RFC 2901)
+   :PROPERTIES:
+   :ESTIMATED: 2
+   :ACTUAL:   
+   :OWNER: amey
+   :ID: READ.4
+   :TASKID: READ.4
+   :END:      
+   :LOGBOOK:
+   CLOCK: [2017-10-28 Sat 09:38]--[2017-10-28 Sat 09:39] =>  0:01
+   :END:      
 ** Watch Grafana screencasts [0/10]
    :PROPERTIES:
    :ESTIMATED: 10
@@ -63,15 +84,15 @@
    :OWNER: ashwanig
    :ID: DEV.1509163640
    :TASKID: DEV.1509163640
-   :END:
+   :END:      
 ** DONE Textbook KR Ch 1.1-1.8
    :CLOSED: [2017-10-25 Wed 23:40]
    :PROPERTIES:
    :ESTIMATED: 2
    :ACTUAL: 3.53
    :OWNER: amey
-   :ID:
-   :TASKID:
+   :ID: READ.1
+   :TASKID: READ.1
    :END:
    :LOGBOOK:
    CLOCK: [2017-10-25 Wed 22:46]--[2017-10-25 Wed 23:40] =>  0:54
@@ -86,45 +107,24 @@
    :ESTIMATED: 4
    :ACTUAL: 1.96
    :OWNER: amey
-   :ID:
-   :TASKID:
+   :ID: READ.2
+   :TASKID: READ.2
    :END:
    :LOGBOOK:
    CLOCK: [2017-10-26 Thu 12:29]--[2017-10-26 Thu 13:01] =>  0:32
    CLOCK: [2017-10-26 Thu 12:05]--[2017-10-26 Thu 12:28] =>  0:23
    CLOCK: [2017-10-26 Thu 10:45]--[2017-10-26 Thu 11:48] =>  1:03
-   :END:      
-** TODO Writing Problems Chapter 1, K-R
-   :PROPERTIES:
-   :ESTIMATED: 2
-   :ACTUAL: 
-   :OWNER: amey
-   :ID:
-   :TASKID:
-   :END:      
-   :LOGBOOK:
-   :END:
+   :END:        
 ** DONE Reading Design principles (Saltzer84)
    :CLOSED: [2017-10-27 Fri 15:48]
    :PROPERTIES:
    :ESTIMATED: 2
-   :ACTUAL: 1:07
+   :ACTUAL: 1.12
    :OWNER: amey
-   :ID:
-   :TASKID:
+   :ID: READ.3
+   :TASKID: READ.3
    :END:
    :LOGBOOK:
    CLOCK: [2017-10-27 Fri 14:41]--[2017-10-27 Fri 15:48] =>  1:07
-   :END:      
-** TODO Reading ISPs, backbones and peering (Norton2010,RFC 2901)
-   :PROPERTIES:
-   :ESTIMATED: 2
-   :ACTUAL:   
-   :OWNER: amey
-   :ID:
-   :TASKID:
-   :END:      
-   :LOGBOOK:
-   CLOCK: [2017-10-28 Sat 09:38]--[2017-10-28 Sat 09:39] =>  0:01
    :END:      
 
