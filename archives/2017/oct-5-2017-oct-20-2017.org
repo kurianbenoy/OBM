@@ -6,17 +6,17 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS                                 | WAITING | DONE | CANCELED |
-|------+------+---------------------------------------------+---------+------+----------|
-|      |      | READ.1508418323. Read on Kubernetes Part II |         |      |          |
-|      |      | READ.1508418128. Read on BDD                |         |      |          |
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                     | CANCELED |
+|------+------+-------------+---------+----------------------------------------------------------+----------|
+|      |      |             |         | READ.1508418323. Read on Kubernetes Part II (2017-10-20) |          |
+|      |      |             |         | READ.1508418128. Read on BDD (2017-10-20)                |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME      | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |-----------+-----------+--------+------+-----------+--------------+------------|
-| Bhavin192 |         5 |      0 |    0 |         5 |   2017-11-13 | ---------- |
-| Ashwanig  |       2.0 |      0 |    0 |       2.0 |   2017-10-20 | ---------- |
+| Bhavin192 |         5 |   4.17 |    5 |         0 |   2017-10-28 | ########## |
+| Ashwanig  |       2.0 |   5.52 |  2.0 |         0 |   2017-10-28 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -29,13 +29,13 @@
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                       | TASKID          | OWNER     | PRIORITY | TODO        | ESTIMATED | ACTUAL |
-|----------------------------+-----------------+-----------+----------+-------------+-----------+--------|
-| TASKS                      |                 |           | B        |             |       7.0 |        |
-|----------------------------+-----------------+-----------+----------+-------------+-----------+--------|
-| Read on Kubernetes Part II | READ.1508418323 | bhavin192 | B        | IN_PROGRESS |         5 |        |
-|----------------------------+-----------------+-----------+----------+-------------+-----------+--------|
-| Read on BDD                | READ.1508418128 | ashwanig  | B        | IN_PROGRESS |       2.0 |        |
+| ITEM                       | TASKID          | OWNER     | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|----------------------------+-----------------+-----------+----------+------+-----------+--------|
+| TASKS                      |                 |           | B        |      |       7.0 |   9.69 |
+|----------------------------+-----------------+-----------+----------+------+-----------+--------|
+| Read on Kubernetes Part II | READ.1508418323 | bhavin192 | B        | DONE |         5 |   4.17 |
+|----------------------------+-----------------+-----------+----------+------+-----------+--------|
+| Read on BDD                | READ.1508418128 | ashwanig  | B        | DONE |       2.0 |   5.52 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -45,15 +45,21 @@
   :wpd-ashwanig: 6
   :wpd-bhavin192: 0.3
   :END:
-** IN_PROGRESS Read on Kubernetes Part II
+** DONE Read on Kubernetes Part II
+   CLOSED: [2017-10-20 Fri 22:00]
    :PROPERTIES:
    :ESTIMATED: 5
-   :ACTUAL:
+   :ACTUAL:   4.17
    :OWNER: bhavin192
    :ID: READ.1508418323
    :TASKID: READ.1508418323
    :END:
    :LOGBOOK:
+   CLOCK: [2017-10-19 Thu 20:35]--[2017-10-19 Thu 21:04] =>  0:29
+   CLOCK: [2017-10-16 Mon 21:45]--[2017-10-16 Mon 22:10] =>  0:25
+   CLOCK: [2017-10-14 Sat 23:01]--[2017-10-14 Sat 23:23] =>  0:22
+   CLOCK: [2017-10-13 Fri 23:39]--[2017-10-14 Sat 00:03] =>  0:24
+   CLOCK: [2017-10-11 Wed 18:37]--[2017-10-11 Wed 18:51] =>  0:14
    CLOCK: [2017-10-10 Tue 19:25]--[2017-10-10 Tue 19:50] =>  0:25
    CLOCK: [2017-10-09 Mon 21:55]--[2017-10-09 Mon 22:27] =>  0:32
    CLOCK: [2017-10-08 Sun 21:56]--[2017-10-08 Sun 22:20] =>  0:24
@@ -61,14 +67,19 @@
    CLOCK: [2017-10-06 Fri 12:30]--[2017-10-06 Fri 12:45] =>  0:15
    CLOCK: [2017-10-05 Thu 15:55]--[2017-10-05 Thu 16:12] =>  0:17
    :END:
-** IN_PROGRESS Read on BDD
+** DONE Read on BDD
+   CLOSED: [2017-10-20 Fri 22:30]
    :PROPERTIES:
    :ESTIMATED: 2.0
-   :ACTUAL:
+   :ACTUAL:   5.52
    :OWNER: ashwanig
    :ID: READ.1508418128
    :TASKID: READ.1508418128
    :END:
    :LOGBOOK:
+   CLOCK: [2017-10-12 Thu 22:20]--[2017-10-12 Thu 23:17] =>  0:57
+   CLOCK: [2017-10-12 Thu 13:09]--[2017-10-12 Thu 13:48] =>  0:39
+   CLOCK: [2017-10-12 Thu 11:30]--[2017-10-12 Thu 12:41] =>  1:11   
+   CLOCK: [2017-10-08 Sun 14:00]--[2017-10-08 Sun 15:41] =>  1:41
    CLOCK:  [2017-10-07 Sat 11:00]--[2017-10-07 Sat 12:03] =>  1:03
    :END:
