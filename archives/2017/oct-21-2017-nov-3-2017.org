@@ -29,6 +29,16 @@
   :wpd-bhavin192: 0.3
   :wpd-ashwanig: 5
   :END:
+** TODO Problems Chapter 1, K-R
+   :PROPERTIES:
+   :ESTIMATED: 2
+   :ACTUAL: 
+   :OWNER: amey
+   :ID: WRITE.1508975131
+   :TASKID: WRITE.1508975131
+   :END:      
+   :LOGBOOK:
+   :END:
 ** Watch Grafana screencasts [0/10]
    :PROPERTIES:
    :ESTIMATED: 10
@@ -63,4 +73,76 @@
    :OWNER: ashwanig
    :ID: DEV.1509163640
    :TASKID: DEV.1509163640
+   :END:      
+** DONE ISPs, backbones and peering (Norton2010,RFC 2901)
+   CLOSED: [2017-10-31 Tue 10:51]
+   :PROPERTIES:
+   :ESTIMATED: 2
+   :ACTUAL: 4.63   
+   :OWNER: amey
+   :ID: READ.1509374607
+   :TASKID: READ.1509374607
+   :END:      
+   :LOGBOOK:
+   CLOCK: [2017-10-31 Tue 10:15]--[2017-10-31 Tue 10:50] =>  0:35
+   CLOCK: [2017-10-31 Tue 09:10]--[2017-10-31 Tue 09:42] =>  0:32
+   CLOCK: [2017-10-31 Tue 07:09]--[2017-10-31 Tue 08:50] =>  1:41
+   CLOCK: [2017-10-30 Mon 20:35]--[2017-10-30 Mon 21:27] =>  0:52
+   CLOCK: [2017-10-29 Sun 16:11]--[2017-10-29 Sun 17:08] =>  0:57
+   CLOCK: [2017-10-28 Sat 09:38]--[2017-10-28 Sat 09:39] =>  0:01
+   :END:      
+** DONE Lecture Design principles
+   CLOSED: [2017-10-29 Sun 09:53]
+   :PROPERTIES:
+   :ESTIMATED: 1.4
+   :ACTUAL: 1.23  
+   :OWNER: amey
+   :ID: READ.1509243782
+   :TASKID: READ.1509243782
    :END:
+   :LOGBOOK:
+   CLOCK: [2017-10-29 Sun 07:54]--[2017-10-29 Sun 09:08] =>  1:14
+   :END:
+** DONE Textbook KR Ch 1.1-1.8
+   :CLOSED: [2017-10-25 Wed 23:40]
+   :PROPERTIES:
+   :ESTIMATED: 2
+   :ACTUAL: 3.53
+   :OWNER: amey
+   :ID: READ.1508841660
+   :TASKID: READ.1508841660
+   :END:
+   :LOGBOOK:
+   CLOCK: [2017-10-25 Wed 22:46]--[2017-10-25 Wed 23:40] =>  0:54
+   CLOCK: [2017-10-25 Wed 19:46]--[2017-10-25 Wed 21:00] =>  1:14
+   CLOCK: [2017-10-25 Wed 15:05]--[2017-10-25 Wed 15:25] =>  0:20
+   CLOCK: [2017-10-25 Wed 14:25]--[2017-10-25 Wed 14:48] =>  0:23
+   CLOCK: [2017-10-25 Wed 08:26]--[2017-10-25 Wed 09:07] =>  0:41
+   :END:      
+** DONE Architecture Design philosophy of DARPA net: Clark88
+   :CLOSED:   [2017-10-26 Thu 13:01]
+   :PROPERTIES:
+   :ESTIMATED: 4
+   :ACTUAL: 1.96
+   :OWNER: amey
+   :ID: READ.1509014431
+   :TASKID: READ.1509014431
+   :END:
+   :LOGBOOK:
+   CLOCK: [2017-10-26 Thu 12:29]--[2017-10-26 Thu 13:01] =>  0:32
+   CLOCK: [2017-10-26 Thu 12:05]--[2017-10-26 Thu 12:28] =>  0:23
+   CLOCK: [2017-10-26 Thu 10:45]--[2017-10-26 Thu 11:48] =>  1:03
+   :END:        
+** DONE Reading Design principles (Saltzer84)
+   :CLOSED: [2017-10-27 Fri 15:48]
+   :PROPERTIES:
+   :ESTIMATED: 2
+   :ACTUAL: 1.12
+   :OWNER: amey
+   :ID: READ.1509014460
+   :TASKID: READ.1509014460
+   :END:
+   :LOGBOOK:
+   CLOCK: [2017-10-27 Fri 14:41]--[2017-10-27 Fri 15:48] =>  1:07
+   :END:      
+
