@@ -6,19 +6,99 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                          | CANCELED |
+|------+------+-------------+---------+---------------------------------------------------------------+----------|
+|      |      |             |         | WRITE.1509684801. Chapter 1 Wire shark exercises (2017-12-20) |          |
+|      |      |             |         | READ.1509163607. Watch Grafana screencasts (2017-11-03)       |          |
+|      |      |             |         | DEV.1509163640. Markdown to HTML conversion (2017-11-03)      |          |
+|      |      |             |         | READ.1509604651. Application layer -- HTTP (2017-11-02)       |          |
+|      |      |             |         | WRITE.1508975131. Problems Chapter 1, K-R (2017-11-02)        |          |
+|      |      |             |         | READ.1509374607. ISPs, backbones and peering (N (2017-10-31)  |          |
+|      |      |             |         | READ.1509243782. Lecture Design principles (2017-10-29)       |          |
+|      |      |             |         | READ.1509014460. Reading Design principles (Sal (2017-10-27)  |          |
+|      |      |             |         | READ.1509014431. Architecture Design philosophy (2017-10-26)  |          |
+|      |      |             |         | READ.1508841660. Textbook KR Ch 1.1-1.8 (2017-10-25)          |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME      | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|-----------+-----------+--------+------+-----------+--------------+------------|
+| Bhavin192 |        10 |   3.45 |   10 |         0 |   2017-12-20 | ########## |
+| Ashwanig  |         4 |    4.0 |    4 |         0 |   2017-12-20 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  30 +---------------------------------------------------------------------+   
+:     |                       #                                             |   
+:     |    .....               ####                          ACTUAL ####### |   
+:  25 |+        .....              #                          IDEAL .......+|   
+:     |              .....          #####                                   |   
+:     |                   ....           ##########                         |   
+:  20 |+                      .                    ##########              +|   
+:     |                        .....                         #########      |   
+:     |                             .....                             #     |   
+:  15 |+                                 .....                         #   +|   
+:     |                                       ....                      #   |   
+:     |                                           .                     #   |   
+:  10 |+                                           .....                 # +|   
+:     |                                                 .....             # |   
+:     |                                                      ....         # |   
+:   5 |+                                                         .         #|   
+:     |                                                           .....    #|   
+:     |                                                                .....|   
+:   0 +---------------------------------------------------------------------+   
+:     0         2         4         6         8         10        12        14  
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:14]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                  |
+|-----+------------+--------+-------+----------------------------------|
+|   1 | 2017-10-21 |   29.4 |    27 |                                  |
+|   2 | 2017-10-22 |   29.4 |    25 |                                  |
+|   3 | 2017-10-23 |   29.4 |    23 |                                  |
+|   4 | 2017-10-24 |   29.4 |    21 |                                  |
+|   5 | 2017-10-25 |   27.4 |    19 | READ.1508841660                  |
+|   6 | 2017-10-26 |   23.4 |    17 | READ.1509014431                  |
+|   7 | 2017-10-27 |   21.4 |    15 | READ.1509014460                  |
+|   8 | 2017-10-28 |   21.4 |    13 |                                  |
+|   9 | 2017-10-29 |   20.0 |    10 | READ.1509243782                  |
+|  10 | 2017-10-30 |   20.0 |     8 |                                  |
+|  11 | 2017-10-31 |   18.0 |     6 | READ.1509374607                  |
+|  12 | 2017-11-01 |   18.0 |     4 |                                  |
+|  13 | 2017-11-02 |   15.5 |     2 | WRITE.1508975131 READ.1509604651 |
+|  14 | 2017-11-03 |    1.5 |     0 | DEV.1509163640 READ.1509163607   |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                                 | TASKID           | OWNER     | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|------------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| TASKS                                                |                  |           | B        |      |      29.4 | 23.860000000000003 |
+|------------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| Chapter 1 Wire shark exercises                       | WRITE.1509684801 |           | B        | DONE |       1.5 |               1.05 |
+|------------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| Application layer -- HTTP                            | READ.1509604651  | amey      | B        | DONE |       0.5 |               0.52 |
+|------------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| Problems Chapter 1, K-R                              | WRITE.1508975131 | amey      | B        | DONE |         2 |               2.37 |
+|------------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| Watch Grafana screencasts                            | READ.1509163607  | bhavin192 | B        | DONE |        10 |               3.45 |
+|------------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| Markdown to HTML conversion                          | DEV.1509163640   | ashwanig  | B        | DONE |         4 |               4.00 |
+|------------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| ISPs, backbones and peering (Norton2010,RFC 2901)    | READ.1509374607  | amey      | B        | DONE |         2 |               4.63 |
+|------------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| Lecture Design principles                            | READ.1509243782  | amey      | B        | DONE |       1.4 |               1.23 |
+|------------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| Textbook KR Ch 1.1-1.8                               | READ.1508841660  | amey      | B        | DONE |         2 |               3.53 |
+|------------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| Architecture Design philosophy of DARPA net: Clark88 | READ.1509014431  | amey      | B        | DONE |         4 |               1.96 |
+|------------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| Reading Design principles (Saltzer84)                | READ.1509014460  | amey      | B        | DONE |         2 |               1.12 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -29,25 +109,59 @@
   :wpd-bhavin192: 0.3
   :wpd-ashwanig: 5
   :END:
-** TODO Problems Chapter 1, K-R
+** DONE Chapter 1 Wire shark exercises
+   CLOSED: [2017-12-20 Wed 10:36]
+   :PROPERTIES:
+   :ESTIMATED: 1.5
+   :ACTUAL:   1.05
+   :ID: WRITE.1509684801
+   :TASKID: WRITE.1509684801
+   :END:
+   :LOGBOOK:
+   CLOCK: [2017-11-03 Fri 10:58]--[2017-11-03 Fri 11:34] =>  0:36
+   CLOCK: [2017-11-03 Fri 10:28]--[2017-11-03 Fri 10:55] =>  0:27
+   :END:      
+** DONE Application layer -- HTTP
+   CLOSED: [2017-11-02 Thu 16:00]
+   :PROPERTIES:
+   :ESTIMATED: 0.5
+   :ACTUAL:   0.52
+   :OWNER: amey
+   :ID: READ.1509604651
+   :TASKID: READ.1509604651
+   :END:
+   :LOGBOOK:
+   CLOCK: [2017-11-02 Thu 14:47]--[2017-11-02 Thu 15:18] =>  0:31
+   :END:
+** DONE Problems Chapter 1, K-R
+   CLOSED: [2017-11-02 Thu 11:54]
    :PROPERTIES:
    :ESTIMATED: 2
-   :ACTUAL: 
+   :ACTUAL:   2.37
    :OWNER: amey
    :ID: WRITE.1508975131
    :TASKID: WRITE.1508975131
    :END:      
    :LOGBOOK:
+   CLOCK: [2017-11-02 Thu 11:40]--[2017-11-02 Thu 11:54] =>  0:14
+   CLOCK: [2017-11-02 Thu 10:26]--[2017-11-02 Thu 10:52] =>  0:26
+   CLOCK: [2017-11-02 Thu 07:58]--[2017-11-02 Thu 08:54] =>  0:56
+   CLOCK: [2017-11-01 Wed 21:02]--[2017-11-01 Wed 21:06] =>  0:04
+   CLOCK: [2017-11-01 Wed 20:11]--[2017-11-01 Wed 20:53] =>  0:42
    :END:
-** Watch Grafana screencasts [0/10]
+** DONE Watch Grafana screencasts [8/8]
+   CLOSED: [2017-11-03 Fri 12:30]
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:
+   :ACTUAL:   3.45
    :OWNER: bhavin192
    :ID: READ.1509163607
    :TASKID: READ.1509163607
    :END:
    :LOGBOOK:
+   CLOCK: [2017-10-30 Mon 22:35]--[2017-10-30 Mon 23:23] =>  0:48
+   CLOCK: [2017-10-29 Sun 23:50]--[2017-10-30 Mon 00:06] =>  0:16
+   CLOCK: [2017-10-27 Fri 19:37]--[2017-10-27 Fri 19:55] =>  0:18
    CLOCK: [2017-10-26 Thu 22:47]--[2017-10-26 Thu 23:10] =>  0:23
    CLOCK: [2017-10-25 Wed 23:54]--[2017-10-26 Thu 00:16] =>  0:22
    CLOCK: [2017-10-24 Tue 21:35]--[2017-10-24 Tue 21:45] =>  0:10
@@ -55,25 +169,28 @@
    CLOCK: [2017-10-23 Mon 18:58]--[2017-10-23 Mon 19:55] =>  0:57
    :END:
 
-   - [ ] Episode  1
-   - [ ] Episode  2
-   - [ ] Episode  3
-   - [ ] Episode  4
-   - [ ] Episode  5
-   - [ ] Episode  6
-   - [ ] Episode  7
-   - [ ] Episode  8
-   - [ ] Episode  9
-   - [ ] Episode 10
+   - [X] Episode  1
+   - [X] Episode  2
+   - [X] Episode  3
+   - [X] Episode  4
+   - [X] Episode  5
+   - [X] Episode  6
+   - [X] Episode  7
+   - [X] Episode  8
 
-** Markdown to HTML conversion
+** DONE Markdown to HTML conversion
+   CLOSED: [2017-11-03 Fri 11:28]
    :PROPERTIES:
    :ESTIMATED: 4
-   :ACTUAL:
+   :ACTUAL:   4.00
    :OWNER: ashwanig
    :ID: DEV.1509163640
    :TASKID: DEV.1509163640
    :END:      
+   :LOGBOOK:
+   CLOCK: [2017-10-21 Sat 20:00]--[2017-10-21 Sat 22:00] =>  2:00
+   CLOCK: [2017-10-21 Sat 14:00]--[2017-10-21 Sat 16:00] =>  2:00
+   :END:
 ** DONE ISPs, backbones and peering (Norton2010,RFC 2901)
    CLOSED: [2017-10-31 Tue 10:51]
    :PROPERTIES:
@@ -104,7 +221,7 @@
    CLOCK: [2017-10-29 Sun 07:54]--[2017-10-29 Sun 09:08] =>  1:14
    :END:
 ** DONE Textbook KR Ch 1.1-1.8
-   :CLOSED: [2017-10-25 Wed 23:40]
+   CLOSED: [2017-10-25 Wed 23:40]
    :PROPERTIES:
    :ESTIMATED: 2
    :ACTUAL: 3.53
@@ -120,7 +237,7 @@
    CLOCK: [2017-10-25 Wed 08:26]--[2017-10-25 Wed 09:07] =>  0:41
    :END:      
 ** DONE Architecture Design philosophy of DARPA net: Clark88
-   :CLOSED:   [2017-10-26 Thu 13:01]
+   CLOSED:   [2017-10-26 Thu 13:01]
    :PROPERTIES:
    :ESTIMATED: 4
    :ACTUAL: 1.96
@@ -134,7 +251,7 @@
    CLOCK: [2017-10-26 Thu 10:45]--[2017-10-26 Thu 11:48] =>  1:03
    :END:        
 ** DONE Reading Design principles (Saltzer84)
-   :CLOSED: [2017-10-27 Fri 15:48]
+   CLOSED: [2017-10-27 Fri 15:48]
    :PROPERTIES:
    :ESTIMATED: 2
    :ACTUAL: 1.12
