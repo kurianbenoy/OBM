@@ -1,0 +1,125 @@
+#+TITLE: January 18, 2018 - January 30, 2018
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
+|------+------+-------------+---------+------+----------|
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+| NAME      | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|-----------+-----------+--------+------+-----------+--------------+------------|
+| Sandeepk  |         0 |      0 |    0 |         0 |   2018-01-19 | ---------- |
+| Bhavin192 |         0 |      0 |    0 |         0 |   2018-01-19 | ---------- |
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  25 +---------------------------------------------------------------------+   
+:     |    #######                                                          |   
+:     |    .....                                             ACTUAL ####### |   
+:     |         .                                             IDEAL ....... |   
+:  20 |+         .....                                                     +|   
+:     |               ......                                                |   
+:     |                     .....                                           |   
+:  15 |+                         ....                                      +|   
+:     |                              .                                      |   
+:     |                               ......                                |   
+:     |                                     ....                            |   
+:  10 |+                                        .                          +|   
+:     |                                          .....                      |   
+:     |                                               ......                |   
+:   5 |+                                                    .....          +|   
+:     |                                                          .....      |   
+:     |                                                               .     |   
+:     |                                                                .....|   
+:   0 +---------------------------------------------------------------------+   
+:     0          2          4         6          8          10         12       
+:                                                                               
+:
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:13]"
+#+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2018-01-18 |   24.0 |    22 |                 |
+|   2 | 2018-01-19 |   24.0 |    20 |                 |
+|   3 | 2018-01-20 |        |    18 |                 |
+|   4 | 2018-01-21 |        |    17 |                 |
+|   5 | 2018-01-22 |        |    15 |                 |
+|   6 | 2018-01-23 |        |    13 |                 |
+|   7 | 2018-01-24 |        |    11 |                 |
+|   8 | 2018-01-25 |        |     9 |                 |
+|   9 | 2018-01-26 |        |     7 |                 |
+|  10 | 2018-01-27 |        |     6 |                 |
+|  11 | 2018-01-28 |        |     4 |                 |
+|  12 | 2018-01-29 |        |     2 |                 |
+|  13 | 2018-01-30 |        |     0 |                 |
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                         | TASKID          | OWNER     | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|----------------------------------------------+-----------------+-----------+----------+------+-----------+--------|
+| TASKS                                        |                 |           | B        |      |      24.0 |        |
+|----------------------------------------------+-----------------+-----------+----------+------+-----------+--------|
+| Docker Course DO180                          | READ.1516343810 | bhavin192 | B        |      |       8.0 |        |
+|----------------------------------------------+-----------------+-----------+----------+------+-----------+--------|
+| You Don't Know JavaScript - Up & Going       | READ.1516344108 | sandeepK  | B        |      |       5.0 |        |
+|----------------------------------------------+-----------------+-----------+----------+------+-----------+--------|
+| You Don't Know JavaScript - Scope & Closures | READ.1516344152 | sandeepK  | B        |      |      11.0 |        |
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 13
+  :SPRINTSTART: <2018-01-18 Thu>
+  :wpd-bhavin192: 1
+  :wpd-sandeepK: 1
+  :END:
+** Docker Course DO180 [0/8]
+   :PROPERTIES:
+   :ESTIMATED: 8.0
+   :ACTUAL:
+   :OWNER: bhavin192
+   :ID: READ.1516343810
+   :TASKID: READ.1516343810
+   :END:
+   - [ ] 1. Get started with container technology (45 minutes)
+   - [ ] 2. Create containerized services (45 minutes)
+   - [ ] 3. Manage containers (90 minutes)
+   - [ ] 4. Manage container images (50 minutes)
+   - [ ] 5. Create custom container images (60 minutes)
+   - [ ] 6. Deploy containerized applications on OpenShift (50 minutes)
+   - [ ] 7. Deploy multi-container applications (90 minutes)
+   - [ ] 8. Troubleshoot containerized applications (45 minutes)
+** You Don't Know JavaScript - Up & Going [0/3]
+   :PROPERTIES:
+   :ESTIMATED: 5.0
+   :ACTUAL:
+   :OWNER: sandeepK
+   :ID: READ.1516344108
+   :TASKID: READ.1516344108
+   :END:
+   - [ ] Chapter 1: Into Programming
+   - [ ] Chapter 2: Into JavaScript
+   - [ ] Chapter 3: Into YDKJS
+** You Don't Know JavaScript - Scope & Closures [0/5]
+   :PROPERTIES:
+   :ESTIMATED: 11.0
+   :ACTUAL:
+   :OWNER: sandeepK
+   :ID: READ.1516344152
+   :TASKID: READ.1516344152
+   :END:
+   - [ ] Chapter 1: What is Scope?
+   - [ ] Chapter 2: Lexical Scope
+   - [ ] Chapter 3: Function vs. Block Scope
+   - [ ] Chapter 4: Hoisting
+   - [ ] Chapter 5: Scope Closures
