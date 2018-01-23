@@ -6,15 +6,17 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
-|------+------+-------------+---------+------+----------|
+| TODO | NEXT | IN_PROGRESS                                     | WAITING | DONE | CANCELED |
+|------+------+-------------------------------------------------+---------+------+----------|
+|      |      | READ.1516343810. Docker Course DO180            |         |      |          |
+|      |      | READ.1516344108. You Don't Know JavaScript - Up |         |      |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME      | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |-----------+-----------+--------+------+-----------+--------------+------------|
-| Sandeepk  |         0 |      0 |    0 |         0 |   2018-01-19 | ---------- |
-| Bhavin192 |         0 |      0 |    0 |         0 |   2018-01-19 | ---------- |
+| Sandeepk  |       5.0 |   4.33 |    0 |       5.0 |   2018-01-30 | ---------- |
+| Bhavin192 |       8.0 |   3.13 |    0 |       8.0 |   2018-02-02 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -22,7 +24,7 @@
 :                                    Burndown                                   
 :                                                                               
 :  25 +---------------------------------------------------------------------+   
-:     |    #######                                                          |   
+:     |    ############################                                     |   
 :     |    .....                                             ACTUAL ####### |   
 :     |         .                                             IDEAL ....... |   
 :  20 |+         .....                                                     +|   
@@ -51,10 +53,10 @@
 |-----+------------+--------+-------+-----------------|
 |   1 | 2018-01-18 |   24.0 |    22 |                 |
 |   2 | 2018-01-19 |   24.0 |    20 |                 |
-|   3 | 2018-01-20 |        |    18 |                 |
-|   4 | 2018-01-21 |        |    17 |                 |
-|   5 | 2018-01-22 |        |    15 |                 |
-|   6 | 2018-01-23 |        |    13 |                 |
+|   3 | 2018-01-20 |   24.0 |    18 |                 |
+|   4 | 2018-01-21 |   24.0 |    17 |                 |
+|   5 | 2018-01-22 |   24.0 |    15 |                 |
+|   6 | 2018-01-23 |   24.0 |    13 |                 |
 |   7 | 2018-01-24 |        |    11 |                 |
 |   8 | 2018-01-25 |        |     9 |                 |
 |   9 | 2018-01-26 |        |     7 |                 |
@@ -65,15 +67,15 @@
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                                         | TASKID          | OWNER     | PRIORITY | TODO | ESTIMATED | ACTUAL |
-|----------------------------------------------+-----------------+-----------+----------+------+-----------+--------|
-| TASKS                                        |                 |           | B        |      |      24.0 |        |
-|----------------------------------------------+-----------------+-----------+----------+------+-----------+--------|
-| Docker Course DO180                          | READ.1516343810 | bhavin192 | B        |      |       8.0 |        |
-|----------------------------------------------+-----------------+-----------+----------+------+-----------+--------|
-| You Don't Know JavaScript - Up & Going       | READ.1516344108 | sandeepK  | B        |      |       5.0 |        |
-|----------------------------------------------+-----------------+-----------+----------+------+-----------+--------|
-| You Don't Know JavaScript - Scope & Closures | READ.1516344152 | sandeepK  | B        |      |      11.0 |        |
+| ITEM                                         | TASKID          | OWNER     | PRIORITY | TODO        | ESTIMATED | ACTUAL |
+|----------------------------------------------+-----------------+-----------+----------+-------------+-----------+--------|
+| TASKS                                        |                 |           | B        |             |      24.0 |   7.46 |
+|----------------------------------------------+-----------------+-----------+----------+-------------+-----------+--------|
+| Docker Course DO180                          | READ.1516343810 | bhavin192 | B        | IN_PROGRESS |       8.0 |   3.13 |
+|----------------------------------------------+-----------------+-----------+----------+-------------+-----------+--------|
+| You Don't Know JavaScript - Up & Going       | READ.1516344108 | sandeepK  | B        | IN_PROGRESS |       5.0 |   4.33 |
+|----------------------------------------------+-----------------+-----------+----------+-------------+-----------+--------|
+| You Don't Know JavaScript - Scope & Closures | READ.1516344152 | sandeepK  | B        |             |      11.0 |        |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -83,32 +85,45 @@
   :wpd-bhavin192: 1
   :wpd-sandeepK: 1
   :END:
-** Docker Course DO180 [0/8]
+** IN_PROGRESS Docker Course DO180 [3/8]
    :PROPERTIES:
    :ESTIMATED: 8.0
-   :ACTUAL:
+   :ACTUAL:   3.13
    :OWNER: bhavin192
    :ID: READ.1516343810
    :TASKID: READ.1516343810
    :END:
-   - [ ] 1. Get started with container technology (45 minutes)
-   - [ ] 2. Create containerized services (45 minutes)
-   - [ ] 3. Manage containers (90 minutes)
+   :LOGBOOK:
+   CLOCK: [2018-01-22 Mon 21:25]--[2018-01-22 Mon 21:49] =>  0:24
+   CLOCK: [2018-01-22 Mon 19:35]--[2018-01-22 Mon 20:35] =>  1:00
+   CLOCK: [2018-01-19 Fri 20:52]--[2018-01-19 Fri 21:25] =>  0:33
+   CLOCK: [2018-01-18 Thu 19:15]--[2018-01-18 Thu 19:51] =>  0:36
+   CLOCK: [2018-01-18 Thu 18:38]--[2018-01-18 Thu 19:13] =>  0:35
+   :END:
+   - [X] 1. Get started with container technology (45 minutes)
+   - [X] 2. Create containerized services (45 minutes)
+   - [X] 3. Manage containers (90 minutes)
    - [ ] 4. Manage container images (50 minutes)
    - [ ] 5. Create custom container images (60 minutes)
    - [ ] 6. Deploy containerized applications on OpenShift (50 minutes)
    - [ ] 7. Deploy multi-container applications (90 minutes)
    - [ ] 8. Troubleshoot containerized applications (45 minutes)
-** You Don't Know JavaScript - Up & Going [0/3]
+** IN_PROGRESS You Don't Know JavaScript - Up & Going [2/3]
    :PROPERTIES:
    :ESTIMATED: 5.0
-   :ACTUAL:
+   :ACTUAL:   4.33
    :OWNER: sandeepK
    :ID: READ.1516344108
    :TASKID: READ.1516344108
    :END:
-   - [ ] Chapter 1: Into Programming
-   - [ ] Chapter 2: Into JavaScript
+   :LOGBOOK:
+   CLOCK: [2018-01-21 Sun 04:00]--[2018-01-21 Sun 05:30] =>  1:30
+   CLOCK: [2018-01-20 Sat 23:40]--[2018-01-21 Sun 00:30] =>  0:50
+   CLOCK: [2018-01-19 Fri 23:31]--[2018-01-20 Sat 00:31] =>  1:00
+   CLOCK: [2018-01-18 Thu 23:32]--[2018-01-19 Fri 00:32] =>  1:00
+   :END:
+   - [X] Chapter 1: Into Programming
+   - [X] Chapter 2: Into JavaScript
    - [ ] Chapter 3: Into YDKJS
 ** You Don't Know JavaScript - Scope & Closures [0/5]
    :PROPERTIES:
