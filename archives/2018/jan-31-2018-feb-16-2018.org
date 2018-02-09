@@ -6,17 +6,17 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS                                     | WAITING | DONE | CANCELED |
-|------+------+-------------------------------------------------+---------+------+----------|
-|      |      | READ.1517824350. Course DO276                   |         |      |          |
-|      |      | READ.1517381689. You Don't Know JavaScript - Sc |         |      |          |
+| TODO | NEXT | IN_PROGRESS                                     | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------------------------------------------+---------+--------------------------------------------------------------+----------|
+|      |      | READ.1517824350. Course DO276                   |         | READ.1517381689. You Don't Know JavaScript - Sc (2018-02-09) |          |
+|      |      | READ.1517824537. You Don't Know JavaScript - th |         |                                                              |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME      | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |-----------+-----------+--------+------+-----------+--------------+------------|
-| Sandeepk  |       7.0 |      0 |    0 |       7.0 |   2018-02-14 | ---------- |
-| Bhavin192 |      14.5 |   2.98 |    0 |      14.5 |   2018-02-26 | ---------- |
+| Sandeepk  |      19.0 |   4.17 |  7.0 |      12.0 |   2018-02-27 | ####------ |
+| Bhavin192 |      14.5 |   8.12 |    0 |      14.5 |   2018-03-02 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -24,10 +24,10 @@
 :                                    Burndown                                   
 :                                                                               
 :  35 +---------------------------------------------------------------------+   
-:     |   ######################                                            |   
-:     |   ....                                               ACTUAL ####### |   
+:     |   ###################################                               |   
+:     |   ....                               ##              ACTUAL ####### |   
 :  30 |+      ....                                            IDEAL .......+|   
-:     |           ....                                                      |   
+:     |           ....                         #                            |   
 :  25 |+              .....                                                +|   
 :     |                    ....                                             |   
 :     |                        ....                                         |   
@@ -57,10 +57,10 @@
 |   4 | 2018-02-03 |   33.5 |    26 |                 |
 |   5 | 2018-02-04 |   33.5 |    24 |                 |
 |   6 | 2018-02-05 |   33.5 |    22 |                 |
-|   7 | 2018-02-06 |        |    20 |                 |
-|   8 | 2018-02-07 |        |    18 |                 |
-|   9 | 2018-02-08 |        |    16 |                 |
-|  10 | 2018-02-09 |        |    14 |                 |
+|   7 | 2018-02-06 |   33.5 |    20 |                 |
+|   8 | 2018-02-07 |   33.5 |    18 |                 |
+|   9 | 2018-02-08 |   33.5 |    16 |                 |
+|  10 | 2018-02-09 |   26.5 |    14 | READ.1517381689 |
 |  11 | 2018-02-10 |        |    12 |                 |
 |  12 | 2018-02-11 |        |    10 |                 |
 |  13 | 2018-02-12 |        |     8 |                 |
@@ -73,13 +73,13 @@
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                                          | TASKID          | OWNER     | PRIORITY | TODO        | ESTIMATED | ACTUAL |
 |---------------------------------------------------------------+-----------------+-----------+----------+-------------+-----------+--------|
-| TASKS                                                         |                 |           | B        |             |      33.5 |   2.98 |
+| TASKS                                                         |                 |           | B        |             |      33.5 |  12.29 |
 |---------------------------------------------------------------+-----------------+-----------+----------+-------------+-----------+--------|
-| Course DO276                                                  | READ.1517824350 | bhavin192 | B        | IN_PROGRESS |      14.5 |   2.98 |
+| Course DO276                                                  | READ.1517824350 | bhavin192 | B        | IN_PROGRESS |      14.5 |   8.12 |
 |---------------------------------------------------------------+-----------------+-----------+----------+-------------+-----------+--------|
-| You Don't Know JavaScript - Scope & Closures Part II          | READ.1517381689 | sandeepK  | B        | IN_PROGRESS |       7.0 |        |
+| You Don't Know JavaScript - this & Object Prototypes Part III | READ.1517824537 | sandeepK  | B        | IN_PROGRESS |      12.0 |   0.67 |
 |---------------------------------------------------------------+-----------------+-----------+----------+-------------+-----------+--------|
-| You Don't Know JavaScript - this & Object Prototypes Part III | READ.1517824537 | sandeepK  | B        |             |      12.0 |        |
+| You Don't Know JavaScript - Scope & Closures Part II          | READ.1517381689 | sandeepK  | B        | DONE        |       7.0 |   3.50 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -89,52 +89,63 @@
   :wpd-bhavin192: 1
   :wpd-sandeepK: 1
   :END:
-** IN_PROGRESS Course DO276 [2/9]
+** IN_PROGRESS Course DO276 [4/9]
    :PROPERTIES:
    :ESTIMATED: 14.5
-   :ACTUAL:   2.98
+   :ACTUAL:   8.12
    :OWNER: bhavin192
    :ID: READ.1517824350
    :TASKID: READ.1517824350
    :END:
    :LOGBOOK:
+   CLOCK: [2018-02-08 Thu 19:40]--[2018-02-08 Thu 20:10] =>  0:30
+   CLOCK: [2018-02-07 Wed 19:45]--[2018-02-07 Wed 21:15] =>  1:30
+   CLOCK: [2018-02-06 Tue 21:55]--[2018-02-06 Tue 22:38] =>  0:43
+   CLOCK: [2018-02-05 Mon 19:25]--[2018-02-05 Mon 20:25] =>  1:00
+   CLOCK: [2018-02-04 Sun 15:25]--[2018-02-04 Sun 16:50] =>  1:25
    CLOCK: [2018-02-03 Sat 13:31]--[2018-02-03 Sat 14:38] =>  1:07
    CLOCK: [2018-02-02 Fri 19:55]--[2018-02-02 Fri 20:41] =>  0:46
    CLOCK: [2018-02-01 Thu 19:39]--[2018-02-01 Thu 20:45] =>  1:06
    :END:
    - [X] Chapter 1
    - [X] Chapter 2
-   - [ ] Chapter 3
-   - [ ] Chapter 4
+   - [X] Chapter 3
+   - [X] Chapter 4
    - [ ] Chapter 5
    - [ ] Chapter 6
    - [ ] Chapter 7
    - [ ] Chapter 8
    - [ ] Chapter 9
-** IN_PROGRESS You Don't Know JavaScript - Scope & Closures Part II [1/3]
+** IN_PROGRESS You Don't Know JavaScript - this & Object Prototypes Part III [1/4]
+   :PROPERTIES:
+   :ESTIMATED: 12.0
+   :ACTUAL:   0.67
+   :OWNER: sandeepK
+   :ID: READ.1517824537
+   :TASKID: READ.1517824537
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-02-05 Mon 23:00]--[2018-02-05 Mon 23:40] =>  0:40
+   :END:
+   - [X] Chapter 1: this Or That?
+   - [ ] Chapter 2: this All Makes Sense Now!
+   - [ ] Chapter 3: Objects
+   - [ ] Chapter 4: Mixing (Up) "Class" Objects
+** DONE You Don't Know JavaScript - Scope & Closures Part II [3/3]
+   CLOSED: [2018-02-09 Fri 14:47]
    :PROPERTIES:
    :ESTIMATED: 7.0
-   :ACTUAL:
+   :ACTUAL:   3.50
    :OWNER: sandeepK
    :ID: READ.1517381689
    :TASKID: READ.1517381689
    :END:
    :LOGBOOK:
+   CLOCK: [2018-02-04 Sun 17:10]--[2018-02-04 Sun 18:00] =>  0:50
+   CLOCK: [2018-02-02 Fri 23:00]--[2018-02-02 Fri 23:50] =>  0:50
    CLOCK: [2018-01-31 Wed 23:00]--[2018-01-31 Wed 23:50] =>  0:50
    CLOCK: [2018-02-01 Thu 23:00]--[2018-02-02 Fri 00:00] =>  1:00
    :END:
    - [X] Chapter 3: Function vs. Block Scope
-   - [ ] Chapter 4: Hoisting
-   - [ ] Chapter 5: Scope Closures
-** You Don't Know JavaScript - this & Object Prototypes Part III [/]
-   :PROPERTIES:
-   :ESTIMATED: 12.0
-   :ACTUAL:
-   :OWNER: sandeepK
-   :ID: READ.1517824537
-   :TASKID: READ.1517824537
-   :END:
-   - [ ] Chapter 1: this Or That?
-   - [ ] Chapter 2: this All Makes Sense Now!
-   - [ ] Chapter 3: Objects
-   - [ ] Chapter 4: Mixing (Up) "Class" Objects
+   - [X] Chapter 4: Hoisting
+   - [X] Chapter 5: Scope Closures
