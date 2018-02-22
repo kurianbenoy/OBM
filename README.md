@@ -50,6 +50,8 @@ Upcoming Sprints
 * June  15, 2018 - June  27, 2018
 * June  28, 2018 - July  13, 2018
 
---
-Shakthi Kannan
+Contact
+=======
+
+Shakthi Kannan ("mbuf")
 author AT shakthimaan dot com
