@@ -1,0 +1,234 @@
+#+TITLE: March 1, 2018 - March 18, 2018
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+| TODO                                            | NEXT | IN_PROGRESS                                 | WAITING | DONE | CANCELED |
+|-------------------------------------------------+------+---------------------------------------------+---------+------+----------|
+| READ.1520271849. You Don't Know JavaScript: Typ |      | READ.1520272288. The C Programming Language |         |      |          |
+| READ.1520272020. You Don't Know JavaScript: Asy |      | READ.1520272821. NIOS                       |         |      |          |
+| READ.1520272085. DCA Preparation I              |      | DEV.1520272847. Programming Zed Class       |         |      |          |
+| READ.1520272126. DCA Preparation II             |      |                                             |         |      |          |
+| READ.1520272332. Linux System Programming       |      |                                             |         |      |          |
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+| NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|---------------+-----------+--------+------+-----------+--------------+------------|
+| Bhavin192     |      17.0 |      0 |    0 |      17.0 |   2018-03-23 | ---------- |
+| Shinigami47   |      36.0 |   4.92 |    0 |      36.0 |   2018-03-29 | ---------- |
+| Sandeepk      |      17.0 |      0 |    0 |      17.0 |   2018-03-28 | ---------- |
+| Jasonbraganza |      72.0 |    4.0 |    0 |      72.0 |   2018-03-21 | ---------- |
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  160 +--------------------------------------------------------------------+   
+:      |                                                                    |   
+:  140 |+  ################                                  ACTUAL #######+|   
+:      |   ....                                               IDEAL ....... |   
+:  120 |+      ....                                                        +|   
+:      |           ...                                                      |   
+:      |              ........                                              |   
+:  100 |+                     ....                                         +|   
+:      |                          ....                                      |   
+:   80 |+                             ....                                 +|   
+:      |                                  ...                               |   
+:   60 |+                                    ....                          +|   
+:      |                                         ....                       |   
+:   40 |+                                            ....                  +|   
+:      |                                                 ........           |   
+:      |                                                         ...        |   
+:   20 |+                                                           ....   +|   
+:      |                                                                ....|   
+:    0 +--------------------------------------------------------------------+   
+:      0       2      4       6       8      10      12      14     16      18  
+:                                                                               
+:
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:18]"
+#+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2018-03-01 |  142.0 |   134 |                 |
+|   2 | 2018-03-02 |  142.0 |   126 |                 |
+|   3 | 2018-03-03 |  142.0 |   118 |                 |
+|   4 | 2018-03-04 |  142.0 |   110 |                 |
+|   5 | 2018-03-05 |  142.0 |   103 |                 |
+|   6 | 2018-03-06 |        |    95 |                 |
+|   7 | 2018-03-07 |        |    87 |                 |
+|   8 | 2018-03-08 |        |    79 |                 |
+|   9 | 2018-03-09 |        |    71 |                 |
+|  10 | 2018-03-10 |        |    63 |                 |
+|  11 | 2018-03-11 |        |    55 |                 |
+|  12 | 2018-03-12 |        |    47 |                 |
+|  13 | 2018-03-13 |        |    39 |                 |
+|  14 | 2018-03-14 |        |    32 |                 |
+|  15 | 2018-03-15 |        |    24 |                 |
+|  16 | 2018-03-16 |        |    16 |                 |
+|  17 | 2018-03-17 |        |     8 |                 |
+|  18 | 2018-03-18 |        |     0 |                 |
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                                  | TASKID          | OWNER         | PRIORITY | TODO        | ESTIMATED | ACTUAL |
+|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| TASKS                                                 |                 |               | B        |             |     142.0 |   8.92 |
+|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| The C Programming Language                            | READ.1520272288 | shinigami47   | B        | IN_PROGRESS |      18.0 |   4.92 |
+|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| NIOS                                                  | READ.1520272821 | jasonbraganza | B        | IN_PROGRESS |      46.0 |   2.00 |
+|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| Programming Zed Class                                 | DEV.1520272847  | jasonbraganza | B        | IN_PROGRESS |      26.0 |   2.00 |
+|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| You Don't Know JavaScript: Types & Grammar Part IV    | READ.1520271849 | sandeepK      | B        | TODO        |      10.0 |        |
+|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| You Don't Know JavaScript: Async & Performance Part V | READ.1520272020 | sandeepK      | B        | TODO        |       7.0 |        |
+|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| DCA Preparation I                                     | READ.1520272085 | bhavin192     | B        | TODO        |      10.0 |        |
+|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| DCA Preparation II                                    | READ.1520272126 | bhavin192     | B        | TODO        |       7.0 |        |
+|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| Linux System Programming                              | READ.1520272332 | shinigami47   | B        | TODO        |      18.0 |        |
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 18
+  :SPRINTSTART: <2018-03-01 Thu>
+  :wpd-jasonbraganza: 6
+  :wpd-sandeepK: 1
+  :wpd-shinigami47: 2
+  :wpd-bhavin192: 1.25
+  :END:
+** IN_PROGRESS The C Programming Language [0/3]
+   :PROPERTIES:
+   :ESTIMATED: 18.0
+   :ACTUAL:   4.92
+   :OWNER: shinigami47
+   :ID: READ.1520272288
+   :TASKID: READ.1520272288
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-03-04 Sun 20:40]--[2018-03-04 Sun 21:50]  =>  1:10
+   CLOCK: [2018-03-03 Sat 21:00]--[2018-03-03 Sat 23:00]  =>  2:00
+   CLOCK: [2018-03-02 Fri 22:00]--[2018-03-02 Fri 23:45]  =>  1:45
+   :END:
+   By Brian W. Kernighan and Dennis M. Ritchie.
+   - [ ] Quick revision Chapter 1 to 4
+   - [ ] Chapter 5: Pointers and Arrays
+   - [ ] Chapter 6: Structures
+
+** IN_PROGRESS NIOS [1/18]
+   :PROPERTIES:
+   :ESTIMATED: 46.0
+   :ACTUAL:   2.00
+   :OWNER: jasonbraganza
+   :ID: READ.1520272821
+   :TASKID: READ.1520272821
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-03-05 Mon 07:00]--[2018-03-05 Mon 09:00] =>  2:00
+   :END:
+   - [X] 6-8 NIOS English - 2 chapters
+   - [ ] 7-10 NIOS Maths - 2 chapters
+   - [ ] 3-6 Data Entry - 2 chapters a week
+   - [ ] 6-8 NIOS Computer Science - 2 chapters
+   - [ ] 7-10 NIOS Accountancy - 2 chapters
+   - [ ] 3-5 NIOS Accountancy - 2 chapters
+   - [ ] 6-8 NIOS English
+   - [ ] 7-10 Revision (Maths / Accountancy)
+   - [ ] 3-6 Revision (CS / Data Entry / English)
+   - [ ] 6-8 NIOS English - 2 chapters
+   - [ ] 7-10 NIOS Maths - 2 chapters
+   - [ ] 3-6 Data Entry - 2 chapters a week
+   - [ ] 6-8 NIOS Computer Science - 2 chapters
+   - [ ] 7-10 NIOS Accountancy - 2 chapters
+   - [ ] 3-5 NIOS Accountancy - 2 chapters
+   - [ ] 6-8 NIOS English
+   - [ ] 7-10 Revision (Maths / Accountancy)
+   - [ ] 3-6 Revision (CS / Data Entry / English)
+
+** IN_PROGRESS Programming Zed Class [0/14]
+   :PROPERTIES:
+   :ESTIMATED: 26.0
+   :ACTUAL:   2.00
+   :OWNER: jasonbraganza
+   :ID: DEV.1520272847
+   :TASKID: DEV.1520272847
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-03-05 Mon 09:30]--[2018-03-05 Mon 11:30] =>  2:00
+   :END:
+   - [ ] 8-10 Programming Zed Class - 1 chapter
+   - [ ] 11-1 Programming Zed Class - 1 chapter
+   - [ ] 8-10 Programming Zed Class - 1 chapter
+   - [ ] 11-1 Programming Zed Class - 1 chapter
+   - [ ] 5-6 Programming Lutz Book - 1 chapter
+   - [ ] 8-10 Programming Zed Class - 1 chapter
+   - [ ] 11-1 Programming Lutz Book - 1 chapter
+   - [ ] 8-10 Programming Zed Class - 1 chapter
+   - [ ] 11-1 Programming Zed Class - 1 chapter
+   - [ ] 8-10 Programming Zed Class - 1 chapter
+   - [ ] 11-1 Programming Zed Class - 1 chapter
+   - [ ] 5-6 Programming Lutz Book - 1 chapter
+   - [ ] 8-10 Programming Zed Class - 1 chapter
+   - [ ] 11-1 Programming Lutz Book - 1 chapter
+** TODO You Don't Know JavaScript: Types & Grammar Part IV [0/3]
+   :PROPERTIES:
+   :ESTIMATED: 10.0
+   :ACTUAL:
+   :OWNER: sandeepK
+   :ID: READ.1520271849
+   :TASKID: READ.1520271849
+   :END:
+   - [ ] Chapter 4: Coercion -- 4 hours
+   - [ ] Chapter 5: Grammar -- 4 hours
+   - [ ] Appendix A: Mixed Environment JavaScript -- 2 hours
+** TODO You Don't Know JavaScript: Async & Performance Part V [0/3]
+   :PROPERTIES:
+   :ESTIMATED: 7.0
+   :ACTUAL:
+   :OWNER: sandeepK
+   :ID: READ.1520272020
+   :TASKID: READ.1520272020
+   :END:
+   - [ ] Chapter 1: Asynchrony: Now & Later -- 3 hours
+   - [ ] Chapter 2: Callbacks -- 3 hours
+   - [ ] Chapter 3: Promises -- 4 hours.
+** TODO DCA Preparation I [0/2]
+   :PROPERTIES:
+   :ESTIMATED: 10.0
+   :ACTUAL:
+   :OWNER: bhavin192
+   :ID: READ.1520272085
+   :TASKID: READ.1520272085
+   :END:
+   - [ ] 1. Image Creation and Management
+   - [ ] 2. Docker registry
+** TODO DCA Preparation II [0/1]
+   :PROPERTIES:
+   :ESTIMATED: 7.0
+   :ACTUAL:
+   :OWNER: bhavin192
+   :ID: READ.1520272126
+   :TASKID: READ.1520272126
+   :END:
+   - [ ] 1. Swarm orchestration
+** TODO Linux System Programming [0/2]
+   :PROPERTIES:
+   :ESTIMATED: 18.0
+   :ACTUAL:
+   :OWNER: shinigami47
+   :ID: READ.1520272332
+   :TASKID: READ.1520272332
+   :END:
+   By Robert Love.
+   - [ ] Chapter 1: Introduction and Essential Concepts
+   - [ ] Chapter 2: File I/O
