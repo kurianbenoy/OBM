@@ -18,38 +18,14 @@
 #+BEGIN: block-update-summary
 | NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |---------------+-----------+--------+------+-----------+--------------+------------|
-| Bhavin192     |      17.0 |      0 |    0 |      17.0 |   2018-03-23 | ---------- |
-| Shinigami47   |      36.0 |   4.92 |    0 |      36.0 |   2018-03-29 | ---------- |
-| Sandeepk      |      17.0 |      0 |    0 |      17.0 |   2018-03-28 | ---------- |
-| Jasonbraganza |      72.0 |    4.0 |    0 |      72.0 |   2018-03-21 | ---------- |
+| Bhavin192     |      17.0 |      0 |    0 |      17.0 |   2018-03-26 | ---------- |
+| Shinigami47   |      36.0 |   4.92 |    0 |      36.0 |   2018-03-30 | ---------- |
+| Sandeepk      |      17.0 |      0 |    0 |      17.0 |   2018-03-29 | ---------- |
+| Jasonbraganza |      72.0 |   12.0 |    0 |      72.0 |   2018-03-22 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
-:                                                                               
-:                                    Burndown                                   
-:                                                                               
-:  160 +--------------------------------------------------------------------+   
-:      |                                                                    |   
-:  140 |+  ################                                  ACTUAL #######+|   
-:      |   ....                                               IDEAL ....... |   
-:  120 |+      ....                                                        +|   
-:      |           ...                                                      |   
-:      |              ........                                              |   
-:  100 |+                     ....                                         +|   
-:      |                          ....                                      |   
-:   80 |+                             ....                                 +|   
-:      |                                  ...                               |   
-:   60 |+                                    ....                          +|   
-:      |                                         ....                       |   
-:   40 |+                                            ....                  +|   
-:      |                                                 ........           |   
-:      |                                                         ...        |   
-:   20 |+                                                           ....   +|   
-:      |                                                                ....|   
-:    0 +--------------------------------------------------------------------+   
-:      0       2      4       6       8      10      12      14     16      18  
-:                                                                               
-:
+
 #+END:
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:18]"
@@ -61,7 +37,7 @@
 |   3 | 2018-03-03 |  142.0 |   118 |                 |
 |   4 | 2018-03-04 |  142.0 |   110 |                 |
 |   5 | 2018-03-05 |  142.0 |   103 |                 |
-|   6 | 2018-03-06 |        |    95 |                 |
+|   6 | 2018-03-06 |  142.0 |    95 |                 |
 |   7 | 2018-03-07 |        |    87 |                 |
 |   8 | 2018-03-08 |        |    79 |                 |
 |   9 | 2018-03-09 |        |    71 |                 |
@@ -79,13 +55,13 @@
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                                  | TASKID          | OWNER         | PRIORITY | TODO        | ESTIMATED | ACTUAL |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| TASKS                                                 |                 |               | B        |             |     142.0 |   8.92 |
+| TASKS                                                 |                 |               | B        |             |     142.0 |  16.92 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
 | The C Programming Language                            | READ.1520272288 | shinigami47   | B        | IN_PROGRESS |      18.0 |   4.92 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| NIOS                                                  | READ.1520272821 | jasonbraganza | B        | IN_PROGRESS |      46.0 |   2.00 |
+| NIOS                                                  | READ.1520272821 | jasonbraganza | B        | IN_PROGRESS |      46.0 |   8.00 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| Programming Zed Class                                 | DEV.1520272847  | jasonbraganza | B        | IN_PROGRESS |      26.0 |   2.00 |
+| Programming Zed Class                                 | DEV.1520272847  | jasonbraganza | B        | IN_PROGRESS |      26.0 |   4.00 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
 | You Don't Know JavaScript: Types & Grammar Part IV    | READ.1520271849 | sandeepK      | B        | TODO        |      10.0 |        |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
@@ -125,61 +101,64 @@
    - [ ] Chapter 5: Pointers and Arrays
    - [ ] Chapter 6: Structures
 
-** IN_PROGRESS NIOS [1/18]
+** IN_PROGRESS NIOS [3/18]
    :PROPERTIES:
    :ESTIMATED: 46.0
-   :ACTUAL:   2.00
+   :ACTUAL:   8.00
    :OWNER: jasonbraganza
    :ID: READ.1520272821
    :TASKID: READ.1520272821
    :END:
    :LOGBOOK:
+   CLOCK: [2018-03-06 Mon 14:00]--[2018-03-06 Mon 17:00] =>  3:00
+   CLOCK: [2018-03-06 Mon 07:00]--[2018-03-06 Mon 10:00] =>  3:00
    CLOCK: [2018-03-05 Mon 07:00]--[2018-03-05 Mon 09:00] =>  2:00
    :END:
-   - [X] 6-8 NIOS English - 2 chapters
-   - [ ] 7-10 NIOS Maths - 2 chapters
-   - [ ] 3-6 Data Entry - 2 chapters a week
-   - [ ] 6-8 NIOS Computer Science - 2 chapters
-   - [ ] 7-10 NIOS Accountancy - 2 chapters
-   - [ ] 3-5 NIOS Accountancy - 2 chapters
-   - [ ] 6-8 NIOS English
-   - [ ] 7-10 Revision (Maths / Accountancy)
-   - [ ] 3-6 Revision (CS / Data Entry / English)
-   - [ ] 6-8 NIOS English - 2 chapters
-   - [ ] 7-10 NIOS Maths - 2 chapters
-   - [ ] 3-6 Data Entry - 2 chapters a week
-   - [ ] 6-8 NIOS Computer Science - 2 chapters
-   - [ ] 7-10 NIOS Accountancy - 2 chapters
-   - [ ] 3-5 NIOS Accountancy - 2 chapters
-   - [ ] 6-8 NIOS English
-   - [ ] 7-10 Revision (Maths / Accountancy)
-   - [ ] 3-6 Revision (CS / Data Entry / English)
+   - [X]  1. 6-8 NIOS English - 2 chapters
+   - [X]  2. 7-10 NIOS Maths - 2 chapters
+   - [X]  3. 3-6 Data Entry - 2 chapters a week
+   - [ ]  4. 6-8 NIOS Computer Science - 2 chapters
+   - [ ]  5. 7-10 NIOS Accountancy - 2 chapters
+   - [ ]  6. 3-5 NIOS Accountancy - 2 chapters
+   - [ ]  7. 6-8 NIOS English
+   - [ ]  8. 7-10 Revision (Maths / Accountancy)
+   - [ ]  9. 3-6 Revision (CS / Data Entry / English)
+   - [ ] 10. 6-8 NIOS English - 2 chapters
+   - [ ] 11. 7-10 NIOS Maths - 2 chapters
+   - [ ] 12. 3-6 Data Entry - 2 chapters a week
+   - [ ] 13. 6-8 NIOS Computer Science - 2 chapters
+   - [ ] 14. 7-10 NIOS Accountancy - 2 chapters
+   - [ ] 15. 3-5 NIOS Accountancy - 2 chapters
+   - [ ] 16. 6-8 NIOS English
+   - [ ] 17. 7-10 Revision (Maths / Accountancy)
+   - [ ] 18. 3-6 Revision (CS / Data Entry / English)
 
-** IN_PROGRESS Programming Zed Class [0/14]
+** IN_PROGRESS Programming Zed Class [1/14]
    :PROPERTIES:
    :ESTIMATED: 26.0
-   :ACTUAL:   2.00
+   :ACTUAL:   4.00
    :OWNER: jasonbraganza
    :ID: DEV.1520272847
    :TASKID: DEV.1520272847
    :END:
    :LOGBOOK:
+   CLOCK: [2018-03-06 Mon 11:00]--[2018-03-06 Mon 13:00] =>  2:00
    CLOCK: [2018-03-05 Mon 09:30]--[2018-03-05 Mon 11:30] =>  2:00
    :END:
-   - [ ] 8-10 Programming Zed Class - 1 chapter
-   - [ ] 11-1 Programming Zed Class - 1 chapter
-   - [ ] 8-10 Programming Zed Class - 1 chapter
-   - [ ] 11-1 Programming Zed Class - 1 chapter
-   - [ ] 5-6 Programming Lutz Book - 1 chapter
-   - [ ] 8-10 Programming Zed Class - 1 chapter
-   - [ ] 11-1 Programming Lutz Book - 1 chapter
-   - [ ] 8-10 Programming Zed Class - 1 chapter
-   - [ ] 11-1 Programming Zed Class - 1 chapter
-   - [ ] 8-10 Programming Zed Class - 1 chapter
-   - [ ] 11-1 Programming Zed Class - 1 chapter
-   - [ ] 5-6 Programming Lutz Book - 1 chapter
-   - [ ] 8-10 Programming Zed Class - 1 chapter
-   - [ ] 11-1 Programming Lutz Book - 1 chapter
+   - [X]  1. 8-10 Programming Zed Class - 1 chapter
+   - [ ]  2. 11-1 Programming Zed Class - 1 chapter
+   - [ ]  3. 8-10 Programming Zed Class - 1 chapter
+   - [ ]  4. 11-1 Programming Zed Class - 1 chapter
+   - [ ]  5. 5-6 Programming Lutz Book - 1 chapter
+   - [ ]  6. 8-10 Programming Zed Class - 1 chapter
+   - [ ]  7. 11-1 Programming Lutz Book - 1 chapter
+   - [ ]  8. 8-10 Programming Zed Class - 1 chapter
+   - [ ]  9. 11-1 Programming Zed Class - 1 chapter
+   - [ ] 10. 8-10 Programming Zed Class - 1 chapter
+   - [ ] 11. 11-1 Programming Zed Class - 1 chapter
+   - [ ] 12. 5-6 Programming Lutz Book - 1 chapter
+   - [ ] 13. 8-10 Programming Zed Class - 1 chapter
+   - [ ] 14. 11-1 Programming Lutz Book - 1 chapter
 ** TODO You Don't Know JavaScript: Types & Grammar Part IV [0/3]
    :PROPERTIES:
    :ESTIMATED: 10.0
