@@ -6,13 +6,12 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO                                            | NEXT | IN_PROGRESS                                 | WAITING | DONE | CANCELED |
-|-------------------------------------------------+------+---------------------------------------------+---------+------+----------|
-| READ.1520271849. You Don't Know JavaScript: Typ |      | READ.1520272288. The C Programming Language |         |      |          |
-| READ.1520272020. You Don't Know JavaScript: Asy |      | READ.1520272821. NIOS                       |         |      |          |
-| READ.1520272085. DCA Preparation I              |      | DEV.1520272847. Programming Zed Class       |         |      |          |
-| READ.1520272126. DCA Preparation II             |      |                                             |         |      |          |
-| READ.1520272332. Linux System Programming       |      |                                             |         |      |          |
+| TODO                                            | NEXT | IN_PROGRESS                                     | WAITING | DONE | CANCELED |
+|-------------------------------------------------+------+-------------------------------------------------+---------+------+----------|
+| READ.1520272020. You Don't Know JavaScript: Asy |      | READ.1520272288. The C Programming Language     |         |      |          |
+| READ.1520272085. DCA Preparation I              |      | READ.1520272821. NIOS                           |         |      |          |
+| READ.1520272126. DCA Preparation II             |      | DEV.1520272847. Programming Zed Class           |         |      |          |
+| READ.1520272332. Linux System Programming       |      | READ.1520271849. You Don't Know JavaScript: Typ |         |      |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
@@ -20,7 +19,7 @@
 |---------------+-----------+--------+------+-----------+--------------+------------|
 | Bhavin192     |      17.0 |      0 |    0 |      17.0 |   2018-03-26 | ---------- |
 | Shinigami47   |      36.0 |   4.92 |    0 |      36.0 |   2018-03-30 | ---------- |
-| Sandeepk      |      17.0 |      0 |    0 |      17.0 |   2018-03-29 | ---------- |
+| Sandeepk      |      17.0 |   6.08 |    0 |      17.0 |   2018-03-29 | ---------- |
 | Jasonbraganza |      72.0 |   12.0 |    0 |      72.0 |   2018-03-22 | ---------- |
 #+END:
 ** BURNDOWN CHART
@@ -55,7 +54,7 @@
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                                  | TASKID          | OWNER         | PRIORITY | TODO        | ESTIMATED | ACTUAL |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| TASKS                                                 |                 |               | B        |             |     142.0 |  16.92 |
+| TASKS                                                 |                 |               | B        |             |     142.0 |   23.0 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
 | The C Programming Language                            | READ.1520272288 | shinigami47   | B        | IN_PROGRESS |      18.0 |   4.92 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
@@ -63,7 +62,7 @@
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
 | Programming Zed Class                                 | DEV.1520272847  | jasonbraganza | B        | IN_PROGRESS |      26.0 |   4.00 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| You Don't Know JavaScript: Types & Grammar Part IV    | READ.1520271849 | sandeepK      | B        | TODO        |      10.0 |        |
+| You Don't Know JavaScript: Types & Grammar Part IV    | READ.1520271849 | sandeepK      | B        | IN_PROGRESS |      10.0 |   6.08 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
 | You Don't Know JavaScript: Async & Performance Part V | READ.1520272020 | sandeepK      | B        | TODO        |       7.0 |        |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
@@ -159,15 +158,23 @@
    - [ ] 12. 5-6 Programming Lutz Book - 1 chapter
    - [ ] 13. 8-10 Programming Zed Class - 1 chapter
    - [ ] 14. 11-1 Programming Lutz Book - 1 chapter
-** TODO You Don't Know JavaScript: Types & Grammar Part IV [0/3]
+** IN_PROGRESS You Don't Know JavaScript: Types & Grammar Part IV [1/3]
    :PROPERTIES:
    :ESTIMATED: 10.0
-   :ACTUAL:
+   :ACTUAL:   6.08
    :OWNER: sandeepK
    :ID: READ.1520271849
    :TASKID: READ.1520271849
    :END:
-   - [ ] Chapter 4: Coercion -- 4 hours
+   :LOGBOOK:
+   CLOCK: [2018-03-06 Tue 00:40]--[2018-03-06 Tue 00:55] =>  0:15
+   CLOCK: [2018-03-05 Mon 23:30]--[2018-03-06 Tue 00:40] =>  1:10
+   CLOCK: [2018-03-04 Sun 14:00]--[2018-03-04 Sun 16:00] =>  2:00
+   CLOCK: [2018-03-03 Sat 20:00]--[2018-03-03 Sat 21:00] =>  1:00
+   CLOCK: [2018-03-02 Fri 23:20]--[2018-03-03 Sat 00:00] =>  0:40
+   CLOCK: [2018-03-01 Thu 23:00]--[2018-03-02 Fri 00:00] =>  1:00
+   :END:
+   - [X] Chapter 4: Coercion -- 4 hours
    - [ ] Chapter 5: Grammar -- 4 hours
    - [ ] Appendix A: Mixed Environment JavaScript -- 2 hours
 ** TODO You Don't Know JavaScript: Async & Performance Part V [0/3]
