@@ -6,55 +6,84 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO                                            | NEXT | IN_PROGRESS                                     | WAITING | DONE | CANCELED |
-|-------------------------------------------------+------+-------------------------------------------------+---------+------+----------|
-| READ.1520272020. You Don't Know JavaScript: Asy |      | READ.1520272288. The C Programming Language     |         |      |          |
-| READ.1520272085. DCA Preparation I              |      | READ.1520272821. NIOS                           |         |      |          |
-| READ.1520272126. DCA Preparation II             |      | DEV.1520272847. Programming Zed Class           |         |      |          |
-| READ.1520272332. Linux System Programming       |      | READ.1520271849. You Don't Know JavaScript: Typ |         |      |          |
+| TODO                                            | NEXT | IN_PROGRESS                                     | WAITING | DONE                                            | CANCELED |
+|-------------------------------------------------+------+-------------------------------------------------+---------+-------------------------------------------------+----------|
+| READ.1520272020. You Don't Know JavaScript: Asy |      | READ.1520421384. Learning to Program in Python  |         | READ.1520272085. DCA Preparation I (2018-03-07) |          |
+| READ.1520272332. Linux System Programming       |      | READ.1520272288. The C Programming Language     |         |                                                 |          |
+|                                                 |      | READ.1520272821. NIOS                           |         |                                                 |          |
+|                                                 |      | DEV.1520272847. Programming Zed Class           |         |                                                 |          |
+|                                                 |      | READ.1520271849. You Don't Know JavaScript: Typ |         |                                                 |          |
+|                                                 |      | READ.1520272126. DCA Preparation II             |         |                                                 |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |---------------+-----------+--------+------+-----------+--------------+------------|
-| Bhavin192     |      17.0 |      0 |    0 |      17.0 |   2018-03-26 | ---------- |
-| Shinigami47   |      36.0 |   4.92 |    0 |      36.0 |   2018-03-30 | ---------- |
-| Sandeepk      |      17.0 |   6.08 |    0 |      17.0 |   2018-03-29 | ---------- |
-| Jasonbraganza |      72.0 |   12.0 |    0 |      72.0 |   2018-03-22 | ---------- |
+| Pradhvan      |      25.0 |      0 |    0 |      25.0 |   2018-03-26 | ---------- |
+| Bhavin192     |      12.0 |      0 |  5.0 |       7.0 |   2018-03-15 | ####------ |
+| Shinigami47   |      36.0 |   4.92 |    0 |      36.0 |   2018-04-02 | ---------- |
+| Sandeepk      |      17.0 |   6.08 |    0 |      17.0 |   2018-03-30 | ---------- |
+| Jasonbraganza |      72.0 |   12.0 |    0 |      72.0 |   2018-03-23 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
-
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  180 +--------------------------------------------------------------------+   
+:      |                                                                    |   
+:  160 |+  ########################                          ACTUAL #######+|   
+:      |   ....                                               IDEAL ....... |   
+:  140 |+      .......                                                     +|   
+:      |              ....                                                  |   
+:  120 |+                 ....                                             +|   
+:      |                      ....                                          |   
+:  100 |+                         ....                                     +|   
+:      |                              ....                                  |   
+:   80 |+                                 ...                              +|   
+:      |                                     ....                           |   
+:   60 |+                                        ....                      +|   
+:      |                                             ........               |   
+:   40 |+                                                    ....          +|   
+:      |                                                         ...        |   
+:   20 |+                                                           ....   +|   
+:      |                                                                ....|   
+:    0 +--------------------------------------------------------------------+   
+:      0       2      4       6       8      10      12      14     16      18  
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:18]"
 #+BEGIN: block-update-burndown
 | DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
 |-----+------------+--------+-------+-----------------|
-|   1 | 2018-03-01 |  142.0 |   134 |                 |
-|   2 | 2018-03-02 |  142.0 |   126 |                 |
-|   3 | 2018-03-03 |  142.0 |   118 |                 |
-|   4 | 2018-03-04 |  142.0 |   110 |                 |
-|   5 | 2018-03-05 |  142.0 |   103 |                 |
-|   6 | 2018-03-06 |  142.0 |    95 |                 |
-|   7 | 2018-03-07 |        |    87 |                 |
-|   8 | 2018-03-08 |        |    79 |                 |
-|   9 | 2018-03-09 |        |    71 |                 |
-|  10 | 2018-03-10 |        |    63 |                 |
-|  11 | 2018-03-11 |        |    55 |                 |
-|  12 | 2018-03-12 |        |    47 |                 |
-|  13 | 2018-03-13 |        |    39 |                 |
-|  14 | 2018-03-14 |        |    32 |                 |
-|  15 | 2018-03-15 |        |    24 |                 |
-|  16 | 2018-03-16 |        |    16 |                 |
-|  17 | 2018-03-17 |        |     8 |                 |
+|   1 | 2018-03-01 |  162.0 |   153 |                 |
+|   2 | 2018-03-02 |  162.0 |   144 |                 |
+|   3 | 2018-03-03 |  162.0 |   135 |                 |
+|   4 | 2018-03-04 |  162.0 |   126 |                 |
+|   5 | 2018-03-05 |  162.0 |   117 |                 |
+|   6 | 2018-03-06 |  162.0 |   108 |                 |
+|   7 | 2018-03-07 |  157.0 |    99 | READ.1520272085 |
+|   8 | 2018-03-08 |        |    90 |                 |
+|   9 | 2018-03-09 |        |    81 |                 |
+|  10 | 2018-03-10 |        |    72 |                 |
+|  11 | 2018-03-11 |        |    63 |                 |
+|  12 | 2018-03-12 |        |    54 |                 |
+|  13 | 2018-03-13 |        |    45 |                 |
+|  14 | 2018-03-14 |        |    36 |                 |
+|  15 | 2018-03-15 |        |    27 |                 |
+|  16 | 2018-03-16 |        |    18 |                 |
+|  17 | 2018-03-17 |        |     9 |                 |
 |  18 | 2018-03-18 |        |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                                  | TASKID          | OWNER         | PRIORITY | TODO        | ESTIMATED | ACTUAL |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| TASKS                                                 |                 |               | B        |             |     142.0 |   23.0 |
+| TASKS                                                 |                 |               | B        |             |     162.0 |   23.0 |
+|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| Learning to Program in Python                         | READ.1520421384 | pradhvan      | B        | IN_PROGRESS |      25.0 |        |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
 | The C Programming Language                            | READ.1520272288 | shinigami47   | B        | IN_PROGRESS |      18.0 |   4.92 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
@@ -66,11 +95,11 @@
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
 | You Don't Know JavaScript: Async & Performance Part V | READ.1520272020 | sandeepK      | B        | TODO        |       7.0 |        |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| DCA Preparation I                                     | READ.1520272085 | bhavin192     | B        | TODO        |      10.0 |        |
-|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| DCA Preparation II                                    | READ.1520272126 | bhavin192     | B        | TODO        |       7.0 |        |
+| DCA Preparation II                                    | READ.1520272126 | bhavin192     | B        | IN_PROGRESS |       7.0 |        |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
 | Linux System Programming                              | READ.1520272332 | shinigami47   | B        | TODO        |      18.0 |        |
+|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| DCA Preparation I                                     | READ.1520272085 | bhavin192     | B        | DONE        |       5.0 |        |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -81,7 +110,29 @@
   :wpd-sandeepK: 1
   :wpd-shinigami47: 2
   :wpd-bhavin192: 1.25
+  :wpd-pradhvan: 2
   :END:
+** IN_PROGRESS Learning to Program in Python [2/10]
+   :PROPERTIES:
+   :ESTIMATED: 25.0
+   :ACTUAL:
+   :OWNER: pradhvan
+   :ID: READ.1520421384
+   :TASKID: READ.1520421384
+   :END:
+   - [X] Chapter 6 Using Functions (2 hours)
+   - [X] Chapter 7 Writing Functions (2 hours)
+   - [ ] Chapter 8 More on FUnctions (2 hours)
+   - [ ] Chapter 9 Objects (3 hours)
+   - [ ] Chapter 10 Lists (3 hours)
+   - [ ] Chapter 11 Tuples,Dictionaries and Sets (3 hours)
+   - [ ] Chapter 12 Handeling Exceptions (2 hours)
+   - [ ] Chapter 13 Custom Types (3 hours)
+   - [ ] Chapter 14 Class Design: Composition and Ineritance (3 hours)
+   - [ ] Chapter 15 Alogrithm Quality (2 hours)
+
+   https://www.cs.uky.edu/~keen/115/Haltermanpythonbook.pdf
+
 ** IN_PROGRESS The C Programming Language [0/3]
    :PROPERTIES:
    :ESTIMATED: 18.0
@@ -188,17 +239,7 @@
    - [ ] Chapter 1: Asynchrony: Now & Later -- 3 hours
    - [ ] Chapter 2: Callbacks -- 3 hours
    - [ ] Chapter 3: Promises -- 4 hours.
-** TODO DCA Preparation I [0/2]
-   :PROPERTIES:
-   :ESTIMATED: 10.0
-   :ACTUAL:
-   :OWNER: bhavin192
-   :ID: READ.1520272085
-   :TASKID: READ.1520272085
-   :END:
-   - [ ] 1. Image Creation and Management
-   - [ ] 2. Docker registry
-** TODO DCA Preparation II [0/1]
+** IN_PROGRESS DCA Preparation II [0/1]
    :PROPERTIES:
    :ESTIMATED: 7.0
    :ACTUAL:
@@ -218,3 +259,23 @@
    By Robert Love.
    - [ ] Chapter 1: Introduction and Essential Concepts
    - [ ] Chapter 2: File I/O
+** DONE DCA Preparation I [2/2]
+   CLOSED: [2018-03-07 Wed 16:43]
+   :PROPERTIES:
+   :ESTIMATED: 5.0
+   :ACTUAL:
+   :OWNER: bhavin192
+   :ID: READ.1520272085
+   :TASKID: READ.1520272085
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-03-05 Mon 19:25]--[2018-03-05 Mon 20:16] =>  0:51
+   CLOCK: [2018-03-04 Sun 21:50]--[2018-03-04 Sun 22:53] =>  1:03
+   CLOCK: [2018-03-03 Sat 22:44]--[2018-03-03 Sat 23:22] =>  0:38
+   CLOCK: [2018-03-03 Sat 22:25]--[2018-03-03 Sat 22:37] =>  0:12
+   CLOCK: [2018-03-02 Fri 22:45]--[2018-03-02 Fri 23:10] =>  0:25
+   CLOCK: [2018-03-01 Thu 19:45]--[2018-03-01 Thu 20:45] =>  1:00
+   :END:
+   - [X] 1. Image Creation and Management
+   - [X] 2. Docker registry
+
