@@ -11,20 +11,21 @@
 | TODO                                            | NEXT | IN_PROGRESS                                    | WAITING | DONE                                                         | CANCELED |
 |-------------------------------------------------+------+------------------------------------------------+---------+--------------------------------------------------------------+----------|
 | READ.1520272020. You Don't Know JavaScript: Asy |      | READ.1520421384. Learning to Program in Python |         | READ.1520271849. You Don't Know JavaScript: Typ (2018-03-14) |          |
-| READ.1520272332. Linux System Programming       |      | READ.1520272288. The C Programming Language    |         | READ.1520272085. DCA Preparation I (2018-03-07)              |          |
+|                                                 |      | READ.1520272288. The C Programming Language    |         | READ.1520272085. DCA Preparation I (2018-03-07)              |          |
 |                                                 |      | READ.1520272821. NIOS                          |         |                                                              |          |
 |                                                 |      | DEV.1520272847. Programming Zed Class          |         |                                                              |          |
 |                                                 |      | READ.1520272126. DCA Preparation II            |         |                                                              |          |
+|                                                 |      | READ.1520272332. Linux System Programming      |         |                                                              |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |---------------+-----------+--------+------+-----------+--------------+------------|
-| Pradhvan      |      25.0 |      0 |    0 |      25.0 |   2018-04-02 | ---------- |
-| Bhavin192     |      12.0 |   4.15 |  5.0 |       7.0 |   2018-03-22 | ####------ |
-| Shinigami47   |      36.0 |   9.92 |    0 |      36.0 |   2018-04-09 | ---------- |
-| Sandeepk      |      17.0 |   11.6 | 10.0 |       7.0 |   2018-03-23 | ######---- |
-| Jasonbraganza |      72.0 |   14.0 |    0 |      72.0 |   2018-03-30 | ---------- |
+| Pradhvan      |      25.0 |      0 |    0 |      25.0 |   2018-04-03 | ---------- |
+| Bhavin192     |      12.0 |   4.15 |  5.0 |       7.0 |   2018-03-23 | ####------ |
+| Shinigami47   |      36.0 |  15.42 |    0 |      36.0 |   2018-04-10 | ---------- |
+| Sandeepk      |      17.0 |   11.6 | 10.0 |       7.0 |   2018-03-26 | ######---- |
+| Jasonbraganza |      72.0 |   14.0 |    0 |      72.0 |   2018-04-02 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -73,7 +74,7 @@
 |  12 | 2018-03-12 |  157.0 |    54 |                 |
 |  13 | 2018-03-13 |  157.0 |    45 |                 |
 |  14 | 2018-03-14 |  147.0 |    36 | READ.1520271849 |
-|  15 | 2018-03-15 |        |    27 |                 |
+|  15 | 2018-03-15 |  147.0 |    27 |                 |
 |  16 | 2018-03-16 |        |    18 |                 |
 |  17 | 2018-03-17 |        |     9 |                 |
 |  18 | 2018-03-18 |        |     0 |                 |
@@ -82,11 +83,11 @@
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                                  | TASKID          | OWNER         | PRIORITY | TODO        | ESTIMATED | ACTUAL |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| TASKS                                                 |                 |               | B        |             |     162.0 |  39.67 |
+| TASKS                                                 |                 |               | B        |             |     162.0 |  45.17 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
 | Learning to Program in Python                         | READ.1520421384 | pradhvan      | B        | IN_PROGRESS |      25.0 |        |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| The C Programming Language                            | READ.1520272288 | shinigami47   | B        | IN_PROGRESS |      18.0 |   9.92 |
+| The C Programming Language                            | READ.1520272288 | shinigami47   | B        | IN_PROGRESS |      18.0 |  12.42 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
 | NIOS                                                  | READ.1520272821 | jasonbraganza | B        | IN_PROGRESS |      46.0 |  10.00 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
@@ -96,7 +97,7 @@
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
 | DCA Preparation II                                    | READ.1520272126 | bhavin192     | B        | IN_PROGRESS |       7.0 |   0.00 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| Linux System Programming                              | READ.1520272332 | shinigami47   | B        | TODO        |      18.0 |   0.00 |
+| Linux System Programming                              | READ.1520272332 | shinigami47   | B        | IN_PROGRESS |      18.0 |   3.00 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
 | You Don't Know JavaScript: Types & Grammar Part IV    | READ.1520271849 | sandeepK      | B        | DONE        |      10.0 |   9.42 |
 |-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
@@ -134,15 +135,17 @@
 
    https://www.cs.uky.edu/~keen/115/Haltermanpythonbook.pdf
 
-** IN_PROGRESS The C Programming Language [0/3]
+** IN_PROGRESS The C Programming Language [1/3]
    :PROPERTIES:
    :ESTIMATED: 18.0
-   :ACTUAL:   9.92
+   :ACTUAL:   12.42
    :OWNER: shinigami47
    :ID: READ.1520272288
    :TASKID: READ.1520272288
    :END:
    :LOGBOOK:
+   CLOCK: [2018-03-11 Sun 09:00]--[2018-03-11 Sun 10:00] =>  1:00
+   CLOCK: [2018-03-10 Sat 21:00]--[2018-03-10 Sat 22:30] =>  1:30
    CLOCK: [2018-03-07 Wed 20:00]--[2018-03-07 Wed 22:30] =>  2:30
    CLOCK: [2018-03-06 Tue 21:00]--[2018-03-06 Tue 23:30] =>  2:30
    CLOCK: [2018-03-04 Sun 20:40]--[2018-03-04 Sun 21:50] =>  1:10
@@ -150,7 +153,7 @@
    CLOCK: [2018-03-02 Fri 22:00]--[2018-03-02 Fri 23:45] =>  1:45
    :END:
    By Brian W. Kernighan and Dennis M. Ritchie.
-   - [ ] Quick revision Chapter 1 to 4
+   - [X] Quick revision Chapter 1 to 4
    - [ ] Chapter 5: Pointers and Arrays
    - [ ] Chapter 6: Structures
 
@@ -238,16 +241,20 @@
    :TASKID: READ.1520272126
    :END:
    - [ ] 1. Swarm orchestration
-** TODO Linux System Programming [0/2]
+** IN_PROGRESS Linux System Programming [1/2]
    :PROPERTIES:
    :ESTIMATED: 18.0
-   :ACTUAL:   0.00
+   :ACTUAL:   3.00
    :OWNER: shinigami47
    :ID: READ.1520272332
    :TASKID: READ.1520272332
    :END:
+   :LOGBOOK:
+   CLOCK: [2018-03-13 Tue 19:00]--[2018-03-13 Tue 21:00] =>  2:00
+   CLOCK: [2018-03-12 Mon 11:00]--[2018-03-12 Mon 12:00] =>  1:00
+   :END:
    By Robert Love.
-   - [ ] Chapter 1: Introduction and Essential Concepts
+   - [X] Chapter 1: Introduction and Essential Concepts
    - [ ] Chapter 2: File I/O
 ** DONE You Don't Know JavaScript: Types & Grammar Part IV [3/3]
    CLOSED: [2018-03-14 Wed 09:59]
