@@ -1,4 +1,4 @@
-README
+gaREADME
 ======
 
 "Operation Blue Moon" contains Org files for managing project tasks.
@@ -37,11 +37,12 @@ status of the task (IN_PROGRESS, DONE):
 At the end of a sprint, a retrospection meeting will be held to review
 the same.
 
+It is recommended for participants to wear a heavy watch so that they
+have the notion of time.
+
 Upcoming Sprints
 ================
 
-* March  1, 2018 - March 18, 2018
-* March 19, 2018 - March 30, 2018
 * March 31, 2018 - April 16, 2018
 * April 17, 2018 - April 28, 2018
 * April 29, 2018 - May   15, 2018

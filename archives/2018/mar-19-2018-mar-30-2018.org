@@ -1,0 +1,194 @@
+#+TITLE: March 19-30, 2018
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+| TODO                                            | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
+|-------------------------------------------------+------+-------------+---------+------+----------|
+| READ.1521529565. Linux System Programming - Par |      |             |         |      |          |
+| READ.1521529601. The C Programming Language - P |      |             |         |      |          |
+| READ.1521529732. DCA preparation III            |      |             |         |      |          |
+| READ.1521529753. DCA preparation IV             |      |             |         |      |          |
+| READ.1521529765. DCA Preparation V              |      |             |         |      |          |
+| READ.1521530024. You Don't Know JavaScript: Asy |      |             |         |      |          |
+| READ.1521530120. Pyramid Tutorial and Informati |      |             |         |      |          |
+| READ.1521530404. Cornice                        |      |             |         |      |          |
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+| NAME         | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|--------------+-----------+--------+------+-----------+--------------+------------|
+| Gauravsitani |      23.0 |      0 |    0 |      23.0 |   2018-04-05 | ---------- |
+| Bhavin192    |      16.0 |      0 |    0 |      16.0 |   2018-04-06 | ---------- |
+| Shinigami47  |       9.0 |      0 |    0 |       9.0 |   2018-03-27 | ---------- |
+| Sandeepk     |      13.0 |      0 |    0 |      13.0 |   2018-04-06 | ---------- |
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:12]"
+#+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2018-03-19 |   61.0 |    56 |                 |
+|   2 | 2018-03-20 |   61.0 |    51 |                 |
+|   3 | 2018-03-21 |        |    46 |                 |
+|   4 | 2018-03-22 |        |    41 |                 |
+|   5 | 2018-03-23 |        |    36 |                 |
+|   6 | 2018-03-24 |        |    30 |                 |
+|   7 | 2018-03-25 |        |    25 |                 |
+|   8 | 2018-03-26 |        |    20 |                 |
+|   9 | 2018-03-27 |        |    15 |                 |
+|  10 | 2018-03-28 |        |    10 |                 |
+|  11 | 2018-03-29 |        |     5 |                 |
+|  12 | 2018-03-30 |        |     0 |                 |
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                                  | TASKID          | OWNER        | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|-------------------------------------------------------+-----------------+--------------+----------+------+-----------+--------|
+| TASKS                                                 |                 |              | B        |      |      61.0 |        |
+|-------------------------------------------------------+-----------------+--------------+----------+------+-----------+--------|
+| Linux System Programming - Part II                    | READ.1521529565 | shinigami47  | B        | TODO |       3.0 |        |
+|-------------------------------------------------------+-----------------+--------------+----------+------+-----------+--------|
+| The C Programming Language - Part II                  | READ.1521529601 | shinigami47  | B        | TODO |       6.0 |        |
+|-------------------------------------------------------+-----------------+--------------+----------+------+-----------+--------|
+| DCA preparation III                                   | READ.1521529732 | bhavin192    | B        | TODO |       5.0 |        |
+|-------------------------------------------------------+-----------------+--------------+----------+------+-----------+--------|
+| DCA preparation IV                                    | READ.1521529753 | bhavin192    | B        | TODO |       6.0 |        |
+|-------------------------------------------------------+-----------------+--------------+----------+------+-----------+--------|
+| DCA Preparation V                                     | READ.1521529765 | bhavin192    | B        | TODO |       5.0 |        |
+|-------------------------------------------------------+-----------------+--------------+----------+------+-----------+--------|
+| You Don't Know JavaScript: Async & Performance Part V | READ.1521530024 | sandeepk     | B        | TODO |      13.0 |        |
+|-------------------------------------------------------+-----------------+--------------+----------+------+-----------+--------|
+| Pyramid Tutorial and Informational Videos             | READ.1521530120 | gauravsitani | B        | TODO |      19.0 |        |
+|-------------------------------------------------------+-----------------+--------------+----------+------+-----------+--------|
+| Cornice                                               | READ.1521530404 | gauravsitani | B        | TODO |       4.0 |        |
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 12
+  :SPRINTSTART: <2018-03-19 Mon>
+  :wpd-sandeepK: 1
+  :wpd-shinigami47: 2
+  :wpd-bhavin192: 1.25
+  :wpd-gauravsitani: 2
+  :END:
+** TODO Linux System Programming - Part II
+   :PROPERTIES:
+   :ESTIMATED: 3.0
+   :ACTUAL:
+   :OWNER: shinigami47
+   :ID: READ.1521529565
+   :TASKID: READ.1521529565
+   :END:
+   By Robert Love.
+   - [ ] Chapter 2: File I/O
+** TODO The C Programming Language - Part II
+   :PROPERTIES:
+   :ESTIMATED: 6.0
+   :ACTUAL:
+   :OWNER: shinigami47
+   :ID: READ.1521529601
+   :TASKID: READ.1521529601
+   :END:
+   By Brian W. Kernighan and Dennis M. Ritchie.
+   - [ ] Chapter 5: Pointers and Arrays
+   - [ ] Chapter 6: Structures
+** TODO DCA preparation III
+   :PROPERTIES:
+   :ESTIMATED: 5.0
+   :ACTUAL:
+   :OWNER: bhavin192
+   :ID: READ.1521529732
+   :TASKID: READ.1521529732
+   :END:
+   - [ ] Installation and configuration
+** TODO DCA preparation IV
+   :PROPERTIES:
+   :ESTIMATED: 6.0
+   :ACTUAL:
+   :OWNER: bhavin192
+   :ID: READ.1521529753
+   :TASKID: READ.1521529753
+   :END:
+   - [ ] Networking
+** TODO DCA Preparation V
+   :PROPERTIES:
+   :ESTIMATED: 5.0
+   :ACTUAL:
+   :OWNER: bhavin192
+   :ID: READ.1521529765
+   :TASKID: READ.1521529765
+   :END:
+   - [ ] Security
+** TODO You Don't Know JavaScript: Async & Performance Part V [0/6]
+   :PROPERTIES:
+   :ESTIMATED: 13.0
+   :ACTUAL:
+   :OWNER: sandeepk
+   :ID: READ.1521530024
+   :TASKID: READ.1521530024
+   :END:
+   - [ ] Chapter 3: Promises                 (2h)
+   - [ ] Chapter 4: Generators               (3h)
+   - [ ] Chapter 5: Program Performance      (2h)
+   - [ ] Chapter 6: Benchmarking & Tuning    (2h)
+   - [ ] Appendix A: Library: asynquence     (2h)
+   - [ ] Appendix B: Advanced Async Patterns (2h)
+** TODO Pyramid Tutorial and Informational Videos [0/7]
+   :PROPERTIES:
+   :ESTIMATED: 19.0
+   :ACTUAL:
+   :OWNER: gauravsitani
+   :ID: READ.1521530120
+   :TASKID: READ.1521530120
+   :END:
+   - [ ] Intro to the Python Framework Pyramid (30m)
+         https://www.sixfeetup.com/blog/intro-to-the-python-framework-pyramid-and-a-sample-app
+   - [ ] Daniel Nouri's "Writing A Pyramid Application"
+         - [ ] Part 1 (1h 30m)
+         - [ ] Part 2 (1h 45m) 
+   - [ ] Pyramid: Lighter, faster, better web apps - Mr. Dylan Jay (37m)
+   - [ ] Quick Tour of Pyramid (1h)
+         https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tour.html
+   - [ ] Quick Tutorial for Pyramid (6h)
+         https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html
+         - [ ] 01: Single-File Web Applications
+         - [ ] 02: Python Packages for Pyramid Applications
+         - [ ] 03: Application Configuration with .ini Files
+         - [ ] 04: Easier Development with debugtoolbar
+         - [ ] 05: Unit Tests and pytest
+         - [ ] 06: Functional Testing with WebTest
+         - [ ] 07: Basic Web Handling With Views
+         - [ ] 08: HTML Generation With Templating
+         - [ ] 09: Organizing Views With View Classes
+         - [ ] 10: Handling Web Requests and Responses
+         - [ ] 11: Dispatching URLs To Views With Routing
+         - [ ] 12: Templating With jinja2
+         - [ ] 13: CSS/JS/Images Files With Static Assets
+         - [ ] 14: AJAX Development With JSON Renderers
+         - [ ] 15: More With View Classes
+         - [ ] 16: Collecting Application Info With Logging
+         - [ ] 17: Transient Data Using Sessions
+         - [ ] 18: Forms and Validation with Deform
+         - [ ] 19: Databases Using SQLAlchemy
+         - [ ] 20: Logins with authentication
+         - [ ] 21: Protecting Resources With Authorization
+   - [ ] SQLAlchemy + URL dispatch wiki tutorial (3.5h)
+   - [ ] ZODB + Traversal Wiki Tutorial (3.5h)
+** TODO Cornice
+   :PROPERTIES:
+   :ESTIMATED: 4.0
+   :ACTUAL:
+   :OWNER: gauravsitani
+   :ID: READ.1521530404
+   :TASKID: READ.1521530404
+   :END:
+   https://cornice.readthedocs.io/en/latest/tutorial.html
