@@ -82,7 +82,7 @@
   :END:
 ** TODO Linux System Programming - Part II
    :PROPERTIES:
-   :ESTIMATED: 3.0
+   :ESTIMATED: 8.0
    :ACTUAL:
    :OWNER: shinigami47
    :ID: READ.1521529565
@@ -92,7 +92,7 @@
    - [ ] Chapter 2: File I/O
 ** TODO The C Programming Language - Part II
    :PROPERTIES:
-   :ESTIMATED: 6.0
+   :ESTIMATED: 4.0
    :ACTUAL:
    :OWNER: shinigami47
    :ID: READ.1521529601
