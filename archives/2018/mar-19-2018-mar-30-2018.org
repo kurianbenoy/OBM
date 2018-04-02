@@ -78,82 +78,19 @@
   :wpd-bhavin192: 1.25
   :wpd-gauravsitlani: 2
   :END:
-** TODO Linux System Programming - Part II
-   :PROPERTIES:
-   :ESTIMATED: 8.0
-   :ACTUAL:
-   :OWNER: shinigami47
-   :ID: READ.1521529565
-   :TASKID: READ.1521529565
-   :END:
-   By Robert Love.
-   - [ ] Chapter 2: File I/O
-** IN_PROGRESS The C Programming Language - Part II
-   :PROPERTIES:
-   :ESTIMATED: 4.0
-   :ACTUAL:   3.00
-   :OWNER: shinigami47
-   :ID: READ.1521529601
-   :TASKID: READ.1521529601
-   :END:
-   :LOGBOOK:
-   CLOCK: [2018-03-23 Fri 20:00]--[2018-03-23 Fri 21:00] =>  1:00
-   CLOCK: [2018-03-21 Wed 22:00]--[2018-03-21 Wed 23:00]  =>  1:00
-   CLOCK: [2018-03-20 Tue 22:00]--[2018-03-20 Tue 23:00]  =>  1:00
-   :END:
-   By Brian W. Kernighan and Dennis M. Ritchie.
-   - [ ] Chapter 5: Pointers and Arrays
-   - [ ] Chapter 6: Structures
-** TODO DCA preparation III
-   :PROPERTIES:
-   :ESTIMATED: 5.0
-   :ACTUAL:
-   :OWNER: bhavin192
-   :ID: READ.1521529732
-   :TASKID: READ.1521529732
-   :END:
-   - [ ] Installation and configuration
-** TODO DCA preparation IV
-   :PROPERTIES:
-   :ESTIMATED: 6.0
-   :ACTUAL:
-   :OWNER: bhavin192
-   :ID: READ.1521529753
-   :TASKID: READ.1521529753
-   :END:
-   - [ ] Networking
-** TODO DCA Preparation V
-   :PROPERTIES:
-   :ESTIMATED: 5.0
-   :ACTUAL:
-   :OWNER: bhavin192
-   :ID: READ.1521529765
-   :TASKID: READ.1521529765
-   :END:
-   - [ ] Security
-** TODO You Don't Know JavaScript: Async & Performance Part V [0/6]
-   :PROPERTIES:
-   :ESTIMATED: 13.0
-   :ACTUAL:
-   :OWNER: sandeepk
-   :ID: READ.1521530024
-   :TASKID: READ.1521530024
-   :END:
-   - [ ] Chapter 3: Promises                 (2h)
-   - [ ] Chapter 4: Generators               (3h)
-   - [ ] Chapter 5: Program Performance      (2h)
-   - [ ] Chapter 6: Benchmarking & Tuning    (2h)
-   - [ ] Appendix A: Library: asynquence     (2h)
-   - [ ] Appendix B: Advanced Async Patterns (2h)
-** IN_PROGRESS Pyramid Tutorial and Informational Videos [2/7]
+** IN_PROGRESS Pyramid Tutorial and Informational Videos [4/7]
    :PROPERTIES:
    :ESTIMATED: 19.0
-   :ACTUAL:   4.75
+   :ACTUAL:   13.00
    :OWNER: gauravsitlani
    :ID: READ.1521530120
    :TASKID: READ.1521530120
    :END:
    :LOGBOOK:
+   CLOCK: [2018-03-26 Mon 22:00]--[2018-03-27 Tue 00:30] =>  2:30
+   CLOCK: [2018-03-25 Sun 16:00]--[2018-03-25 Sun 18:00] =>  2:00
+   CLOCK: [2018-03-25 Sun 12:30]--[2018-03-25 Sun 14:30] =>  2:00
+   CLOCK: [2018-03-24 Sat 21:30]--[2018-03-24 Sat 23:15] =>  1:45
    CLOCK: [2018-03-21 Wed 22:00]--[2018-03-22 Thu 02:00] =>  4:00
    CLOCK: [2018-03-20 Tue 22:00]--[2018-03-20 Tue 22:45] =>  0:45
    :END:
@@ -162,8 +99,8 @@
    - [X] Daniel Nouri's "Writing A Pyramid Application"
      - [X] Part 1 (1h 30m)
      - [X] Part 2 (1h 45m) 
-   - [ ] Pyramid: Lighter, faster, better web apps - Mr. Dylan Jay (37m)
-   - [ ] Quick Tour of Pyramid (1h)
+   - [X] Pyramid: Lighter, faster, better web apps - Mr. Dylan Jay (37m)
+   - [X] Quick Tour of Pyramid (1h)
          https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tour.html
    - [ ] Quick Tutorial for Pyramid (6h)
          https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html
@@ -199,3 +136,105 @@
    :TASKID: READ.1521530404
    :END:
    https://cornice.readthedocs.io/en/latest/tutorial.html
+** DONE Linux System Programming - Part II
+   CLOSED: [2018-03-30 Fri 23:01]
+   :PROPERTIES:
+   :ESTIMATED: 8.0
+   :ACTUAL:   2.00
+   :OWNER: shinigami47
+   :ID: READ.1521529565
+   :TASKID: READ.1521529565
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-03-27 Tue 08:00]--[2018-03-27 Tue 10:00]  =>  2:00
+   :END:
+   By Robert Love.
+** DONE The C Programming Language - Part II
+   CLOSED: [2018-03-30 Fri 23:02]
+   :PROPERTIES:
+   :ESTIMATED: 4.0
+   :ACTUAL:   3.00
+   :OWNER: shinigami47
+   :ID: READ.1521529601
+   :TASKID: READ.1521529601
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-03-23 Fri 20:00]--[2018-03-23 Fri 21:00] =>  1:00
+   CLOCK: [2018-03-21 Wed 22:00]--[2018-03-21 Wed 23:00] =>  1:00
+   CLOCK: [2018-03-20 Tue 22:00]--[2018-03-20 Tue 23:00] =>  1:00
+   :END:
+   By Brian W. Kernighan and Dennis M. Ritchie.
+** DONE You Don't Know JavaScript: Async & Performance Part V [3/6]
+   CLOSED: [2018-03-30 Fri 23:00]
+   :PROPERTIES:
+   :ESTIMATED: 13.0
+   :ACTUAL:   8.33
+   :OWNER: sandeepk
+   :ID: READ.1521530024
+   :TASKID: READ.1521530024
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-03-30 Fri 23:00]--[2018-03-31 Sat 00:20] =>  1:20
+   CLOCK: [2018-03-30 Fri 20:00]--[2018-03-30 Fri 21:00] =>  1:00
+   CLOCK: [2018-03-29 Thu 20:00]--[2018-03-29 Thu 21:00] =>  1:00
+   CLOCK: [2018-03-28 Wed 23:00]--[2018-03-29 Thu 00:00] =>  1:00
+   CLOCK: [2018-03-27 Tue 23:00]--[2018-03-28 Wed 00:00] =>  1:00
+   CLOCK: [2018-03-27 Tue 19:20]--[2018-03-27 Tue 20:20] =>  1:00
+   CLOCK: [2018-03-26 Mon 19:50]--[2018-03-26 Mon 21:20] =>  1:30
+   CLOCK: [2018-03-23 Fri 21:00]--[2018-03-23 Fri 21:30] =>  0:30
+   :END:
+   - [X] Chapter 3: Promises                 (2h)
+   - [X] Chapter 4: Generators               (3h)
+   - [X] Chapter 5: Program Performance      (2h)
+** DONE DCA Preparation V
+   CLOSED: [2018-03-30 Fri 20:10]
+   :PROPERTIES:
+   :ESTIMATED: 5.0
+   :ACTUAL:   4.15
+   :OWNER: bhavin192
+   :ID: READ.1521529765
+   :TASKID: READ.1521529765
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-03-30 Fri 19:55]--[2018-03-30 Fri 21:15] =>  1:20
+   CLOCK: [2018-03-30 Fri 15:57]--[2018-03-30 Fri 16:50] =>  0:53
+   CLOCK: [2018-03-29 Thu 00:15]--[2018-03-29 Thu 00:31] =>  0:16
+   CLOCK: [2018-03-28 Wed 17:04]--[2018-03-28 Wed 17:28] =>  0:24
+   CLOCK: [2018-03-27 Tue 18:22]--[2018-03-27 Tue 19:38] =>  1:16
+   :END:
+   - [ ] Security
+** DONE DCA preparation IV
+   CLOSED: [2018-03-30 Fri 20:05]
+   :PROPERTIES:
+   :ESTIMATED: 6.0
+   :ACTUAL:   3.40
+   :OWNER: bhavin192
+   :ID: READ.1521529753
+   :TASKID: READ.1521529753
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-03-26 Mon 23:40]--[2018-03-27 Tue 00:05] =>  0:25
+   CLOCK: [2018-03-26 Mon 19:49]--[2018-03-26 Mon 20:22] =>  0:33
+   CLOCK: [2018-03-26 Mon 19:34]--[2018-03-26 Mon 19:45] =>  0:11
+   CLOCK: [2018-03-26 Mon 18:10]--[2018-03-26 Mon 19:00] =>  0:50
+   CLOCK: [2018-03-24 Sat 22:55]--[2018-03-25 Sun 00:20] =>  1:25
+
+   :END:
+   - [ ] Networking
+** DONE DCA preparation III
+   CLOSED: [2018-03-30 Fri 20:00]
+   :PROPERTIES:
+   :ESTIMATED: 5.0
+   :ACTUAL:   5.25
+   :OWNER: bhavin192
+   :ID: READ.1521529732
+   :TASKID: READ.1521529732
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-03-23 Fri 19:55]--[2018-03-23 Fri 20:22] =>  0:27
+   CLOCK: [2018-03-22 Thu 19:25]--[2018-03-22 Thu 20:29] =>  1:04
+   CLOCK: [2018-03-21 Wed 19:04]--[2018-03-21 Wed 20:13] =>  1:09
+   CLOCK: [2018-03-20 Tue 20:30]--[2018-03-20 Tue 21:46] =>  1:16
+   CLOCK: [2018-03-19 Mon 18:58]--[2018-03-19 Mon 20:17] =>  1:19
+   :END:
+   - [X] Installation and configuration

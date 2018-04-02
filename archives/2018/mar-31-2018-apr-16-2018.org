@@ -1,0 +1,107 @@
+#+TITLE: March 31, 2018 - April 16, 2018
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 17
+  :SPRINTSTART: <2018-03-31 Sat>
+  :wpd-fhackdroid:      6
+  :wpd-sandeepK:      1
+  :wpd-bhavin192:      1.25
+  :END:
+** Learning Go [0/10]
+   :PROPERTIES:
+   :ESTIMATED: 34.0
+   :ACTUAL:
+   :OWNER: fhackdroid
+   :ID: READ.1522649932
+   :TASKID: READ.1522649932
+   :END:
+   - [ ] Composite Types
+   - [ ] Functions 
+   - [ ] Methods 
+   - [ ] Interfaces 
+   - [ ] Go Routines 
+   - [ ] Concurrency 
+   - [ ] Packages 
+   - [ ] Testing 
+   - [ ] Reflection 
+   - [ ] Low level Programing
+** Pagure Tasks [0/2]
+   :PROPERTIES:
+   :ESTIMATED: 34.0
+   :ACTUAL:
+   :OWNER: fhackdroid
+   :ID: DEV.1522650205
+   :TASKID: DEV.1522650205
+   :END:
+   - [ ] Writing test for acls for private repo 
+   - [ ] Fixing issues with local auth
+** Lean Start Up
+   :PROPERTIES:
+   :ESTIMATED: 17.0
+   :ACTUAL:
+   :OWNER: fhackdroid
+   :ID: READ.1522650248
+   :TASKID: READ.1522650248
+   :END:
+** Read Go project source code
+   :PROPERTIES:
+   :ESTIMATED: 17.0
+   :ACTUAL:
+   :OWNER: fhackdroid
+   :ID: READ.1522650267
+   :TASKID: READ.1522650267
+   :END:
+** You Don't Know JavaScript: Async & Performance Part V [0/3]
+   :PROPERTIES:
+   :ESTIMATED: 6.0
+   :ACTUAL:
+   :OWNER: sandeepK
+   :ID: READ.1522650440
+   :TASKID: READ.1522650440
+   :END:
+   - [ ] Chapter 6: Benchmarking & Tuning    (2h)
+   - [ ] Appendix A: Library: asynquence     (2h)
+   - [ ] Appendix B: Advanced Async Patterns (2h)
+** You Don't Know JavaScript: ES6 & Beyond Part VI [0/4]
+   :PROPERTIES:
+   :ESTIMATED: 10.0
+   :ACTUAL:
+   :OWNER: sandeepK
+   :ID: READ.1522650516
+   :TASKID: READ.1522650516
+   :END:
+   - [ ] Chapter 1: ES? Now & Future -- 1 hour 
+   - [ ] Chapter 2: Syntax -- 3 hours 
+   - [ ] Chapter 3: Organization -- 3 hours 
+   - [ ] Chapter 4: Async Flow Control -- 3 hours
+** DCA Preparation VI [0/1]
+   :PROPERTIES:
+   :ESTIMATED: 2.0
+   :ACTUAL:
+   :OWNER: bhavin192
+   :ID: READ.1522650740
+   :TASKID: READ.1522650740
+   :END:
+   - [ ] Storage and Volumes

@@ -1,4 +1,4 @@
-gaREADME
+README
 ======
 
 "Operation Blue Moon" contains Org files for managing project tasks.
@@ -43,7 +43,6 @@ have the notion of time.
 Upcoming Sprints
 ================
 
-* March 31, 2018 - April 16, 2018
 * April 17, 2018 - April 28, 2018
 * April 29, 2018 - May   15, 2018
 * May   16, 2018 - May   28, 2018
