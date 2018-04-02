@@ -31,40 +31,52 @@
   :END:
 ** Learning Go [0/10]
    :PROPERTIES:
-   :ESTIMATED: 34.0
+   :ESTIMATED: 37.0
    :ACTUAL:
    :OWNER: fhackdroid
    :ID: READ.1522649932
    :TASKID: READ.1522649932
    :END:
-   - [ ] Composite Types
-   - [ ] Functions 
-   - [ ] Methods 
-   - [ ] Interfaces 
-   - [ ] Go Routines 
-   - [ ] Concurrency 
-   - [ ] Packages 
-   - [ ] Testing 
-   - [ ] Reflection 
-   - [ ] Low level Programing
+   - [ ] Composite Types      (3h)
+   - [ ] Functions            (3h)
+   - [ ] Methods              (4h)
+   - [ ] Interfaces           (4h)
+   - [ ] Go Routines          (4h)
+   - [ ] Concurrency          (4h)
+   - [ ] Packages             (4h)
+   - [ ] Testing              (4h)
+   - [ ] Reflection           (4h)
+   - [ ] Low level Programing (3h)
 ** Pagure Tasks [0/2]
    :PROPERTIES:
-   :ESTIMATED: 34.0
+   :ESTIMATED: 14.0
    :ACTUAL:
    :OWNER: fhackdroid
    :ID: DEV.1522650205
    :TASKID: DEV.1522650205
    :END:
-   - [ ] Writing test for acls for private repo 
-   - [ ] Fixing issues with local auth
-** Lean Start Up
+   - [ ] Writing test for acls for private repo (7h)
+   - [ ] Fixing issues with local auth          (7h)
+** Lean Start Up [0/0]
    :PROPERTIES:
-   :ESTIMATED: 17.0
+   :ESTIMATED: 24.0
    :ACTUAL:
    :OWNER: fhackdroid
    :ID: READ.1522650248
    :TASKID: READ.1522650248
    :END:
+   - [ ] Start      (2h)
+   - [ ] Define     (2h)
+   - [ ] Learn      (2h)
+   - [ ] Experiment (2h)
+   - [ ] Leap       (2h)
+   - [ ] Test       (2h)
+   - [ ] Measure    (2h)
+   - [ ] Pivot      (2h)
+   - [ ] Batch      (2h)
+   - [ ] Grow       (2h)
+   - [ ] Adapt      (2h)
+   - [ ] Innovate   (2h)
 ** Read Go project source code
    :PROPERTIES:
    :ESTIMATED: 17.0
