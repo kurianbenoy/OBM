@@ -6,23 +6,25 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO                                            | NEXT | IN_PROGRESS                                     | WAITING | DONE | CANCELED |
-|-------------------------------------------------+------+-------------------------------------------------+---------+------+----------|
-| READ.1521529565. Linux System Programming - Par |      | READ.1521529601. The C Programming Language - P |         |      |          |
-| READ.1521529732. DCA preparation III            |      | READ.1521530120. Pyramid Tutorial and Informati |         |      |          |
-| READ.1521529753. DCA preparation IV             |      |                                                 |         |      |          |
-| READ.1521529765. DCA Preparation V              |      |                                                 |         |      |          |
-| READ.1521530024. You Don't Know JavaScript: Asy |      |                                                 |         |      |          |
-| READ.1521530404. Cornice                        |      |                                                 |         |      |          |
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | READ.1521530404. Cornice (2018-03-30)                        |          |
+|      |      |             |         | READ.1521530120. Pyramid Tutorial and Informati (2018-03-30) |          |
+|      |      |             |         | READ.1521529565. Linux System Programming - Par (2018-03-30) |          |
+|      |      |             |         | READ.1521529601. The C Programming Language - P (2018-03-30) |          |
+|      |      |             |         | READ.1521530024. You Don't Know JavaScript: Asy (2018-03-30) |          |
+|      |      |             |         | READ.1521529765. DCA Preparation V (2018-03-30)              |          |
+|      |      |             |         | READ.1521529753. DCA preparation IV (2018-03-30)             |          |
+|      |      |             |         | READ.1521529732. DCA preparation III (2018-03-30)            |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |---------------+-----------+--------+------+-----------+--------------+------------|
-| Gauravsitlani |      23.0 |   4.75 |    0 |      23.0 |   2018-04-13 | ---------- |
-| Bhavin192     |      16.0 |      0 |    0 |      16.0 |   2018-04-16 | ---------- |
-| Shinigami47   |      12.0 |    3.0 |    0 |      12.0 |   2018-04-05 | ---------- |
-| Sandeepk      |      13.0 |      0 |    0 |      13.0 |   2018-04-16 | ---------- |
+| Gauravsitlani |      23.0 |   22.0 | 23.0 |         0 |   2018-04-02 | ########## |
+| Bhavin192     |      16.0 |   12.8 | 16.0 |         0 |   2018-04-02 | ########## |
+| Shinigami47   |      12.0 |    5.0 | 12.0 |         0 |   2018-04-02 | ########## |
+| Sandeepk      |      13.0 |   8.33 | 13.0 |         0 |   2018-04-02 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -31,42 +33,42 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:12]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2018-03-19 |   64.0 |    59 |                 |
-|   2 | 2018-03-20 |   64.0 |    53 |                 |
-|   3 | 2018-03-21 |   64.0 |    48 |                 |
-|   4 | 2018-03-22 |   64.0 |    43 |                 |
-|   5 | 2018-03-23 |   64.0 |    37 |                 |
-|   6 | 2018-03-24 |   64.0 |    32 |                 |
-|   7 | 2018-03-25 |   64.0 |    27 |                 |
-|   8 | 2018-03-26 |   64.0 |    21 |                 |
-|   9 | 2018-03-27 |   64.0 |    16 |                 |
-|  10 | 2018-03-28 |   64.0 |    11 |                 |
-|  11 | 2018-03-29 |        |     5 |                 |
-|  12 | 2018-03-30 |        |     0 |                 |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                                                                                                 |
+|-----+------------+--------+-------+---------------------------------------------------------------------------------------------------------------------------------|
+|   1 | 2018-03-19 |   64.0 |    59 |                                                                                                                                 |
+|   2 | 2018-03-20 |   64.0 |    53 |                                                                                                                                 |
+|   3 | 2018-03-21 |   64.0 |    48 |                                                                                                                                 |
+|   4 | 2018-03-22 |   64.0 |    43 |                                                                                                                                 |
+|   5 | 2018-03-23 |   64.0 |    37 |                                                                                                                                 |
+|   6 | 2018-03-24 |   64.0 |    32 |                                                                                                                                 |
+|   7 | 2018-03-25 |   64.0 |    27 |                                                                                                                                 |
+|   8 | 2018-03-26 |   64.0 |    21 |                                                                                                                                 |
+|   9 | 2018-03-27 |   64.0 |    16 |                                                                                                                                 |
+|  10 | 2018-03-28 |   64.0 |    11 |                                                                                                                                 |
+|  11 | 2018-03-29 |   64.0 |     5 |                                                                                                                                 |
+|  12 | 2018-03-30 |    0.0 |     0 | READ.1521529732 READ.1521529753 READ.1521529765 READ.1521530024 READ.1521529601 READ.1521529565 READ.1521530120 READ.1521530404 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                                                  | TASKID          | OWNER         | PRIORITY | TODO        | ESTIMATED | ACTUAL |
-|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| TASKS                                                 |                 |               | B        |             |      64.0 |   7.75 |
-|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| Linux System Programming - Part II                    | READ.1521529565 | shinigami47   | B        | TODO        |       8.0 |        |
-|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| The C Programming Language - Part II                  | READ.1521529601 | shinigami47   | B        | IN_PROGRESS |       4.0 |   3.00 |
-|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| DCA preparation III                                   | READ.1521529732 | bhavin192     | B        | TODO        |       5.0 |        |
-|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| DCA preparation IV                                    | READ.1521529753 | bhavin192     | B        | TODO        |       6.0 |        |
-|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| DCA Preparation V                                     | READ.1521529765 | bhavin192     | B        | TODO        |       5.0 |        |
-|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| You Don't Know JavaScript: Async & Performance Part V | READ.1521530024 | sandeepk      | B        | TODO        |      13.0 |        |
-|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| Pyramid Tutorial and Informational Videos             | READ.1521530120 | gauravsitlani | B        | IN_PROGRESS |      19.0 |   4.75 |
-|-------------------------------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
-| Cornice                                               | READ.1521530404 | gauravsitlani | B        | TODO        |       4.0 |        |
+| ITEM                                                  | TASKID          | OWNER         | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|-------------------------------------------------------+-----------------+---------------+----------+------+-----------+--------------------|
+| TASKS                                                 |                 |               | B        |      |      64.0 | 48.129999999999995 |
+|-------------------------------------------------------+-----------------+---------------+----------+------+-----------+--------------------|
+| Cornice                                               | READ.1521530404 | gauravsitlani | B        | DONE |       4.0 |               1.00 |
+|-------------------------------------------------------+-----------------+---------------+----------+------+-----------+--------------------|
+| Pyramid Tutorial and Informational Videos             | READ.1521530120 | gauravsitlani | B        | DONE |      19.0 |              21.00 |
+|-------------------------------------------------------+-----------------+---------------+----------+------+-----------+--------------------|
+| Linux System Programming - Part II                    | READ.1521529565 | shinigami47   | B        | DONE |       8.0 |               2.00 |
+|-------------------------------------------------------+-----------------+---------------+----------+------+-----------+--------------------|
+| The C Programming Language - Part II                  | READ.1521529601 | shinigami47   | B        | DONE |       4.0 |               3.00 |
+|-------------------------------------------------------+-----------------+---------------+----------+------+-----------+--------------------|
+| You Don't Know JavaScript: Async & Performance Part V | READ.1521530024 | sandeepk      | B        | DONE |      13.0 |               8.33 |
+|-------------------------------------------------------+-----------------+---------------+----------+------+-----------+--------------------|
+| DCA Preparation V                                     | READ.1521529765 | bhavin192     | B        | DONE |       5.0 |               4.15 |
+|-------------------------------------------------------+-----------------+---------------+----------+------+-----------+--------------------|
+| DCA preparation IV                                    | READ.1521529753 | bhavin192     | B        | DONE |       6.0 |               3.40 |
+|-------------------------------------------------------+-----------------+---------------+----------+------+-----------+--------------------|
+| DCA preparation III                                   | READ.1521529732 | bhavin192     | B        | DONE |       5.0 |               5.25 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -78,15 +80,33 @@
   :wpd-bhavin192: 1.25
   :wpd-gauravsitlani: 2
   :END:
-** IN_PROGRESS Pyramid Tutorial and Informational Videos [4/7]
+** DONE Cornice
+   CLOSED: [2018-03-30 Fri 23:10]
+   :PROPERTIES:
+   :ESTIMATED: 4.0
+   :ACTUAL:   1.00
+   :OWNER: gauravsitlani
+   :ID: READ.1521530404
+   :TASKID: READ.1521530404
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-03-30 Fri 23:00]--[2018-03-31 Sat 00:00] =>  1:00
+   :END:
+   https://cornice.readthedocs.io/en/latest/tutorial.html
+** DONE Pyramid Tutorial and Informational Videos [7/7]
+   CLOSED: [2018-03-30 Fri 23:10]
    :PROPERTIES:
    :ESTIMATED: 19.0
-   :ACTUAL:   13.00
+   :ACTUAL:   21.00
    :OWNER: gauravsitlani
    :ID: READ.1521530120
    :TASKID: READ.1521530120
    :END:
    :LOGBOOK:
+   CLOCK: [2018-03-30 Fri 21:00]--[2018-03-30 Fri 23:00] =>  2:00
+   CLOCK: [2018-03-30 Fri 18:00]--[2018-03-30 Fri 20:00] =>  2:00
+   CLOCK: [2018-03-29 Thu 20:00]--[2018-03-30 Fri 00:00] =>  4:00
+
    CLOCK: [2018-03-26 Mon 22:00]--[2018-03-27 Tue 00:30] =>  2:30
    CLOCK: [2018-03-25 Sun 16:00]--[2018-03-25 Sun 18:00] =>  2:00
    CLOCK: [2018-03-25 Sun 12:30]--[2018-03-25 Sun 14:30] =>  2:00
@@ -102,40 +122,31 @@
    - [X] Pyramid: Lighter, faster, better web apps - Mr. Dylan Jay (37m)
    - [X] Quick Tour of Pyramid (1h)
          https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tour.html
-   - [ ] Quick Tutorial for Pyramid (6h)
+   - [X] Quick Tutorial for Pyramid (6h)
          https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html
-     - [ ] 01: Single-File Web Applications
-     - [ ] 02: Python Packages for Pyramid Applications
-     - [ ] 03: Application Configuration with .ini Files
-     - [ ] 04: Easier Development with debugtoolbar
-     - [ ] 05: Unit Tests and pytest
-     - [ ] 06: Functional Testing with WebTest
-     - [ ] 07: Basic Web Handling With Views
-     - [ ] 08: HTML Generation With Templating
-     - [ ] 09: Organizing Views With View Classes
-     - [ ] 10: Handling Web Requests and Responses
-     - [ ] 11: Dispatching URLs To Views With Routing
-     - [ ] 12: Templating With jinja2
-     - [ ] 13: CSS/JS/Images Files With Static Assets
-     - [ ] 14: AJAX Development With JSON Renderers
-     - [ ] 15: More With View Classes
-     - [ ] 16: Collecting Application Info With Logging
-     - [ ] 17: Transient Data Using Sessions
-     - [ ] 18: Forms and Validation with Deform
-     - [ ] 19: Databases Using SQLAlchemy
-     - [ ] 20: Logins with authentication
-     - [ ] 21: Protecting Resources With Authorization
-   - [ ] SQLAlchemy + URL dispatch wiki tutorial (3.5h)
-   - [ ] ZODB + Traversal Wiki Tutorial (3.5h)
-** TODO Cornice
-   :PROPERTIES:
-   :ESTIMATED: 4.0
-   :ACTUAL:
-   :OWNER: gauravsitlani
-   :ID: READ.1521530404
-   :TASKID: READ.1521530404
-   :END:
-   https://cornice.readthedocs.io/en/latest/tutorial.html
+     - [X] 01: Single-File Web Applications
+     - [X] 02: Python Packages for Pyramid Applications
+     - [X] 03: Application Configuration with .ini Files
+     - [X] 04: Easier Development with debugtoolbar
+     - [X] 05: Unit Tests and pytest
+     - [X] 06: Functional Testing with WebTest
+     - [X] 07: Basic Web Handling With Views
+     - [X] 08: HTML Generation With Templating
+     - [X] 09: Organizing Views With View Classes
+     - [X] 10: Handling Web Requests and Responses
+     - [X] 11: Dispatching URLs To Views With Routing
+     - [X] 12: Templating With jinja2
+     - [X] 13: CSS/JS/Images Files With Static Assets
+     - [X] 14: AJAX Development With JSON Renderers
+     - [X] 15: More With View Classes
+     - [X] 16: Collecting Application Info With Logging
+     - [X] 17: Transient Data Using Sessions
+     - [X] 18: Forms and Validation with Deform
+     - [X] 19: Databases Using SQLAlchemy
+     - [X] 20: Logins with authentication
+     - [X] 21: Protecting Resources With Authorization
+   - [X] SQLAlchemy + URL dispatch wiki tutorial (3.5h)
+   - [X] ZODB + Traversal Wiki Tutorial (3.5h)
 ** DONE Linux System Programming - Part II
    CLOSED: [2018-03-30 Fri 23:01]
    :PROPERTIES:
