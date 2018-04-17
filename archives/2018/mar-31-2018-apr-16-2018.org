@@ -6,16 +6,23 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
-|------+------+-------------+---------+------+----------|
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | READ.1522649932. Learning Go (2018-04-16)                    |          |
+|      |      |             |         | DEV.1522650205. Pagure Tasks (2018-04-16)                    |          |
+|      |      |             |         | READ.1522650248. Lean Start Up (2018-04-16)                  |          |
+|      |      |             |         | READ.1522650267. Read Go project source code (2018-04-16)    |          |
+|      |      |             |         | READ.1522650516. You Don't Know JavaScript: ES6 (2018-04-16) |          |
+|      |      |             |         | READ.1522650740. DCA Preparation VI (2018-04-05)             |          |
+|      |      |             |         | READ.1522650440. You Don't Know JavaScript: Asy (2018-04-04) |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
-| NAME       | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
-|------------+-----------+--------+------+-----------+--------------+------------|
-| Bhavin192  |         0 |      0 |    0 |         0 |   2018-04-02 | ---------- |
-| Sandeepk   |         0 |      0 |    0 |         0 |   2018-04-02 | ---------- |
-| Fhackdroid |         0 |      0 |    0 |         0 |   2018-04-02 | ---------- |
+| NAME       | ESTIMATED |            ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------+-----------+-------------------+------+-----------+--------------+------------|
+| Bhavin192  |       2.0 |              2.78 |  2.0 |         0 |   2018-04-17 | ########## |
+| Sandeepk   |      16.0 |              12.5 | 16.0 |         0 |   2018-04-17 | ########## |
+| Fhackdroid |      92.0 | 72.08000000000001 | 92.0 |         0 |   2018-04-17 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -24,45 +31,45 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2018-03-31 |  110.0 |   104 |                 |
-|   2 | 2018-04-01 |  110.0 |    97 |                 |
-|   3 | 2018-04-02 |  110.0 |    91 |                 |
-|   4 | 2018-04-03 |        |    84 |                 |
-|   5 | 2018-04-04 |        |    78 |                 |
-|   6 | 2018-04-05 |        |    71 |                 |
-|   7 | 2018-04-06 |        |    65 |                 |
-|   8 | 2018-04-07 |        |    58 |                 |
-|   9 | 2018-04-08 |        |    52 |                 |
-|  10 | 2018-04-09 |        |    45 |                 |
-|  11 | 2018-04-10 |        |    39 |                 |
-|  12 | 2018-04-11 |        |    32 |                 |
-|  13 | 2018-04-12 |        |    26 |                 |
-|  14 | 2018-04-13 |        |    19 |                 |
-|  15 | 2018-04-14 |        |    13 |                 |
-|  16 | 2018-04-15 |        |     6 |                 |
-|  17 | 2018-04-16 |        |     0 |                 |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                                                |
+|-----+------------+--------+-------+--------------------------------------------------------------------------------|
+|   1 | 2018-03-31 |  110.0 |   104 |                                                                                |
+|   2 | 2018-04-01 |  110.0 |    97 |                                                                                |
+|   3 | 2018-04-02 |  110.0 |    91 |                                                                                |
+|   4 | 2018-04-03 |  110.0 |    84 |                                                                                |
+|   5 | 2018-04-04 |  104.0 |    78 | READ.1522650440                                                                |
+|   6 | 2018-04-05 |  102.0 |    71 | READ.1522650740                                                                |
+|   7 | 2018-04-06 |  102.0 |    65 |                                                                                |
+|   8 | 2018-04-07 |  102.0 |    58 |                                                                                |
+|   9 | 2018-04-08 |  102.0 |    52 |                                                                                |
+|  10 | 2018-04-09 |  102.0 |    45 |                                                                                |
+|  11 | 2018-04-10 |  102.0 |    39 |                                                                                |
+|  12 | 2018-04-11 |  102.0 |    32 |                                                                                |
+|  13 | 2018-04-12 |  102.0 |    26 |                                                                                |
+|  14 | 2018-04-13 |  102.0 |    19 |                                                                                |
+|  15 | 2018-04-14 |  102.0 |    13 |                                                                                |
+|  16 | 2018-04-15 |  102.0 |     6 |                                                                                |
+|  17 | 2018-04-16 |    0.0 |     0 | READ.1522650516 READ.1522650267 READ.1522650248 DEV.1522650205 READ.1522649932 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                                                  | TASKID          | OWNER      | PRIORITY | TODO | ESTIMATED | ACTUAL |
-|-------------------------------------------------------+-----------------+------------+----------+------+-----------+--------|
-| TASKS                                                 |                 |            | B        |      |     110.0 |        |
-|-------------------------------------------------------+-----------------+------------+----------+------+-----------+--------|
-| Learning Go                                           | READ.1522649932 | fhackdroid | B        |      |      37.0 |        |
-|-------------------------------------------------------+-----------------+------------+----------+------+-----------+--------|
-| Pagure Tasks                                          | DEV.1522650205  | fhackdroid | B        |      |      14.0 |        |
-|-------------------------------------------------------+-----------------+------------+----------+------+-----------+--------|
-| Lean Start Up                                         | READ.1522650248 | fhackdroid | B        |      |      24.0 |        |
-|-------------------------------------------------------+-----------------+------------+----------+------+-----------+--------|
-| Read Go project source code                           | READ.1522650267 | fhackdroid | B        |      |      17.0 |        |
-|-------------------------------------------------------+-----------------+------------+----------+------+-----------+--------|
-| You Don't Know JavaScript: Async & Performance Part V | READ.1522650440 | sandeepK   | B        |      |       6.0 |        |
-|-------------------------------------------------------+-----------------+------------+----------+------+-----------+--------|
-| You Don't Know JavaScript: ES6 & Beyond Part VI       | READ.1522650516 | sandeepK   | B        |      |      10.0 |        |
-|-------------------------------------------------------+-----------------+------------+----------+------+-----------+--------|
-| DCA Preparation VI                                    | READ.1522650740 | bhavin192  | B        |      |       2.0 |        |
+| ITEM                                                  | TASKID          | OWNER      | PRIORITY | TODO | ESTIMATED |            ACTUAL |
+|-------------------------------------------------------+-----------------+------------+----------+------+-----------+-------------------|
+| TASKS                                                 |                 |            | B        |      |     110.0 | 87.36000000000001 |
+|-------------------------------------------------------+-----------------+------------+----------+------+-----------+-------------------|
+| Learning Go                                           | READ.1522649932 | fhackdroid | B        | DONE |      37.0 |             38.63 |
+|-------------------------------------------------------+-----------------+------------+----------+------+-----------+-------------------|
+| Pagure Tasks                                          | DEV.1522650205  | fhackdroid | B        | DONE |      14.0 |              8.02 |
+|-------------------------------------------------------+-----------------+------------+----------+------+-----------+-------------------|
+| Lean Start Up                                         | READ.1522650248 | fhackdroid | B        | DONE |      24.0 |              9.38 |
+|-------------------------------------------------------+-----------------+------------+----------+------+-----------+-------------------|
+| Read Go project source code                           | READ.1522650267 | fhackdroid | B        | DONE |      17.0 |             16.05 |
+|-------------------------------------------------------+-----------------+------------+----------+------+-----------+-------------------|
+| You Don't Know JavaScript: Async & Performance Part V | READ.1522650440 | sandeepK   | B        | DONE |       6.0 |              2.67 |
+|-------------------------------------------------------+-----------------+------------+----------+------+-----------+-------------------|
+| You Don't Know JavaScript: ES6 & Beyond Part VI       | READ.1522650516 | sandeepK   | B        | DONE |      10.0 |              9.83 |
+|-------------------------------------------------------+-----------------+------------+----------+------+-----------+-------------------|
+| DCA Preparation VI                                    | READ.1522650740 | bhavin192  | B        | DONE |       2.0 |              2.78 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -73,91 +80,139 @@
   :wpd-sandeepK:      1
   :wpd-bhavin192:      1.25
   :END:
-** Learning Go [0/10]
+** DONE Learning Go - Part I [5/5]
+   CLOSED: [2018-04-16 Mon 22:00]
    :PROPERTIES:
    :ESTIMATED: 37.0
-   :ACTUAL:
+   :ACTUAL:   38.63
    :OWNER: fhackdroid
    :ID: READ.1522649932
    :TASKID: READ.1522649932
    :END:
-   - [ ] Composite Types      (3h)
-   - [ ] Functions            (3h)
-   - [ ] Methods              (4h)
-   - [ ] Interfaces           (4h)
-   - [ ] Go Routines          (4h)
-   - [ ] Concurrency          (4h)
-   - [ ] Packages             (4h)
-   - [ ] Testing              (4h)
-   - [ ] Reflection           (4h)
-   - [ ] Low level Programing (3h)
-** Pagure Tasks [0/2]
+   :LOGBOOK:
+   CLOCK: [2018-04-15 Sun 10:29]--[2018-04-15 Sun 14:31] =>  4:02
+   CLOCK: [2018-04-14 Sat 17:30]--[2018-04-15 Sun 00:00] =>  6:30
+   CLOCK: [2018-04-13 Fri 19:30]--[2018-04-13 Fri 21:30] =>  2:00
+   CLOCK: [2018-04-12 Thu 13:37]--[2018-04-12 Thu 17:35] =>  3:58
+   CLOCK: [2018-04-11 Wed 13:58]--[2018-04-11 Wed 20:28] =>  6:30
+   CLOCK: [2018-04-05 Thu 09:01]--[2018-04-05 Thu 14:07] =>  5:06
+   CLOCK: [2018-04-03 Tue 11:29]--[2018-04-03 Tue 14:54] =>  3:25
+   CLOCK: [2018-04-02 Mon 11:42]--[2018-04-02 Mon 18:49] =>  7:07
+   :END:
+   - [X] Composite Types      (3h)
+   - [X] Functions            (3h)
+   - [X] Methods              (4h)
+   - [X] Interfaces           (4h)
+   - [X] Go Routines          (4h)
+** DONE Pagure Tasks - Part I [1/1]
+   CLOSED: [2018-04-16 Mon 22:30]
    :PROPERTIES:
    :ESTIMATED: 14.0
-   :ACTUAL:
+   :ACTUAL:   8.02
    :OWNER: fhackdroid
    :ID: DEV.1522650205
    :TASKID: DEV.1522650205
    :END:
-   - [ ] Writing test for acls for private repo (7h)
-   - [ ] Fixing issues with local auth          (7h)
-** Lean Start Up [0/12]
+   :LOGBOOK:
+   CLOCK: [2018-04-11 Wed 20:29]--[2018-04-11 Wed 21:02] =>  0:33
+   CLOCK: [2018-04-05 Thu 08:18]--[2018-04-05 Thu 08:23] =>  0:05
+   CLOCK: [2018-04-04 Wed 20:16]--[2018-04-05 Thu 00:30] =>  4:14
+   CLOCK: [2018-04-03 Tue 19:47]--[2018-04-03 Tue 22:56] =>  3:09
+   :END:
+   - [X] Writing test for acls for private repo (7h)
+** DONE Lean Start Up - Part I [6/6]
+   CLOSED: [2018-04-16 Mon 23:10]
    :PROPERTIES:
    :ESTIMATED: 24.0
-   :ACTUAL:
+   :ACTUAL:   9.38
    :OWNER: fhackdroid
    :ID: READ.1522650248
    :TASKID: READ.1522650248
    :END:
-   - [ ] Start      (2h)
-   - [ ] Define     (2h)
-   - [ ] Learn      (2h)
-   - [ ] Experiment (2h)
-   - [ ] Leap       (2h)
-   - [ ] Test       (2h)
-   - [ ] Measure    (2h)
-   - [ ] Pivot      (2h)
-   - [ ] Batch      (2h)
-   - [ ] Grow       (2h)
-   - [ ] Adapt      (2h)
-   - [ ] Innovate   (2h)
-** Read Go project source code
+   :LOGBOOK:
+   CLOCK: [2018-04-13 Fri 22:30]--[2018-04-13 Fri 23:30] =>  1:00
+   CLOCK: [2018-04-12 Thu 21:04]--[2018-04-12 Thu 22:02] =>  0:58
+   CLOCK: [2018-04-04 Wed 19:05]--[2018-04-04 Wed 20:10] =>  1:05
+   CLOCK: [2018-04-03 Tue 15:11]--[2018-04-03 Tue 19:33] =>  4:22
+   CLOCK: [2018-04-02 Mon 20:39]--[2018-04-02 Mon 22:37] =>  1:58
+   :END:
+   - [X] Start      (2h)
+   - [X] Define     (2h)
+   - [X] Learn      (2h)
+   - [X] Experiment (2h)
+   - [X] Leap       (2h)
+   - [X] Test       (2h)
+** DONE Read Go project source code
+   CLOSED: [2018-04-16 Mon 23:00]
    :PROPERTIES:
    :ESTIMATED: 17.0
-   :ACTUAL:
+   :ACTUAL:   16.05
    :OWNER: fhackdroid
    :ID: READ.1522650267
    :TASKID: READ.1522650267
    :END:
-** You Don't Know JavaScript: Async & Performance Part V [0/3]
+   :LOGBOOK:
+   CLOCK: [2018-04-14 Sat 09:00]--[2018-04-14 Sat 13:30] =>  4:30
+   CLOCK: [2018-04-13 Fri 17:55]--[2018-04-13 Fri 19:04] =>  1:09
+   CLOCK: [2018-04-13 Fri 11:13]--[2018-04-13 Fri 13:29] =>  2:16
+   CLOCK: [2018-04-13 Fri 00:00]--[2018-04-13 Fri 00:08] =>  0:08
+   CLOCK: [2018-04-12 Thu 19:20]--[2018-04-13 Fri 00:00] =>  4:40
+   CLOCK: [2018-04-11 Wed 21:30]--[2018-04-11 Wed 23:30] =>  2:00
+   CLOCK: [2018-04-05 Thu 18:30]--[2018-04-05 Thu 19:50] =>  1:20
+   :END:
+** DONE You Don't Know JavaScript: Async & Performance Part V [2/2]
+   CLOSED: [2018-04-04 Wed 22:00]
    :PROPERTIES:
    :ESTIMATED: 6.0
-   :ACTUAL:
+   :ACTUAL:   2.67
    :OWNER: sandeepK
    :ID: READ.1522650440
    :TASKID: READ.1522650440
    :END:
-   - [ ] Chapter 6: Benchmarking & Tuning    (2h)
-   - [ ] Appendix A: Library: asynquence     (2h)
-   - [ ] Appendix B: Advanced Async Patterns (2h)
-** You Don't Know JavaScript: ES6 & Beyond Part VI [0/4]
+   :LOGBOOK:
+    CLOCK: [2018-04-04 Wed 20:40]--[2018-04-04 Wed 21:30] =>  0:50
+    CLOCK: [2018-04-03 Tue 19:40]--[2018-04-03 Tue 21:00] =>  1:20
+    CLOCK: [2018-04-02 Mon 21:00]--[2018-04-02 Mon 21:30] =>  0:30
+   :END:
+   - [X] Chapter 6: Benchmarking & Tuning    (2h)
+   - [X] Appendix A: Library: asynquence     (2h)
+** DONE You Don't Know JavaScript: ES6 & Beyond Part VI [4/4]
+   CLOSED: [2018-04-16 Mon 00:00]
    :PROPERTIES:
    :ESTIMATED: 10.0
-   :ACTUAL:
+   :ACTUAL:   9.83
    :OWNER: sandeepK
    :ID: READ.1522650516
    :TASKID: READ.1522650516
    :END:
-   - [ ] Chapter 1: ES? Now & Future -- 1 hour 
-   - [ ] Chapter 2: Syntax -- 3 hours 
-   - [ ] Chapter 3: Organization -- 3 hours 
-   - [ ] Chapter 4: Async Flow Control -- 3 hours
-** DCA Preparation VI [0/1]
+   :LOGBOOK:
+   CLOCK: [2018-04-16 Mon 23:30]--[2018-04-17 Tue 00:55] =>  1:25
+   CLOCK: [2018-04-15 Sun 23:40]--[2018-04-16 Mon 00:55] =>  1:15
+   CLOCK: [2018-04-15 Sun 01:30]--[2018-04-15 Sun 03:00] =>  1:30
+   CLOCK: [2018-04-14 Sat 22:40]--[2018-04-15 Sun 00:10] =>  1:30
+   CLOCK: [2018-04-13 Fri 23:00]--[2018-04-14 Sat 00:00] =>  1:00
+   CLOCK: [2018-04-12 Thu 21:00]--[2018-04-12 Thu 22:00] =>  1:00
+   CLOCK: [2018-04-10 Tue 09:00]--[2018-04-10 Tue 10:00] =>  1:00
+   CLOCK: [2018-04-09 Mon 23:30]--[2018-04-10 Tue 00:10] =>  0:40
+   CLOCK: [2018-04-05 Thu 20:20]--[2018-04-05 Thu 20:50] =>  0:30
+   :END:
+   - [X] Chapter 1: ES? Now & Future -- 1 hour 
+   - [X] Chapter 2: Syntax -- 3 hours 
+   - [X] Chapter 3: Organization -- 3 hours 
+   - [X] Chapter 4: Async Flow Control -- 3 hours
+** DONE DCA Preparation VI [1/1]
+   CLOSED: [2018-04-05 Thu 21:00]
    :PROPERTIES:
    :ESTIMATED: 2.0
-   :ACTUAL:
+   :ACTUAL:   2.78
    :OWNER: bhavin192
    :ID: READ.1522650740
    :TASKID: READ.1522650740
    :END:
-   - [ ] Storage and Volumes
+   :LOGBOOK:
+   CLOCK: [2018-04-05 Thu 20:15]--[2018-04-05 Thu 20:50] =>  0:35
+   CLOCK: [2018-04-04 Wed 18:15]--[2018-04-04 Wed 19:18] =>  1:03
+   CLOCK: [2018-04-03 Tue 19:25]--[2018-04-03 Tue 19:35] =>  0:10
+   CLOCK: [2018-04-02 Mon 19:45]--[2018-04-02 Mon 20:44] =>  0:59
+   :END:
+   - [X] Storage and Volumes
