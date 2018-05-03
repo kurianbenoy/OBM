@@ -6,19 +6,78 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | READ.1523948235. You Don't Know JavaScript: Asy (2018-04-29) |          |
+|      |      |             |         | READ.1523948341. Learning Go - Part II (2018-04-28)          |          |
+|      |      |             |         | READ.1523948385. Lean Start Up - Part II (2018-04-28)        |          |
+|      |      |             |         | READ.1523948189. You Don't Know JavaScript: Asy (2018-04-27) |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME       | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------+-----------+--------+------+-----------+--------------+------------|
+| Fhackdroid |      31.0 |  19.67 | 31.0 |         0 |   2018-05-03 | ########## |
+| Sandeepk   |      13.0 |   7.78 | 13.0 |         0 |   2018-05-03 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  45 +---------------------------------------------------------------------+   
+:     |                                                                     |   
+:  40 |+    ......                                           ACTUAL #######+|   
+:     |           .                                           IDEAL ....... |   
+:  35 |+           ......                                                  +|   
+:     |                  .....                                              |   
+:  30 |+                      .                                            +|   
+:     |                        .......                                      |   
+:  25 |+                              .....                                +|   
+:     |                                    .                                |   
+:  20 |+                                    ......                         +|   
+:     |                                           .                         |   
+:  15 |+                                           ......                  +|   
+:     |                                                  .....              |   
+:  10 |+                                                      .            +|   
+:     |                                                        .......      |   
+:   5 |+                                                              .....+|   
+:     |                                                                    .|   
+:   0 +---------------------------------------------------------------------+   
+:     0            2           4            6            8            10        
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:11]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2018-04-17 |   44.0 |    40 |                 |
+|   2 | 2018-04-18 |   44.0 |    36 |                 |
+|   3 | 2018-04-19 |   44.0 |    32 |                 |
+|   4 | 2018-04-20 |   44.0 |    28 |                 |
+|   5 | 2018-04-21 |   44.0 |    24 |                 |
+|   6 | 2018-04-22 |   44.0 |    20 |                 |
+|   7 | 2018-04-23 |   44.0 |    16 |                 |
+|   8 | 2018-04-24 |   44.0 |    12 |                 |
+|   9 | 2018-04-25 |   44.0 |     8 |                 |
+|  10 | 2018-04-26 |   44.0 |     4 |                 |
+|  11 | 2018-04-27 |   42.0 |     0 | READ.1523948189 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                                   | TASKID          | OWNER      | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|--------------------------------------------------------+-----------------+------------+----------+------+-----------+--------------------|
+| TASKS                                                  |                 |            | B        |      |      44.0 | 27.450000000000003 |
+|--------------------------------------------------------+-----------------+------------+----------+------+-----------+--------------------|
+| You Don't Know JavaScript: Async & Performance Part V  | READ.1523948189 | sandeepK   | B        | DONE |       2.0 |               1.80 |
+|--------------------------------------------------------+-----------------+------------+----------+------+-----------+--------------------|
+| You Don't Know JavaScript: Async & Performance Part VI | READ.1523948235 | sandeepK   | B        | DONE |      11.0 |               5.98 |
+|--------------------------------------------------------+-----------------+------------+----------+------+-----------+--------------------|
+| Learning Go - Part II                                  | READ.1523948341 | fhackdroid | B        | DONE |        19 |               5.00 |
+|--------------------------------------------------------+-----------------+------------+----------+------+-----------+--------------------|
+| Lean Start Up - Part II                                | READ.1523948385 | fhackdroid | B        | DONE |      12.0 |              14.67 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -28,66 +87,82 @@
   :wpd-sandeepK:      1
   :wpd-fhackdroid:    4
   :END:
-** You Don't Know JavaScript: Async & Performance Part V [0/1]
+** DONE You Don't Know JavaScript: Async & Performance Part V [1/1]
+   CLOSED: [2018-04-27 Fri 17:02]
    :PROPERTIES:
    :ESTIMATED: 2.0
-   :ACTUAL:
+   :ACTUAL:   1.80
    :OWNER: sandeepK
    :ID: READ.1523948189
    :TASKID: READ.1523948189
    :END:
-   - [ ] Appendix B: Advanced Async Patterns (2h)
+   :LOGBOOK:
+   CLOCK: [2018-04-18 Wed 23:56]--[2018-04-19 Thu 00:50] =>  0:54
+   CLOCK: [2018-04-17 Tue 23:46]--[2018-04-18 Wed 00:40] =>  0:54
+   :END:
+   - [X] Appendix B: Advanced Async Patterns (2h)
 
-** You Don't Know JavaScript: Async & Performance Part VI [0/4]
+** DONE You Don't Know JavaScript: Async & Performance Part VI [4/4]
+   CLOSED: [2018-04-29 Sun 00:00]
    :PROPERTIES:
    :ESTIMATED: 11.0
-   :ACTUAL:
+   :ACTUAL:   5.98
    :OWNER: sandeepK
    :ID: READ.1523948235
    :TASKID: READ.1523948235
    :END:
-   - [ ] Chapter 5: Collections      (3h)
-   - [ ] Chapter 6: API Additions    (3h)
-   - [ ] Chapter 7: Meta Programming (3h)
-   - [ ] Chapter 8: Beyond ES6       (2h)
+   :LOGBOOK:
+   CLOCK: [2018-04-28 Sat 22:50]--[2018-04-29 Sun 00:00] =>  1:10
+   CLOCK: [2018-04-28 Sat 12:00]--[2018-04-28 Sat 12:10] =>  0:10
+   CLOCK: [2018-04-27 Fri 14:00]--[2018-04-27 Fri 15:00] =>  1:00
+   CLOCK: [2018-04-26 Thu 23:00]--[2018-04-26 Thu 23:30] =>  0:30
+   CLOCK: [2018-04-25 Wed 00:00]--[2018-04-25 Wed 00:30] =>  0:30
+   CLOCK: [2018-04-24 Tue 10:30]--[2018-04-24 Tue 10:55] =>  0:25
+   CLOCK: [2018-04-23 Mon 23:40]--[2018-04-24 Tue 00:00] =>  0:20
+   CLOCK: [2018-04-23 Mon 00:00]--[2018-04-23 Mon 01:10] =>  1:10
+   CLOCK: [2018-04-22 Sun 16:46]--[2018-04-22 Sun 17:10] =>  0:24
+   CLOCK: [2018-04-20 Fri 00:50]--[2018-04-20 Fri 01:10] =>  0:20
+   :END:
+   - [X] Chapter 5: Collections      (3h)
+   - [X] Chapter 6: API Additions    (3h)
+   - [X] Chapter 7: Meta Programming (3h)
+   - [X] Chapter 8: Beyond ES6       (2h)
 
-** Learning Go - Part II [0/5]
+** DONE Learning Go - Part II [2/5]
+   CLOSED: [2018-04-28 Sat 23:00]
    :PROPERTIES:
    :ESTIMATED: 19
-   :ACTUAL:
+   :ACTUAL:   5.00
    :OWNER: fhackdroid
    :ID: READ.1523948341
    :TASKID: READ.1523948341
    :END:
-   - [ ] Concurrency          (4h)
-   - [ ] Packages             (4h)
-   - [ ] Testing              (4h)
-   - [ ] Reflection           (4h)
-   - [ ] Low level Programing (3h)
-
-** Pagure Tasks - Part II [0/1]
-   :PROPERTIES:
-   :ESTIMATED: 7.0
-   :ACTUAL:
-   :OWNER: fhackdroid
-   :ID: DEV.1523948361
-   :TASKID: DEV.1523948361
+   :LOGBOOK:
+   CLOCK: [2018-04-20 Fri 09:00]--[2018-04-20 Fri 14:00] =>  5:00
    :END:
-   - [ ] Fixing issues with local auth          (7h)
-** Lean Start Up - Part II [0/6]
+   - [X] Concurrency          (4h)
+   - [X] Packages             (4h)
+** DONE Lean Start Up - Part II [6/6]
+   CLOSED: [2018-04-28 Sat 23:01]
    :PROPERTIES:
    :ESTIMATED: 12.0
-   :ACTUAL:
+   :ACTUAL:   14.67
    :OWNER: fhackdroid
    :ID: READ.1523948385
    :TASKID: READ.1523948385
    :END:
-   - [ ] Measure    (2h)
-   - [ ] Pivot      (2h)
-   - [ ] Batch      (2h)
-   - [ ] Grow       (2h)
-   - [ ] Adapt      (2h)
-   - [ ] Innovate   (2h)
-
-
+   :LOGBOOK:
+   CLOCK: [2018-04-20 Fri 16:51]--[2018-04-20 Fri 19:59] =>  3:08
+   CLOCK: [2018-04-23 Mon 15:18]--[2018-04-23 Mon 16:08] =>  0:50
+   CLOCK: [2018-04-24 Tue 08:31]--[2018-04-24 Tue 09:28] =>  0:57
+   CLOCK: [2018-04-25 Wed 08:20]--[2018-04-25 Wed 12:24] =>  4:04
+   CLOCK: [2018-04-26 Thu 18:22]--[2018-04-26 Thu 21:54] =>  3:32
+   CLOCK: [2018-04-28 Sat 11:25]--[2018-04-28 Sat 13:34] =>  2:09
+   :END:
+   - [X] Measure    (2h)
+   - [X] Pivot      (2h)
+   - [X] Batch      (2h)
+   - [X] Grow       (2h)
+   - [X] Adapt      (2h)
+   - [X] Innovate   (2h)
 
