@@ -43,9 +43,6 @@ have the notion of time.
 Upcoming Sprints
 ================
 
-* April 17, 2018 - April 28, 2018
-* April 29, 2018 - May   15, 2018
-* May   16, 2018 - May   28, 2018
 * May   29, 2018 - June  14, 2018
 * June  15, 2018 - June  27, 2018
 * June  28, 2018 - July  13, 2018

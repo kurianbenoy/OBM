@@ -1,0 +1,138 @@
+#+TITLE: May 16, 2018 - May 28, 2018
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
+|------+------+-------------+---------+------+----------|
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+| NAME      | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|-----------+-----------+--------+------+-----------+--------------+------------|
+| Bhavin192 |         0 |      0 |    0 |         0 |   2018-05-17 | ---------- |
+| Sandeepk  |         0 |      0 |    0 |         0 |   2018-05-17 | ---------- |
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  45 +---------------------------------------------------------------------+   
+:     |     #######                                                         |   
+:  40 |+                                                     ACTUAL #######+|   
+:     |     ......                                            IDEAL ....... |   
+:  35 |+          ......                                                   +|   
+:     |                 ....                                                |   
+:  30 |+                    .                                              +|   
+:     |                      ......                                         |   
+:  25 |+                           .....                                   +|   
+:     |                                 .                                   |   
+:  20 |+                                 ......                            +|   
+:     |                                        ......                       |   
+:  15 |+                                             .....                 +|   
+:     |                                                   .                 |   
+:  10 |+                                                   .....           +|   
+:     |                                                         ......      |   
+:   5 |+                                                              .....+|   
+:     |                                                                    .|   
+:   0 +---------------------------------------------------------------------+   
+:     0           2          4           6           8          10          12  
+:                                                                               
+:
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:12]"
+#+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2018-05-16 |   42.0 |    38 |                 |
+|   2 | 2018-05-17 |   42.0 |    35 |                 |
+|   3 | 2018-05-18 |        |    32 |                 |
+|   4 | 2018-05-19 |        |    28 |                 |
+|   5 | 2018-05-20 |        |    24 |                 |
+|   6 | 2018-05-21 |        |    21 |                 |
+|   7 | 2018-05-22 |        |    18 |                 |
+|   8 | 2018-05-23 |        |    14 |                 |
+|   9 | 2018-05-24 |        |    10 |                 |
+|  10 | 2018-05-25 |        |     7 |                 |
+|  11 | 2018-05-26 |        |     4 |                 |
+|  12 | 2018-05-27 |        |     0 |                 |
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM              | TASKID          | OWNER     | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|-------------------+-----------------+-----------+----------+------+-----------+--------|
+| TASKS             |                 |           | B        |      |      42.0 |        |
+|-------------------+-----------------+-----------+----------+------+-----------+--------|
+| Learning Go       | READ.1526536939 | bhavin192 | B        |      |      18.0 |        |
+|-------------------+-----------------+-----------+----------+------+-----------+--------|
+| JS The Good Parts | READ.1526537148 | sandeepK  | B        |      |      12.0 |        |
+|-------------------+-----------------+-----------+----------+------+-----------+--------|
+| FreeCodeCamp      | DEV.1526537190  | sandeepK  | B        |      |       6.5 |        |
+|-------------------+-----------------+-----------+----------+------+-----------+--------|
+| MDN               | READ.1526537246 | sandeepK  | B        |      |       5.5 |        |
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 12
+  :SPRINTSTART:  <2018-05-16 Wed>
+  :wpd-sandeepK:     2
+  :wpd-bhavin192:     1.5
+  :END:
+** Learning Go [0/2]
+   :PROPERTIES:
+   :ESTIMATED: 18.0
+   :ACTUAL:
+   :OWNER: bhavin192
+   :ID: READ.1526536939
+   :TASKID: READ.1526536939
+   :END:
+   - [ ] Chapter 2. Program Structure (8 hours) 
+   - [ ] Chapter 3. Basic Data Types (10 hours)
+** JS The Good Parts [0/8]
+   :PROPERTIES:
+   :ESTIMATED: 12.0
+   :ACTUAL:
+   :OWNER: sandeepK
+   :ID: READ.1526537148
+   :TASKID: READ.1526537148
+   :END:
+   - [ ] Chapter 4: Functions--3 hours
+   - [ ] Chapter 5: Inheritance--2hours
+   - [ ] Chapter 6: Arrays--1 hour
+   - [ ] Chapter 7: Regular Expression -- 1 hour
+   - [ ] Chapter 8: Methods--1 hour
+   - [ ] Chapter 9: Style--1hour
+   - [ ] Chapter10: Beautiful Features--1 hour
+   - [ ] Appendix A, B, C, D, E -- 2hour   
+** FreeCodeCamp [0/2]
+   :PROPERTIES:
+   :ESTIMATED: 6.5
+   :ACTUAL:
+   :OWNER: sandeepK
+   :ID: DEV.1526537190
+   :TASKID: DEV.1526537190
+   :END:
+   - [ ] Basic Algorithm Scripting -- 6 hours
+   - [ ] JSON API and AJAX -- 30 minutes
+** MDN [0/7]
+   :PROPERTIES:
+   :ESTIMATED: 5.5
+   :ACTUAL:
+   :OWNER: sandeepK
+   :ID: READ.1526537246
+   :TASKID: READ.1526537246
+   :END:
+   - [ ] Closures [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures] -- 30 minutes
+   - [ ] Equality_comparisons_and_sameness [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness] -- 30 minutes
+   - [ ] Inheritance [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance] -- 30 minutes
+   - [ ] Promise [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise] -- 1 hour
+   - [ ] Events [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events] -- 1 hour
+   - [ ] Memory_Management [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management] -- 1hour
+   - [ ] Working_with_Objects [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects] -- 1hour
+
