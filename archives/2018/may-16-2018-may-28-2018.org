@@ -6,43 +6,23 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
-|------+------+-------------+---------+------+----------|
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                            | CANCELED |
+|------+------+-------------+---------+-------------------------------------------------+----------|
+|      |      |             |         | READ.1526536939. Learning Go (2018-05-28)       |          |
+|      |      |             |         | READ.1526537148. JS The Good Parts (2018-05-28) |          |
+|      |      |             |         | DEV.1526537190. FreeCodeCamp (2018-05-28)       |          |
+|      |      |             |         | READ.1526537246. MDN (2018-05-28)               |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME      | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |-----------+-----------+--------+------+-----------+--------------+------------|
-| Bhavin192 |         0 |      0 |    0 |         0 |   2018-05-17 | ---------- |
-| Sandeepk  |         0 |      0 |    0 |         0 |   2018-05-17 | ---------- |
+| Bhavin192 |      18.0 |   6.47 | 18.0 |         0 |   2018-05-30 | ########## |
+| Sandeepk  |      24.0 |  19.41 | 24.0 |         0 |   2018-05-30 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
-:                                                                               
-:                                    Burndown                                   
-:                                                                               
-:  45 +---------------------------------------------------------------------+   
-:     |     #######                                                         |   
-:  40 |+                                                     ACTUAL #######+|   
-:     |     ......                                            IDEAL ....... |   
-:  35 |+          ......                                                   +|   
-:     |                 ....                                                |   
-:  30 |+                    .                                              +|   
-:     |                      ......                                         |   
-:  25 |+                           .....                                   +|   
-:     |                                 .                                   |   
-:  20 |+                                 ......                            +|   
-:     |                                        ......                       |   
-:  15 |+                                             .....                 +|   
-:     |                                                   .                 |   
-:  10 |+                                                   .....           +|   
-:     |                                                         ......      |   
-:   5 |+                                                              .....+|   
-:     |                                                                    .|   
-:   0 +---------------------------------------------------------------------+   
-:     0           2          4           6           8          10          12  
-:                                                                               
-:
+
 #+END:
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:12]"
@@ -51,30 +31,30 @@
 |-----+------------+--------+-------+-----------------|
 |   1 | 2018-05-16 |   42.0 |    38 |                 |
 |   2 | 2018-05-17 |   42.0 |    35 |                 |
-|   3 | 2018-05-18 |        |    32 |                 |
-|   4 | 2018-05-19 |        |    28 |                 |
-|   5 | 2018-05-20 |        |    24 |                 |
-|   6 | 2018-05-21 |        |    21 |                 |
-|   7 | 2018-05-22 |        |    18 |                 |
-|   8 | 2018-05-23 |        |    14 |                 |
-|   9 | 2018-05-24 |        |    10 |                 |
-|  10 | 2018-05-25 |        |     7 |                 |
-|  11 | 2018-05-26 |        |     4 |                 |
-|  12 | 2018-05-27 |        |     0 |                 |
+|   3 | 2018-05-18 |   42.0 |    32 |                 |
+|   4 | 2018-05-19 |   42.0 |    28 |                 |
+|   5 | 2018-05-20 |   42.0 |    24 |                 |
+|   6 | 2018-05-21 |   42.0 |    21 |                 |
+|   7 | 2018-05-22 |   42.0 |    18 |                 |
+|   8 | 2018-05-23 |   42.0 |    14 |                 |
+|   9 | 2018-05-24 |   42.0 |    10 |                 |
+|  10 | 2018-05-25 |   42.0 |     7 |                 |
+|  11 | 2018-05-26 |   42.0 |     4 |                 |
+|  12 | 2018-05-27 |   42.0 |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM              | TASKID          | OWNER     | PRIORITY | TODO | ESTIMATED | ACTUAL |
-|-------------------+-----------------+-----------+----------+------+-----------+--------|
-| TASKS             |                 |           | B        |      |      42.0 |        |
-|-------------------+-----------------+-----------+----------+------+-----------+--------|
-| Learning Go       | READ.1526536939 | bhavin192 | B        |      |      18.0 |        |
-|-------------------+-----------------+-----------+----------+------+-----------+--------|
-| JS The Good Parts | READ.1526537148 | sandeepK  | B        |      |      12.0 |        |
-|-------------------+-----------------+-----------+----------+------+-----------+--------|
-| FreeCodeCamp      | DEV.1526537190  | sandeepK  | B        |      |       6.5 |        |
-|-------------------+-----------------+-----------+----------+------+-----------+--------|
-| MDN               | READ.1526537246 | sandeepK  | B        |      |       5.5 |        |
+| ITEM              | TASKID          | OWNER     | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|-------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| TASKS             |                 |           | B        |      |      42.0 | 25.880000000000003 |
+|-------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| Learning Go       | READ.1526536939 | bhavin192 | B        | DONE |      18.0 |               6.47 |
+|-------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| JS The Good Parts | READ.1526537148 | sandeepK  | B        | DONE |      12.0 |              11.63 |
+|-------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| FreeCodeCamp      | DEV.1526537190  | sandeepK  | B        | DONE |       6.5 |               2.78 |
+|-------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| MDN               | READ.1526537246 | sandeepK  | B        | DONE |       5.5 |               5.00 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -84,55 +64,102 @@
   :wpd-sandeepK:     2
   :wpd-bhavin192:     1.5
   :END:
-** Learning Go [0/2]
+** DONE Learning Go [2/2]
+   CLOSED: [2018-05-28 Mon 21:08]
    :PROPERTIES:
    :ESTIMATED: 18.0
-   :ACTUAL:
+   :ACTUAL:   6.47
    :OWNER: bhavin192
    :ID: READ.1526536939
    :TASKID: READ.1526536939
    :END:
-   - [ ] Chapter 2. Program Structure (8 hours) 
-   - [ ] Chapter 3. Basic Data Types (10 hours)
-** JS The Good Parts [0/8]
+   :LOGBOOK:
+   CLOCK: [2018-05-27 Sun 22:40]--[2018-05-27 Sun 23:00] =>  0:20
+   CLOCK: [2018-05-23 Wed 19:55]--[2018-05-23 Wed 20:33] =>  0:38
+   CLOCK: [2018-05-23 Wed 19:00]--[2018-05-23 Wed 19:50] =>  0:50
+   CLOCK: [2018-05-22 Tue 22:10]--[2018-05-22 Tue 23:11] =>  1:01
+   CLOCK: [2018-05-22 Tue 19:15]--[2018-05-22 Tue 20:11] =>  0:56
+   CLOCK: [2018-05-17 Thu 22:28]--[2018-05-17 Thu 23:33] =>  1:05
+   CLOCK: [2018-05-16 Wed 22:12]--[2018-05-16 Wed 22:41] =>  0:29
+   CLOCK: [2018-05-16 Wed 19:17]--[2018-05-16 Wed 20:26] =>  1:09
+   :END:
+   - [X] Chapter 2. Program Structure (8 hours) 
+   - [X] Chapter 3. Basic Data Types - Part I (10 hours)
+** DONE JS The Good Parts [8/8]
+   CLOSED: [2018-05-28 Mon 21:06]
    :PROPERTIES:
    :ESTIMATED: 12.0
-   :ACTUAL:
+   :ACTUAL:   11.63
    :OWNER: sandeepK
    :ID: READ.1526537148
    :TASKID: READ.1526537148
    :END:
-   - [ ] Chapter 4: Functions--3 hours
-   - [ ] Chapter 5: Inheritance--2hours
-   - [ ] Chapter 6: Arrays--1 hour
-   - [ ] Chapter 7: Regular Expression -- 1 hour
-   - [ ] Chapter 8: Methods--1 hour
-   - [ ] Chapter 9: Style--1hour
-   - [ ] Chapter10: Beautiful Features--1 hour
-   - [ ] Appendix A, B, C, D, E -- 2hour   
-** FreeCodeCamp [0/2]
+   :LOGBOOK:
+   CLOCK: [2018-05-26 Sat 13:00]--[2018-05-26 Sat 13:30] =>  0:30
+   CLOCK: [2018-05-22 Tue 23:00]--[2018-05-23 Wed 00:30] =>  1:30
+   CLOCK: [2018-05-22 Tue 14:15]--[2018-05-22 Tue 14:32] =>  0:17
+   CLOCK: [2018-05-22 Tue 13:59]--[2018-05-22 Tue 14:12] =>  0:13
+   CLOCK: [2018-05-22 Tue 12:10]--[2018-05-22 Tue 12:25] =>  0:15
+   CLOCK: [2018-05-21 Mon 23:30]--[2018-05-22 Tue 00:30] =>  1:00
+   CLOCK: [2018-05-21 Mon 23:00]--[2018-05-21 Mon 23:30] =>  0:30
+   CLOCK: [2018-05-21 Mon 08:30]--[2018-05-21 Mon 09:00] =>  0:30
+   CLOCK: [2018-05-21 Mon 08:00]--[2018-05-21 Mon 08:30] =>  0:30
+   CLOCK: [2018-05-20 Sun 23:00]--[2018-05-20 Sun 23:30] =>  0:30
+   CLOCK: [2018-05-20 Sun 13:00]--[2018-05-20 Sun 14:30] =>  1:30
+   CLOCK: [2018-05-19 Sat 20:30]--[2018-05-19 Sat 21:30] =>  1:00
+   CLOCK: [2018-05-18 Fri 23:30]--[2018-05-19 Sat 00:00] =>  0:30
+   CLOCK: [2018-05-18 Fri 13:47]--[2018-05-18 Fri 14:20] =>  0:33
+   CLOCK: [2018-05-18 Fri 07:30]--[2018-05-18 Fri 08:00] =>  0:30
+   CLOCK: [2018-05-17 Thu 23:30]--[2018-05-18 Fri 00:00] =>  0:30
+   CLOCK: [2018-05-16 Wed 22:50]--[2018-05-17 Thu 00:10] =>  1:20
+   :END:
+   - [X] Chapter 4: Functions--3 hours
+   - [X] Chapter 5: Inheritance--2hours
+   - [X] Chapter 6: Arrays--1 hour
+   - [X] Chapter 7: Regular Expression -- 1 hour
+   - [X] Chapter 8: Methods--1 hour
+   - [X] Chapter 9: Style--1hour
+   - [X] Chapter10: Beautiful Features--1 hour
+   - [X] Appendix A, B, C, D, E -- 2hour   
+** DONE FreeCodeCamp [2/2]
+   CLOSED: [2018-05-28 Mon 21:05]
    :PROPERTIES:
    :ESTIMATED: 6.5
-   :ACTUAL:
+   :ACTUAL:   2.78
    :OWNER: sandeepK
    :ID: DEV.1526537190
    :TASKID: DEV.1526537190
    :END:
-   - [ ] Basic Algorithm Scripting -- 6 hours
-   - [ ] JSON API and AJAX -- 30 minutes
-** MDN [0/7]
+   :LOGBOOK:
+   CLOCK: [2018-05-27 Sun 22:15]--[2018-05-27 Sun 22:32] =>  0:17
+   CLOCK: [2018-05-27 Sun 21:00]--[2018-05-27 Sun 22:15] =>  1:15
+   CLOCK: [2018-05-27 Sun 18:50]--[2018-05-27 Sun 19:50] =>  1:00
+   CLOCK: [2018-05-23 Wed 13:00]--[2018-05-23 Wed 13:15] =>  0:15
+   :END:
+   - [X] Basic Algorithm Scripting -- 6 hours
+   - [X] JSON API and AJAX -- 30 minutes
+** DONE MDN [6/6]
+   CLOSED: [2018-05-28 Mon 21:07]
    :PROPERTIES:
    :ESTIMATED: 5.5
-   :ACTUAL:
+   :ACTUAL:   5.00
    :OWNER: sandeepK
    :ID: READ.1526537246
    :TASKID: READ.1526537246
    :END:
-   - [ ] Closures [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures] -- 30 minutes
-   - [ ] Equality_comparisons_and_sameness [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness] -- 30 minutes
-   - [ ] Inheritance [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance] -- 30 minutes
-   - [ ] Promise [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise] -- 1 hour
-   - [ ] Events [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events] -- 1 hour
-   - [ ] Memory_Management [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management] -- 1hour
-   - [ ] Working_with_Objects [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects] -- 1hour
+   :LOGBOOK:
+   CLOCK: [2018-05-28 Mon 23:00]--[2018-05-29 Tue 00:00] =>  1:00
+   CLOCK: [2018-05-27 Sun 23:30]--[2018-05-28 Mon 00:00] =>  0:30
+   CLOCK: [2018-05-26 Sat 13:00]--[2018-05-26 Sat 13:30] =>  0:30
+   CLOCK: [2018-05-26 Sat 13:00]--[2018-05-26 Sat 13:30] =>  0:30
+   CLOCK: [2018-05-24 Thu 00:00]--[2018-05-24 Thu 00:30] =>  0:30
+   CLOCK: [2018-05-23 Wed 23:00]--[2018-05-24 Thu 00:00] =>  1:00
+   CLOCK: [2018-05-28 Mon 22:00]--[2018-05-28 Mon 23:00] =>  1:00
+   :END:
+   - [X] Closures [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures] -- 30 minutes
+   - [X] Equality_comparisons_and_sameness [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness] -- 30 minutes
+   - [X] Inheritance [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance] -- 30 minutes
+   - [X] Promise [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise] -- 1 hour
+   - [X] Events [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events] -- 1 hour
+   - [X] Memory_Management [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management] -- 1hour
 
