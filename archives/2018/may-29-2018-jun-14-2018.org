@@ -6,89 +6,67 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
-|------+------+-------------+---------+------+----------|
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                        | CANCELED |
+|------+------+-------------+---------+-------------------------------------------------------------+----------|
+|      |      |             |         | READ.1527834332. Reading Eloquent JavaScript (2018-06-14)   |          |
+|      |      |             |         | READ.1527834497. The Beginner's Guide to React (2018-06-14) |          |
+|      |      |             |         | READ.1527665509. Learning Golang - Part II (2018-06-14)     |          |
+|      |      |             |         | READ.1527665318. MDN (2018-06-14)                           |          |
+|      |      |             |         | DEV.1527665346. FreeCode Camp (2018-06-14)                  |          |
+|      |      |             |         | READ.1527665397. Read React Book (2018-06-14)               |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME      | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |-----------+-----------+--------+------+-----------+--------------+------------|
-| Ashwanig  |         0 |      0 |    0 |         0 |   2018-06-01 | ---------- |
-| Bhavin192 |         0 |      0 |    0 |         0 |   2018-06-01 | ---------- |
-| Sandeepk  |         0 |      0 |    0 |         0 |   2018-06-01 | ---------- |
+| Ashwanig  |      14.0 |  18.86 | 14.0 |         0 |   2018-06-19 | ########## |
+| Bhavin192 |      25.5 |  18.02 | 25.5 |         0 |   2018-06-19 | ########## |
+| Sandeepk  |      42.0 |   16.5 | 42.0 |         0 |   2018-06-19 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
-:                                                                               
-:                                    Burndown                                   
-:                                                                               
-:  90 +---------------------------------------------------------------------+   
-:     |   #############                                                     |   
-:  80 |+  ....                                               ACTUAL #######+|   
-:     |       ....                                            IDEAL ....... |   
-:  70 |+          ....                                                     +|   
-:     |               .....                                                 |   
-:  60 |+                   ....                                            +|   
-:     |                        ....                                         |   
-:  50 |+                           ....                                    +|   
-:     |                                ....                                 |   
-:  40 |+                                   ....                            +|   
-:     |                                        ....                         |   
-:  30 |+                                           ....                    +|   
-:     |                                                .....                |   
-:  20 |+                                                    ....           +|   
-:     |                                                         ....        |   
-:  10 |+                                                            ....   +|   
-:     |                                                                 ....|   
-:   0 +---------------------------------------------------------------------+   
-:     0       2       4        6       8       10      12       14      16      
-:                                                                               
-:
+
 #+END:
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2018-05-29 |   84.5 |    80 |                 |
-|   2 | 2018-05-30 |   84.5 |    75 |                 |
-|   3 | 2018-05-31 |   84.5 |    70 |                 |
-|   4 | 2018-06-01 |   84.5 |    65 |                 |
-|   5 | 2018-06-02 |        |    60 |                 |
-|   6 | 2018-06-03 |        |    55 |                 |
-|   7 | 2018-06-04 |        |    50 |                 |
-|   8 | 2018-06-05 |        |    45 |                 |
-|   9 | 2018-06-06 |        |    40 |                 |
-|  10 | 2018-06-07 |        |    35 |                 |
-|  11 | 2018-06-08 |        |    30 |                 |
-|  12 | 2018-06-09 |        |    25 |                 |
-|  13 | 2018-06-10 |        |    20 |                 |
-|  14 | 2018-06-11 |        |    15 |                 |
-|  15 | 2018-06-12 |        |    10 |                 |
-|  16 | 2018-06-13 |        |     5 |                 |
-|  17 | 2018-06-14 |        |     0 |                 |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                                                                |
+|-----+------------+--------+-------+------------------------------------------------------------------------------------------------|
+|   1 | 2018-05-29 |   81.5 |    77 |                                                                                                |
+|   2 | 2018-05-30 |   81.5 |    72 |                                                                                                |
+|   3 | 2018-05-31 |   81.5 |    67 |                                                                                                |
+|   4 | 2018-06-01 |   81.5 |    62 |                                                                                                |
+|   5 | 2018-06-02 |   81.5 |    58 |                                                                                                |
+|   6 | 2018-06-03 |   81.5 |    53 |                                                                                                |
+|   7 | 2018-06-04 |   81.5 |    48 |                                                                                                |
+|   8 | 2018-06-05 |   81.5 |    43 |                                                                                                |
+|   9 | 2018-06-06 |   81.5 |    38 |                                                                                                |
+|  10 | 2018-06-07 |   81.5 |    34 |                                                                                                |
+|  11 | 2018-06-08 |   81.5 |    29 |                                                                                                |
+|  12 | 2018-06-09 |   81.5 |    24 |                                                                                                |
+|  13 | 2018-06-10 |   81.5 |    19 |                                                                                                |
+|  14 | 2018-06-11 |   81.5 |    14 |                                                                                                |
+|  15 | 2018-06-12 |   81.5 |    10 |                                                                                                |
+|  16 | 2018-06-13 |   81.5 |     5 |                                                                                                |
+|  17 | 2018-06-14 |    0.0 |     0 | READ.1527665397 DEV.1527665346 READ.1527665318 READ.1527665509 READ.1527834497 READ.1527834332 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                            | TASKID           | OWNER     | PRIORITY | TODO | ESTIMATED | ACTUAL |
-|---------------------------------+------------------+-----------+----------+------+-----------+--------|
-| TASKS                           |                  |           | B        |      |      84.5 |        |
-|---------------------------------+------------------+-----------+----------+------+-----------+--------|
-| Reading Eloquent JavaScript     | READ.1527834332  | ashwanig  | B        |      |        12 |        |
-|---------------------------------+------------------+-----------+----------+------+-----------+--------|
-| The Beginner's Guide to React   | READ.1527834497  | ashwanig  | B        |      |       2.0 |        |
-|---------------------------------+------------------+-----------+----------+------+-----------+--------|
-| Fundamentals of React blog post | WRITE.1527834583 | ashwanig  | B        |      |       1.0 |        |
-|---------------------------------+------------------+-----------+----------+------+-----------+--------|
-| Mini project using React        | DEV.1527834594   | ashwanig  | B        |      |       2.0 |        |
-|---------------------------------+------------------+-----------+----------+------+-----------+--------|
-| Learning Golang - Part II       | READ.1527665509  | bhavin192 | B        |      |      25.5 |        |
-|---------------------------------+------------------+-----------+----------+------+-----------+--------|
-| MDN                             | READ.1527665318  | sandeepK  | B        |      |       1.0 |        |
-|---------------------------------+------------------+-----------+----------+------+-----------+--------|
-| FreeCode Camp                   | DEV.1527665346   | sandeepK  | B        |      |      21.0 |        |
-|---------------------------------+------------------+-----------+----------+------+-----------+--------|
-| Read React Book                 | READ.1527665397  | sandeepK  | B        |      |      20.0 |        |
+| ITEM                          | TASKID          | OWNER     | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|-------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| TASKS                         |                 |           | B        |      |      81.5 | 53.379999999999995 |
+|-------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| Reading Eloquent JavaScript   | READ.1527834332 | ashwanig  | B        | DONE |        12 |              15.38 |
+|-------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| The Beginner's Guide to React | READ.1527834497 | ashwanig  | B        | DONE |       2.0 |               3.48 |
+|-------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| Learning Golang - Part II     | READ.1527665509 | bhavin192 | B        | DONE |      25.5 |              18.02 |
+|-------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| MDN                           | READ.1527665318 | sandeepK  | B        | DONE |       1.0 |               1.00 |
+|-------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| FreeCode Camp                 | DEV.1527665346  | sandeepK  | B        | DONE |      21.0 |               5.00 |
+|-------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| Read React Book               | READ.1527665397 | sandeepK  | B        | DONE |      20.0 |              10.50 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -100,92 +78,141 @@
   :wpd-ashwanig:  1
   :END:
 
-** Reading Eloquent JavaScript [0/2]
+** DONE Reading Eloquent JavaScript [2/3]
+   CLOSED: [2018-06-14 Thu 21:30]
    :PROPERTIES:
    :ESTIMATED: 12
-   :ACTUAL:
+   :ACTUAL:   15.38
    :OWNER: ashwanig
    :ID: READ.1527834332
    :TASKID: READ.1527834332
    :END:
-   - [ ]  i. Chapters 8-11 and 13-15 (8 hours)
-   - [ ] ii. Chapters 7, 12 and 16 (4 hours)
+   :LOGBOOK:
+   CLOCK: [2018-06-12 Tue 19:00]--[2018-06-12 Tue 19:50] =>  0:50
+   CLOCK: [2018-06-12 Tue 18:00]--[2018-06-12 Tue 18:22] =>  0:22
+   CLOCK: [2018-06-12 Tue 10:30]--[2018-06-12 Tue 12:02] =>  1:32
+   CLOCK: [2018-06-11 Mon 18:25]--[2018-06-11 Mon 19:33] =>  1:08
+   CLOCK: [2018-06-11 Mon 01:57]--[2018-06-11 Mon 02:45] =>  0:48
+   CLOCK: [2018-06-11 Mon 01:00]--[2018-06-11 Mon 01:40] =>  0:40
+   CLOCK: [2018-06-10 Sun 05:01]--[2018-06-10 Sun 06:30] =>  1:29
+   CLOCK: [2018-06-08 Fri 20:00]--[2018-06-08 Fri 21:03] =>  1:03
+   CLOCK: [2018-06-07 Thu 17:26]--[2018-06-07 Thu 18:07] =>  0:41
+   CLOCK: [2018-06-07 Thu 12:00]--[2018-06-07 Thu 13:03] =>  1:03
+   CLOCK: [2018-06-06 Wed 17:08]--[2018-06-06 Wed 18:28] =>  1:20
+   CLOCK: [2018-06-05 Tue 18:00]--[2018-06-05 Tue 19:06] =>  1:06
+   CLOCK: [2018-06-04 Mon 21:48]--[2018-06-04 Mon 22:30] =>  0:42
+   CLOCK: [2018-06-03 Sun 18:50]--[2018-06-03 Sun 19:46] =>  0:56
+   CLOCK: [2018-06-03 Sun 16:49]--[2018-06-03 Sun 17:30] =>  0:41
+   CLOCK: [2018-06-03 Sun 12:48]--[2018-06-03 Sun 13:50] =>  1:02
+   :END:
+   - [X]   i. Chapters 8-11 and 13-15 (8 hours)
+   - [X]  ii. Chapters 7
 
-** The Beginner's Guide to React
+** DONE The Beginner's Guide to React
+   CLOSED: [2018-06-14 Thu 21:35]
    :PROPERTIES:
    :ESTIMATED: 2.0
-   :ACTUAL:
+   :ACTUAL:   3.48
    :OWNER: ashwanig
    :ID: READ.1527834497
    :TASKID: READ.1527834497
    :END:
-
-** Fundamentals of React blog post
-   :PROPERTIES:
-   :ESTIMATED: 1.0
-   :ACTUAL:
-   :OWNER: ashwanig
-   :ID: WRITE.1527834583
-   :TASKID: WRITE.1527834583
+   :LOGBOOK:
+   CLOCK: [2018-06-14 Thu 17:30]--[2018-06-14 Thu 18:19] =>  0:49
+   CLOCK: [2018-06-14 Thu 01:00]--[2018-06-14 Thu 02:00] =>  1:00
+   CLOCK: [2018-06-13 Wed 21:30]--[2018-06-13 Wed 22:12] =>  0:42
+   CLOCK: [2018-06-13 Wed 20:02]--[2018-06-13 Wed 21:00] =>  0:58
    :END:
 
-** Mini project using React
-   :PROPERTIES:
-   :ESTIMATED: 2.0
-   :ACTUAL:
-   :OWNER: ashwanig
-   :ID: DEV.1527834594
-   :TASKID: DEV.1527834594
-   :END:
-
-** Learning Golang - Part II
+** DONE Learning Golang - Part II
+   CLOSED: [2018-06-14 Thu 21:31]
    :PROPERTIES:
    :ESTIMATED: 25.5
-   :ACTUAL:
+   :ACTUAL:   18.02
    :OWNER: bhavin192
    :ID: READ.1527665509
    :TASKID: READ.1527665509
    :END:
-   - [ ] Chapter 3. Basic Data Types - Part II (4 hours) 
-   - [ ] Chapter 4. Composite Types (8 hours) 
-   - [ ] Chapter 5. Functions (8 hours) 
-   - [ ] Chapter 6. Methods (5.5 hours)
+   :LOGBOOK:
+   CLOCK: [2018-06-12 Tue 21:51]--[2018-06-12 Tue 22:35] =>  0:44
+   CLOCK: [2018-06-12 Tue 20:12]--[2018-06-12 Tue 20:35] =>  0:23
+   CLOCK: [2018-06-12 Tue 19:33]--[2018-06-12 Tue 19:52] =>  0:19
+   CLOCK: [2018-06-11 Mon 22:16]--[2018-06-11 Mon 22:36] =>  0:20
+   CLOCK: [2018-06-11 Mon 19:15]--[2018-06-11 Mon 20:18] =>  1:03
+   CLOCK: [2018-06-10 Sun 15:00]--[2018-06-10 Sun 15:20] =>  0:20
+   CLOCK: [2018-06-10 Sun 12:52]--[2018-06-10 Sun 13:15] =>  0:23
+   CLOCK: [2018-06-09 Sat 23:19]--[2018-06-09 Sat 23:41] =>  0:22
+   CLOCK: [2018-06-09 Sat 19:49]--[2018-06-09 Sat 20:19] =>  0:30
+   CLOCK: [2018-06-09 Sat 15:09]--[2018-06-09 Sat 16:17] =>  1:08
+   CLOCK: [2018-06-07 Thu 18:24]--[2018-06-07 Thu 19:45] =>  1:21
+   CLOCK: [2018-06-06 Wed 18:36]--[2018-06-06 Wed 20:10] =>  1:34
+   CLOCK: [2018-06-05 Tue 22:12]--[2018-06-05 Tue 22:33] =>  0:21
+   CLOCK: [2018-06-05 Tue 19:08]--[2018-06-05 Tue 20:10] =>  1:02
+   CLOCK: [2018-06-04 Mon 00:15]--[2018-06-04 Mon 00:45] =>  0:30
+   CLOCK: [2018-06-03 Sun 16:22]--[2018-06-03 Sun 17:15] =>  0:53
+   CLOCK: [2018-06-02 Sat 23:33]--[2018-06-02 Sat 23:45] =>  0:12
+   CLOCK: [2018-06-02 Sat 19:30]--[2018-06-02 Sat 19:45] =>  0:15
+   CLOCK: [2018-06-02 Sat 17:50]--[2018-06-02 Sat 18:25] =>  0:35
+   CLOCK: [2018-06-02 Sat 15:30]--[2018-06-02 Sat 16:50] =>  1:20
+   CLOCK: [2018-05-31 Thu 22:09]--[2018-05-31 Thu 22:20] =>  0:11
+   CLOCK: [2018-05-31 Thu 19:31]--[2018-05-31 Thu 20:43] =>  1:12
+   CLOCK: [2018-05-30 Wed 18:55]--[2018-05-30 Wed 20:15] =>  1:20
+   CLOCK: [2018-05-29 Tue 23:30]--[2018-05-29 Tue 23:50] =>  0:20
+   CLOCK: [2018-05-29 Tue 19:17]--[2018-05-29 Tue 20:40] =>  1:23
+   :END:
+   - [X] Chapter 3. Basic Data Types - Part II (4 hours) 
+   - [X] Chapter 4. Composite Types (8 hours) 
 
-** MDN 
+** DONE MDN
+   CLOSED: [2018-06-14 Thu 21:00]
    :PROPERTIES:
    :ESTIMATED: 1.0
-   :ACTUAL:
+   :ACTUAL:   1.00
    :OWNER: sandeepK
    :ID: READ.1527665318
    :TASKID: READ.1527665318
    :END:
-   - [ ] Working_with_Objects [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects] -- 1hour
+   :LOGBOOK:
+   CLOCK: [2018-06-02 Sat 22:00]--[2018-06-02 Sat 23:00] =>  1:00
+   :END:
+   - [X] Working_with_Objects [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects] -- 1hour
        
-** FreeCode Camp
+** DONE FreeCode Camp [1/6]
+   CLOSED: [2018-06-14 Thu 21:30]
    :PROPERTIES:
    :ESTIMATED: 21.0
-   :ACTUAL:
+   :ACTUAL:   5.00
    :OWNER: sandeepK
    :ID: DEV.1527665346
    :TASKID: DEV.1527665346
    :END:
-   - [ ] Build a Random Quote Machine -- 3 hours 
-   - [ ] Show the Local Weather -- 2 hours 
-   - [ ] Build a Wikipedia Viewer -- 3 hours 
-   - [ ] Use the Twitch.tv JSON API -- 3 hours 
-   - [ ] Intermediate Algorithm Scripting -- 4 hours 
-   - [ ] Advance Algorithm Scripting -- 6 hours
+   :LOGBOOK:
+   CLOCK: [2018-06-13 Wed 23:00]--[2018-06-14 Thu 01:00] =>  2:00
+   CLOCK: [2018-06-03 Sun 19:00]--[2018-06-03 Sun 21:00] =>  2:00
+   CLOCK: [2018-06-03 Sun 14:00]--[2018-06-03 Sun 15:00] =>  1:00
+   :END:
+   - [X] Build a Random Quote Machine -- 3 hours 
 
-** Read React Book
+** DONE Read React Book
+   CLOSED: [2018-06-14 Thu 21:30]
    :PROPERTIES:
    :ESTIMATED: 20.0
-   :ACTUAL:
+   :ACTUAL:   10.50
    :OWNER: sandeepK
    :ID: READ.1527665397
    :TASKID: READ.1527665397
    :END:
-   - [ ] Chapter 1: Introduction to React -- 2 hours 
-   - [ ] Chapter 2: Component Composition and Lifecycle -- 4 hours 
-   - [ ] Chapter 3: Dynamic Components, Mixins, Forms, and More JSX --4 hours 
-   - [ ] Chapter 4: Anatomy of a React Application -- 2 hours 
-   - [ ] Chapter 5, 6, 7, 8, 9: Building React Application -- 8 hours 
+   :LOGBOOK:
+   CLOCK: [2018-06-13 Wed 17:00]--[2018-06-13 Wed 18:30]  =>  1:30
+   CLOCK: [2018-06-12 Tue 23:00]--[2018-06-13 Wed 00:00]  =>  1:00
+   CLOCK: [2018-06-11 Mon 23:00]--[2018-06-12 Tue 00:00]  =>  1:00
+   CLOCK: [2018-06-10 Sun 14:00]--[2018-06-10 Sun 15:00]  =>  1:00
+   CLOCK: [2018-06-09 Sat 19:00]--[2018-06-09 Sat 21:00]  =>  2:00
+   CLOCK: [2018-06-09 Sat 13:00]--[2018-06-09 Sat 15:00]  =>  2:00
+   CLOCK: [2018-06-06 Wed 22:00]--[2018-06-07 Thu 00:00]  =>  2:00
+   :END:
+   - [X] Chapter 1: Introduction to React -- 2 hours 
+   - [X] Chapter 2: Component Composition and Lifecycle -- 4 hours 
+   - [X] Chapter 3: Dynamic Components, Mixins, Forms, and More JSX --4 hours 
+   - [X] Chapter 4: Anatomy of a React Application -- 2 hours 
+
