@@ -6,14 +6,17 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
-|------+------+-------------+---------+------+----------|
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | READ.1529400878. Reading Eloquent JavaScript (2018-06-27)    |          |
+|      |      |             |         | READ.1527834583. Fundamentals of React blog pos (2018-06-27) |          |
+|      |      |             |         | DEV.1527834594. Mini project using React (2018-06-27)        |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME     | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |----------+-----------+--------+------+-----------+--------------+------------|
-| Ashwanig |         0 |      0 |    0 |         0 |   2018-06-19 | ---------- |
+| Ashwanig |       7.0 |   5.83 |  7.0 |         0 |   2018-06-28 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -22,33 +25,33 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:13]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2018-06-15 |    7.0 |     6 |                 |
-|   2 | 2018-06-16 |    7.0 |     6 |                 |
-|   3 | 2018-06-17 |    7.0 |     5 |                 |
-|   4 | 2018-06-18 |    7.0 |     5 |                 |
-|   5 | 2018-06-19 |    7.0 |     4 |                 |
-|   6 | 2018-06-20 |        |     4 |                 |
-|   7 | 2018-06-21 |        |     3 |                 |
-|   8 | 2018-06-22 |        |     3 |                 |
-|   9 | 2018-06-23 |        |     2 |                 |
-|  10 | 2018-06-24 |        |     2 |                 |
-|  11 | 2018-06-25 |        |     1 |                 |
-|  12 | 2018-06-26 |        |     1 |                 |
-|  13 | 2018-06-27 |        |     0 |                 |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                |
+|-----+------------+--------+-------+------------------------------------------------|
+|   1 | 2018-06-15 |    7.0 |     6 |                                                |
+|   2 | 2018-06-16 |    7.0 |     6 |                                                |
+|   3 | 2018-06-17 |    7.0 |     5 |                                                |
+|   4 | 2018-06-18 |    7.0 |     5 |                                                |
+|   5 | 2018-06-19 |    7.0 |     4 |                                                |
+|   6 | 2018-06-20 |    7.0 |     4 |                                                |
+|   7 | 2018-06-21 |    7.0 |     3 |                                                |
+|   8 | 2018-06-22 |    7.0 |     3 |                                                |
+|   9 | 2018-06-23 |    7.0 |     2 |                                                |
+|  10 | 2018-06-24 |    7.0 |     2 |                                                |
+|  11 | 2018-06-25 |    7.0 |     1 |                                                |
+|  12 | 2018-06-26 |    7.0 |     1 |                                                |
+|  13 | 2018-06-27 |    0.0 |     0 | DEV.1527834594 READ.1527834583 READ.1529400878 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                            | TASKID           | OWNER    | PRIORITY | TODO | ESTIMATED | ACTUAL |
-|---------------------------------+------------------+----------+----------+------+-----------+--------|
-| TASKS                           |                  |          | B        |      |       7.0 |        |
-|---------------------------------+------------------+----------+----------+------+-----------+--------|
-| Reading Eloquent JavaScript     | READ.1529400878  | ashwanig | B        |      |       4.0 |        |
-|---------------------------------+------------------+----------+----------+------+-----------+--------|
-| Fundamentals of React blog post | WRITE.1527834583 | ashwanig | B        |      |       1.0 |        |
-|---------------------------------+------------------+----------+----------+------+-----------+--------|
-| Mini project using React        | DEV.1527834594   | ashwanig | B        |      |       2.0 |        |
+| ITEM                            | TASKID          | OWNER    | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|---------------------------------+-----------------+----------+----------+------+-----------+--------|
+| TASKS                           |                 |          | B        |      |       7.0 |   5.83 |
+|---------------------------------+-----------------+----------+----------+------+-----------+--------|
+| Reading Eloquent JavaScript     | READ.1529400878 | ashwanig | B        | DONE |       4.0 |   2.33 |
+|---------------------------------+-----------------+----------+----------+------+-----------+--------|
+| Fundamentals of React blog post | READ.1527834583 | ashwanig | B        | DONE |       1.0 |   0.60 |
+|---------------------------------+-----------------+----------+----------+------+-----------+--------|
+| Mini project using React        | DEV.1527834594  | ashwanig | B        | DONE |       2.0 |   2.90 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -57,29 +60,45 @@
   :SPRINTSTART: <2018-06-15 Fri>
   :wpd-ashwanig:  1
   :END:
-** Reading Eloquent JavaScript
+** DONE Reading Eloquent JavaScript
+   CLOSED: [2018-06-27 Wed 23:45]
    :PROPERTIES:
    :ESTIMATED: 4.0
-   :ACTUAL:
+   :ACTUAL:   2.33
    :OWNER: ashwanig
    :ID: READ.1529400878
    :TASKID: READ.1529400878
    :END:
-   - [ ] iii. Chapters 12 and 16 (4 hours)
-** Fundamentals of React blog post
+   :LOGBOOK:
+   CLOCK: [2018-06-17 Sun 11:30]--[2018-06-17 Sun 12:42] =>  1:12
+   CLOCK: [2018-06-17 Sun 01:30]--[2018-06-17 Sun 01:45] =>  0:15
+   CLOCK: [2018-06-17 Sun 00:20]--[2018-06-17 Sun 01:13] =>  0:53
+   :END:
+   - [X] iii. Chapters 12 and 16 (4 hours)
+** DONE Fundamentals of React blog post
+   CLOSED: [2018-06-27 Wed 23:46]
    :PROPERTIES:
    :ESTIMATED: 1.0
-   :ACTUAL:
+   :ACTUAL:   0.60
    :OWNER: ashwanig
-   :ID: WRITE.1527834583
-   :TASKID: WRITE.1527834583
+   :ID: READ.1527834583
+   :TASKID: READ.1527834583
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-06-23 Sat 16:25]--[2018-06-23 Sat 17:01] =>  0:36
    :END:
 
-** Mini project using React
+** DONE Mini project using React
+   CLOSED: [2018-06-27 Wed 23:47]
    :PROPERTIES:
    :ESTIMATED: 2.0
-   :ACTUAL:
+   :ACTUAL:   2.90
    :OWNER: ashwanig
    :ID: DEV.1527834594
    :TASKID: DEV.1527834594
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-06-24 Sun 16:00]--[2018-06-24 Sun 16:49] =>  0:49
+   CLOCK: [2018-06-24 Sun 06:40]--[2018-06-24 Sun 07:15] =>  0:35
+   CLOCK: [2018-06-23 Sat 17:15]--[2018-06-23 Sat 18:45] =>  1:30
    :END:

@@ -43,9 +43,24 @@ have the notion of time.
 Upcoming Sprints
 ================
 
-* May   29, 2018 - June  14, 2018
-* June  15, 2018 - June  27, 2018
-* June  28, 2018 - July  13, 2018
+* July      14, 2018 - July      26, 2018 (13 days)
+* July      27, 2018 - August    11, 2018 (16 days)
+* August    12, 2018 - August    25, 2018 (14 days)
+* August    26, 2018 - September 10, 2018 (16 days)
+* September 11, 2018 - September 23, 2018 (13 days)
+* September 24, 2018 - October    9, 2018 (16 days)
+* October   10, 2018 - October   23, 2018 (14 days)
+* October   24, 2018 - November   8, 2018 (16 days)
+* November   9, 2018 - November  22, 2018 (14 days)
+* November  23, 2018 - December   7, 2018 (15 days)
+* December   8, 2018 - December  21, 2018 (14 days)
+* December  22, 2018 - January    6, 2019 (16 days)
+
+* January   7, 2019 - January  20, 2018 (14 days)
+* January  21, 2019 - February  5, 2019 (16 days)
+* February  6, 2019 - February 18, 2019 (13 days)
+* February 19, 2019 - February 28, 2019 (10 days)
+* March     1, 2019 - March     7, 2019 ( 7 days)
 
 Contact
 =======
