@@ -27,7 +27,7 @@
   :SPRINTSTART: <2018-07-14 Sat>
   :wpd-sandeepK: 1.5
   :END:
-** Go through following project docs
+** Go through following project docs [0/3]
    :PROPERTIES:
    :ESTIMATED: 5.0
    :ACTUAL:
@@ -35,6 +35,9 @@
    :ID: READ.1531753876
    :TASKID: READ.1531753876
    :END:
+   - [ ] Nextcloud
+   - [ ] Babel
+   - [ ] Add-ons server
 ** Project environment setup
    :PROPERTIES:
    :ESTIMATED: 3.0
