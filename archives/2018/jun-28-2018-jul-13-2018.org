@@ -6,19 +6,74 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
+|------+------+-------------+---------+------+----------|
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME     | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|----------+-----------+--------+------+-----------+--------------+------------|
+| Sandeepk |         0 |  11.73 |    0 |         0 |   2018-07-16 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  25 +---------------------------------------------------------------------+   
+:     |   ##################################################################|   
+:     |   ....                                               ACTUAL ####### |   
+:     |       .                                               IDEAL ....... |   
+:  20 |+       ........                                                    +|   
+:     |                .                                                    |   
+:     |                 .......                                             |   
+:  15 |+                       .                                           +|   
+:     |                         .....                                       |   
+:     |                              .......                                |   
+:     |                                     .                               |   
+:  10 |+                                     .....                         +|   
+:     |                                           ....                      |   
+:     |                                               .....                 |   
+:   5 |+                                                   ....            +|   
+:     |                                                        ....         |   
+:     |                                                            .....    |   
+:     |                                                                 ....|   
+:   0 +---------------------------------------------------------------------+   
+:     0        2        4       6        8        10       12      14       16  
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:16]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2018-06-28 |   23.0 |    22 |                 |
+|   2 | 2018-06-29 |   23.0 |    20 |                 |
+|   3 | 2018-06-30 |   23.0 |    19 |                 |
+|   4 | 2018-07-01 |   23.0 |    17 |                 |
+|   5 | 2018-07-02 |   23.0 |    16 |                 |
+|   6 | 2018-07-03 |   23.0 |    14 |                 |
+|   7 | 2018-07-04 |   23.0 |    13 |                 |
+|   8 | 2018-07-05 |   23.0 |    12 |                 |
+|   9 | 2018-07-06 |   23.0 |    10 |                 |
+|  10 | 2018-07-07 |   23.0 |     9 |                 |
+|  11 | 2018-07-08 |   23.0 |     7 |                 |
+|  12 | 2018-07-09 |   23.0 |     6 |                 |
+|  13 | 2018-07-10 |   23.0 |     4 |                 |
+|  14 | 2018-07-11 |   23.0 |     3 |                 |
+|  15 | 2018-07-12 |   23.0 |     1 |                 |
+|  16 | 2018-07-13 |   23.0 |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM            | TASKID          | OWNER    | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|-----------------+-----------------+----------+----------+------+-----------+--------|
+| TASKS           |                 |          | B        |      |      23.0 |  11.73 |
+|-----------------+-----------------+----------+----------+------+-----------+--------|
+| FreeCode Camp   | READ.1530183432 | sandeepK | B        |      |      15.0 |   7.13 |
+|-----------------+-----------------+----------+----------+------+-----------+--------|
+| Read React Book | READ.1530183504 | sandeepK | B        |      |       8.0 |   4.60 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -26,30 +81,45 @@
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2018-06-28 Thu>
   :wpd-sandeepK:      1.5
+  :ACTUAL:   11.73
   :END:
-** FreeCode Camp [0/5]
+** FreeCode Camp [4/4]
    :PROPERTIES:
    :ESTIMATED: 15.0
-   :ACTUAL:
+   :ACTUAL:   7.13
    :OWNER: sandeepK
    :ID: READ.1530183432
    :TASKID: READ.1530183432
    :END:
-   - [ ] Applied Visual Design -- 2 hours 
-   - [ ] Applied Accessibility -- 2 hours 
-   - [ ] Responsive Web Design Principles -- 4 hours
-   - [ ] Javascript Algorithms And Data Structures -- 6 hours
-   - [ ] Sass -- 1 hour
-** Read React Book [0/5]
+   :LOGBOOK:
+   CLOCK: [2018-07-10 Tue 13:20]--[2018-07-10 Tue 13:40] =>  0:20
+   CLOCK: [2018-07-10 Tue 22:00]--[2018-07-10 Tue 23:30] =>  1:30
+   CLOCK: [2018-07-09 Mon 23:00]--[2018-07-10 Tue 00:40] =>  1:40
+   CLOCK: [2018-07-09 Mon 18:00]--[2018-07-09 Mon 19:00] =>  1:00
+   CLOCK: [2018-07-09 Mon 00:52]--[2018-07-09 Mon 01:20] =>  0:28
+   CLOCK: [2018-07-09 Mon 00:42]--[2018-07-09 Sun 00:52] =>  0:10
+   CLOCK: [2018-06-30 Sat 23:00]--[2018-07-01 Sun 00:00] =>  1:00
+   CLOCK: [2018-06-28 Thu 22:00]--[2018-06-28 Thu 23:00] =>  1:00
+   :END:
+   - [X] Applied Visual Design -- 2 hours 
+   - [X] Applied Accessibility -- 2 hours 
+   - [X] Responsive Web Design Principles -- 4 hours
+   - [X] Sass -- 1 hour
+** Read React Book [2/2]
    :PROPERTIES:
    :ESTIMATED: 8.0
-   :ACTUAL:
+   :ACTUAL:   4.60
    :OWNER: sandeepK
    :ID: READ.1530183504
    :TASKID: READ.1530183504
    :END:
-   - [ ] Chapter 5
-   - [ ] Chapter 6
-   - [ ] Chapter 7
-   - [ ] Chapter 8
-   - [ ] Chapter 9
+   :LOGBOOK:
+   CLOCK: [2018-07-08 Sun 05:24]--[2018-07-08 Sun 06:30] =>  1:06
+   CLOCK: [2018-07-07 Sat 12:00]--[2018-07-07 Sat 13:00] =>  1:00
+   CLOCK: [2018-07-05 Thu 22:00]--[2018-07-05 Thu 23:00] =>  1:00
+   CLOCK: [2018-07-03 Tue 18:00]--[2018-07-03 Tue 18:30] =>  0:30
+   CLOCK: [2018-07-03 Tue 14:00]--[2018-07-03 Tue 15:00] =>  1:00
+   :END:
+   - [X] Chapter 5
+   - [X] Chapter 6
+
