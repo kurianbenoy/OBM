@@ -18,11 +18,29 @@ Workflow
 If you are interested in participating in these sprints, define your
 long-term and short-term goals, and ping "mbuf" on irc.freenode.net.
 
-The short-term goals are further sub-divided into tasks which are
-aligned to sprints.
+Long-term goals could be your passion or job roles that you want to
+pursue such as (but not limited to):
+
+* DevSecOps Engineer
+* Security Engineer
+* Kernel Engineer
+* Systems Programmer
+* Web developer
+* UI/UX Designer
+* Writer
+* Document Translator
+* Data Engineer
+* Data Scientist
+* Packager
+* Application Developer
+* QA Tester
+
+The short-term goals may include the technology and skills that you
+need to learn to achieve your long-term goals. The short-term goals are
+further sub-divided into tasks which are aligned to sprints.
 
 The tasks can be any one of the following categories: READ, WRITE,
-DEV, OPS, MEETING.
+DEV, OPS, EVENT, MEETING.
 
 For each sprint, you decide on the hours you can spend per day, and
 the list of tasks.
