@@ -6,19 +6,76 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | READ.1531753936. The Beginner's Guide to React  (2018-08-01) |          |
+|      |      |             |         | READ.1531753876. Go through following project d (2018-07-26) |          |
+|      |      |             |         | DEV.1531753902. Project environment setup (2018-07-26)       |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME     | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|----------+-----------+--------+------+-----------+--------------+------------|
+| Sandeepk |      21.0 |  12.16 | 21.0 |         0 |   2018-08-13 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  25 +---------------------------------------------------------------------+   
+:     |                                                                     |   
+:     |                                                      ACTUAL ####### |   
+:     |    ###################################################IDEAL#....... |   
+:  20 |+   ......                                                       #  +|   
+:     |          .....                                                   #  |   
+:     |               ......                                              # |   
+:  15 |+                    ....                                          #+|   
+:     |                         .                                          #|   
+:     |                          .....                                      |   
+:     |                               ......                                |   
+:  10 |+                                    .....                          +|   
+:     |                                          ....                       |   
+:     |                                              .                      |   
+:   5 |+                                              ..........           +|   
+:     |                                                         .           |   
+:     |                                                          ......     |   
+:     |                                                                .....|   
+:   0 +---------------------------------------------------------------------+   
+:     0          2          4         6          8          10         12       
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:13]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                |
+|-----+------------+--------+-------+--------------------------------|
+|   1 | 2018-07-14 |   21.0 |    19 |                                |
+|   2 | 2018-07-15 |   21.0 |    18 |                                |
+|   3 | 2018-07-16 |   21.0 |    16 |                                |
+|   4 | 2018-07-17 |   21.0 |    15 |                                |
+|   5 | 2018-07-18 |   21.0 |    13 |                                |
+|   6 | 2018-07-19 |   21.0 |    11 |                                |
+|   7 | 2018-07-20 |   21.0 |    10 |                                |
+|   8 | 2018-07-21 |   21.0 |     8 |                                |
+|   9 | 2018-07-22 |   21.0 |     6 |                                |
+|  10 | 2018-07-23 |   21.0 |     5 |                                |
+|  11 | 2018-07-24 |   21.0 |     3 |                                |
+|  12 | 2018-07-25 |   21.0 |     2 |                                |
+|  13 | 2018-07-26 |   13.0 |     0 | DEV.1531753902 READ.1531753876 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                       | TASKID          | OWNER    | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|--------------------------------------------+-----------------+----------+----------+------+-----------+--------|
+| TASKS                                      |                 |          | B        |      |      21.0 |  12.16 |
+|--------------------------------------------+-----------------+----------+----------+------+-----------+--------|
+| Go through following project docs          | READ.1531753876 | sandeepK | B        | DONE |       5.0 |   3.00 |
+|--------------------------------------------+-----------------+----------+----------+------+-----------+--------|
+| Project environment setup                  | DEV.1531753902  | sandeepK | B        | DONE |       3.0 |   2.83 |
+|--------------------------------------------+-----------------+----------+----------+------+-----------+--------|
+| The Beginner's Guide to React (egghead.io) | READ.1531753936 | sandeepK | B        | DONE |      13.0 |   6.33 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -26,32 +83,57 @@
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2018-07-14 Sat>
   :wpd-sandeepK: 1.5
+  :ACTUAL:   12.16
   :END:
-** Go through following project docs [0/3]
+** DONE Go through following project docs [3/3]
+   CLOSED: [2018-07-26 Thu 23:01]
    :PROPERTIES:
    :ESTIMATED: 5.0
-   :ACTUAL:
+   :ACTUAL:   3.00
    :OWNER: sandeepK
    :ID: READ.1531753876
    :TASKID: READ.1531753876
    :END:
-   - [ ] Nextcloud
-   - [ ] Babel
-   - [ ] Add-ons server
-** Project environment setup
+   :LOGBOOK:
+   CLOCK: [2018-07-24 Tue 20:30]--[2018-07-24 Tue 21:10]  =>  0:40
+   CLOCK: [2018-07-22 Sun 12:10]--[2018-07-22 Sun 13:40]  =>  1:30
+   CLOCK: [2018-07-22 Sun 11:00]--[2018-07-22 Sun 11:50]  =>  0:50
+   :END:
+   - [X] Nextcloud
+   - [X] Babel
+   - [X] Add-ons server
+** DONE Project environment setup
+   CLOSED: [2018-07-26 Thu 23:00]
    :PROPERTIES:
    :ESTIMATED: 3.0
-   :ACTUAL:
+   :ACTUAL:   2.83
    :OWNER: sandeepK
    :ID: DEV.1531753902
    :TASKID: DEV.1531753902
    :END:
-** The Beginner's Guide to React (egghead.io)
+   :LOGBOOK:
+   CLOCK: [2018-07-26 Thu 20:00]--[2018-07-26 Thu 20:30]  =>  0:30
+   CLOCK: [2018-07-25 Wed 12:30]--[2018-07-25 Wed 13:10]  =>  0:40
+   CLOCK: [2018-07-24 Tue 23:30]--[2018-07-25 Wed 01:10]  =>  1:40
+   :END:
+** DONE The Beginner's Guide to React (egghead.io)
+   CLOSED: [2018-08-01 Wed 14:22]
    :PROPERTIES:
    :ESTIMATED: 13.0
-   :ACTUAL:
+   :ACTUAL:   6.33
    :OWNER: sandeepK
    :ID: READ.1531753936
    :TASKID: READ.1531753936
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-07-23 Mon 23:00]--[2018-07-23 Mon 23:30]  =>  0:30
+   CLOCK: [2018-07-23 Mon 20:00]--[2018-07-23 Mon 20:50]  =>  0:50
+   CLOCK: [2018-07-22 Sun 14:00]--[2018-07-22 Sun 15:20]  =>  1:20
+   CLOCK: [2018-07-19 Thu 23:30]--[2018-07-20 Fri 00:20]  =>  0:50
+   CLOCK: [2018-07-19 Thu 20:30]--[2018-07-19 Thu 21:10]  =>  0:40
+   CLOCK: [2018-07-19 Thu 00:00]--[2018-07-19 Thu 00:40]  =>  0:40
+   CLOCK: [2018-07-18 Wed 20:00]--[2018-07-18 Wed 20:30]  =>  0:30
+   CLOCK: [2018-07-17 Tue 14:30]--[2018-07-17 Tue 15:00]  =>  0:30
+   CLOCK: [2018-07-16 Mon 23:40]--[2018-07-17 Tue 00:10]  =>  0:30
    :END:
    The egghead course by Kent C. Dodds
