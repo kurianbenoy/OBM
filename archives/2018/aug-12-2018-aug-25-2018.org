@@ -6,15 +6,19 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
-|------+------+-------------+---------+------+----------|
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | READ.1533113834. React Book: Building React App (2018-08-25) |          |
+|      |      |             |         | READ.1533113873. FreeCode Camp: JavaScript algo (2018-08-25) |          |
+|      |      |             |         | READ.1533113936. Mozilla WebExtensions (2018-08-25)          |          |
+|      |      |             |         | DEV.1534177345. Learning Golang Chapter 4.11 e (2018-08-25)  |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME      | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |-----------+-----------+--------+------+-----------+--------------+------------|
-| Bhavin192 |         0 |      0 |    0 |         0 |   2018-08-13 | ---------- |
-| Sandeepk  |         0 |      0 |    0 |         0 |   2018-08-13 | ---------- |
+| Bhavin192 |      21.0 |  16.23 | 21.0 |         0 |   2018-08-28 | ########## |
+| Sandeepk  |      17.0 |   12.3 | 17.0 |         0 |   2018-08-28 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -23,38 +27,36 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:14]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2018-08-12 |   46.0 |    43 |                 |
-|   2 | 2018-08-13 |   46.0 |    39 |                 |
-|   3 | 2018-08-14 |        |    36 |                 |
-|   4 | 2018-08-15 |        |    33 |                 |
-|   5 | 2018-08-16 |        |    30 |                 |
-|   6 | 2018-08-17 |        |    26 |                 |
-|   7 | 2018-08-18 |        |    23 |                 |
-|   8 | 2018-08-19 |        |    20 |                 |
-|   9 | 2018-08-20 |        |    16 |                 |
-|  10 | 2018-08-21 |        |    13 |                 |
-|  11 | 2018-08-22 |        |    10 |                 |
-|  12 | 2018-08-23 |        |     7 |                 |
-|  13 | 2018-08-24 |        |     3 |                 |
-|  14 | 2018-08-25 |        |     0 |                 |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                                |
+|-----+------------+--------+-------+----------------------------------------------------------------|
+|   1 | 2018-08-12 |   38.0 |    35 |                                                                |
+|   2 | 2018-08-13 |   38.0 |    33 |                                                                |
+|   3 | 2018-08-14 |   38.0 |    30 |                                                                |
+|   4 | 2018-08-15 |   38.0 |    27 |                                                                |
+|   5 | 2018-08-16 |   38.0 |    24 |                                                                |
+|   6 | 2018-08-17 |   38.0 |    22 |                                                                |
+|   7 | 2018-08-18 |   38.0 |    19 |                                                                |
+|   8 | 2018-08-19 |   38.0 |    16 |                                                                |
+|   9 | 2018-08-20 |   38.0 |    14 |                                                                |
+|  10 | 2018-08-21 |   38.0 |    11 |                                                                |
+|  11 | 2018-08-22 |   38.0 |     8 |                                                                |
+|  12 | 2018-08-23 |   38.0 |     5 |                                                                |
+|  13 | 2018-08-24 |   38.0 |     3 |                                                                |
+|  14 | 2018-08-25 |    0.0 |     0 | DEV.1534177345 READ.1533113936 READ.1533113873 READ.1533113834 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                                     | TASKID          | OWNER     | PRIORITY | TODO | ESTIMATED | ACTUAL |
 |----------------------------------------------------------+-----------------+-----------+----------+------+-----------+--------|
-| TASKS                                                    |                 |           | B        |      |      46.0 |        |
+| TASKS                                                    |                 |           | B        |      |      38.0 |  28.53 |
 |----------------------------------------------------------+-----------------+-----------+----------+------+-----------+--------|
-| React Book: Building React Application                   | READ.1533113834 | sandeepK  | B        |      |       7.0 |        |
+| React Book: Building React Application                   | READ.1533113834 | sandeepK  | B        | DONE |       7.0 |   4.83 |
 |----------------------------------------------------------+-----------------+-----------+----------+------+-----------+--------|
-| FreeCode Camp: JavaScript algorithms and data structures | READ.1533113873 | sandeepK  | B        |      |       6.0 |        |
+| FreeCode Camp: JavaScript algorithms and data structures | READ.1533113873 | sandeepK  | B        | DONE |       6.0 |   4.97 |
 |----------------------------------------------------------+-----------------+-----------+----------+------+-----------+--------|
-| Mozilla WebExtensions                                    | READ.1533113936 | sandeepK  | B        |      |       4.0 |        |
+| Mozilla WebExtensions                                    | READ.1533113936 | sandeepK  | B        | DONE |       4.0 |   2.50 |
 |----------------------------------------------------------+-----------------+-----------+----------+------+-----------+--------|
-| On Writing. Stephen King.                                | READ.1533113991 | sandeepK  | B        |      |       8.0 |        |
-|----------------------------------------------------------+-----------------+-----------+----------+------+-----------+--------|
-| Learning Golang Chapter 4 exercises                      | DEV.1534177345  | bhavin192 | B        |      |      21.0 |        |
+| Learning Golang Chapter 4.11 exercise                    | DEV.1534177345  | bhavin192 | B        | DONE |      21.0 |  16.23 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -64,49 +66,89 @@
   :wpd-sandeepK: 1.5
   :wpd-bhavin192: 1.5
   :END:
-** React Book: Building React Application
+** DONE React Book: Building React Application [3/3]
+   CLOSED: [2018-08-25 Sat 22:30]
    :PROPERTIES:
    :ESTIMATED: 7.0
-   :ACTUAL:
+   :ACTUAL:   4.83
    :OWNER: sandeepK
    :ID: READ.1533113834
    :TASKID: READ.1533113834
    :END:
-   - [ ] Chapter 7
-   - [ ] Chapter 8
-   - [ ] Chapter 9
-** FreeCode Camp: JavaScript algorithms and data structures
+   :LOGBOOK:
+   CLOCK: [2018-08-25 Sat 19:00]--[2018-08-25 Sat 20:00] =>  1:00
+   CLOCK: [2018-08-25 Sat 14:00]--[2018-08-25 Sat 16:30] =>  2:30
+   CLOCK: [2018-08-25 Sat 13:00]--[2018-08-25 Sat 13:50] =>  0:50
+   CLOCK: [2018-08-22 Wed 20:40]--[2018-08-22 Wed 21:10] =>  0:30
+   :END:
+   - [X] Chapter 7
+   - [X] Chapter 8
+   - [X] Chapter 9
+** DONE FreeCode Camp: JavaScript algorithms and data structures
+   CLOSED: [2018-08-25 Sat 22:32]
    :PROPERTIES:
    :ESTIMATED: 6.0
-   :ACTUAL:
+   :ACTUAL:   4.97
    :OWNER: sandeepK
    :ID: READ.1533113873
    :TASKID: READ.1533113873
    :END:
+   :LOGBOOK:
+   CLOCK: [2018-08-21 Tue 20:00]--[2018-08-21 Tue 20:28]  =>  0:28
+   CLOCK: [2018-08-20 Mon 20:00]--[2018-08-20 Mon 22:00]  =>  2:00
+   CLOCK: [2018-08-16 Thu 23:00]--[2018-08-16 Thu 23:30]  =>  0:30
+   CLOCK: [2018-08-15 Wed 17:00]--[2018-08-15 Wed 17:30]  =>  0:30
+   CLOCK: [2018-08-14 Tue 17:08]--[2018-08-14 Tue 18:08]  =>  1:00
+   CLOCK: [2018-08-13 Mon 16:00]--[2018-08-13 Mon 16:30]  =>  0:30
+   :END:
    
-** Mozilla WebExtensions [0/2]
+** DONE Mozilla WebExtensions [2/2]
+   CLOSED: [2018-08-25 Sat 22:31]
    :PROPERTIES:
    :ESTIMATED: 4.0
-   :ACTUAL:
+   :ACTUAL:   2.50
    :OWNER: sandeepK
    :ID: READ.1533113936
    :TASKID: READ.1533113936
    :END:
-   - [ ] https://webextensions-experiments.readthedocs.io/en/latest/ -- 2 hours 
-   - [ ] https://wiki.mozilla.org/WebExtensions-- 2 hours
-** On Writing. Stephen King.
-   :PROPERTIES:
-   :ESTIMATED: 8.0
-   :ACTUAL:
-   :OWNER: sandeepK
-   :ID: READ.1533113991
-   :TASKID: READ.1533113991
+   :LOGBOOK:
+   CLOCK: [2018-08-23 Thu 20:00]--[2018-08-23 Thu 21:00] =>  1:00
+   CLOCK: [2018-08-21 Tue 20:30]--[2018-08-21 Wed 21:00] =>  0:30
+   CLOCK: [2018-08-22 Wed 23:00]--[2018-08-23 Thu 00:00] =>  1:00
    :END:
-** Learning Golang Chapter 4 exercises
+   - [X] https://webextensions-experiments.readthedocs.io/en/latest/ -- 2 hours 
+   - [X] https://wiki.mozilla.org/WebExtensions-- 2 hours
+** DONE Learning Golang Chapter 4.11 exercise
+   CLOSED: [2018-08-25 Sat 22:34]
    :PROPERTIES:
    :ESTIMATED: 21.0
-   :ACTUAL:
+   :ACTUAL:   16.23
    :OWNER: bhavin192
    :ID: DEV.1534177345
    :TASKID: DEV.1534177345
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-08-25 Sat 16:51]--[2018-08-25 Sat 18:51] =>  2:00
+   CLOCK: [2018-08-25 Sat 15:20]--[2018-08-25 Sat 15:30] =>  0:10
+   CLOCK: [2018-08-25 Sat 00:01]--[2018-08-25 Sat 01:00] =>  0:59
+   CLOCK: [2018-08-23 Thu 18:50]--[2018-08-23 Thu 20:15] =>  1:25
+   CLOCK: [2018-08-22 Wed 23:40]--[2018-08-23 Thu 00:05] =>  0:25
+   CLOCK: [2018-08-22 Wed 21:04]--[2018-08-22 Wed 21:15] =>  0:11
+   CLOCK: [2018-08-22 Wed 20:34]--[2018-08-22 Wed 20:51] =>  0:17
+   CLOCK: [2018-08-22 Wed 19:00]--[2018-08-22 Wed 19:30] =>  0:30
+   CLOCK: [2018-08-21 Tue 22:14]--[2018-08-21 Tue 23:01] =>  0:47
+   CLOCK: [2018-08-21 Tue 21:14]--[2018-08-21 Tue 21:35] =>  0:21
+   CLOCK: [2018-08-21 Tue 18:37]--[2018-08-21 Tue 19:28] =>  0:51
+   CLOCK: [2018-08-20 Mon 22:15]--[2018-08-20 Mon 22:53] =>  0:38
+   CLOCK: [2018-08-20 Mon 20:54]--[2018-08-20 Mon 21:10] =>  0:16
+   CLOCK: [2018-08-20 Mon 19:00]--[2018-08-20 Mon 20:28] =>  1:28
+   CLOCK: [2018-08-18 Sat 22:01]--[2018-08-18 Sat 23:13] =>  1:12
+   CLOCK: [2018-08-18 Sat 16:45]--[2018-08-18 Sat 17:05] =>  0:20
+   CLOCK: [2018-08-17 Fri 16:01]--[2018-08-17 Fri 17:03] =>  1:02
+   CLOCK: [2018-08-16 Thu 21:44]--[2018-08-16 Thu 22:10] =>  0:26
+   CLOCK: [2018-08-15 Wed 22:45]--[2018-08-15 Wed 23:20] =>  0:35
+   CLOCK: [2018-08-15 Wed 21:41]--[2018-08-15 Wed 22:00] =>  0:19
+   CLOCK: [2018-08-15 Wed 20:00]--[2018-08-15 Wed 20:45] =>  0:45
+   CLOCK: [2018-08-13 Mon 20:45]--[2018-08-13 Mon 21:32] =>  0:47
+   CLOCK: [2018-08-13 Mon 19:45]--[2018-08-13 Mon 20:15] =>  0:30
    :END:
