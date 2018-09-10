@@ -35,6 +35,20 @@
    :ID: WRITE.1536571387
    :TASKID: WRITE.1536571387
    :END:
+   - [ ] 1. The home row
+   - [ ] 2. Learning the Shift Key
+   - [ ] 3. Home Row and the Period
+   - [ ] 4. Upper Row and Essential Punctuation
+   - [ ] 5. Review
+   - [ ] 6. Learning the Lower Row
+   - [ ] 7. Practise
+   - [ ] 8. Practise
+   - [ ] 9. Practise
+   - [ ] 10. Practise
+   - [ ] 11. Practise
+   - [ ] 12. Practise
+   - [ ] 13. Frequent words
+   - [ ] 14. Alphabetic sentences
 ** Learn GNU Emacs [0/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
