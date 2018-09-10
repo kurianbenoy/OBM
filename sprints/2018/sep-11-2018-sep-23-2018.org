@@ -27,7 +27,7 @@
   :SPRINTSTART: <2018-10-11 Tue>
   :wpd-jasonbraganza: 2
   :END:
-** Learn to use Dvorak keyboard layout
+** Learn to use Dvorak keyboard layout [0/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
    :ACTUAL:
