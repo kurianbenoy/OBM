@@ -6,19 +6,73 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS                                      | WAITING | DONE | CANCELED |
+|------+------+--------------------------------------------------+---------+------+----------|
+|      |      | WRITE.1536571387. Learn to use Dvorak keyboard l |         |      |          |
+|      |      | READ.1536571485. Learn GNU Emacs                 |         |      |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|---------------+-----------+--------+------+-----------+--------------+------------|
+| Jasonbraganza |      13.0 |    1.0 |    0 |      13.0 |   2018-09-21 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  25 +---------------------------------------------------------------------+   
+:     |    ......                                                           |   
+:     |          ....                                         IDEAL ....... |   
+:     |              .                                                      |   
+:  20 |+              ......                                               +|   
+:     |                     .....                                           |   
+:     |                          ....                                       |   
+:  15 |+                             .                                     +|   
+:     |                               ......                                |   
+:     |                                     ....                            |   
+:     |                                         .                           |   
+:  10 |+                                         .....                     +|   
+:     |                                               .....                 |   
+:     |                                                    .                |   
+:   5 |+                                                    .....          +|   
+:     |                                                          .....      |   
+:     |                                                               .     |   
+:     |                                                                .....|   
+:   0 +---------------------------------------------------------------------+   
+:     0          2          4         6          8          10         12       
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:13]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2018-10-11 |        |    24 |                 |
+|   2 | 2018-10-12 |        |    22 |                 |
+|   3 | 2018-10-13 |        |    20 |                 |
+|   4 | 2018-10-14 |        |    18 |                 |
+|   5 | 2018-10-15 |        |    16 |                 |
+|   6 | 2018-10-16 |        |    14 |                 |
+|   7 | 2018-10-17 |        |    12 |                 |
+|   8 | 2018-10-18 |        |    10 |                 |
+|   9 | 2018-10-19 |        |     8 |                 |
+|  10 | 2018-10-20 |        |     6 |                 |
+|  11 | 2018-10-21 |        |     4 |                 |
+|  12 | 2018-10-22 |        |     2 |                 |
+|  13 | 2018-10-23 |        |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                | TASKID           | OWNER         | PRIORITY | TODO        | ESTIMATED | ACTUAL |
+|-------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
+| TASKS                               |                  |               | B        |             |      26.0 |    2.0 |
+|-------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
+| Learn to use Dvorak keyboard layout | WRITE.1536571387 | jasonbraganza | B        | IN_PROGRESS |      13.0 |   1.00 |
+|-------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
+| Learn GNU Emacs                     | READ.1536571485  | shaks         | B        | IN_PROGRESS |      13.0 |   1.00 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -27,15 +81,19 @@
   :SPRINTSTART: <2018-10-11 Tue>
   :wpd-jasonbraganza: 2
   :END:
-** Learn to use Dvorak keyboard layout [0/14]
+** IN_PROGRESS Learn to use Dvorak keyboard layout [1/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
-   :ACTUAL:
+   :ACTUAL:   1.00
    :OWNER: jasonbraganza
    :ID: WRITE.1536571387
    :TASKID: WRITE.1536571387
    :END:
-   - [ ] 1. The home row
+   :LOGBOOK:
+   CLOCK: [2018-09-11 Tue 14:30]--[2018-09-11 Tue 15:00] =>  0:30
+   CLOCK: [2018-09-11 Tue 11:00]--[2018-09-11 Tue 11:30] =>  0:30
+   :END:
+   - [X] 1. The home row
    - [ ] 2. Learning the Shift Key
    - [ ] 3. Home Row and the Period
    - [ ] 4. Upper Row and Essential Punctuation
@@ -49,16 +107,20 @@
    - [ ] 12. Practise
    - [ ] 13. Frequent words
    - [ ] 14. Alphabetic sentences
-** Learn GNU Emacs [0/14]
+** IN_PROGRESS Learn GNU Emacs [2/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
-   :ACTUAL:
+   :ACTUAL:   1.00
    :OWNER: shaks
    :ID: READ.1536571485
    :TASKID: READ.1536571485
    :END:
-   - [ ] 1. Emacs Basics
-   - [ ] 2. Editing
+   :LOGBOOK:
+   CLOCK: [2018-09-11 Tue 15:20]--[2018-09-11 Tue 16:00]
+   CLOCK: [2018-09-11 Tue 15:00]--[2018-09-11 Tue 15:20]
+   :END:
+   - [X] 1. Emacs Basics
+   - [X] 2. Editing
    - [ ] 3. Search and Replace
    - [ ] 4. Using Buffers, Windows, and Frames
    - [ ] 5. Emacs as a Work Environment
