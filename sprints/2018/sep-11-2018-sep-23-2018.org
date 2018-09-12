@@ -15,7 +15,7 @@
 #+BEGIN: block-update-summary
 | NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |---------------+-----------+--------+------+-----------+--------------+------------|
-| Jasonbraganza |      13.0 |    1.0 |    0 |      13.0 |   2018-09-21 | ---------- |
+| Jasonbraganza |      26.0 |    4.7 |    0 |      26.0 |   2018-10-01 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -68,11 +68,11 @@
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                | TASKID           | OWNER         | PRIORITY | TODO        | ESTIMATED | ACTUAL |
 |-------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| TASKS                               |                  |               | B        |             |      26.0 |    2.0 |
+| TASKS                               |                  |               | B        |             |      26.0 |    4.7 |
 |-------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learn to use Dvorak keyboard layout | WRITE.1536571387 | jasonbraganza | B        | IN_PROGRESS |      13.0 |   1.00 |
+| Learn to use Dvorak keyboard layout | WRITE.1536571387 | jasonbraganza | B        | IN_PROGRESS |      13.0 |   2.50 |
 |-------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learn GNU Emacs                     | READ.1536571485  | shaks         | B        | IN_PROGRESS |      13.0 |   1.00 |
+| Learn GNU Emacs                     | READ.1536571485  | jasonbraganza | B        | IN_PROGRESS |      13.0 |   2.20 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -81,22 +81,25 @@
   :SPRINTSTART: <2018-10-11 Tue>
   :wpd-jasonbraganza: 2
   :END:
-** IN_PROGRESS Learn to use Dvorak keyboard layout [1/14]
+** IN_PROGRESS Learn to use Dvorak keyboard layout [4/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
-   :ACTUAL:   1.00
+   :ACTUAL:   2.50
    :OWNER: jasonbraganza
    :ID: WRITE.1536571387
    :TASKID: WRITE.1536571387
    :END:
    :LOGBOOK:
+   CLOCK: [2018-09-12 Wed 12:30]--[2018-09-12 Wed 12:50] =>  0:20
+   CLOCK: [2018-09-12 Wed 12:00]--[2018-09-12 Wed 12:30] =>  0:30
+   CLOCK: [2018-09-12 Wed 10:20]--[2018-09-12 Wed 11:00] =>  0:40
    CLOCK: [2018-09-11 Tue 14:30]--[2018-09-11 Tue 15:00] =>  0:30
    CLOCK: [2018-09-11 Tue 11:00]--[2018-09-11 Tue 11:30] =>  0:30
    :END:
    - [X] 1. The home row
-   - [ ] 2. Learning the Shift Key
-   - [ ] 3. Home Row and the Period
-   - [ ] 4. Upper Row and Essential Punctuation
+   - [X] 2. Learning the Shift Key
+   - [X] 3. Home Row and the Period
+   - [X] 4. Upper Row and Essential Punctuation
    - [ ] 5. Review
    - [ ] 6. Learning the Lower Row
    - [ ] 7. Practise
@@ -107,21 +110,22 @@
    - [ ] 12. Practise
    - [ ] 13. Frequent words
    - [ ] 14. Alphabetic sentences
-** IN_PROGRESS Learn GNU Emacs [2/14]
+** IN_PROGRESS Learn GNU Emacs [3/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
-   :ACTUAL:   1.00
-   :OWNER: shaks
+   :ACTUAL:   2.20
+   :OWNER: jasonbraganza
    :ID: READ.1536571485
    :TASKID: READ.1536571485
    :END:
    :LOGBOOK:
-   CLOCK: [2018-09-11 Tue 15:20]--[2018-09-11 Tue 16:00]
-   CLOCK: [2018-09-11 Tue 15:00]--[2018-09-11 Tue 15:20]
+   CLOCK: [2018-09-12 Wed 15:30]--[2018-09-12 Wed 16:42] =>  1:12
+   CLOCK: [2018-09-11 Tue 15:20]--[2018-09-11 Tue 16:00] =>  0:40
+   CLOCK: [2018-09-11 Tue 15:00]--[2018-09-11 Tue 15:20] =>  0:20
    :END:
    - [X] 1. Emacs Basics
    - [X] 2. Editing
-   - [ ] 3. Search and Replace
+   - [X] 3. Search and Replace
    - [ ] 4. Using Buffers, Windows, and Frames
    - [ ] 5. Emacs as a Work Environment
    - [ ] 6. Writing Macros
