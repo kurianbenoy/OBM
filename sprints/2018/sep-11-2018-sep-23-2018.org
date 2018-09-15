@@ -81,7 +81,7 @@
   :SPRINTSTART: <2018-10-11 Tue>
   :wpd-jasonbraganza: 2
   :END:
-** IN_PROGRESS Learn to use Dvorak keyboard layout [6/14]
+** IN_PROGRESS Learn to use Dvorak keyboard layout [9/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
    :ACTUAL:   4.67
@@ -90,6 +90,7 @@
    :TASKID: WRITE.1536571387
    :END:
    :LOGBOOK:
+   CLOCK: [2018-09-15 Sat 11:00]--[2018-09-15 Sat 12:00] =>  1:00
    CLOCK: [2018-09-14 Fri 09:30]--[2018-09-14 Fri 10:45] =>  1:15
    CLOCK: [2018-09-13 Thu 16:00]--[2018-09-13 Thu 16:55] =>  0:55
    CLOCK: [2018-09-12 Wed 12:30]--[2018-09-12 Wed 12:50] =>  0:20
@@ -104,15 +105,15 @@
    - [X] 4. Upper Row and Essential Punctuation
    - [X] 5. Review
    - [X] 6. Learning the Lower Row
-   - [ ] 7. Practise
-   - [ ] 8. Practise
-   - [ ] 9. Practise
+   - [X] 7. Practise
+   - [X] 8. Practise
+   - [X] 9. Practise
    - [ ] 10. Practise
    - [ ] 11. Practise
    - [ ] 12. Practise
    - [ ] 13. Frequent words
    - [ ] 14. Alphabetic sentences
-** IN_PROGRESS Learn GNU Emacs [4/14]
+** IN_PROGRESS Learn GNU Emacs [5/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
    :ACTUAL:   3.87
@@ -131,7 +132,7 @@
    - [X] 2. Editing
    - [X] 3. Search and Replace
    - [X] 4. Using Buffers, Windows, and Frames
-   - [ ] 5. Emacs as a Work Environment
+   - [X] 5. Emacs as a Work Environment
    - [ ] 6. Writing Macros
    - [ ] 7. Simple Text Formatting and Specialized Editing
    - [ ] 8. Markup Language Support
