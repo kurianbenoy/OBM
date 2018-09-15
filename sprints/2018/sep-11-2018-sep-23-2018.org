@@ -113,7 +113,7 @@
    - [ ] 12. Practise
    - [ ] 13. Frequent words
    - [ ] 14. Alphabetic sentences
-** IN_PROGRESS Learn GNU Emacs [5/14]
+** IN_PROGRESS Learn GNU Emacs [6/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
    :ACTUAL:   3.87
@@ -122,6 +122,7 @@
    :TASKID: READ.1536571485
    :END:
    :LOGBOOK:
+   CLOCK: [2018-09-15 Sat 12:10]--[2018-09-15 Sat 13:10] =>  1:00
    CLOCK: [2018-09-14 Fri 11:00]--[2018-09-14 Fri 12:00] =>  1:00
    CLOCK: [2018-09-13 Thu 17:00]--[2018-09-13 Thu 17:40] =>  0:40
    CLOCK: [2018-09-12 Wed 15:30]--[2018-09-12 Wed 16:42] =>  1:12
@@ -133,7 +134,7 @@
    - [X] 3. Search and Replace
    - [X] 4. Using Buffers, Windows, and Frames
    - [X] 5. Emacs as a Work Environment
-   - [ ] 6. Writing Macros
+   - [X] 6. Writing Macros
    - [ ] 7. Simple Text Formatting and Specialized Editing
    - [ ] 8. Markup Language Support
    - [ ] 9. Computer Language Support
