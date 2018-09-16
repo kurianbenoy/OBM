@@ -81,7 +81,7 @@
   :SPRINTSTART: <2018-10-11 Tue>
   :wpd-jasonbraganza: 2
   :END:
-** IN_PROGRESS Learn to use Dvorak keyboard layout [9/14]
+** IN_PROGRESS Learn to use Dvorak keyboard layout [10/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
    :ACTUAL:   4.67
@@ -90,6 +90,7 @@
    :TASKID: WRITE.1536571387
    :END:
    :LOGBOOK:
+   CLOCK: [2018-09-16 Sun 11:00]--[2018-09-16 Sun 11:30] =>  0:30
    CLOCK: [2018-09-15 Sat 11:00]--[2018-09-15 Sat 12:00] =>  1:00
    CLOCK: [2018-09-14 Fri 09:30]--[2018-09-14 Fri 10:45] =>  1:15
    CLOCK: [2018-09-13 Thu 16:00]--[2018-09-13 Thu 16:55] =>  0:55
@@ -108,7 +109,7 @@
    - [X] 7. Practise
    - [X] 8. Practise
    - [X] 9. Practise
-   - [ ] 10. Practise
+   - [X] 10. Practise
    - [ ] 11. Practise
    - [ ] 12. Practise
    - [ ] 13. Frequent words
