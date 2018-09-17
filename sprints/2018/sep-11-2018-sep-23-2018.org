@@ -16,7 +16,7 @@
 | NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |---------------+-----------+--------+------+-----------+--------------+------------|
 | Bhavin192     |         0 |      0 |    0 |         0 |   2018-09-17 | ---------- |
-| Jasonbraganza |      26.0 |   8.54 |    0 |      26.0 |   2018-10-04 | ---------- |
+| Jasonbraganza |      26.0 |  11.04 |    0 |      26.0 |   2018-10-04 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -69,17 +69,17 @@
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                           | TASKID           | OWNER         | PRIORITY | TODO        | ESTIMATED | ACTUAL |
 |------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| TASKS                                          |                  |               | B        |             |     42.25 |   8.54 |
+| TASKS                                          |                  |               | B        |             |     42.25 |  11.04 |
 |------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learn to use Dvorak keyboard layout            | WRITE.1536571387 | jasonbraganza | B        | IN_PROGRESS |      13.0 |   4.67 |
+| Learn to use Dvorak keyboard layout            | WRITE.1536571387 | jasonbraganza | B        | IN_PROGRESS |      13.0 |   6.17 |
 |------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learn GNU Emacs                                | READ.1536571485  | jasonbraganza | B        | IN_PROGRESS |      13.0 |   3.87 |
+| Learn GNU Emacs                                | READ.1536571485  | jasonbraganza | B        | IN_PROGRESS |      13.0 |   4.87 |
 |------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
 | Learning Golang Chapter 4 Exercises            | DEV.1537165961   | bhavin192     | B        |             |       2.0 |        |
 |------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learning Golang Chapter 5. Functions           | READ.1537166028  | bhavin192     | B        |             |        10 |        |
+| Learning Golang Chapter 5. Functions           | READ.1537166028  | bhavin192     | B        |             |      5.25 |        |
 |------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learning Golang Chapter 5. Functions Exercises | DEV.1537166050   | bhavin192     | B        |             |      4.25 |        |
+| Learning Golang Chapter 5. Functions Exercises | DEV.1537166050   | bhavin192     | B        |             |         9 |        |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -92,7 +92,7 @@
 ** IN_PROGRESS Learn to use Dvorak keyboard layout [10/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
-   :ACTUAL:   4.67
+   :ACTUAL:   6.17
    :OWNER: jasonbraganza
    :ID: WRITE.1536571387
    :TASKID: WRITE.1536571387
@@ -125,7 +125,7 @@
 ** IN_PROGRESS Learn GNU Emacs [6/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
-   :ACTUAL:   3.87
+   :ACTUAL:   4.87
    :OWNER: jasonbraganza
    :ID: READ.1536571485
    :TASKID: READ.1536571485
