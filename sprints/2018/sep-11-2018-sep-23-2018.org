@@ -89,7 +89,7 @@
   :wpd-jasonbraganza: 2
   :wpd-bhavin192: 1.25
   :END:
-** IN_PROGRESS Learn to use Dvorak keyboard layout [10/14]
+** IN_PROGRESS Learn to use Dvorak keyboard layout [12/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
    :ACTUAL:   6.17
@@ -98,6 +98,8 @@
    :TASKID: WRITE.1536571387
    :END:
    :LOGBOOK:
+   CLOCK: [2018-09-17 Mon 16:00]--[2018-09-17 Mon 16:30] =>  0:30
+   CLOCK: [2018-09-17 Mon 15:30]--[2018-09-17 Mon 16:00] =>  0:30
    CLOCK: [2018-09-16 Sun 11:00]--[2018-09-16 Sun 11:30] =>  0:30
    CLOCK: [2018-09-15 Sat 11:00]--[2018-09-15 Sat 12:00] =>  1:00
    CLOCK: [2018-09-14 Fri 09:30]--[2018-09-14 Fri 10:45] =>  1:15
@@ -118,11 +120,11 @@
    - [X] 8. Practise
    - [X] 9. Practise
    - [X] 10. Practise
-   - [ ] 11. Practise
-   - [ ] 12. Practise
+   - [X] 11. Practise
+   - [X] 12. Practise
    - [ ] 13. Frequent words
    - [ ] 14. Alphabetic sentences
-** IN_PROGRESS Learn GNU Emacs [6/14]
+** IN_PROGRESS Learn GNU Emacs [8/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
    :ACTUAL:   4.87
@@ -131,6 +133,8 @@
    :TASKID: READ.1536571485
    :END:
    :LOGBOOK:
+   CLOCK: [2018-09-17 Mon 17:20]--[2018-09-17 Mon 17:45] =>  0:25
+   CLOCK: [2018-09-17 Mon 16:45]--[2018-09-17 Mon 17:20] =>  0:35
    CLOCK: [2018-09-15 Sat 12:10]--[2018-09-15 Sat 13:10] =>  1:00
    CLOCK: [2018-09-14 Fri 11:00]--[2018-09-14 Fri 12:00] =>  1:00
    CLOCK: [2018-09-13 Thu 17:00]--[2018-09-13 Thu 17:40] =>  0:40
@@ -144,8 +148,8 @@
    - [X] 4. Using Buffers, Windows, and Frames
    - [X] 5. Emacs as a Work Environment
    - [X] 6. Writing Macros
-   - [ ] 7. Simple Text Formatting and Specialized Editing
-   - [ ] 8. Markup Language Support
+   - [X] 7. Simple Text Formatting and Specialized Editing
+   - [X] 8. Markup Language Support
    - [ ] 9. Computer Language Support
    - [ ] 10. Customizing Emacs
    - [ ] 11. Emacs Lisp Programming
