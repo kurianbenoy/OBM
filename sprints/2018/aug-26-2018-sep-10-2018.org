@@ -27,7 +27,7 @@
   :SPRINTSTART: <2018-08-26 Sun>
   :wpd-bhavin192: 1.5
   :END:
-** Learning Golang - Chapter 4 Exercise
+** DONE Learning Golang - Chapter 4 Exercise
    :PROPERTIES:
    :ESTIMATED: 22.0
    :ACTUAL:
@@ -35,5 +35,23 @@
    :ID: DEV.1536571046
    :TASKID: DEV.1536571046
    :END:
-   - [ ] Exercise 4.11 Enhancements (4h)
-   - [ ] Exercise 4.12 (18h)
+   :LOGBOOK:
+   CLOCK: [2018-09-06 Thu 19:18]--[2018-09-06 Thu 20:28] =>  1:10
+   CLOCK: [2018-09-05 Wed 22:28]--[2018-09-05 Wed 23:39] =>  1:11
+   CLOCK: [2018-09-04 Tue 23:46]--[2018-09-05 Wed 00:19] =>  0:33
+   CLOCK: [2018-09-04 Tue 20:02]--[2018-09-04 Tue 20:57] =>  0:55
+   CLOCK: [2018-09-03 Mon 22:03]--[2018-09-03 Mon 22:50] =>  0:47
+   CLOCK: [2018-09-03 Mon 18:32]--[2018-09-03 Mon 19:23] =>  0:51
+   CLOCK: [2018-09-02 Sun 19:01]--[2018-09-02 Sun 21:08] =>  2:07
+   CLOCK: [2018-08-30 Thu 18:44]--[2018-08-30 Thu 20:23] =>  1:39
+   CLOCK: [2018-08-29 Wed 18:49]--[2018-08-29 Wed 20:37] =>  1:48
+   CLOCK: [2018-08-28 Tue 21:36]--[2018-08-28 Tue 22:48] =>  1:12
+   CLOCK: [2018-08-28 Tue 18:55]--[2018-08-28 Tue 20:26] =>  1:31
+   CLOCK: [2018-08-27 Mon 20:07]--[2018-08-27 Mon 21:06] =>  0:59
+   CLOCK: [2018-09-10 Mon 22:30]--[2018-09-10 Mon 23:56] =>  1:26
+   CLOCK: [2018-09-08 Sat 16:47]--[2018-09-08 Sat 19:44] =>  2:57
+   :END:
+
+   - [X] Exercise 4.11 Enhancements (4h)
+   - [X] Exercise 4.12 (18h)
+   - [X] Exercise 4.13 Part I (4h)
