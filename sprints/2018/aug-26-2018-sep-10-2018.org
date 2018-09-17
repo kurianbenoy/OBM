@@ -6,19 +6,73 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                        | CANCELED |
+|------+------+-------------+---------+-------------------------------------------------------------+----------|
+|      |      |             |         | DEV.1536571046. Learning Golang - Chapter 4 Ex (2018-09-10) |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME      | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|-----------+-----------+--------+------+-----------+--------------+------------|
+| Bhavin192 |      22.0 |   19.1 | 22.0 |         0 |   2018-09-17 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  25 +---------------------------------------------------------------------+   
+:     |                                                                     |   
+:     |   ################################################################# |   
+:     |   .....                                               IDEAL ....... |   
+:  20 |+       ....                                                      # +|   
+:     |            .....                                                 #  |   
+:     |                 ....                                             #  |   
+:  15 |+                    ....                                         # +|   
+:     |                         .....                                     # |   
+:     |                              ....                                 # |   
+:     |                                  ....                             # |   
+:  10 |+                                     .....                        #+|   
+:     |                                           ....                     #|   
+:     |                                               .....                #|   
+:   5 |+                                                   ....            #|   
+:     |                                                        ....        #|   
+:     |                                                            .....    |   
+:     |                                                                 ....|   
+:   0 +---------------------------------------------------------------------+   
+:     0        2        4       6        8        10       12      14       16  
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:16]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2018-08-26 |   22.0 |    21 |                 |
+|   2 | 2018-08-27 |   22.0 |    19 |                 |
+|   3 | 2018-08-28 |   22.0 |    18 |                 |
+|   4 | 2018-08-29 |   22.0 |    16 |                 |
+|   5 | 2018-08-30 |   22.0 |    15 |                 |
+|   6 | 2018-08-31 |   22.0 |    14 |                 |
+|   7 | 2018-09-01 |   22.0 |    12 |                 |
+|   8 | 2018-09-02 |   22.0 |    11 |                 |
+|   9 | 2018-09-03 |   22.0 |    10 |                 |
+|  10 | 2018-09-04 |   22.0 |     8 |                 |
+|  11 | 2018-09-05 |   22.0 |     7 |                 |
+|  12 | 2018-09-06 |   22.0 |     6 |                 |
+|  13 | 2018-09-07 |   22.0 |     4 |                 |
+|  14 | 2018-09-08 |   22.0 |     3 |                 |
+|  15 | 2018-09-09 |   22.0 |     1 |                 |
+|  16 | 2018-09-10 |    0.0 |     0 | DEV.1536571046  |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                 | TASKID         | OWNER     | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|--------------------------------------+----------------+-----------+----------+------+-----------+--------|
+| TASKS                                |                |           | B        |      |      22.0 |   19.1 |
+|--------------------------------------+----------------+-----------+----------+------+-----------+--------|
+| Learning Golang - Chapter 4 Exercise | DEV.1536571046 | bhavin192 | B        | DONE |      22.0 |  19.10 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -27,13 +81,32 @@
   :SPRINTSTART: <2018-08-26 Sun>
   :wpd-bhavin192: 1.5
   :END:
-** Learning Golang - Chapter 4 Exercise
+** DONE Learning Golang - Chapter 4 Exercise
+   CLOSED: [2018-09-10 Mon 22:00]
    :PROPERTIES:
    :ESTIMATED: 22.0
-   :ACTUAL:
+   :ACTUAL:   19.10
    :OWNER: bhavin192
    :ID: DEV.1536571046
    :TASKID: DEV.1536571046
    :END:
-   - [ ] Exercise 4.11 Enhancements (4h)
-   - [ ] Exercise 4.12 (18h)
+   :LOGBOOK:
+   CLOCK: [2018-09-06 Thu 19:18]--[2018-09-06 Thu 20:28] =>  1:10
+   CLOCK: [2018-09-05 Wed 22:28]--[2018-09-05 Wed 23:39] =>  1:11
+   CLOCK: [2018-09-04 Tue 23:46]--[2018-09-05 Wed 00:19] =>  0:33
+   CLOCK: [2018-09-04 Tue 20:02]--[2018-09-04 Tue 20:57] =>  0:55
+   CLOCK: [2018-09-03 Mon 22:03]--[2018-09-03 Mon 22:50] =>  0:47
+   CLOCK: [2018-09-03 Mon 18:32]--[2018-09-03 Mon 19:23] =>  0:51
+   CLOCK: [2018-09-02 Sun 19:01]--[2018-09-02 Sun 21:08] =>  2:07
+   CLOCK: [2018-08-30 Thu 18:44]--[2018-08-30 Thu 20:23] =>  1:39
+   CLOCK: [2018-08-29 Wed 18:49]--[2018-08-29 Wed 20:37] =>  1:48
+   CLOCK: [2018-08-28 Tue 21:36]--[2018-08-28 Tue 22:48] =>  1:12
+   CLOCK: [2018-08-28 Tue 18:55]--[2018-08-28 Tue 20:26] =>  1:31
+   CLOCK: [2018-08-27 Mon 20:07]--[2018-08-27 Mon 21:06] =>  0:59
+   CLOCK: [2018-09-10 Mon 22:30]--[2018-09-10 Mon 23:56] =>  1:26
+   CLOCK: [2018-09-08 Sat 16:47]--[2018-09-08 Sat 19:44] =>  2:57
+   :END:
+
+   - [X] Exercise 4.11 Enhancements (4h)
+   - [X] Exercise 4.12 (18h)
+   - [X] Exercise 4.13 Part I (4h)
