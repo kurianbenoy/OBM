@@ -16,7 +16,8 @@ Workflow
 ========
 
 If you are interested in participating in these sprints, define your
-long-term and short-term goals, and ping "mbuf" on irc.freenode.net.
+long-term (3-5 years) and short-term goals (3-6 months), and ping
+"mbuf" on irc.freenode.net.
 
 Long-term goals could be your passion or job roles that you want to
 pursue such as (but not limited to):

@@ -92,7 +92,7 @@
 ** IN_PROGRESS Learn to use Dvorak keyboard layout [12/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
-   :ACTUAL:   6.17
+   :ACTUAL:   7.17
    :OWNER: jasonbraganza
    :ID: WRITE.1536571387
    :TASKID: WRITE.1536571387
@@ -127,7 +127,7 @@
 ** IN_PROGRESS Learn GNU Emacs [8/14]
    :PROPERTIES:
    :ESTIMATED: 13.0
-   :ACTUAL:   4.87
+   :ACTUAL:   5.87
    :OWNER: jasonbraganza
    :ID: READ.1536571485
    :TASKID: READ.1536571485
