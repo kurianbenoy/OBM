@@ -1,0 +1,30 @@
+#+TITLE: Plan
+#+AUTHOR: Shakthi Kannan
+#+EMAIL: author@shakthimaan.com
+#+TAGS: read write dev ops task event meeting # Need to be category
+* PEOPLE
+* PROJECTS
+** Emacs
+*** [#A] Bugs
+*** Add standard deviation, variance in Org scrum mode report
+    :PROPERTIES:
+    :ESTIMATED: 4.0
+    :ACTUAL:
+    :OWNER: shaks
+    :ID: HACKING.1489253135
+    :TASKID: HACKING.1489253135
+    :END:
+*** Measure velocity in Emacs Scrum
+*** Create time spent in sprint for each category
+*** Possibility to use org-babel with tailf commands?
+** System
+*** Parabola for Qubes OS dom0
+*** Tails OS on ARM
+** Web
+*** [#A] Searchable and browseable dgplug IRC chat logs
+*** Better UI/UX for IRC stats page
+*** Puppy Love
+    Analyse the relation between talk acceptance in a conference, and
+    sponsorship (or know to organizers).
+*** Vastu auto-layout check software from blueprint
+    LibreCAD?
