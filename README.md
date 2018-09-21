@@ -40,6 +40,10 @@ The short-term goals may include the technology and skills that you
 need to learn to achieve your long-term goals. The short-term goals are
 further sub-divided into tasks which are aligned to sprints.
 
+The plan/ directory has sub-directories for the long-term goals. You
+should create an Org file for your name, and place it under the
+respective long-term goal that you plan to work towards.
+
 The tasks can be any one of the following categories: READ, WRITE,
 DEV, OPS, EVENT, MEETING.
 
@@ -62,7 +66,6 @@ have the notion of time.
 Upcoming Sprints
 ================
 
-* September 11, 2018 - September 23, 2018 (13 days)
 * September 24, 2018 - October    9, 2018 (16 days)
 * October   10, 2018 - October   23, 2018 (14 days)
 * October   24, 2018 - November   8, 2018 (16 days)
