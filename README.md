@@ -42,7 +42,8 @@ further sub-divided into tasks which are aligned to sprints.
 
 The plan/ directory has sub-directories for the long-term goals. You
 should create an Org file for your name, and place it under the
-respective long-term goal that you plan to work towards.
+respective long-term goal that you plan to work towards. A
+user-example.org is available in the plan/ directory for reference.
 
 The tasks can be any one of the following categories: READ, WRITE,
 DEV, OPS, EVENT, MEETING.

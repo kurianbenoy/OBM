@@ -1,0 +1,146 @@
+#+AUTHOR: Shakthi Kannan
+#+EMAIL: author@shakthimaan.com
+#+TAGS: read write dev ops event meeting # Need to be category
+* GOALS
+** Master GNU Emacs
+*** Learning GNU Emacs [0/14]
+   :PROPERTIES:
+   :ESTIMATED: 13.0
+   :ACTUAL:   
+   :OWNER: mbuf 
+   :ID: READ.1536571485
+   :TASKID: READ.1536571485
+   :END:
+    Third edition.
+    Debra Cameron, James Elliott, Marc Loy et. al.
+   - [ ] Chapter  1. Emacs Basics
+   - [ ] Chapter  2. Editing
+   - [ ] Chapter  3. Search and Replace
+   - [ ] Chapter  4. Using Buffers, Windows, and Frames
+   - [ ] Chapter  5. Emacs as a Work Environment
+   - [ ] Chapter  6. Writing Macros
+   - [ ] Chapter  7. Simple Text Formatting and Specialized Editing
+   - [ ] Chapter  8. Markup Language Support
+   - [ ] Chapter  9. Computer Language Support
+   - [ ] Chapter 10. Customizing Emacs
+   - [ ] Chapter 11. Emacs Lisp Programming
+   - [ ] Chapter 12. Version Control
+   - [ ] Chapter 13. Platform-specific considerations
+   - [ ] Chapter 14. The Help System
+*** watch "Getting Started with Org Mode" (~ 57m)
+    Harry Schwartz.
+   :PROPERTIES:
+   :ESTIMATED: 1.0
+   :ACTUAL:
+   :OWNER: mbuf
+   :ID: READ.1537806234
+   :TASKID: READ.1537806234
+   :END:
+    https://www.youtube.com/watch?v=SzA2YODtgK4
+*** watch "An Introduction to Emacs Lisp"
+    :PROPERTIES:
+    :ESTIMATED: 1.0
+    :ACTUAL:
+    :OWNER:    mbuf
+    :ID:       READ.1537807752
+    :TASKID:   READ.1537807752
+    :END:
+    https://www.youtube.com/watch?v=2z-YBsd5snY
+** Improve writing
+*** Installation of Parabola GNU/Linux-libre [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 3.0
+    :ACTUAL:
+    :OWNER:    mbuf
+    :ID:       WRITE.1537806377
+    :TASKID:   WRITE.1537806377
+    :END:
+    - [ ] Create draft
+    - [ ] Insert screenshots
+    - [ ] Review post
+    - [ ] Publish document
+** Development
+*** SICP book exercises [0/5]
+    :PROPERTIES:
+    :ESTIMATED: 24.0
+    :ACTUAL:
+    :OWNER:    mbuf
+    :ID:       DEV.1537806718
+    :TASKID:   DEV.1537806718
+    :END:
+    - [ ] Chapter 1. Building Abstractions with Procedures
+    - [ ] Chapter 2. Building Abstractions with Data
+    - [ ] Chapter 3. Modularity, Objects, and State
+    - [ ] Chapter 4. Metalinguistic Abstraction
+    - [ ] Chapter 5. Computing with Register Machines
+** Operations
+*** Databases
+**** Postgresql
+***** Read PostgreSQL 9.0 High Performance [0/16]
+      :PROPERTIES:
+      :ESTIMATED: 10.0
+      :ACTUAL:
+      :OWNER:    mbuf
+      :ID:       READ.1537808006
+      :TASKID:   READ.1537808006
+      :END:
+      - [ ] Chapter  1. PostgreSQL Versions
+      - [ ] Chapter  2. Database Hardware
+      - [ ] Chapter  3. Database Hardware Benchmarking
+      - [ ] Chapter  4. Disk Setup
+      - [ ] Chapter  5. Memory for Database Caching
+      - [ ] Chapter  6. Server Configuration Tuning
+      - [ ] Chapter  7. Routine Maintenance
+      - [ ] Chapter  8. Database Benchmarking
+      - [ ] Chapter  9. Database Indexing
+      - [ ] Chapter 10. Query Optimization
+      - [ ] Chapter 11. Database Activity and Statistics
+      - [ ] Chapter 12. Monitoring and Trending
+      - [ ] Chapter 13. Pooling and Caching
+      - [ ] Chapter 14. Scaling with Replication
+      - [ ] Chapter 15. Partitioning Data
+      - [ ] Chapter 16. Avoiding Common Problems
+
+** Attend meetups
+*** dgplug GNU Emacs IRC meeting
+    :PROPERTIES:
+    :ESTIMATED: 2.0
+    :ACTUAL:
+    :OWNER:    mbuf
+    :ID:       EVENT.1537807431
+    :TASKID:   EVENT.1537807431
+    :END:
+*** linux.conf.au, January 21-25, 2019
+    :PROPERTIES:
+    :ESTIMATED: 30.0
+    :ACTUAL:
+    :OWNER:    mbuf
+    :ID:       EVENT.1537808409
+    :TASKID:   EVENT.1537808409
+    :END:
+    https://linux.conf.au/
+* PLAN
+** October   10, 2018 - October  23, 2018 (14 days)
+*** Provisioning of Parabola VM [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 3.0
+    :ACTUAL:
+    :OWNER:    mbuf
+    :ID:       OPS.1537806791
+    :TASKID:   OPS.1537806791
+    :END:
+    - [ ] Launch test VM
+    - [ ] Test ssh connectivity to VM
+** October   24, 2018 - November  8, 2018 (16 days)
+*** Ansible connectivity test to Parabola VM [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 1.0
+    :ACTUAL:
+    :OWNER:    mbuf
+    :ID:       OPS.1537806847
+    :TASKID:   OPS.1537806847
+    :END:
+    - [ ] Create Ansible directory structure
+    - [ ] Setup inventory
+    - [ ] Test connectivity
+** November   9, 2018 - November 22, 2018 (14 days)
