@@ -6,17 +6,17 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS                                      | WAITING | DONE | CANCELED |
-|------+------+--------------------------------------------------+---------+------+----------|
-|      |      | WRITE.1536571387. Learn to use Dvorak keyboard l |         |      |          |
-|      |      | READ.1536571485. Learn GNU Emacs                 |         |      |          |
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                          | CANCELED |
+|------+------+-------------+---------+---------------------------------------------------------------+----------|
+|      |      |             |         | WRITE.1536571387. Learn to use Dvorak keyboard l (2018-09-23) |          |
+|      |      |             |         | READ.1536571485. Learn GNU Emacs (2018-09-23)                 |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
-| NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
-|---------------+-----------+--------+------+-----------+--------------+------------|
-| Bhavin192     |         0 |      0 |    0 |         0 |   2018-09-18 | ---------- |
-| Jasonbraganza |      26.0 |  13.04 |    0 |      26.0 |   2018-10-05 | ---------- |
+| NAME          | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|---------------+-----------+--------------------+------+-----------+--------------+------------|
+| Bhavin192     |         0 |                  0 |    0 |         0 |   2018-09-24 | ---------- |
+| Jasonbraganza |      26.0 | 22.119999999999997 | 26.0 |         0 |   2018-09-24 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -43,19 +43,19 @@
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                                           | TASKID           | OWNER         | PRIORITY | TODO        | ESTIMATED | ACTUAL |
-|------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| TASKS                                          |                  |               | B        |             |     42.25 |  13.04 |
-|------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learn to use Dvorak keyboard layout            | WRITE.1536571387 | jasonbraganza | B        | IN_PROGRESS |      13.0 |   7.17 |
-|------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learn GNU Emacs                                | READ.1536571485  | jasonbraganza | B        | IN_PROGRESS |      13.0 |   5.87 |
-|------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learning Golang Chapter 4 Exercises            | DEV.1537165961   | bhavin192     | B        |             |       2.0 |        |
-|------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learning Golang Chapter 5. Functions           | READ.1537166028  | bhavin192     | B        |             |      5.25 |        |
-|------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learning Golang Chapter 5. Functions Exercises | DEV.1537166050   | bhavin192     | B        |             |         9 |        |
+| ITEM                                           | TASKID           | OWNER         | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|------------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| TASKS                                          |                  |               | B        |      |     42.25 | 22.119999999999997 |
+|------------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| Learn to use Dvorak keyboard layout            | WRITE.1536571387 | jasonbraganza | B        | DONE |      13.0 |               9.67 |
+|------------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| Learn GNU Emacs                                | READ.1536571485  | jasonbraganza | B        | DONE |      13.0 |              12.45 |
+|------------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| Learning Golang Chapter 4 Exercises            | DEV.1537165961   | bhavin192     | B        |      |       2.0 |                    |
+|------------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| Learning Golang Chapter 5. Functions           | READ.1537166028  | bhavin192     | B        |      |      5.25 |                    |
+|------------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| Learning Golang Chapter 5. Functions Exercises | DEV.1537166050   | bhavin192     | B        |      |         9 |                    |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -65,10 +65,11 @@
   :wpd-jasonbraganza: 2
   :wpd-bhavin192: 1.25
   :END:
-** IN_PROGRESS Learn to use Dvorak keyboard layout [12/14]
+** DONE Learn to use Dvorak keyboard layout [12/14]
+   CLOSED: [2018-09-23 Sun 23:00]
    :PROPERTIES:
    :ESTIMATED: 13.0
-   :ACTUAL:   7.17
+   :ACTUAL:   9.67
    :OWNER: jasonbraganza
    :ID: WRITE.1536571387
    :TASKID: WRITE.1536571387
@@ -102,10 +103,11 @@
    - [X] 12. Practise
    - [X] 13. Frequent words
    - [X] 14. Alphabetic sentences
-** IN_PROGRESS Learn GNU Emacs [8/14]
+** DONE Learn GNU Emacs [8/14]
+   CLOSED: [2018-09-23 Sun 23:01]
    :PROPERTIES:
    :ESTIMATED: 13.0
-   :ACTUAL:   5.87
+   :ACTUAL:   12.45
    :OWNER: jasonbraganza
    :ID: READ.1536571485
    :TASKID: READ.1536571485
