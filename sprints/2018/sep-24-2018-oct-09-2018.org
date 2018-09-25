@@ -1,0 +1,126 @@
+#+TITLE: September 24, 2018 - October 9, 2018 (16 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
+|------+------+-------------+---------+------+----------|
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+| NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|---------------+-----------+--------+------+-----------+--------------+------------|
+| Jasonbraganza |         0 |      0 |    0 |         0 |   2018-09-25 | ---------- |
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:16]"
+#+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2018-09-24 |  53.25 |    50 |                 |
+|   2 | 2018-09-25 |  53.25 |    47 |                 |
+|   3 | 2018-09-26 |        |    43 |                 |
+|   4 | 2018-09-27 |        |    40 |                 |
+|   5 | 2018-09-28 |        |    37 |                 |
+|   6 | 2018-09-29 |        |    33 |                 |
+|   7 | 2018-09-30 |        |    30 |                 |
+|   8 | 2018-10-01 |        |    27 |                 |
+|   9 | 2018-10-02 |        |    23 |                 |
+|  10 | 2018-10-03 |        |    20 |                 |
+|  11 | 2018-10-04 |        |    17 |                 |
+|  12 | 2018-10-05 |        |    13 |                 |
+|  13 | 2018-10-06 |        |    10 |                 |
+|  14 | 2018-10-07 |        |     7 |                 |
+|  15 | 2018-10-08 |        |     3 |                 |
+|  16 | 2018-10-09 |        |     0 |                 |
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                       | TASKID           | OWNER         | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|--------------------------------------------+------------------+---------------+----------+------+-----------+--------|
+| TASKS                                      |                  |               | B        |      |     53.25 |        |
+|--------------------------------------------+------------------+---------------+----------+------+-----------+--------|
+| Maths                                      | READ.1537858093  | jasonbraganza | B        |      |        39 |        |
+|--------------------------------------------+------------------+---------------+----------+------+-----------+--------|
+| Improve to 30wpm using the Dvorak keyboard | WRITE.1537858335 | jasonbraganza | B        |      |      12.0 |        |
+|--------------------------------------------+------------------+---------------+----------+------+-----------+--------|
+| Learn Emacs Org mode                       | READ.1537858579  | jasonbraganza | B        |      |      2.25 |        |
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 16
+  :SPRINTSTART: <2018-09-24 Mon>
+  :wpd-jasonbraganza: 
+  :END:
+** Maths [0/13]
+   :PROPERTIES:
+   :ESTIMATED: 39
+   :ACTUAL:
+   :OWNER:    jasonbraganza
+   :ID:       READ.1537858093
+   :TASKID:   READ.1537858093
+   :END:
+   3h per day.
+   - [ ] 2018-09-25 - Module-I: Sets, Relations and Functions - Sets 
+   - [ ] 2018-09-26 - Module-I: Sets, Relations and Functions - Sets 
+   - [ ] 2018-09-27 - Module-I: Sets, Relations and Functions - Relations and Functions-I 
+   - [ ] 2018-09-28 - Module-I: Sets, Relations and Functions - Relations and Functions-I 
+   - [ ] 2018-09-29 - Module-I: Sets, Relations and Functions - Trigonometric Functions-I 
+   - [ ] 2018-10-01 - Module-I: Sets, Relations and Functions - Trigonometric Functions-I 
+   - [ ] 2018-10-02 - Module-I: Sets, Relations and Functions - Trigonometric Functions-II 
+   - [ ] 2018-10-03 - Module-I: Sets, Relations and Functions - Trigonometric Functions-II 
+   - [ ] 2018-10-04 - Module-I: Sets, Relations and Functions - Relation between Sides and Angles of a Triangle 
+   - [ ] 2018-10-05 - Module-I: Sets, Relations and Functions - Relation between Sides and Angles of a Triangle 
+   - [ ] 2018-10-06 - Module -III: Algebra-I - Complex Numbers 
+   - [ ] 2018-10-08 - Module -III: Algebra-I - Complex Numbers 
+   - [ ] 2018-10-09 - Module -III: Algebra-I - Quadratic Equations and Linear Inequalities
+** Improve to 30wpm using the Dvorak keyboard [0/15]
+   :PROPERTIES:
+   :ESTIMATED: 12.0
+   :ACTUAL:
+   :OWNER:    jasonbraganza
+   :ID:       WRITE.1537858335
+   :TASKID:   WRITE.1537858335
+   :END:
+   Learn the Dvorak keyboard (get upto 30 wpm across 2 sprints).
+    Do the Dvorak typing & speed drills in Gtypist 45m daily.
+   - [ ] 2018-09-24 - Lesson M1 - Practise 
+   - [ ] 2018-09-25 - Lesson M2 - Practise 
+   - [ ] 2018-09-26 - Lesson M3 - Practise 
+   - [ ] 2018-09-27 - Lesson M4 - Practise 
+   - [ ] 2018-09-28 - Lesson M5 - Practise 
+   - [ ] 2018-09-29 - Lesson M6 - Practise 
+   - [ ] 2018-09-30 - Lesson M7 - Practise 
+   - [ ] 2018-10-01 - Lesson M8 - Practise 
+   - [ ] 2018-10-02 - Lesson M9 - Practise 
+   - [ ] 2018-10-03 - Lesson M10 - Practise 
+   - [ ] 2018-10-04 - Lesson M11 - Practise 
+   - [ ] 2018-10-05 - Lesson S1 - Speed Tests 
+   - [ ] 2018-10-06 - Lesson S2 - Speed Tests 
+   - [ ] 2018-10-08 - Lesson S3 - Speed Tests 
+   - [ ] 2018-10-09 - Lesson S4 - Speed Tests 
+** Learn Emacs Org mode [0/9]
+   :PROPERTIES:
+   :ESTIMATED: 2.25
+   :ACTUAL:
+   :OWNER: jasonbraganza
+   :ID: READ.1537858579
+   :TASKID: READ.1537858579
+   :END:
+   - [ ] 2018-09-25 - Go through the Org IRC session 
+   - [ ] 2018-09-26 - Practice the Org mode commands 
+   - [ ] 2018-09-27 - Practice the Org mode commands 
+   - [ ] 2018-09-28 - Practice the Org mode commands 
+   - [ ] 2018-09-29 - Practice the Org mode commands 
+   - [ ] 2018-10-01 - Customize Emacs configuration for Org usage 
+   - [ ] 2018-10-02 - Customize Emacs configuration for Org usage 
+   - [ ] 2018-10-03 - Customize Emacs configuration for Org usage 
+   - [ ] 2018-10-04 - Try to update OBM (and then figure out further steps with mbuf)
