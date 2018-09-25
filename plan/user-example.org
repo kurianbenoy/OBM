@@ -13,20 +13,20 @@
    :END:
     Third edition.
     Debra Cameron, James Elliott, Marc Loy et. al.
-   - [ ] Chapter  1. Emacs Basics
-   - [ ] Chapter  2. Editing
-   - [ ] Chapter  3. Search and Replace
-   - [ ] Chapter  4. Using Buffers, Windows, and Frames
-   - [ ] Chapter  5. Emacs as a Work Environment
-   - [ ] Chapter  6. Writing Macros
-   - [ ] Chapter  7. Simple Text Formatting and Specialized Editing
-   - [ ] Chapter  8. Markup Language Support
-   - [ ] Chapter  9. Computer Language Support
-   - [ ] Chapter 10. Customizing Emacs
-   - [ ] Chapter 11. Emacs Lisp Programming
-   - [ ] Chapter 12. Version Control
-   - [ ] Chapter 13. Platform-specific considerations
-   - [ ] Chapter 14. The Help System
+   - [ ] Chapter  1. Emacs Basics                                   (30m)
+   - [ ] Chapter  2. Editing                                        ( 1h)
+   - [ ] Chapter  3. Search and Replace                             ( 1h)
+   - [ ] Chapter  4. Using Buffers, Windows, and Frames             ( 1h)
+   - [ ] Chapter  5. Emacs as a Work Environment                    ( 1h)
+   - [ ] Chapter  6. Writing Macros                                 ( 1h)
+   - [ ] Chapter  7. Simple Text Formatting and Specialized Editing ( 1h)
+   - [ ] Chapter  8. Markup Language Support                        ( 1h)
+   - [ ] Chapter  9. Computer Language Support                      ( 1h)
+   - [ ] Chapter 10. Customizing Emacs                              ( 1h)
+   - [ ] Chapter 11. Emacs Lisp Programming                         ( 1h)
+   - [ ] Chapter 12. Version Control                                ( 1h)
+   - [ ] Chapter 13. Platform-specific considerations               ( 1h)
+   - [ ] Chapter 14. The Help System                                (30m)
 *** watch "Getting Started with Org Mode" (~ 57m)
     Harry Schwartz.
    :PROPERTIES:
@@ -55,10 +55,10 @@
     :ID:       WRITE.1537806377
     :TASKID:   WRITE.1537806377
     :END:
-    - [ ] Create draft
-    - [ ] Insert screenshots
-    - [ ] Review post
-    - [ ] Publish document
+    - [ ] Create draft       ( 2h)
+    - [ ] Insert screenshots (15m)
+    - [ ] Review post        (30m)
+    - [ ] Publish document   (15m)
 ** Development
 *** SICP book exercises [0/5]
     :PROPERTIES:
@@ -68,11 +68,11 @@
     :ID:       DEV.1537806718
     :TASKID:   DEV.1537806718
     :END:
-    - [ ] Chapter 1. Building Abstractions with Procedures
-    - [ ] Chapter 2. Building Abstractions with Data
-    - [ ] Chapter 3. Modularity, Objects, and State
-    - [ ] Chapter 4. Metalinguistic Abstraction
-    - [ ] Chapter 5. Computing with Register Machines
+    - [ ] Chapter 1. Building Abstractions with Procedures (4h)
+    - [ ] Chapter 2. Building Abstractions with Data       (5h)
+    - [ ] Chapter 3. Modularity, Objects, and State        (5h)
+    - [ ] Chapter 4. Metalinguistic Abstraction            (5h)
+    - [ ] Chapter 5. Computing with Register Machines      (5h)
 ** Operations
 *** Databases
 **** Postgresql
@@ -84,22 +84,22 @@
       :ID:       READ.1537808006
       :TASKID:   READ.1537808006
       :END:
-      - [ ] Chapter  1. PostgreSQL Versions
-      - [ ] Chapter  2. Database Hardware
-      - [ ] Chapter  3. Database Hardware Benchmarking
-      - [ ] Chapter  4. Disk Setup
-      - [ ] Chapter  5. Memory for Database Caching
-      - [ ] Chapter  6. Server Configuration Tuning
-      - [ ] Chapter  7. Routine Maintenance
-      - [ ] Chapter  8. Database Benchmarking
-      - [ ] Chapter  9. Database Indexing
-      - [ ] Chapter 10. Query Optimization
-      - [ ] Chapter 11. Database Activity and Statistics
-      - [ ] Chapter 12. Monitoring and Trending
-      - [ ] Chapter 13. Pooling and Caching
-      - [ ] Chapter 14. Scaling with Replication
-      - [ ] Chapter 15. Partitioning Data
-      - [ ] Chapter 16. Avoiding Common Problems
+      - [ ] Chapter  1. PostgreSQL Versions              (15m)
+      - [ ] Chapter  2. Database Hardware                (15m)
+      - [ ] Chapter  3. Database Hardware Benchmarking   (30m)
+      - [ ] Chapter  4. Disk Setup                       (30m)
+      - [ ] Chapter  5. Memory for Database Caching      (30m)
+      - [ ] Chapter  6. Server Configuration Tuning      ( 1h)
+      - [ ] Chapter  7. Routine Maintenance              (45m)
+      - [ ] Chapter  8. Database Benchmarking            (45m)
+      - [ ] Chapter  9. Database Indexing                ( 1h)
+      - [ ] Chapter 10. Query Optimization               ( 1h)
+      - [ ] Chapter 11. Database Activity and Statistics (45m)
+      - [ ] Chapter 12. Monitoring and Trending          (45m)
+      - [ ] Chapter 13. Pooling and Caching              (30m)
+      - [ ] Chapter 14. Scaling with Replication         (30m)
+      - [ ] Chapter 15. Partitioning Data                (30m)
+      - [ ] Chapter 16. Avoiding Common Problems         (30m)
 
 ** Attend meetups
 *** dgplug GNU Emacs IRC meeting
@@ -121,6 +121,9 @@
     https://linux.conf.au/
 * PLAN
 ** October   10, 2018 - October  23, 2018 (14 days)
+   :PROPERTIES:
+   :wpd-mbuf: 2
+   :END:
 *** Provisioning of Parabola VM [0/2]
     :PROPERTIES:
     :ESTIMATED: 3.0
@@ -129,8 +132,8 @@
     :ID:       OPS.1537806791
     :TASKID:   OPS.1537806791
     :END:
-    - [ ] Launch test VM
-    - [ ] Test ssh connectivity to VM
+    - [ ] Launch test VM              (2.5h)
+    - [ ] Test ssh connectivity to VM ( 30m)
 ** October   24, 2018 - November  8, 2018 (16 days)
 *** Ansible connectivity test to Parabola VM [0/3]
     :PROPERTIES:
@@ -140,7 +143,7 @@
     :ID:       OPS.1537806847
     :TASKID:   OPS.1537806847
     :END:
-    - [ ] Create Ansible directory structure
-    - [ ] Setup inventory
-    - [ ] Test connectivity
+    - [ ] Create Ansible directory structure (30m)
+    - [ ] Setup inventory                    (15m)
+    - [ ] Test connectivity                  (15m)
 ** November   9, 2018 - November 22, 2018 (14 days)
