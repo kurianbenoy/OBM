@@ -13,7 +13,8 @@
 #+BEGIN: block-update-summary
 | NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |---------------+-----------+--------+------+-----------+--------------+------------|
-| Jasonbraganza |         0 |      0 |    0 |         0 |   2018-09-25 | ---------- |
+| Bhavin192     |         0 |      0 |    0 |         0 |   2018-09-27 | ---------- |
+| Jasonbraganza |         0 |      0 |    0 |         0 |   2018-09-27 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -24,34 +25,42 @@
 #+BEGIN: block-update-burndown
 | DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
 |-----+------------+--------+-------+-----------------|
-|   1 | 2018-09-24 |  53.25 |    50 |                 |
-|   2 | 2018-09-25 |  53.25 |    47 |                 |
-|   3 | 2018-09-26 |        |    43 |                 |
-|   4 | 2018-09-27 |        |    40 |                 |
-|   5 | 2018-09-28 |        |    37 |                 |
-|   6 | 2018-09-29 |        |    33 |                 |
-|   7 | 2018-09-30 |        |    30 |                 |
-|   8 | 2018-10-01 |        |    27 |                 |
-|   9 | 2018-10-02 |        |    23 |                 |
-|  10 | 2018-10-03 |        |    20 |                 |
-|  11 | 2018-10-04 |        |    17 |                 |
-|  12 | 2018-10-05 |        |    13 |                 |
-|  13 | 2018-10-06 |        |    10 |                 |
-|  14 | 2018-10-07 |        |     7 |                 |
-|  15 | 2018-10-08 |        |     3 |                 |
+|   1 | 2018-09-24 |  61.25 |    57 |                 |
+|   2 | 2018-09-25 |  61.25 |    54 |                 |
+|   3 | 2018-09-26 |  61.25 |    50 |                 |
+|   4 | 2018-09-27 |  61.25 |    46 |                 |
+|   5 | 2018-09-28 |        |    42 |                 |
+|   6 | 2018-09-29 |        |    38 |                 |
+|   7 | 2018-09-30 |        |    34 |                 |
+|   8 | 2018-10-01 |        |    31 |                 |
+|   9 | 2018-10-02 |        |    27 |                 |
+|  10 | 2018-10-03 |        |    23 |                 |
+|  11 | 2018-10-04 |        |    19 |                 |
+|  12 | 2018-10-05 |        |    15 |                 |
+|  13 | 2018-10-06 |        |    11 |                 |
+|  14 | 2018-10-07 |        |     8 |                 |
+|  15 | 2018-10-08 |        |     4 |                 |
 |  16 | 2018-10-09 |        |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                       | TASKID           | OWNER         | PRIORITY | TODO | ESTIMATED | ACTUAL |
 |--------------------------------------------+------------------+---------------+----------+------+-----------+--------|
-| TASKS                                      |                  |               | B        |      |     53.25 |        |
+| TASKS                                      |                  |               | B        |      |     61.25 |        |
 |--------------------------------------------+------------------+---------------+----------+------+-----------+--------|
 | Maths                                      | READ.1537858093  | jasonbraganza | B        |      |        39 |        |
 |--------------------------------------------+------------------+---------------+----------+------+-----------+--------|
 | Improve to 30wpm using the Dvorak keyboard | WRITE.1537858335 | jasonbraganza | B        |      |      12.0 |        |
 |--------------------------------------------+------------------+---------------+----------+------+-----------+--------|
 | Learn Emacs Org mode                       | READ.1537858579  | jasonbraganza | B        |      |      2.25 |        |
+|--------------------------------------------+------------------+---------------+----------+------+-----------+--------|
+| Learning Golang Chapter 5. Functions       | READ.1537984603  | bhavin192     | B        |      |      1.65 |        |
+|--------------------------------------------+------------------+---------------+----------+------+-----------+--------|
+| Learning Golang Chapter 5 Exercises        | DEV.1537984318   | bhavin192     | B        |      |      2.67 |        |
+|--------------------------------------------+------------------+---------------+----------+------+-----------+--------|
+| Learning Golang Chapter 6. Methods         | READ.1537984768  | bhavin192     | B        |      |         3 |        |
+|--------------------------------------------+------------------+---------------+----------+------+-----------+--------|
+| Learning Golang Chapter 6 Exercises        | DEV.1537984972   | bhavin192     | B        |      |      0.68 |        |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -59,6 +68,7 @@
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2018-09-24 Mon>
   :wpd-jasonbraganza: 
+  :wpd-bhavin192:
   :END:
 ** Maths [0/13]
    :PROPERTIES:
@@ -124,3 +134,50 @@
    - [ ] 2018-10-02 - Customize Emacs configuration for Org usage 
    - [ ] 2018-10-03 - Customize Emacs configuration for Org usage 
    - [ ] 2018-10-04 - Try to update OBM (and then figure out further steps with mbuf)
+** Learning Golang Chapter 5. Functions
+   :PROPERTIES:
+   :ESTIMATED: 1.65
+   :ACTUAL:
+   :OWNER: bhavin192
+   :ID: READ.1537984603
+   :TASKID: READ.1537984603
+   :END:
+   - [ ] 5.7 Variadic Functions
+   - [ ] 5.8 Deferred Function calls
+   - [ ] 5.9 Panic
+   - [ ] 5.10 Recover
+** Learning Golang Chapter 5 Exercises
+   :PROPERTIES:
+   :ESTIMATED: 2.67
+   :ACTUAL:
+   :OWNER: bhavin192
+   :ID: DEV.1537984318
+   :TASKID: DEV.1537984318
+   :END:
+   - [ ] 5.6 Part II
+   - [ ] 5.7
+   - [ ] 5.8
+   - [ ] 5.10
+** Learning Golang Chapter 6. Methods
+   :PROPERTIES:
+   :ESTIMATED: 3
+   :ACTUAL:
+   :OWNER: bhavin192
+   :ID: READ.1537984768
+   :TASKID: READ.1537984768
+   :END:
+   - [ ] 6.1 Method Declarations
+   - [ ] 6.2 Methods with a Pointer Receiver
+   - [ ] 6.3 Composing Types by Struct Embedding
+   - [ ] 6.4 Method Values and Expressions
+   - [ ] 6.5 Example: Bit Vector Type
+   - [ ] 6.6 Encapsulation
+** Learning Golang Chapter 6 Exercises
+   :PROPERTIES:
+   :ESTIMATED: 0.68
+   :ACTUAL:
+   :OWNER: bhavin192
+   :ID: DEV.1537984972
+   :TASKID: DEV.1537984972
+   :END:
+   - [ ] 6.5 Part I
