@@ -1,0 +1,95 @@
+#+AUTHOR: Vaibhav Kaushik
+#+EMAIL: vaibhavkaushik@disroot.org
+* Goals
+** Computer Network
+*** [#A] Computer Network by Kruose & Ross [0%]
+    - [ ] Chapter 2. Applications Layer
+    - [ ] Chapter 3. Transport Layer
+    - [ ] Chapter 4. Network Layer
+    - [ ] Chapter 5. Link Layer: Link, Access Network, LAN
+    - [ ] Chapter 6. Wireless and Mobile Network
+    - [ ] Chapter 7. Multimedia Network
+    - [ ] Chapter 8. Security in Computer Network
+    - [ ] Chapter 9. Network Management
+** Data-Structures & Algorithms 
+*** [#A] Practice Competitive Programming                              :code:
+    SCHEDULED: <2018-09-25 Tue .2d/4d>
+    :PROPERTIES:
+    :STYLE:    habbit
+    :END:
+**** [[https://www.codechef.com/certification/prepare#foundation][Reference]]
+***** Array
+***** Strings
+***** Stacks and Queues
+***** Maths Operations
+***** Euclid¡¯s GCD Algorithm
+***** Prime Numbers, divisibility of numbers
+***** Basic Recursion
+***** Sorting
+***** Binary Search
+***** Heaps (priority queue)
+***** Disjoint Set Union
+***** Trees
+****** Lowest Common Ancestors
+****** Binary Index Tree (Fenwick tree)
+****** Segment Trees
+***** Naive string searching
+***** Greedy Algorithms
+***** Dynamic programming
+**** [[http://codeforces.com/blog/entry/57282][Blog]]                  :read:
+*** Project Euler
+** System
+*** Python Scripting
+**** [#A] [[https://automatetheboringstuff.com/][Automate Boring Stuffs]]                                       :read:
+*** Awk
+**** [[https://gregable.com/2010/09/why-you-should-know-just-little-awk.html][Why you learn just a little AWK]]
+**** [[http://www.grymoire.com/Unix/Awk.html][Awk Tutorial]]
+*** Network File System
+** Database
+*** PostgreSQL
+** Development
+*** Make a command line application
+*** Testing
+** Web Development
+*** [#A] Django
+**** [[https://tutorial.djangogirls.org/en/][Django Girls Tutorial]] [83%]
+     - [X] Installation
+     - [X] Setup Emacs
+     - [X] [[https://tutorial.djangogirls.org/en/django_start_project/][First Django Project]]
+     - [X] [[https://tutorial.djangogirls.org/en/django_models/][Django Models]]
+     - [X] [[https://tutorial.djangogirls.org/en/django_admin/][Django Admin]]
+     - [ ] [[https://tutorial.djangogirls.org/en/deploy/][Deploy]]
+**** [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]]
+*** Golang
+**** [#B] Gophercise [0%]
+   - [ ] Quiz Game
+   - [ ] URL Shortener
+   - [ ] Choose your Own Adventure
+   - [ ] HTML Link Parser
+   - [ ] Sitemap Builder
+   - [ ] CLI Task Manager
+   - [ ] Phone Number Normalizer
+   - [ ] Deck Of Cards
+   - [ ] Blackjack
+   - [ ] File Renaming Tool
+   - [ ] Quite HackerNews
+   - [ ] Recover Middleware
+   - [ ] Twitter Retweet
+   - [ ] Secret API and CLI
+   - [ ] Image Transform Service
+   - [ ] Building Images
+   - [ ] Building PDFs
+**** Golang Series [0%]
+   - [ ] Go Bootcamp Series
+   - [ ] Go Web Applications
+   - [ ] [[https://www.calhoun.io/series][Calhoun Series]]
+*** [#A] Create a Web-app
+**** [#A] [[https://github.com/vaibhavk/devhelp][DevHelp]]
+** Security
+*** SELinux
+*** OWASP and Security Practices
+** Organizations
+*** Honeynet
+** Meetups
+** Blog
+* Plan
