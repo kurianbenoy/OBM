@@ -169,31 +169,46 @@
    - [ ] 2018-10-02 - Customize Emacs configuration for Org usage 
    - [ ] 2018-10-03 - Customize Emacs configuration for Org usage 
    - [ ] 2018-10-04 - Try to update OBM (and then figure out further steps with mbuf)
-** Learning Golang Chapter 5. Functions
+** IN_PROGRESS Learning Golang Chapter 5. Functions [2/4]
    :PROPERTIES:
    :ESTIMATED: 1.65
-   :ACTUAL:
+   :ACTUAL:   0.63
    :OWNER: bhavin192
    :ID: READ.1537984603
    :TASKID: READ.1537984603
    :END:
-   - [ ] 5.7 Variadic Functions
-   - [ ] 5.8 Deferred Function calls
-   - [ ] 5.9 Panic
-   - [ ] 5.10 Recover
-** Learning Golang Chapter 5 Exercises
+   :LOGBOOK:
+   CLOCK: [2018-10-01 Mon 18:35]--[2018-10-01 Mon 19:03] =>  0:28
+   CLOCK: [2018-09-28 Fri 19:32]--[2018-09-28 Fri 19:42] =>  0:10
+   :END:
+   - [X] 5.7 Variadic Functions (10m)
+   - [X] 5.8 Deferred Function calls (50m)
+   - [ ] 5.9 Panic (25m)
+   - [ ] 5.10 Recover (15m)
+** IN_PROGRESS Learning Golang Chapter 5 Exercises [3/4]
    :PROPERTIES:
    :ESTIMATED: 2.67
-   :ACTUAL:
+   :ACTUAL:   3.43
    :OWNER: bhavin192
    :ID: DEV.1537984318
    :TASKID: DEV.1537984318
    :END:
-   - [ ] 5.6 Part II
-   - [ ] 5.7
-   - [ ] 5.8
-   - [ ] 5.10
-** Learning Golang Chapter 6. Methods
+   :LOGBOOK:
+   CLOCK: [2018-10-01 Mon 19:17]--[2018-10-01 Mon 19:30] =>  0:13
+   CLOCK: [2018-09-30 Sun 20:40]--[2018-09-30 Sun 21:22] =>  0:42
+   CLOCK: [2018-09-28 Fri 20:12]--[2018-09-28 Fri 20:23] =>  0:11
+   CLOCK: [2018-09-28 Fri 19:48]--[2018-09-28 Fri 20:06] =>  0:18
+   CLOCK: [2018-09-27 Thu 19:29]--[2018-09-27 Thu 19:45] =>  0:16
+   CLOCK: [2018-09-27 Thu 19:14]--[2018-09-27 Thu 19:23] =>  0:09
+   CLOCK: [2018-09-26 Wed 21:26]--[2018-09-26 Wed 21:56] =>  0:30
+   CLOCK: [2018-09-26 Wed 20:20]--[2018-09-26 Wed 20:44] =>  0:24
+   CLOCK: [2018-09-25 Tue 19:32]--[2018-09-25 Tue 20:15] =>  0:43
+   :END:
+   - [X] 5.6 Part II (60m)
+   - [X] 5.7 (70m)
+   - [X] 5.8 (15m)
+   - [ ] 5.10 (15m)
+** Learning Golang Chapter 6. Methods [0/6]
    :PROPERTIES:
    :ESTIMATED: 3
    :ACTUAL:
@@ -201,13 +216,13 @@
    :ID: READ.1537984768
    :TASKID: READ.1537984768
    :END:
-   - [ ] 6.1 Method Declarations
-   - [ ] 6.2 Methods with a Pointer Receiver
-   - [ ] 6.3 Composing Types by Struct Embedding
-   - [ ] 6.4 Method Values and Expressions
-   - [ ] 6.5 Example: Bit Vector Type
-   - [ ] 6.6 Encapsulation
-** Learning Golang Chapter 6 Exercises
+   - [ ] 6.1 Method Declarations (30m)
+   - [ ] 6.2 Methods with a Pointer Receiver (50m)
+   - [ ] 6.3 Composing Types by Struct Embedding (30m)
+   - [ ] 6.4 Method Values and Expressions (20m)
+   - [ ] 6.5 Example: Bit Vector Type (30m)
+   - [ ] 6.6 Encapsulation (20m)
+** Learning Golang Chapter 6 Exercises [0/1]
    :PROPERTIES:
    :ESTIMATED: 0.68
    :ACTUAL:
@@ -215,7 +230,7 @@
    :ID: DEV.1537984972
    :TASKID: DEV.1537984972
    :END:
-   - [ ] 6.5 Part I
+   - [ ] 6.5 Part I (40m)
 ** IN_PROGRESS [#A] Computer Network by Kruose & Ross [1/4]            :read:
    :PROPERTIES:
    :ESTIMATED: 12.0
