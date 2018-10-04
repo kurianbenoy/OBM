@@ -19,6 +19,8 @@ If you are interested in participating in these sprints, define your
 long-term (3-5 years) and short-term goals (3-6 months), and ping
 "mbuf" on irc.freenode.net.
 
+### Why
+
 Long-term goals could be your passion or job roles that you want to
 pursue such as (but not limited to):
 
@@ -36,6 +38,8 @@ pursue such as (but not limited to):
 * Application Developer
 * QA Tester
 
+### What
+
 The short-term goals may include the technology and skills that you
 need to learn to achieve your long-term goals. The short-term goals are
 further sub-divided into tasks which are aligned to sprints.
@@ -48,15 +52,58 @@ user-example.org is available in the plan/ directory for reference.
 The tasks can be any one of the following categories: READ, WRITE,
 DEV, OPS, EVENT, MEETING.
 
-For each sprint, you decide on the hours you can spend per day, and
-the list of tasks.
+You can insert a new task into your Org file by invoking "M-x
+insert-org-entry" after adding the following function to your Emacs
+init configuration:
 
-During the sprint, you can send PR with clocked time if you are
-already familiar with Emacs and Org mode. Otherwise, you can send your
-clocked times in the following format to "mbuf", and also mention the
-status of the task (IN_PROGRESS, DONE):
+    (define-skeleton insert-org-entry
+      "Prompt for task, estimate and category"
+      nil
+      '(setq task  (skeleton-read "Task: "))
+      '(setq estimate  (skeleton-read "Estimate: "))
+      '(setq category (skeleton-read "Category: "))
+      '(setq timestamp (format-time-string "%s"))
+      "** " task \n
+      ":PROPERTIES:" \n
+      ":ESTIMATED: " estimate \n
+      ":ACTUAL:" \n
+      ":OWNER: shaks" \n
+      ":ID: " category "." timestamp \n
+      ":TASKID: " category "." timestamp \n
+      ":END:")
 
-    CLOCK: [2018-02-21 Wed 14:45]--[2018-02-21 Wed 15:00]
+### When
+
+For each sprint, you list the tasks that you want to work under the
+PLAN heading in your Org file.
+
+You should also decide on the hours you can spend per day and create a
+work-per-day entry for each sprint in the PROPERTIES drawer as shown
+below:
+
+    ** October   10, 2018 - October  23, 2018 (14 days)
+       :PROPERTIES:
+       :wpd-mbuf: 2
+       :END:
+
+You should not clock anything in your Org file. All clocked timings
+will be in sprints/.
+
+### How
+
+You need to break the tasks and sub-tasks in detail with checkboxes
+and links to documentation or references.
+
+During the sprint, you can send PR with your clocked timings. You need
+to ensure that ACTUALS in the PROPERTIES drawer get updated. You can
+add the following to your Emacs configuration:
+
+    (defun org-update-actuals ()
+      (interactive)
+      (org-entry-put (point) "ACTUAL"
+                     (format "%0.2f" (/ (org-clock-sum-current-item) 60.0))))
+
+    (global-set-key (kbd "C-c s c") 'org-update-actuals)
 
 At the end of a sprint, a retrospection meeting will be held to review
 the same.
@@ -67,7 +114,6 @@ have the notion of time.
 Upcoming Sprints
 ================
 
-* September 24, 2018 - October    9, 2018 (16 days)
 * October   10, 2018 - October   23, 2018 (14 days)
 * October   24, 2018 - November   8, 2018 (16 days)
 * November   9, 2018 - November  22, 2018 (14 days)
