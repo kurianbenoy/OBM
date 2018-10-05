@@ -171,31 +171,36 @@
    - [ ] 2018-10-02 - Customize Emacs configuration for Org usage 
    - [ ] 2018-10-03 - Customize Emacs configuration for Org usage 
    - [ ] 2018-10-04 - Try to update OBM (and then figure out further steps with mbuf)
-** IN_PROGRESS Learning Golang Chapter 5. Functions [2/4]
+** DONE Learning Golang Chapter 5. Functions [4/4]
+   CLOSED: [2018-10-03 Wed 23:22]
    :PROPERTIES:
    :ESTIMATED: 1.65
-   :ACTUAL:   0.63
+   :ACTUAL:   1.12
    :OWNER: bhavin192
    :ID: READ.1537984603
    :TASKID: READ.1537984603
    :END:
    :LOGBOOK:
+   CLOCK: [2018-10-03 Wed 23:11]--[2018-10-03 Wed 23:22] =>  0:11
+   CLOCK: [2018-10-03 Wed 22:52]--[2018-10-03 Wed 23:10] =>  0:18
    CLOCK: [2018-10-01 Mon 18:35]--[2018-10-01 Mon 19:03] =>  0:28
    CLOCK: [2018-09-28 Fri 19:32]--[2018-09-28 Fri 19:42] =>  0:10
    :END:
    - [X] 5.7 Variadic Functions (10m)
    - [X] 5.8 Deferred Function calls (50m)
-   - [ ] 5.9 Panic (25m)
-   - [ ] 5.10 Recover (15m)
-** IN_PROGRESS Learning Golang Chapter 5 Exercises [3/4]
+   - [X] 5.9 Panic (25m)
+   - [X] 5.10 Recover (15m)
+** DONE Learning Golang Chapter 5 Exercises [4/4]
+   CLOSED: [2018-10-04 Thu 19:26]
    :PROPERTIES:
    :ESTIMATED: 2.67
-   :ACTUAL:   3.43
+   :ACTUAL:   3.67
    :OWNER: bhavin192
    :ID: DEV.1537984318
    :TASKID: DEV.1537984318
    :END:
    :LOGBOOK:
+   CLOCK: [2018-10-04 Thu 19:12]--[2018-10-04 Thu 19:26] =>  0:14
    CLOCK: [2018-10-01 Mon 19:17]--[2018-10-01 Mon 19:30] =>  0:13
    CLOCK: [2018-09-30 Sun 20:40]--[2018-09-30 Sun 21:22] =>  0:42
    CLOCK: [2018-09-28 Fri 20:12]--[2018-09-28 Fri 20:23] =>  0:11
@@ -209,16 +214,19 @@
    - [X] 5.6 Part II (60m)
    - [X] 5.7 (70m)
    - [X] 5.8 (15m)
-   - [ ] 5.10 (15m)
-** Learning Golang Chapter 6. Methods [0/6]
+   - [X] 5.10 (15m)
+** IN_PROGRESS Learning Golang Chapter 6. Methods [1/6]
    :PROPERTIES:
    :ESTIMATED: 3
-   :ACTUAL:
+   :ACTUAL:   0.42
    :OWNER: bhavin192
    :ID: READ.1537984768
    :TASKID: READ.1537984768
    :END:
-   - [ ] 6.1 Method Declarations (30m)
+   :LOGBOOK:
+   CLOCK: [2018-10-05 Fri 22:29]--[2018-10-05 Fri 22:54] =>  0:25
+   :END:
+   - [X] 6.1 Method Declarations (30m)
    - [ ] 6.2 Methods with a Pointer Receiver (50m)
    - [ ] 6.3 Composing Types by Struct Embedding (30m)
    - [ ] 6.4 Method Values and Expressions (20m)
