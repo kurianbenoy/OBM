@@ -135,6 +135,9 @@
     - [ ] Launch test VM              (2.5h)
     - [ ] Test ssh connectivity to VM ( 30m)
 ** October   24, 2018 - November  8, 2018 (16 days)
+   :PROPERTIES:
+   :wpd-mbuf: 3
+   :END:
 *** Ansible connectivity test to Parabola VM [0/3]
     :PROPERTIES:
     :ESTIMATED: 1.0
@@ -147,3 +150,6 @@
     - [ ] Setup inventory                    (15m)
     - [ ] Test connectivity                  (15m)
 ** November   9, 2018 - November 22, 2018 (14 days)
+   :PROPERTIES:
+   :wpd-mbuf: 4
+   :END:

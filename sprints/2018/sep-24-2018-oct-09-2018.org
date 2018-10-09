@@ -6,19 +6,20 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS                           | WAITING | DONE | CANCELED |
-|------+------+---------------------------------------+---------+------+----------|
-|      |      | . [#A] Computer Network by Kruose & R |         |      |          |
-|      |      | . [[https://tutorial.djangogirls      |         |      |          |
-|      |      | . Python Tutorials                    |         |      |          |
+| TODO | NEXT | IN_PROGRESS                                     | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------------------------------------------+---------+--------------------------------------------------------------+----------|
+|      |      | . [#A] Computer Network by Kruose & R           |         | DEV.1537984318. Learning Golang Chapter 5 Exer (2018-10-04)  |          |
+|      |      | READ.1537984768. Learning Golang Chapter 6. Met |         | READ.1537984603. Learning Golang Chapter 5. Fun (2018-10-03) |          |
+|      |      | . [[https://tutorial.djangogirls                |         |                                                              |          |
+|      |      | . Python Tutorials                              |         |                                                              |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |---------------+-----------+--------+------+-----------+--------------+------------|
-| Homuncculus   |      34.0 |   4.56 |    0 |      34.0 |   2018-10-22 | ---------- |
-| Bhavin192     |         0 |      0 |    0 |         0 |   2018-09-27 | ---------- |
-| Jasonbraganza |         0 |      0 |    0 |         0 |   2018-09-27 | ---------- |
+| Homuncculus   |      34.0 |   8.01 |    0 |      34.0 |   2018-10-30 | ---------- |
+| Bhavin192     |      7.32 |   5.21 | 4.32 |         3 |   2018-10-15 | ######---- |
+| Jasonbraganza |         0 |      0 |    0 |         0 |   2018-10-06 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -26,8 +27,8 @@
 :                                    Burndown                                   
 :                                                                               
 :  100 +--------------------------------------------------------------------+   
-:      |   ##############                                                   |   
-:   90 |+  .....                                             ACTUAL #######+|   
+:      |   ###########################################                      |   
+:   90 |+  .....                                      ##########UAL #######+|   
 :      |        ....                                          IDEAL ....... |   
 :   80 |+           ....                                                   +|   
 :   70 |+               .....                                              +|   
@@ -51,30 +52,30 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:16]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2018-09-24 |  95.25 |    89 |                 |
-|   2 | 2018-09-25 |  95.25 |    83 |                 |
-|   3 | 2018-09-26 |  95.25 |    77 |                 |
-|   4 | 2018-09-27 |  95.25 |    71 |                 |
-|   5 | 2018-09-28 |        |    65 |                 |
-|   6 | 2018-09-29 |        |    60 |                 |
-|   7 | 2018-09-30 |        |    54 |                 |
-|   8 | 2018-10-01 |        |    48 |                 |
-|   9 | 2018-10-02 |        |    42 |                 |
-|  10 | 2018-10-03 |        |    36 |                 |
-|  11 | 2018-10-04 |        |    30 |                 |
-|  12 | 2018-10-05 |        |    24 |                 |
-|  13 | 2018-10-06 |        |    18 |                 |
-|  14 | 2018-10-07 |        |    12 |                 |
-|  15 | 2018-10-08 |        |     6 |                 |
-|  16 | 2018-10-09 |        |     0 |                 |
+| DAY |       DATE |            ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+-------------------+-------+-----------------|
+|   1 | 2018-09-24 |             95.25 |    89 |                 |
+|   2 | 2018-09-25 |             95.25 |    83 |                 |
+|   3 | 2018-09-26 |             95.25 |    77 |                 |
+|   4 | 2018-09-27 |             95.25 |    71 |                 |
+|   5 | 2018-09-28 |             95.25 |    65 |                 |
+|   6 | 2018-09-29 |             95.25 |    60 |                 |
+|   7 | 2018-09-30 |             95.25 |    54 |                 |
+|   8 | 2018-10-01 |             95.25 |    48 |                 |
+|   9 | 2018-10-02 |             95.25 |    42 |                 |
+|  10 | 2018-10-03 |              93.6 |    36 | READ.1537984603 |
+|  11 | 2018-10-04 | 90.92999999999999 |    30 | DEV.1537984318  |
+|  12 | 2018-10-05 | 90.92999999999999 |    24 |                 |
+|  13 | 2018-10-06 | 90.92999999999999 |    18 |                 |
+|  14 | 2018-10-07 |                   |    12 |                 |
+|  15 | 2018-10-08 |                   |     6 |                 |
+|  16 | 2018-10-09 |                   |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                       | TASKID           | OWNER         | PRIORITY | TODO        | ESTIMATED | ACTUAL |
 |--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| TASKS                                      |                  |               | B        |             |     95.25 |   4.56 |
+| TASKS                                      |                  |               | B        |             |     95.25 |  13.22 |
 |--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
 | Maths                                      | READ.1537858093  | jasonbraganza | B        |             |        39 |        |
 |--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
@@ -82,19 +83,19 @@
 |--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
 | Learn Emacs Org mode                       | READ.1537858579  | jasonbraganza | B        |             |      2.25 |        |
 |--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learning Golang Chapter 5. Functions       | READ.1537984603  | bhavin192     | B        |             |      1.65 |        |
+| Learning Golang Chapter 5. Functions       | READ.1537984603  | bhavin192     | B        | DONE        |      1.65 |   1.12 |
 |--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learning Golang Chapter 5 Exercises        | DEV.1537984318   | bhavin192     | B        |             |      2.67 |        |
+| Learning Golang Chapter 5 Exercises        | DEV.1537984318   | bhavin192     | B        | DONE        |      2.67 |   3.67 |
 |--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learning Golang Chapter 6. Methods         | READ.1537984768  | bhavin192     | B        |             |         3 |        |
+| Learning Golang Chapter 6. Methods         | READ.1537984768  | bhavin192     | B        | IN_PROGRESS |         3 |   0.42 |
 |--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
 | Learning Golang Chapter 6 Exercises        | DEV.1537984972   | bhavin192     | B        |             |      0.68 |        |
 |--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
 | Computer Network by Kruose & Ross          |                  | homuncculus   | A        | IN_PROGRESS |      12.0 |   2.62 |
 |--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| [[https://tutorial.djangogirls.org/en/][Django Girls Tutorial]]                      |                  | homuncculus   | B        | IN_PROGRESS |      15.0 |   1.92 |
+| [[https://tutorial.djangogirls.org/en/][Django Girls Tutorial]]                      |                  | homuncculus   | B        | IN_PROGRESS |      15.0 |   5.22 |
 |--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Python Tutorials                           |                  | homuncculus   | B        | IN_PROGRESS |       7.0 |   0.02 |
+| Python Tutorials                           |                  | homuncculus   | B        | IN_PROGRESS |       7.0 |   0.17 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -169,45 +170,68 @@
    - [ ] 2018-10-02 - Customize Emacs configuration for Org usage 
    - [ ] 2018-10-03 - Customize Emacs configuration for Org usage 
    - [ ] 2018-10-04 - Try to update OBM (and then figure out further steps with mbuf)
-** Learning Golang Chapter 5. Functions
+** DONE Learning Golang Chapter 5. Functions [4/4]
+   CLOSED: [2018-10-03 Wed 23:22]
    :PROPERTIES:
    :ESTIMATED: 1.65
-   :ACTUAL:
+   :ACTUAL:   1.12
    :OWNER: bhavin192
    :ID: READ.1537984603
    :TASKID: READ.1537984603
    :END:
-   - [ ] 5.7 Variadic Functions
-   - [ ] 5.8 Deferred Function calls
-   - [ ] 5.9 Panic
-   - [ ] 5.10 Recover
-** Learning Golang Chapter 5 Exercises
+   :LOGBOOK:
+   CLOCK: [2018-10-03 Wed 23:11]--[2018-10-03 Wed 23:22] =>  0:11
+   CLOCK: [2018-10-03 Wed 22:52]--[2018-10-03 Wed 23:10] =>  0:18
+   CLOCK: [2018-10-01 Mon 18:35]--[2018-10-01 Mon 19:03] =>  0:28
+   CLOCK: [2018-09-28 Fri 19:32]--[2018-09-28 Fri 19:42] =>  0:10
+   :END:
+   - [X] 5.7 Variadic Functions (10m)
+   - [X] 5.8 Deferred Function calls (50m)
+   - [X] 5.9 Panic (25m)
+   - [X] 5.10 Recover (15m)
+** DONE Learning Golang Chapter 5 Exercises [4/4]
+   CLOSED: [2018-10-04 Thu 19:26]
    :PROPERTIES:
    :ESTIMATED: 2.67
-   :ACTUAL:
+   :ACTUAL:   3.67
    :OWNER: bhavin192
    :ID: DEV.1537984318
    :TASKID: DEV.1537984318
    :END:
-   - [ ] 5.6 Part II
-   - [ ] 5.7
-   - [ ] 5.8
-   - [ ] 5.10
-** Learning Golang Chapter 6. Methods
+   :LOGBOOK:
+   CLOCK: [2018-10-04 Thu 19:12]--[2018-10-04 Thu 19:26] =>  0:14
+   CLOCK: [2018-10-01 Mon 19:17]--[2018-10-01 Mon 19:30] =>  0:13
+   CLOCK: [2018-09-30 Sun 20:40]--[2018-09-30 Sun 21:22] =>  0:42
+   CLOCK: [2018-09-28 Fri 20:12]--[2018-09-28 Fri 20:23] =>  0:11
+   CLOCK: [2018-09-28 Fri 19:48]--[2018-09-28 Fri 20:06] =>  0:18
+   CLOCK: [2018-09-27 Thu 19:29]--[2018-09-27 Thu 19:45] =>  0:16
+   CLOCK: [2018-09-27 Thu 19:14]--[2018-09-27 Thu 19:23] =>  0:09
+   CLOCK: [2018-09-26 Wed 21:26]--[2018-09-26 Wed 21:56] =>  0:30
+   CLOCK: [2018-09-26 Wed 20:20]--[2018-09-26 Wed 20:44] =>  0:24
+   CLOCK: [2018-09-25 Tue 19:32]--[2018-09-25 Tue 20:15] =>  0:43
+   :END:
+   - [X] 5.6 Part II (60m)
+   - [X] 5.7 (70m)
+   - [X] 5.8 (15m)
+   - [X] 5.10 (15m)
+** IN_PROGRESS Learning Golang Chapter 6. Methods [1/6]
    :PROPERTIES:
    :ESTIMATED: 3
-   :ACTUAL:
+   :ACTUAL:   0.42
    :OWNER: bhavin192
    :ID: READ.1537984768
    :TASKID: READ.1537984768
    :END:
-   - [ ] 6.1 Method Declarations
-   - [ ] 6.2 Methods with a Pointer Receiver
-   - [ ] 6.3 Composing Types by Struct Embedding
-   - [ ] 6.4 Method Values and Expressions
-   - [ ] 6.5 Example: Bit Vector Type
-   - [ ] 6.6 Encapsulation
-** Learning Golang Chapter 6 Exercises
+   :LOGBOOK:
+   CLOCK: [2018-10-05 Fri 22:29]--[2018-10-05 Fri 22:54] =>  0:25
+   :END:
+   - [X] 6.1 Method Declarations (30m)
+   - [ ] 6.2 Methods with a Pointer Receiver (50m)
+   - [ ] 6.3 Composing Types by Struct Embedding (30m)
+   - [ ] 6.4 Method Values and Expressions (20m)
+   - [ ] 6.5 Example: Bit Vector Type (30m)
+   - [ ] 6.6 Encapsulation (20m)
+** Learning Golang Chapter 6 Exercises [0/1]
    :PROPERTIES:
    :ESTIMATED: 0.68
    :ACTUAL:
@@ -215,7 +239,6 @@
    :ID: DEV.1537984972
    :TASKID: DEV.1537984972
    :END:
-   - [ ] 6.5 Part I
 ** IN_PROGRESS [#A] Computer Network by Kruose & Ross [2/4]            :read:
    :PROPERTIES:
    :ESTIMATED: 12.0
@@ -239,7 +262,7 @@
    CLOSED: [2018-10-09 Tue 10:57]
    :PROPERTIES:
    :ESTIMATED: 15.0
-   :ACTUAL:   1.92
+   :ACTUAL:   5.22
    :OWNER: homuncculus
    :END:
    :LOGBOOK:
@@ -261,7 +284,7 @@
 ** IN_PROGRESS Python Tutorials [2/5]                                  :code:
    :PROPERTIES:
    :ESTIMATED: 7.0
-   :ACTUAL:   0.02
+   :ACTUAL:   0.17
    :OWNER: homuncculus
    :END:
    :LOGBOOK:
