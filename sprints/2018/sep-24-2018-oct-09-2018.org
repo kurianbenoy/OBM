@@ -1,5 +1,5 @@
 #+TITLE: September 24, 2018 - October 9, 2018 (16 days)
-#+AUTHOR: dgplug.org
+#+AUTHOR: dgplug.orgn
 #+EMAIL: users@lists.dgplug.org
 #+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
 #+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
@@ -216,31 +216,35 @@
    :TASKID: DEV.1537984972
    :END:
    - [ ] 6.5 Part I
-** IN_PROGRESS [#A] Computer Network by Kruose & Ross [1/4]            :read:
+** IN_PROGRESS [#A] Computer Network by Kruose & Ross [2/4]            :read:
    :PROPERTIES:
    :ESTIMATED: 12.0
    :ACTUAL:   2.62
    :OWNER: homuncculus
    :END:
    :LOGBOOK:
-   CLOCK: [2018-09-26 Wed 20:05]--[2018-09-26 Wed 20:19] =>  0:14
-   CLOCK: [2018-09-26 Wed 19:10]--[2018-09-26 Wed 19:41] =>  0:31
+   CLOCK: [2018-10-03 Wed 19:26]--[2018-10-03 Wed 20:20] =>  0:54
+   CLOCK: [2018-09-26 Wed 20:05]--[2018-09-26 Wed 20:45] =>  0:40
+   CLOCK: [2018-09-26 Wed 19:05]--[2018-09-26 Wed 19:41] =>  0:36
    CLOCK: [2018-09-26 Wed 14:42]--[2018-09-26 Wed 15:00] =>  0:18
    CLOCK: [2018-09-26 Wed 13:47]--[2018-09-26 Wed 14:30] =>  0:43
    CLOCK: [2018-09-25 Tue 18:25]--[2018-09-25 Tue 18:53] =>  0:28
    CLOCK: [2018-09-25 Tue 17:40]--[2018-09-25 Tue 18:03] =>  0:23
    :END:
    - [X] Chapter 2. Application Layer
+   - [X] Practice Problems
+   - [ ] Chapter 3. Transport Layer (TCP/IP Protocol Suit by Forouzan)
    - [ ] Practice Problems
-   - [ ] Chapter 3. Transport Layer
-   - [ ] Practice Problems
-** IN_PROGRESS [[https://tutorial.djangogirls.org/en/][Django Girls Tutorial]] [83%]
+** DONE [#B] [[https://tutorial.djangogirls.org/en/][Django Girls Tutorial]] [100%]
+   CLOSED: [2018-10-09 Tue 10:57]
    :PROPERTIES:
    :ESTIMATED: 15.0
    :ACTUAL:   1.92
    :OWNER: homuncculus
    :END:
    :LOGBOOK:
+   CLOCK: [2018-10-02 Tue 23:27]--[2018-10-03 Wed 00:51] =>  1:24
+   CLOCK: [2018-10-02 Tue 18:32]--[2018-10-02 Tue 19:54] =>  1:22
    CLOCK: [2018-10-01 Mon 12:52]--[2018-10-01 Mon 14:03] =>  1:11
    CLOCK: [2018-09-30 Sun 23:15]--[2018-10-01 Mon 00:13] =>  0:58
    CLOCK: [2018-09-30 Sun 20:42]--[2018-09-30 Sun 21:51] =>  1:09
@@ -253,20 +257,23 @@
     - [X] [[https://tutorial.djangogirls.org/en/django_start_project/][First Django Project]]
     - [X] [[https://tutorial.djangogirls.org/en/django_models/][Django Models]]
     - [X] [[https://tutorial.djangogirls.org/en/django_admin/][Django Admin]]
-    - [ ] [[https://tutorial.djangogirls.org/en/deploy/][Deploy]]
-** IN_PROGRESS Python Tutorials [0/5]                                  :code:
+    - [X] [[https://tutorial.djangogirls.org/en/deploy/][Deploy]]
+** IN_PROGRESS Python Tutorials [2/5]                                  :code:
    :PROPERTIES:
    :ESTIMATED: 7.0
    :ACTUAL:   0.02
    :OWNER: homuncculus
    :END:
    :LOGBOOK:
+   CLOCK: [2018-10-03 Wed 15:43]--[2018-10-03 Wed 16:31] =>  0:48
+   CLOCK: [2018-10-02 Tue 00:31]--[2018-10-02 Tue 00:59] =>  0:28
+   CLOCK: [2018-10-01 Mon 23:26]--[2018-10-02 Tue 00:14] =>  0:48
    CLOCK: [2018-10-01 Mon 23:12]--[2018-10-01 Mon 23:16] =>  0:04
    CLOCK: [2018-10-01 Mon 22:49]--[2018-10-01 Mon 22:54] =>  0:05
    CLOCK: [2018-09-25 Tue 18:59]--[2018-09-25 Tue 19:00] =>  0:01
    :END:
-   - [ ] [[https://docs.python.org/3/tutorial/errors.html][Errors & Exceptions]]
-   - [ ] [[https://docs.python.org/3/tutorial/classes.html][Classes]]
+   - [X] [[https://docs.python.org/3/tutorial/errors.html][Errors & Exceptions]]
+   - [X] [[https://docs.python.org/3/tutorial/classes.html][Classes]]
    - [ ] [[https://docs.python.org/3/tutorial/stdlib.html][Brief tour of standard library - I]]
    - [ ] [[https://docs.python.org/3/tutorial/stdlib2.html][Brief tour of standard library - II]]
    - [ ] [[https://docs.python.org/3/tutorial/venv.html][Virtual environments & packages]]

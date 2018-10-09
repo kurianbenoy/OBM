@@ -52,13 +52,13 @@
 *** Testing
 ** Web Development
 *** [#A] Django
-**** [[https://tutorial.djangogirls.org/en/][Django Girls Tutorial]] [83%]
+**** [[https://tutorial.djangogirls.org/en/][Django Girls Tutorial]] [100%]
      - [X] Installation
      - [X] Setup Emacs
      - [X] [[https://tutorial.djangogirls.org/en/django_start_project/][First Django Project]]
      - [X] [[https://tutorial.djangogirls.org/en/django_models/][Django Models]]
      - [X] [[https://tutorial.djangogirls.org/en/django_admin/][Django Admin]]
-     - [ ] [[https://tutorial.djangogirls.org/en/deploy/][Deploy]]
+     - [X] [[https://tutorial.djangogirls.org/en/deploy/][Deploy]]
 **** [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]]
 *** Golang
 **** [#B] Gophercise [0%]
@@ -90,6 +90,42 @@
 *** OWASP and Security Practices
 ** Organizations
 *** Honeynet
-** Meetups
-** Blog
+** Events
+*** [[https://in.pycon.org/2018/][Pycon 2018]]
+**** Conference(Day1+Day2)
+**** Devsprint(Day1)
 * Plan
+** Sprint Oct 9 - Oct 24
+*** [#A] Computer Network by Kruose & Ross [0/2]                       :read:
+    :PROPERTIES:
+    :ESTIMATED: 15.0
+    :ACTUAL:
+    :OWNER:    homuncculus
+    :END:
+    - [ ] Chapter 3. Transport Layer (TCP/IP Protocol Suit by Forouzan)
+    - [ ] Practice Problems
+    - [ ] Chapter 4. Network Layer
+    - [ ] Practice Problems
+*** [#A] [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]] [0%]
+    :PROPERTIES:
+    :ESTIMATED: 8.0
+    :ACTUAL:
+    :OWNER: homuncculus
+    :END:
+    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial01/][Poll App, Part 1]]
+    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial02/][Poll App, Part 2]]
+    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial03/][Poll App, Part 3]]
+    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial04/][Poll App, Part 4]]
+    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial05/][Poll App, Part 5]]
+    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial06/][Poll App, Part 6]]
+    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial07/][Poll App, Part 7]]
+    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/reusable-apps/][Reusable Apps]]
+*** [#B] Python Tutorials [2/5]                                        :code:
+    :PROPERTIES:
+    :ESTIMATED: 5.0
+    :ACTUAL:
+    :OWNER:    homuncculus
+    :END:
+    - [ ] [[https://docs.python.org/3/tutorial/stdlib.html][Brief tour of standard library - I]]
+    - [ ] [[https://docs.python.org/3/tutorial/stdlib2.html][Brief tour of standard library - II]]
+    - [ ] [[https://docs.python.org/3/tutorial/venv.html][Virtual environments & packages]]
