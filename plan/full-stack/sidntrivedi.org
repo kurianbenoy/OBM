@@ -1,10 +1,10 @@
 #+AUTHOR: Siddhant N Trivedi
 #+EMAIL: sidntrivedi012@gmail.com
-#+TAGS: READ WRITE DEV OPS MEETING
+#+TAGS: READ WRITE DEV MEETING
 * GOALS
 ** Programming Languages
-*** Javascript
-**** [#A] Freecodecamp Javascript Algorithms and Data Structures [0/10]
+*** [#A] Javascript
+**** Freecodecamp Javascript Algorithms and Data Structures [0/10]
      :PROPERTIES:
      :ESTIMATED: 300
      :ACTUAL:
@@ -22,7 +22,7 @@
      - [ ] Functional Programming				()
      - [ ] Intermediate Algorithm Scripting			()
      - [ ] Javascript Algorithms & Data Structures Projects	()
-**** [#A] MDN Javascript Guides [0/15]
+**** MDN Javascript Guides [0/15]
      :PROPERTIES:
      :ESTIMATED:
      :ACTUAL:
@@ -46,8 +46,8 @@
       - [ ] Iterators and Generators		()
       - [ ] Meta Programming			()
 ** Frameworks
-*** Ruby on Rails.
-**** [#A] The Rails Tutorial [0/14]
+*** [#A] Ruby on Rails.
+**** The Rails Tutorial [0/14]
      :PROPERTIES:
      :ESTIMATED: 12
      :ACTUAL:
@@ -69,7 +69,7 @@
      - [ ] Password Reset			()
      - [ ] Using microposts			()
      - [ ] Following Users			()
-*** React.js
+*** [#A] React.js
 **** [[https://reactjs.org/docs/hello-world.html][React Docs]]
 **** [[https://learn.freecodecamp.org/][Freecodecamp Front end libraries certification.]]
 ** Databases
@@ -80,14 +80,42 @@
 *** Application Architecture
 **** [[https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Modern_web_app_architecture][MDN Web Architecture]]
 ** Data Structures/Algorithms.
-*** [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]] [0/19]
+*** [#A] [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]] [0/19]
     :PROPERTIES:
     :ESTIMATED: 
     :ACTUAL:
     :OWNER: sidntrivedi012
     :ID: READ.1539000246
     :TASKID: READ.1539000246
-    :END:
+    :END:      
+    - [ ] Basics of Programming		()
+    - [ ] Arrays			()
+    - [ ] Strings			()
+    - [ ] Sorting			()
+    - [ ] Searching			()
+    - [ ] Stacks			()
+    - [ ] Queues			()
+    - [ ] STL				()
+    - [ ] Number Theory-I		()
+    - [ ] Trees				()
+    - [ ] Graph Theory-I		()
+    - [ ] Hashing			()
+    - [ ] Disjoint-Set Union		()
+    - [ ] Heaps				()
+    - [ ] Priority Queues		()
+    - [ ] Greedy Technique		()
+    - [ ] Graph Theory-II		()
+    - [ ] Dynamic Programming		()
+    - [ ] Bit Manipulation		()
+*** [#A] Practice Problems [0/19]
+   :PROPERTIES:
+   :ESTIMATED: 
+   :ACTUAL:
+   :OWNER: sidntrivedi012
+   :ID: DEV.1539071927
+   :TASKID: DEV.1539071927
+   :END:
+    [[https://www.hackerearth.com/practice/codemonk/][Reference]]
     - [ ] Basics of Programming		()
     - [ ] Arrays			()
     - [ ] Strings			()
@@ -128,7 +156,7 @@
     - [ ] Networking Commands	()
     - [ ] Random Things		()
 ** Scripting
-*** Shell Scripting
+*** [#B] Shell Scripting
 **** Ryans Tutorial
      :PROPERTIES:
      :ESTIMATED:
@@ -146,8 +174,8 @@
      :TASKID:   READ.1538999439
      :END:
 ** Projects
-*** [[https://github.com/publiclab][Public Lab]]
-*** Rails Projects [0/4]
+*** [#A] [[https://github.com/publiclab][Public Lab]]
+*** [#A] Rails Projects [0/4]
      :PROPERTIES:
      :ESTIMATED:
      :ACTUAL:
@@ -162,8 +190,61 @@
 ** Meetups
 ** Writing
 *** [[https://sidntrivedi012.github.io][Blog]]
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sidntrivedi012
+    :ID: WRITE.1539072660
+    :TASKID: WRITE.1539072660
+    :END:      
 * PLAN
 ** October 10, 2018 - October 23, 2018  (14 days)
+   :PROPERTIES:
+   :wpd-sidntrivedi012: 1
+   :END:      
+*** Programming Languages
+**** [#A] Javascript
+***** Freecodecamp Javascript Algorithms and Data Structures [0/1]
+      :PROPERTIES:
+      :ESTIMATED: 8 
+      :ACTUAL:
+      :OWNER:    sidntrivedi012
+      :ID:       DEV.1538995712
+      :TASKID:   DEV.1538995712
+      :END:
+      - [ ] Basic Javascript		(8 hrs)
+*** Frameworks
+**** [#A] Ruby on Rails.
+***** The Rails Tutorial [0/2]
+      :PROPERTIES:
+      :ESTIMATED: 3
+      :ACTUAL:
+      :OWNER:    sidntrivedi012
+      :ID:       READ.1538996294
+      :TASKID:   READ.1538996294
+      :END:
+      - [ ] From zero to deploy		(1 hrs)
+      - [ ] A toy app			(2 hrs)
+*** Data Structures/Algorithms.
+**** [#A] [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]] [0/1]
+     :PROPERTIES:
+     :ESTIMATED: 3
+     :ACTUAL:
+     :OWNER: sidntrivedi012
+     :ID: READ.1539000246
+     :TASKID: READ.1539000246
+     :END:      
+     - [ ] Trees			(3 hrs))
+*** Systems
+**** [#A] Linux for you and me [0/1]
+     :PROPERTIES:
+     :ESTIMATED: 1
+     :ACTUAL:
+     :OWNER: sidntrivedi012
+     :ID: READ.1538996950
+     :TASKID: READ.1538996950
+     :END:
+     - [ ] Shell Commands		(1 hr)
 ** October 24, 2018 - November 8, 2018  (16 days)
 ** November 9, 2018 - November 22, 2018 (14 days)
 ** November 23, 2018 - December 7, 2018 (15 days)
