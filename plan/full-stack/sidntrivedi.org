@@ -198,53 +198,6 @@
     :TASKID: WRITE.1539072660
     :END:      
 * PLAN
-** October 10, 2018 - October 23, 2018  (14 days)
-   :PROPERTIES:
-   :wpd-sidntrivedi012: 1
-   :END:      
-*** Programming Languages
-**** [#A] Javascript
-***** Freecodecamp Javascript Algorithms and Data Structures [0/1]
-      :PROPERTIES:
-      :ESTIMATED: 8 
-      :ACTUAL:
-      :OWNER:    sidntrivedi012
-      :ID:       DEV.1538995712
-      :TASKID:   DEV.1538995712
-      :END:
-      - [ ] Basic Javascript		(8 hrs)
-*** Frameworks
-**** [#A] Ruby on Rails.
-***** The Rails Tutorial [0/2]
-      :PROPERTIES:
-      :ESTIMATED: 3
-      :ACTUAL:
-      :OWNER:    sidntrivedi012
-      :ID:       READ.1538996294
-      :TASKID:   READ.1538996294
-      :END:
-      - [ ] From zero to deploy		(1 hrs)
-      - [ ] A toy app			(2 hrs)
-*** Data Structures/Algorithms.
-**** [#A] [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]] [0/1]
-     :PROPERTIES:
-     :ESTIMATED: 3
-     :ACTUAL:
-     :OWNER: sidntrivedi012
-     :ID: READ.1539000246
-     :TASKID: READ.1539000246
-     :END:      
-     - [ ] Trees			(3 hrs))
-*** Systems
-**** [#A] Linux for you and me [0/1]
-     :PROPERTIES:
-     :ESTIMATED: 1
-     :ACTUAL:
-     :OWNER: sidntrivedi012
-     :ID: READ.1538996950
-     :TASKID: READ.1538996950
-     :END:
-     - [ ] Shell Commands		(1 hr)
 ** October 24, 2018 - November 8, 2018  (16 days)
 ** November 9, 2018 - November 22, 2018 (14 days)
 ** November 23, 2018 - December 7, 2018 (15 days)
