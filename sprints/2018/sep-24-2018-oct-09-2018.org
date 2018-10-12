@@ -6,69 +6,90 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS                           | WAITING | DONE                                                         | CANCELED |
-|------+------+---------------------------------------+---------+--------------------------------------------------------------+----------|
-|      |      | . [#A] Computer Network by Kruose & R |         | READ.1537984768. Learning Golang Chapter 6. Met (2018-10-11) |          |
-|      |      | . [[https://tutorial.djangogirls      |         | DEV.1537984318. Learning Golang Chapter 5 Exer (2018-10-04)  |          |
-|      |      | . Python Tutorials                    |         | READ.1537984603. Learning Golang Chapter 5. Fun (2018-10-03) |          |
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | . [#A] Computer Network by Kruose & R (2018-10-12)           |          |
+|      |      |             |         | . Python Tutorials - Part I (2018-10-12)                     |          |
+|      |      |             |         | READ.1537984768. Learning Golang Chapter 6. Met (2018-10-11) |          |
+|      |      |             |         | . [#B] [[https://tutorial.djangogirls (2018-10-09)           |          |
+|      |      |             |         | DEV.1537984318. Learning Golang Chapter 5 Exer (2018-10-04)  |          |
+|      |      |             |         | READ.1537984603. Learning Golang Chapter 5. Fun (2018-10-03) |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
-| NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
-|---------------+-----------+--------+------+-----------+--------------+------------|
-| Homuncculus   |      34.0 |   8.01 |    0 |      34.0 |   2018-11-05 | ---------- |
-| Bhavin192     |      7.32 |   7.16 | 7.32 |         0 |   2018-10-11 | ########## |
-| Jasonbraganza |         0 |      0 |    0 |         0 |   2018-10-11 | ---------- |
+| NAME          | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|---------------+-----------+--------------------+------+-----------+--------------+------------|
+| Homuncculus   |      34.0 | 14.240000000000002 | 34.0 |         0 |   2018-10-12 | ########## |
+| Bhavin192     |      7.32 |               7.16 | 7.32 |         0 |   2018-10-12 | ########## |
+| Jasonbraganza |         0 |                  0 |    0 |         0 |   2018-10-12 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
-
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  45 +---------------------------------------------------------------------+   
+:     |   ########################################                          |   
+:  40 |+  ....                                    ####       ACTUAL #######+|   
+:     |       .                                       ########IDEAL#....... |   
+:  35 |+       ........                                                  # +|   
+:     |                .                                                 #  |   
+:  30 |+                ....                                              #+|   
+:     |                     ....                                           #|   
+:  25 |+                        .....                                      #|   
+:     |                              ....                                   |   
+:  20 |+                                 ....                              +|   
+:     |                                      .....                          |   
+:  15 |+                                          ....                     +|   
+:     |                                               .....                 |   
+:  10 |+                                                   ....            +|   
+:     |                                                        ....         |   
+:   5 |+                                                           .....   +|   
+:     |                                                                 ....|   
+:   0 +---------------------------------------------------------------------+   
+:     0        2        4       6        8        10       12      14       16  
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:16]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE |            ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+-------------------+-------+-----------------|
-|   1 | 2018-09-24 |             94.57 |    89 |                 |
-|   2 | 2018-09-25 |             94.57 |    83 |                 |
-|   3 | 2018-09-26 |             94.57 |    77 |                 |
-|   4 | 2018-09-27 |             94.57 |    71 |                 |
-|   5 | 2018-09-28 |             94.57 |    65 |                 |
-|   6 | 2018-09-29 |             94.57 |    59 |                 |
-|   7 | 2018-09-30 |             94.57 |    53 |                 |
-|   8 | 2018-10-01 |             94.57 |    47 |                 |
-|   9 | 2018-10-02 |             94.57 |    41 |                 |
-|  10 | 2018-10-03 | 92.91999999999999 |    35 | READ.1537984603 |
-|  11 | 2018-10-04 | 90.24999999999999 |    30 | DEV.1537984318  |
-|  12 | 2018-10-05 | 90.24999999999999 |    24 |                 |
-|  13 | 2018-10-06 | 90.24999999999999 |    18 |                 |
-|  14 | 2018-10-07 | 90.24999999999999 |    12 |                 |
-|  15 | 2018-10-08 | 90.24999999999999 |     6 |                 |
-|  16 | 2018-10-09 | 90.24999999999999 |     0 |                 |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2018-09-24 |  41.32 |    39 |                 |
+|   2 | 2018-09-25 |  41.32 |    36 |                 |
+|   3 | 2018-09-26 |  41.32 |    34 |                 |
+|   4 | 2018-09-27 |  41.32 |    31 |                 |
+|   5 | 2018-09-28 |  41.32 |    28 |                 |
+|   6 | 2018-09-29 |  41.32 |    26 |                 |
+|   7 | 2018-09-30 |  41.32 |    23 |                 |
+|   8 | 2018-10-01 |  41.32 |    21 |                 |
+|   9 | 2018-10-02 |  41.32 |    18 |                 |
+|  10 | 2018-10-03 |  39.67 |    15 | READ.1537984603 |
+|  11 | 2018-10-04 |   37.0 |    13 | DEV.1537984318  |
+|  12 | 2018-10-05 |   37.0 |    10 |                 |
+|  13 | 2018-10-06 |   37.0 |     8 |                 |
+|  14 | 2018-10-07 |   37.0 |     5 |                 |
+|  15 | 2018-10-08 |   37.0 |     3 |                 |
+|  16 | 2018-10-09 |   22.0 |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                                       | TASKID           | OWNER         | PRIORITY | TODO        | ESTIMATED | ACTUAL |
-|--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| TASKS                                      |                  |               | B        |             |     94.57 |  15.17 |
-|--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Maths                                      | READ.1537858093  | jasonbraganza | B        |             |        39 |        |
-|--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Improve to 30wpm using the Dvorak keyboard | WRITE.1537858335 | jasonbraganza | B        |             |      12.0 |        |
-|--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learn Emacs Org mode                       | READ.1537858579  | jasonbraganza | B        |             |      2.25 |        |
-|--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learning Golang Chapter 5. Functions       | READ.1537984603  | bhavin192     | B        | DONE        |      1.65 |   1.12 |
-|--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learning Golang Chapter 5 Exercises        | DEV.1537984318   | bhavin192     | B        | DONE        |      2.67 |   3.67 |
-|--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Learning Golang Chapter 6. Methods         | READ.1537984768  | bhavin192     | B        | DONE        |         3 |   2.37 |
-|--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Computer Network by Kruose & Ross          |                  | homuncculus   | A        | IN_PROGRESS |      12.0 |   2.62 |
-|--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| [[https://tutorial.djangogirls.org/en/][Django Girls Tutorial]]                      |                  | homuncculus   | B        | IN_PROGRESS |      15.0 |   5.22 |
-|--------------------------------------------+------------------+---------------+----------+-------------+-----------+--------|
-| Python Tutorials                           |                  | homuncculus   | B        | IN_PROGRESS |       7.0 |   0.17 |
+| ITEM                                       | TASKID          | OWNER       | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|--------------------------------------------+-----------------+-------------+----------+------+-----------+--------------------|
+| TASKS                                      |                 |             | B        |      |     41.32 | 21.400000000000002 |
+|--------------------------------------------+-----------------+-------------+----------+------+-----------+--------------------|
+| Learning Golang Chapter 5. Functions       | READ.1537984603 | bhavin192   | B        | DONE |      1.65 |               1.12 |
+|--------------------------------------------+-----------------+-------------+----------+------+-----------+--------------------|
+| Learning Golang Chapter 5 Exercises        | DEV.1537984318  | bhavin192   | B        | DONE |      2.67 |               3.67 |
+|--------------------------------------------+-----------------+-------------+----------+------+-----------+--------------------|
+| Learning Golang Chapter 6. Methods         | READ.1537984768 | bhavin192   | B        | DONE |         3 |               2.37 |
+|--------------------------------------------+-----------------+-------------+----------+------+-----------+--------------------|
+| Computer Network by Kruose & Ross - Part I |                 | homuncculus | A        | DONE |      12.0 |               4.03 |
+|--------------------------------------------+-----------------+-------------+----------+------+-----------+--------------------|
+| [[https://tutorial.djangogirls.org/en/][Django Girls Tutorial]]                      |                 | homuncculus | B        | DONE |      15.0 |               7.98 |
+|--------------------------------------------+-----------------+-------------+----------+------+-----------+--------------------|
+| Python Tutorials - Part I                  |                 | homuncculus | B        | DONE |       7.0 |               2.23 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -79,70 +100,6 @@
   :wpd-bhavin192: 0.5
   :wpd-homuncculus: 2
   :END:
-** Maths [0/13]
-   :PROPERTIES:
-   :ESTIMATED: 39
-   :ACTUAL:
-   :OWNER:    jasonbraganza
-   :ID:       READ.1537858093
-   :TASKID:   READ.1537858093
-   :END:
-   3h per day.
-   - [ ] 2018-09-25 - Module-I: Sets, Relations and Functions - Sets 
-   - [ ] 2018-09-26 - Module-I: Sets, Relations and Functions - Sets 
-   - [ ] 2018-09-27 - Module-I: Sets, Relations and Functions - Relations and Functions-I 
-   - [ ] 2018-09-28 - Module-I: Sets, Relations and Functions - Relations and Functions-I 
-   - [ ] 2018-09-29 - Module-I: Sets, Relations and Functions - Trigonometric Functions-I 
-   - [ ] 2018-10-01 - Module-I: Sets, Relations and Functions - Trigonometric Functions-I 
-   - [ ] 2018-10-02 - Module-I: Sets, Relations and Functions - Trigonometric Functions-II 
-   - [ ] 2018-10-03 - Module-I: Sets, Relations and Functions - Trigonometric Functions-II 
-   - [ ] 2018-10-04 - Module-I: Sets, Relations and Functions - Relation between Sides and Angles of a Triangle 
-   - [ ] 2018-10-05 - Module-I: Sets, Relations and Functions - Relation between Sides and Angles of a Triangle 
-   - [ ] 2018-10-06 - Module -III: Algebra-I - Complex Numbers 
-   - [ ] 2018-10-08 - Module -III: Algebra-I - Complex Numbers 
-   - [ ] 2018-10-09 - Module -III: Algebra-I - Quadratic Equations and Linear Inequalities
-** Improve to 30wpm using the Dvorak keyboard [0/15]
-   :PROPERTIES:
-   :ESTIMATED: 12.0
-   :ACTUAL:
-   :OWNER:    jasonbraganza
-   :ID:       WRITE.1537858335
-   :TASKID:   WRITE.1537858335
-   :END:
-   Learn the Dvorak keyboard (get upto 30 wpm across 2 sprints).
-    Do the Dvorak typing & speed drills in Gtypist 45m daily.
-   - [ ] 2018-09-24 - Lesson M1 - Practise 
-   - [ ] 2018-09-25 - Lesson M2 - Practise 
-   - [ ] 2018-09-26 - Lesson M3 - Practise 
-   - [ ] 2018-09-27 - Lesson M4 - Practise 
-   - [ ] 2018-09-28 - Lesson M5 - Practise 
-   - [ ] 2018-09-29 - Lesson M6 - Practise 
-   - [ ] 2018-09-30 - Lesson M7 - Practise 
-   - [ ] 2018-10-01 - Lesson M8 - Practise 
-   - [ ] 2018-10-02 - Lesson M9 - Practise 
-   - [ ] 2018-10-03 - Lesson M10 - Practise 
-   - [ ] 2018-10-04 - Lesson M11 - Practise 
-   - [ ] 2018-10-05 - Lesson S1 - Speed Tests 
-   - [ ] 2018-10-06 - Lesson S2 - Speed Tests 
-   - [ ] 2018-10-08 - Lesson S3 - Speed Tests 
-   - [ ] 2018-10-09 - Lesson S4 - Speed Tests 
-** Learn Emacs Org mode [0/9]
-   :PROPERTIES:
-   :ESTIMATED: 2.25
-   :ACTUAL:
-   :OWNER: jasonbraganza
-   :ID: READ.1537858579
-   :TASKID: READ.1537858579
-   :END:
-   - [ ] 2018-09-25 - Go through the Org IRC session 
-   - [ ] 2018-09-26 - Practice the Org mode commands 
-   - [ ] 2018-09-27 - Practice the Org mode commands 
-   - [ ] 2018-09-28 - Practice the Org mode commands 
-   - [ ] 2018-09-29 - Practice the Org mode commands 
-   - [ ] 2018-10-01 - Customize Emacs configuration for Org usage 
-   - [ ] 2018-10-02 - Customize Emacs configuration for Org usage 
-   - [ ] 2018-10-03 - Customize Emacs configuration for Org usage 
-   - [ ] 2018-10-04 - Try to update OBM (and then figure out further steps with mbuf)
 ** DONE Learning Golang Chapter 5. Functions [4/4]
    CLOSED: [2018-10-03 Wed 23:22]
    :PROPERTIES:
@@ -213,10 +170,11 @@
    - [X] 6.4 Method Values and Expressions (20m)
    - [X] 6.5 Example: Bit Vector Type (30m)
    - [X] 6.6 Encapsulation (20m)
-** IN_PROGRESS [#A] Computer Network by Kruose & Ross [2/4]            :read:
+** DONE [#A] Computer Network by Kruose & Ross - Part I [2/2]          :read:
+   CLOSED: [2018-10-12 Fri 10:16]
    :PROPERTIES:
    :ESTIMATED: 12.0
-   :ACTUAL:   2.62
+   :ACTUAL:   4.03
    :OWNER: homuncculus
    :END:
    :LOGBOOK:
@@ -230,13 +188,11 @@
    :END:
    - [X] Chapter 2. Application Layer
    - [X] Practice Problems
-   - [ ] Chapter 3. Transport Layer (TCP/IP Protocol Suit by Forouzan)
-   - [ ] Practice Problems
 ** DONE [#B] [[https://tutorial.djangogirls.org/en/][Django Girls Tutorial]] [100%]
    CLOSED: [2018-10-09 Tue 10:57]
    :PROPERTIES:
    :ESTIMATED: 15.0
-   :ACTUAL:   5.22
+   :ACTUAL:   7.98
    :OWNER: homuncculus
    :END:
    :LOGBOOK:
@@ -255,10 +211,11 @@
     - [X] [[https://tutorial.djangogirls.org/en/django_models/][Django Models]]
     - [X] [[https://tutorial.djangogirls.org/en/django_admin/][Django Admin]]
     - [X] [[https://tutorial.djangogirls.org/en/deploy/][Deploy]]
-** IN_PROGRESS Python Tutorials [2/5]                                  :code:
+** DONE Python Tutorials - Part I [2/2]                                :code:
+   CLOSED: [2018-10-12 Fri 10:17]
    :PROPERTIES:
    :ESTIMATED: 7.0
-   :ACTUAL:   0.17
+   :ACTUAL:   2.23
    :OWNER: homuncculus
    :END:
    :LOGBOOK:
@@ -271,6 +228,3 @@
    :END:
    - [X] [[https://docs.python.org/3/tutorial/errors.html][Errors & Exceptions]]
    - [X] [[https://docs.python.org/3/tutorial/classes.html][Classes]]
-   - [ ] [[https://docs.python.org/3/tutorial/stdlib.html][Brief tour of standard library - I]]
-   - [ ] [[https://docs.python.org/3/tutorial/stdlib2.html][Brief tour of standard library - II]]
-   - [ ] [[https://docs.python.org/3/tutorial/venv.html][Virtual environments & packages]]

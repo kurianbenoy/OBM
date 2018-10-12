@@ -1,6 +1,6 @@
 #+AUTHOR: Vaibhav Kaushik
 #+EMAIL: vaibhavkaushik@disroot.org
-* Goals
+* GOALS
 ** Computer Network
 *** [#A] Computer Network by Kruose & Ross [0%]
     - [ ] Chapter 3. Transport Layer
@@ -82,41 +82,4 @@
 *** OWASP and Security Practices
 ** Organizations
 *** Honeynet
-* Plan
-** Sprint Oct 10 - Oct 23
-   :PROPERTIES:
-   :WPD:      2
-   :END:
-*** [#A] Computer Network by Kruose & Ross [0/2]                       :read:
-    :PROPERTIES:
-    :ESTIMATED: 14.0
-    :ACTUAL:
-    :OWNER:    homuncculus
-    :END:
-    - [ ] Chapter 3. Transport Layer (TCP/IP Protocol Suit by Forouzan) (4h)
-    - [ ] Practice Problems (3h)
-    - [ ] Chapter 4. Network Layer (4h)
-    - [ ] Practice Problems (3h)
-*** [#A] [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]] [0%]
-    :PROPERTIES:
-    :ESTIMATED: 10.0
-    :ACTUAL:
-    :OWNER: homuncculus
-    :END:
-    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial01/][Poll App, Part 1]] (30m)
-    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial02/][Poll App, Part 2]] (1h 30m)
-    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial03/][Poll App, Part 3]] (1h 30m)
-    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial04/][Poll App, Part 4]] (1h 30m)
-    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial05/][Poll App, Part 5]] (2h 30m)
-    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial06/][Poll App, Part 6]] (30m)
-    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial07/][Poll App, Part 7]] (2h)
-    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/reusable-apps/][Reusable Apps]] (30m)
-*** [#B] Python Tutorials [2/5]                                        :code:
-    :PROPERTIES:
-    :ESTIMATED: 4.0
-    :ACTUAL:
-    :OWNER:    homuncculus
-    :END:
-    - [ ] [[https://docs.python.org/3/tutorial/stdlib.html][Brief tour of standard library - I]] (1h)
-    - [ ] [[https://docs.python.org/3/tutorial/stdlib2.html][Brief tour of standard library - II]] (2h)
-    - [ ] [[https://docs.python.org/3/tutorial/venv.html][Virtual environments & packages]] (45m)
+* PLAN
