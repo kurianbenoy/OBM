@@ -132,10 +132,14 @@
 ** IN_PROGRESS Computer Network by Kruose & Ross - Part II [0/4]       :read:
    :PROPERTIES:
    :ESTIMATED: 14.0
-   :ACTUAL:
+   :ACTUAL:   2.97
    :OWNER:    homuncculus
    :ID: READ.1539319760
    :TASKID: READ.1539319760
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-10-16 Tue 04:37]--[2018-10-16 Tue 05:52] =>  1:15
+   CLOCK: [2018-10-15 Mon 17:55]--[2018-10-15 Mon 19:38] =>  1:43
    :END:
    - [ ] Chapter 3. Transport Layer (TCP/IP Protocol Suit by Forouzan) (4h)
    - [ ] Practice Problems (3h)
@@ -148,6 +152,9 @@
    :OWNER: homuncculus
    :ID: DEV.1539319809
    :TASKID: DEV.1539319809
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-10-13 Sat 14:52]--[2018-10-13 Sat 15:05] =>  0:13
    :END:
    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial01/][Poll App, Part 1]] (30m)
    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial02/][Poll App, Part 2]] (1h 30m)
