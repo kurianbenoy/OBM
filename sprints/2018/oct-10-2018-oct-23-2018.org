@@ -102,23 +102,27 @@
   :wpd-bhavin192:        0.5
   :END:
 ** [#A] [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]] [0/1]
+   CLOCK: [2018-10-12 Fri 19:51]--[2018-10-12 Fri 20:27] =>  0:36
   :PROPERTIES:
   :ESTIMATED: 3
-  :ACTUAL:
+  :ACTUAL:  
   :OWNER: sidntrivedi012
   :ID: READ.1539000246
   :TASKID: READ.1539000246
   :END:      
   - [ ] Trees			(3 hrs))
-** [#A] Linux for you and me [0/1]
+** DONE [#A] Linux for you and me [1/1]
+   CLOCK: [2018-10-13 Sat 07:34]--[2018-10-13 Sat 07:46] =>  0:12
+   CLOCK: [2018-10-13 Sat 07:03]--[2018-10-13 Sat 07:03] =>  0:00
+   CLOCK: [2018-10-12 Fri 20:29]--[2018-10-12 Fri 20:42] =>  0:13
   :PROPERTIES:
   :ESTIMATED: 1
-  :ACTUAL:
+  :ACTUAL:   0.42
   :OWNER: sidntrivedi012
   :ID: READ.1538996950
   :TASKID: READ.1538996950
-  :END:
-  - [ ] Shell Commands		(1 hr)
+  :END:      
+  - [X] Shell Commands		(1 hr)
 ** Freecodecamp Javascript Algorithms and Data Structures [0/1]
    :PROPERTIES:
    :ESTIMATED: 8 
@@ -128,7 +132,8 @@
    :TASKID:   DEV.1538995712
    :END:
    - [ ] Basic Javascript		(8 hrs)
-** The Rails Tutorial [0/2]
+** The Rails Tutorial [1/2]
+   CLOCK: [2018-10-14 Sun 09:19]--[2018-10-14 Sun 10:07] =>  0:48
    :PROPERTIES:
    :ESTIMATED: 3
    :ACTUAL:
@@ -136,7 +141,7 @@
    :ID:       READ.1538996294
    :TASKID:   READ.1538996294
    :END:
-   - [ ] From zero to deploy		(1 hrs)
+   - [X] From zero to deploy		(1 hrs)
    - [ ] A toy app			(2 hrs)
 ** Computer Network by Kruose & Ross - Part II [0/4]                   :read:
    :PROPERTIES:
