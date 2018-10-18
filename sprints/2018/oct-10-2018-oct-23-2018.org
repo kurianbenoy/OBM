@@ -143,6 +143,15 @@
    :END:
    - [X] From zero to deploy		(1 hrs)
    - [ ] A toy app			(2 hrs)
+** Watch Linus Tech Talk on Git [0/1]
+   :PROPERTIES:
+   :ESTIMATED: 1
+   :ACTUAL:
+   :OWNER: sidntrivedi012
+   :ID: WATCH.1539870663
+   :TASKID: WATCH.1539870663
+   :END:      
+   - [ ] [[https://www.youtube.com/watch?v%3D4XpnKHJAok8][Tech Talk by Linus Torvalds on Git.]] 
 ** Computer Network by Kruose & Ross - Part II [0/4]                   :read:
    :PROPERTIES:
    :ESTIMATED: 14.0
