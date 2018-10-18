@@ -138,19 +138,23 @@
    :END:
    - [ ] From zero to deploy		(1 hrs)
    - [ ] A toy app			(2 hrs)
-** IN_PROGRESS Computer Network by Kruose & Ross - Part II [0/4]       :read:
+** IN_PROGRESS Computer Network by Kruose & Ross - Part II [1/4]       :read:
    :PROPERTIES:
    :ESTIMATED: 14.0
-   :ACTUAL:   2.97
+   :ACTUAL:   4.78
    :OWNER:    homuncculus
    :ID: READ.1539319760
    :TASKID: READ.1539319760
    :END:
    :LOGBOOK:
+   CLOCK: [2018-10-18 Thu 11:25]--[2018-10-18 Thu 11:50] =>  0:25
+   CLOCK: [2018-10-18 Thu 10:51]--[2018-10-18 Thu 11:25] =>  0:34
+   CLOCK: [2018-10-18 Thu 05:19]--[2018-10-18 Thu 05:44] =>  0:25
+   CLOCK: [2018-10-18 Thu 04:44]--[2018-10-18 Thu 05:09] =>  0:25
    CLOCK: [2018-10-16 Tue 04:37]--[2018-10-16 Tue 05:52] =>  1:15
    CLOCK: [2018-10-15 Mon 17:55]--[2018-10-15 Mon 19:38] =>  1:43
    :END:
-   - [ ] Chapter 3. Transport Layer (TCP/IP Protocol Suit by Forouzan) (4h)
+   - [X] Chapter 3. Transport Layer (TCP/IP Protocol Suit by Forouzan) (4h)
    - [ ] Practice Problems (3h)
    - [ ] Chapter 4. Network Layer (4h)
    - [ ] Practice Problems (3h)
