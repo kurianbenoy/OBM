@@ -6,17 +6,19 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS                                    | WAITING | DONE                                                    | CANCELED |
-|------+------+------------------------------------------------+---------+---------------------------------------------------------+----------|
-|      |      | READ.1538996294. The Rails Tutorial            |         | READ.1538996950. [#A] Linux for you and me (2018-10-13) |          |
-|      |      | DEV.1539622282. Learning Golang Chapter 6 Exer |         |                                                         |          |
+| TODO                                       | NEXT | IN_PROGRESS                                     | WAITING | DONE                                                    | CANCELED |
+|--------------------------------------------+------+-------------------------------------------------+---------+---------------------------------------------------------+----------|
+| DEV.1539319867. Python Tutorials - Part II |      | READ.1538996294. The Rails Tutorial             |         | READ.1538996950. [#A] Linux for you and me (2018-10-13) |          |
+|                                            |      | READ.1539319760. Computer Network by Kruose & R |         |                                                         |          |
+|                                            |      | DEV.1539319809. [[https://docs.djangoproject.c  |         |                                                         |          |
+|                                            |      | DEV.1539622282. Learning Golang Chapter 6 Exer  |         |                                                         |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME        | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |-------------+-----------+--------+------+-----------+--------------+------------|
 | Bhavin192   |      5.33 |   2.42 |    0 |      5.33 |   2018-11-05 | ---------- |
-| Homuncculus |         0 |      0 |    0 |         0 |   2018-10-20 | ---------- |
+| Homuncculus |      28.0 |    5.5 |    0 |      28.0 |   2018-11-08 | ---------- |
 | Sidntrivedi |         4 |   1.22 |    1 |         3 |   2018-10-24 | ##-------- |
 #+END:
 ** BURNDOWN CHART
@@ -69,31 +71,31 @@
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                                                   | TASKID           | OWNER          | PRIORITY | TODO        |          ESTIMATED |             ACTUAL |
-|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------------------|
-| TASKS                                                  |                  |                | B        |             | 47.989999999999995 | 3.6399999999999997 |
-|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------------------|
-| [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]]                            |                  |                | A        |             |                    |                    |
-|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------------------|
-| Linux for you and me                                   | READ.1538996950  | sidntrivedi012 | A        | DONE        |                  1 |               0.42 |
-|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------------------|
-| Freecodecamp Javascript Algorithms and Data Structures | DEV.1538995712   | sidntrivedi012 | B        |             |                  8 |                    |
-|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------------------|
-| The Rails Tutorial                                     | READ.1538996294  | sidntrivedi012 | B        | IN_PROGRESS |                  3 |               0.80 |
-|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------------------|
-| Watch Linus Tech Talk on Git                           | WATCH.1539870663 | sidntrivedi012 | B        |             |                  1 |                    |
-|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------------------|
-| Computer Network by Kruose & Ross - Part II            | READ.1539319760  | homuncculus    | B        |             |               14.0 |                    |
-|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------------------|
-| [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]]                                         | DEV.1539319809   | homuncculus    | B        |             |               10.0 |                    |
-|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------------------|
-| Python Tutorials - Part II                             | DEV.1539319867   | homuncculus    | B        |             |                4.0 |                    |
-|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------------------|
-| Learning Golang Chapter 6 Exercises                    | DEV.1539622282   | bhavin192      | B        | IN_PROGRESS |               5.33 |               2.42 |
-|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------------------|
-| Learning Golang Chapter 7. Interfaces                  | READ.1539622386  | bhavin192      | B        |             |                0.5 |                    |
-|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------------------|
-| Learning Golang Chapter 7 Exercises                    | DEV.1539622626   | bhavin192      | B        |             |               1.16 |                    |
+| ITEM                                                   | TASKID           | OWNER          | PRIORITY | TODO        |          ESTIMATED | ACTUAL |
+|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------|
+| TASKS                                                  |                  |                | B        |             | 47.989999999999995 |   9.14 |
+|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------|
+| [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]]                            |                  |                | A        |             |                    |        |
+|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------|
+| Linux for you and me                                   | READ.1538996950  | sidntrivedi012 | A        | DONE        |                  1 |   0.42 |
+|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------|
+| Freecodecamp Javascript Algorithms and Data Structures | DEV.1538995712   | sidntrivedi012 | B        |             |                  8 |        |
+|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------|
+| The Rails Tutorial                                     | READ.1538996294  | sidntrivedi012 | B        | IN_PROGRESS |                  3 |   0.80 |
+|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------|
+| Watch Linus Tech Talk on Git                           | WATCH.1539870663 | sidntrivedi012 | B        |             |                  1 |        |
+|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------|
+| Computer Network by Kruose & Ross - Part II            | READ.1539319760  | homuncculus    | B        | IN_PROGRESS |               14.0 |   4.78 |
+|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------|
+| [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]]                                         | DEV.1539319809   | homuncculus    | B        | IN_PROGRESS |               10.0 |   0.22 |
+|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------|
+| Python Tutorials - Part II                             | DEV.1539319867   | homuncculus    | B        | TODO        |                4.0 |   0.50 |
+|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------|
+| Learning Golang Chapter 6 Exercises                    | DEV.1539622282   | bhavin192      | B        | IN_PROGRESS |               5.33 |   2.42 |
+|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------|
+| Learning Golang Chapter 7. Interfaces                  | READ.1539622386  | bhavin192      | B        |             |                0.5 |        |
+|--------------------------------------------------------+------------------+----------------+----------+-------------+--------------------+--------|
+| Learning Golang Chapter 7 Exercises                    | DEV.1539622626   | bhavin192      | B        |             |               1.16 |        |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -160,25 +162,36 @@
    :TASKID: WATCH.1539870663
    :END:      
    - [ ] [[https://www.youtube.com/watch?v%3D4XpnKHJAok8][Tech Talk by Linus Torvalds on Git.]] 
-** Computer Network by Kruose & Ross - Part II [0/4]                   :read:
+** IN_PROGRESS Computer Network by Kruose & Ross - Part II [1/4]       :read:
    :PROPERTIES:
    :ESTIMATED: 14.0
-   :ACTUAL:
+   :ACTUAL:   4.78
    :OWNER:    homuncculus
    :ID: READ.1539319760
    :TASKID: READ.1539319760
    :END:
-   - [ ] Chapter 3. Transport Layer (TCP/IP Protocol Suit by Forouzan) (4h)
+   :LOGBOOK:
+   CLOCK: [2018-10-18 Thu 11:25]--[2018-10-18 Thu 11:50] =>  0:25
+   CLOCK: [2018-10-18 Thu 10:51]--[2018-10-18 Thu 11:25] =>  0:34
+   CLOCK: [2018-10-18 Thu 05:19]--[2018-10-18 Thu 05:44] =>  0:25
+   CLOCK: [2018-10-18 Thu 04:44]--[2018-10-18 Thu 05:09] =>  0:25
+   CLOCK: [2018-10-16 Tue 04:37]--[2018-10-16 Tue 05:52] =>  1:15
+   CLOCK: [2018-10-15 Mon 17:55]--[2018-10-15 Mon 19:38] =>  1:43
+   :END:
+   - [X] Chapter 3. Transport Layer (TCP/IP Protocol Suit by Forouzan) (4h)
    - [ ] Practice Problems (3h)
    - [ ] Chapter 4. Network Layer (4h)
    - [ ] Practice Problems (3h)
-** [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]] [0%]
+** IN_PROGRESS [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]] [0%]
    :PROPERTIES:
    :ESTIMATED: 10.0
-   :ACTUAL:
+   :ACTUAL:   0.22
    :OWNER: homuncculus
    :ID: DEV.1539319809
    :TASKID: DEV.1539319809
+   :END:
+   :LOGBOOK:
+   CLOCK: [2018-10-13 Sat 14:52]--[2018-10-13 Sat 15:05] =>  0:13
    :END:
    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial01/][Poll App, Part 1]] (30m)
    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial02/][Poll App, Part 2]] (1h 30m)
@@ -188,17 +201,21 @@
    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial06/][Poll App, Part 6]] (30m)
    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial07/][Poll App, Part 7]] (2h)
    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/reusable-apps/][Reusable Apps]] (30m)
-** Python Tutorials - Part II [0/3]
+** TODO Python Tutorials - Part II [0/3]
    :PROPERTIES:
    :ESTIMATED: 4.0
-   :ACTUAL:
+   :ACTUAL:   0.50
    :OWNER:    homuncculus
    :ID: DEV.1539319867
    :TASKID: DEV.1539319867
    :END:
+   :LOGBOOK:
+   CLOCK: [2018-10-12 Fri 12:00]--[2018-10-12 Fri 12:30] =>  0:30
+   :END:
    - [ ] [[https://docs.python.org/3/tutorial/stdlib.html][Brief tour of standard library - I]] (1h)
    - [ ] [[https://docs.python.org/3/tutorial/stdlib2.html][Brief tour of standard library - II]] (2h)
    - [ ] [[https://docs.python.org/3/tutorial/venv.html][Virtual environments & packages]] (45m)
+     
 ** IN_PROGRESS Learning Golang Chapter 6 Exercises [2/5]
    :PROPERTIES:
    :ESTIMATED: 5.33
