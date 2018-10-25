@@ -1,6 +1,6 @@
 #+AUTHOR: Siddhant N Trivedi
 #+EMAIL: sidntrivedi012@gmail.com
-#+TAGS: READ WRITE DEV MEETING
+#+TAGS: READ WRITE DEV WATCH
 * GOALS
 ** Programming Languages
 *** [#A] Javascript
@@ -169,6 +169,16 @@
     :ID: WRITE.1539072660
     :TASKID: WRITE.1539072660
     :END:      
+** WATCH
+*** Tech Talks
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sidntrivedi012
+    :ID: WATCH.1540476168
+    :TASKID: WATCH.1540476168
+    :END:
+    - [ ] [[https://www.youtube.com/watch?v%3D4XpnKHJAok8][Linus Torvalds on Git.]]
 * PLAN
 ** October 24, 2018 - November 8, 2018  (16 days)
    :PROPERTIES:
@@ -220,6 +230,15 @@
     :TASKID: READ.1538996950
     :END:      
     - [ ] File System
+*** [#B] Tech Talks [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 1 
+    :ACTUAL:
+    :OWNER: sidntrivedi012
+    :ID: WATCH.1540476168
+    :TASKID: WATCH.1540476168
+    :END:      
+    - [ ] [[https://www.youtube.com/watch?v%3D4XpnKHJAok8][Linus Torvalds on Git.]]
 ** November 9, 2018 - November 22, 2018 (14 days)
 ** November 23, 2018 - December 7, 2018 (15 days)
 ** December 8, 2018 - December 21, 2018 (14 days)
