@@ -73,7 +73,7 @@
 **** [[https://reactjs.org/docs/hello-world.html][React Docs]]
 **** [[https://learn.freecodecamp.org/][Freecodecamp Front end libraries certification.]]
 ** Systems
-*** [#A] Linux for you and me [0/11]
+*** [#A] Linux for you and me [1/11]
     :PROPERTIES:
     :ESTIMATED: 12
     :ACTUAL:
@@ -81,7 +81,7 @@
     :ID: READ.1538996950
     :TASKID: READ.1538996950
     :END:
-    - [ ] Shell Commands	()
+    - [X] Shell Commands	()
     - [ ] File System		()
     - [ ] Useful Commands	()
     - [ ] Users and groups	()
@@ -108,35 +108,7 @@
     - [ ] Searching			()
     - [ ] Stacks			()
     - [ ] Queues			()
-    - [ ] STL				()
-    - [ ] Number Theory-I		()
-    - [ ] Trees				()
-    - [ ] Graph Theory-I		()
-    - [ ] Hashing			()
-    - [ ] Disjoint-Set Union		()
-    - [ ] Heaps				()
-    - [ ] Priority Queues		()
-    - [ ] Greedy Technique		()
-    - [ ] Graph Theory-II		()
-    - [ ] Dynamic Programming		()
-    - [ ] Bit Manipulation		()
-*** [#A] Practice Problems [0/19]
-   :PROPERTIES:
-   :ESTIMATED: 
-   :ACTUAL:
-   :OWNER: sidntrivedi012
-   :ID: DEV.1539071927
-   :TASKID: DEV.1539071927
-   :END:
-    [[https://www.hackerearth.com/practice/codemonk/][Reference]]
-    - [ ] Basics of Programming		()
-    - [ ] Arrays			()
-    - [ ] Strings			()
-    - [ ] Sorting			()
-    - [ ] Searching			()
-    - [ ] Stacks			()
-    - [ ] Queues			()
-    - [ ] STL				()
+    - [ ] Standard Template Library	()
     - [ ] Number Theory-I		()
     - [ ] Trees				()
     - [ ] Graph Theory-I		()
@@ -199,6 +171,55 @@
     :END:      
 * PLAN
 ** October 24, 2018 - November 8, 2018  (16 days)
+   :PROPERTIES:
+   :wpd-sidntrivedi012: 0.75
+   :END:      
+*** [#A] [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]] [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 1.5
+    :ACTUAL:
+    :OWNER: sidntrivedi012
+    :ID: READ.1539000246
+    :TASKID: READ.1539000246
+    :END:      
+     - [ ] Standard Template Library
+*** [#A] Freecodecamp Javascript Algorithms and Data Structures [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER:    sidntrivedi012
+    :ID:       DEV.1538995712
+    :TASKID:   DEV.1538995712
+    :END:      
+    - [ ] Basic Javascript
+*** [#A] MDN Javascript Guides [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 1.5 
+    :ACTUAL:   
+    :OWNER:    sidntrivedi012
+    :ID:       READ.1538998440
+    :TASKID:   READ.1538998440
+    :END:      
+     - [ ] Introduction                         (0.5)
+     - [ ] Grammar and types			(1.0)
+*** [#A] The Rails Tutorial [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 1
+    :ACTUAL:
+    :OWNER:    sidntrivedi012
+    :ID:       READ.1538996294
+    :TASKID:   READ.1538996294
+    :END:      
+    - [ ] From zero to deploy
+*** [#A] Linux for you and me [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 1.5
+    :ACTUAL:
+    :OWNER: sidntrivedi012
+    :ID: READ.1538996950
+    :TASKID: READ.1538996950
+    :END:      
+    - [ ] File System
 ** November 9, 2018 - November 22, 2018 (14 days)
 ** November 23, 2018 - December 7, 2018 (15 days)
 ** December 8, 2018 - December 21, 2018 (14 days)
