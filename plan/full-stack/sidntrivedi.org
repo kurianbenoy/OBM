@@ -12,7 +12,6 @@
      :ID:       DEV.1538995712
      :TASKID:   DEV.1538995712
      :END:
-     - [ ] Basic Javascript					()
      - [ ] ES6							()
      - [ ] REGULAR EXPRESSIONS					()
      - [ ] DEBUGGING						()
@@ -30,8 +29,6 @@
      :ID:       READ.1538998440
      :TASKID:   READ.1538998440
      :END:
-      - [ ] Introduction		        ()
-      - [ ] Grammar and types			()
       - [ ] Control Flow & Error handling	()
       - [ ] Loops and iteration			()
       - [ ] Functions				()
