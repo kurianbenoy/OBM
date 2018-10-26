@@ -224,10 +224,10 @@
     :OWNER: sidntrivedi012
     :ID: READ.1540535858
     :TASKID: READ.1540535858
-    :END
+    :END:
 ** November 9, 2018 - November 22, 2018 (14 days)
 ** November 23, 2018 - December 7, 2018 (15 days)
 ** December 8, 2018 - December 21, 2018 (14 days)
 ** December 22, 2018 - January 6, 2019  (16 days)
    
-
+   
