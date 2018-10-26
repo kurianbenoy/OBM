@@ -79,7 +79,6 @@
     :ID: READ.1538996950
     :TASKID: READ.1538996950
     :END:
-    - [ ] File System		()
     - [ ] Useful Commands	()
     - [ ] Users and groups	()
     - [ ] File Permissions	()
