@@ -161,7 +161,6 @@
     :ID: WRITE.1539072660
     :TASKID: WRITE.1539072660
     :END:      
-** Video Sessions
 * PLAN
 ** October 24, 2018 - November 8, 2018  (16 days)
    :PROPERTIES:
