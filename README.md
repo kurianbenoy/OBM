@@ -114,8 +114,6 @@ have the notion of time.
 Upcoming Sprints
 ================
 
-* October   10, 2018 - October   23, 2018 (14 days)
-* October   24, 2018 - November   8, 2018 (16 days)
 * November   9, 2018 - November  22, 2018 (14 days)
 * November  23, 2018 - December   7, 2018 (15 days)
 * December   8, 2018 - December  21, 2018 (14 days)
