@@ -10,6 +10,7 @@
     - [ ] Chapter 7. Multimedia Network
     - [ ] Chapter 8. Security in Computer Network
     - [ ] Chapter 9. Network Management
+*** [[https://github.com/python/cpython/blob/master/Lib/socket.py][Python Socket module Source Code]]
 ** Data-Structures & Algorithms 
 *** [#A] Practice Competitive Programming                              :code:
     SCHEDULED: <2018-09-25 Tue .2d/4d>
@@ -38,6 +39,11 @@
 **** [[http://codeforces.com/blog/entry/57282][Blog]]                  :read:
 *** Project Euler
 ** System
+*** [#A] [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/ch01][Control Groups]]
+**** [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/sec-relationships_between_subsystems_hierarchies_control_groups_and_tasks][How and Why Cgroup]]
+**** [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/ch-using_control_groups][Using Cgroups]]
+**** [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/ch-subsystems_and_tunable_parameters][Subsystems and Tunable Parameters]]
+**** [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/control-group-application-examples][Applications examples]]
 *** Python Scripting
 **** [#A] [[https://automatetheboringstuff.com/][Automate Boring Stuffs]]                                       :read:
 *** Awk
@@ -47,30 +53,32 @@
 ** Database
 *** PostgreSQL
 ** Development
-*** Make a command line application
+*** [#A] [[https://pybit.es/pages/challenges.html][PyBites Challenges]]
+*** [#B] Gophercise [0%]
+  - [ ] Quiz Game
+  - [ ] URL Shortener
+  - [ ] Choose your Own Adventure
+  - [ ] HTML Link Parser
+  - [ ] Sitemap Builder
+  - [ ] CLI Task Manager
+  - [ ] Phone Number Normalizer
+  - [ ] Deck Of Cards
+  - [ ] Blackjack
+  - [ ] File Renaming Tool
+  - [ ] Quite HackerNews
+  - [ ] Recover Middleware
+  - [ ] Twitter Retweet
+  - [ ] Secret API and CLI
+  - [ ] Image Transform Service
+  - [ ] Building Images
+  - [ ] Building PDFs
 *** Testing
 ** Web Development
 *** [#A] Django
+**** [[https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps][Server-side website programming first steps]]
 **** [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]]
+**** [[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django][MDN Django Docs]]
 *** Golang
-**** [#B] Gophercise [0%]
-   - [ ] Quiz Game
-   - [ ] URL Shortener
-   - [ ] Choose your Own Adventure
-   - [ ] HTML Link Parser
-   - [ ] Sitemap Builder
-   - [ ] CLI Task Manager
-   - [ ] Phone Number Normalizer
-   - [ ] Deck Of Cards
-   - [ ] Blackjack
-   - [ ] File Renaming Tool
-   - [ ] Quite HackerNews
-   - [ ] Recover Middleware
-   - [ ] Twitter Retweet
-   - [ ] Secret API and CLI
-   - [ ] Image Transform Service
-   - [ ] Building Images
-   - [ ] Building PDFs
 **** Golang Series [0%]
    - [ ] Go Bootcamp Series
    - [ ] Go Web Applications
@@ -82,4 +90,8 @@
 *** OWASP and Security Practices
 ** Organizations
 *** Honeynet
+** Projects
+*** [[https://github.com/ipfs/go-ipfs][go-ipfs]]
+*** [[https://github.com/taskcluster][TaskCluster]]
+*** [[https://github.com/hashicorp/vagrant][Vagrant]]
 * PLAN
