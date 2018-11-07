@@ -1,6 +1,6 @@
 #+AUTHOR: Siddhant N Trivedi
 #+EMAIL: sidntrivedi012@gmail.com
-#+TAGS: READ WRITE DEV MEETING
+#+TAGS: READ WRITE DEV 
 * GOALS
 ** Programming Languages
 *** [#A] Javascript
@@ -12,7 +12,6 @@
      :ID:       DEV.1538995712
      :TASKID:   DEV.1538995712
      :END:
-     - [ ] Basic Javascript					()
      - [ ] ES6							()
      - [ ] REGULAR EXPRESSIONS					()
      - [ ] DEBUGGING						()
@@ -30,8 +29,6 @@
      :ID:       READ.1538998440
      :TASKID:   READ.1538998440
      :END:
-      - [ ] Introduction		        ()
-      - [ ] Grammar and types			()
       - [ ] Control Flow & Error handling	()
       - [ ] Loops and iteration			()
       - [ ] Functions				()
@@ -47,7 +44,7 @@
       - [ ] Meta Programming			()
 ** Frameworks
 *** [#A] Ruby on Rails.
-**** The Rails Tutorial [0/14]
+**** The Rails Tutorial [1/14]
      :PROPERTIES:
      :ESTIMATED: 12
      :ACTUAL:
@@ -55,8 +52,6 @@
      :ID:       READ.1538996294
      :TASKID:   READ.1538996294
      :END:
-     - [ ] From zero to deploy			()
-     - [ ] A toy app				()
      - [ ] Mostly static 			()
      - [ ] Rails flavored Ruby			()
      - [ ] Filling in the layout		()
@@ -73,7 +68,7 @@
 **** [[https://reactjs.org/docs/hello-world.html][React Docs]]
 **** [[https://learn.freecodecamp.org/][Freecodecamp Front end libraries certification.]]
 ** Systems
-*** [#A] Linux for you and me [0/11]
+*** [#A] Linux for you and me [1/11]
     :PROPERTIES:
     :ESTIMATED: 12
     :ACTUAL:
@@ -81,8 +76,6 @@
     :ID: READ.1538996950
     :TASKID: READ.1538996950
     :END:
-    - [ ] Shell Commands	()
-    - [ ] File System		()
     - [ ] Useful Commands	()
     - [ ] Users and groups	()
     - [ ] File Permissions	()
@@ -108,37 +101,8 @@
     - [ ] Searching			()
     - [ ] Stacks			()
     - [ ] Queues			()
-    - [ ] STL				()
     - [ ] Number Theory-I		()
-    - [ ] Trees				()
-    - [ ] Graph Theory-I		()
-    - [ ] Hashing			()
-    - [ ] Disjoint-Set Union		()
-    - [ ] Heaps				()
-    - [ ] Priority Queues		()
-    - [ ] Greedy Technique		()
-    - [ ] Graph Theory-II		()
-    - [ ] Dynamic Programming		()
-    - [ ] Bit Manipulation		()
-*** [#A] Practice Problems [0/19]
-   :PROPERTIES:
-   :ESTIMATED: 
-   :ACTUAL:
-   :OWNER: sidntrivedi012
-   :ID: DEV.1539071927
-   :TASKID: DEV.1539071927
-   :END:
-    [[https://www.hackerearth.com/practice/codemonk/][Reference]]
-    - [ ] Basics of Programming		()
-    - [ ] Arrays			()
-    - [ ] Strings			()
-    - [ ] Sorting			()
-    - [ ] Searching			()
-    - [ ] Stacks			()
-    - [ ] Queues			()
-    - [ ] STL				()
-    - [ ] Number Theory-I		()
-    - [ ] Trees				()
+    - [ ] Standard Template Library     ()
     - [ ] Graph Theory-I		()
     - [ ] Hashing			()
     - [ ] Disjoint-Set Union		()
@@ -198,9 +162,9 @@
     :TASKID: WRITE.1539072660
     :END:      
 * PLAN
-** October 24, 2018 - November 8, 2018  (16 days)
 ** November 9, 2018 - November 22, 2018 (14 days)
 ** November 23, 2018 - December 7, 2018 (15 days)
 ** December 8, 2018 - December 21, 2018 (14 days)
 ** December 22, 2018 - January 6, 2019  (16 days)
+   
    
