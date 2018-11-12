@@ -52,6 +52,7 @@
      :ID:       READ.1538996294
      :TASKID:   READ.1538996294
      :END:
+     - [ ] A toy app
      - [ ] Mostly static 			()
      - [ ] Rails flavored Ruby			()
      - [ ] Filling in the layout		()
@@ -103,6 +104,7 @@
     - [ ] Queues			()
     - [ ] Number Theory-I		()
     - [ ] Standard Template Library     ()
+    - [ ] Trees
     - [ ] Graph Theory-I		()
     - [ ] Hashing			()
     - [ ] Disjoint-Set Union		()
@@ -163,8 +165,45 @@
     :END:      
 * PLAN
 ** November 9, 2018 - November 22, 2018 (14 days)
+   :PROPERTIES:
+   :wpd-sidntrivedi012: 1.0
+   :END:
+*** TODO [#A] Freecodecamp Javascript Algorithms and Data Structures [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER:    sidntrivedi012
+    :ID:       DEV.1538995712
+    :TASKID:   DEV.1538995712
+    :END:      
+    - [ ] Basic Javascript
+*** TODO [#A] MDN Javascript Guides [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 1.0 
+    :ACTUAL:   
+    :OWNER:    sidntrivedi012
+    :ID:       READ.1538998440
+    :TASKID:   READ.1538998440
+    :END:      
+     - [ ] Introduction                         (0.25)
+     - [ ] Grammar and types			(0.75)
+*** TODO [#A] Linux for you and me [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 1.0
+    :ACTUAL:
+    :OWNER: sidntrivedi012
+    :ID: READ.1538996950
+    :TASKID: READ.1538996950
+    :END:      
+    - [ ] File System
+*** TODO [#B] [[https://youtu.be/4XpnKHJAok8][Linus Torvalds Git Tech Talk.]]
+    :PROPERTIES:
+    :ESTIMATED: 1
+    :ACTUAL:
+    :OWNER: sidntrivedi012
+    :ID: READ.1540535858
+    :TASKID: READ.1540535858
+    :END:
 ** November 23, 2018 - December 7, 2018 (15 days)
 ** December 8, 2018 - December 21, 2018 (14 days)
 ** December 22, 2018 - January 6, 2019  (16 days)
-   
-   
