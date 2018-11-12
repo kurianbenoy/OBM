@@ -113,37 +113,6 @@
    CLOCK: [2018-10-12 Fri 20:29]--[2018-10-12 Fri 20:42] =>  0:13
   :END:      
   - [X] Shell Commands		(1 hr)
-** Freecodecamp Javascript Algorithms and Data Structures [0/1]
-   :PROPERTIES:
-   :ESTIMATED: 8 
-   :ACTUAL:
-   :OWNER:    sidntrivedi012
-   :ID:       DEV.1538995712
-   :TASKID:   DEV.1538995712
-   :END:
-   - [ ] Basic Javascript		(8 hrs)
-** IN_PROGRESS The Rails Tutorial [1/2]
-   :PROPERTIES:
-   :ESTIMATED: 3
-   :ACTUAL:   0.80
-   :OWNER:    sidntrivedi012
-   :ID:       READ.1538996294
-   :TASKID:   READ.1538996294
-   :END:
-   :LOGBOOK:
-   CLOCK: [2018-10-14 Sun 09:19]--[2018-10-14 Sun 10:07] =>  0:48
-   :END:      
-   - [X] From zero to deploy		(1 hrs)
-   - [ ] A toy app			(2 hrs)
-** Watch Linus Tech Talk on Git [0/1]
-   :PROPERTIES:
-   :ESTIMATED: 1
-   :ACTUAL:
-   :OWNER: sidntrivedi012
-   :ID: WATCH.1539870663
-   :TASKID: WATCH.1539870663
-   :END:      
-   - [ ] [[https://www.youtube.com/watch?v%3D4XpnKHJAok8][Tech Talk by Linus Torvalds on Git.]] 
 ** DONE Computer Network by Kruose & Ross - Part II [4/4]              :read:
    CLOSED: [2018-10-23 Tue 23:11]
    :PROPERTIES:
