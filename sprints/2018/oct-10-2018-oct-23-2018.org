@@ -149,7 +149,7 @@
 ** DONE [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]] [100%]
    CLOSED: [2018-10-22 Mon 19:30]
    :PROPERTIES:
-   :ESTIMATED: 10.0
+   :ESTIMATED: 5.0
    :ACTUAL:   3.55
    :OWNER: homuncculus
    :ID: DEV.1539319809
