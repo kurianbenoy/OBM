@@ -90,7 +90,7 @@
   :SPRINTLENGTH: 14
   :SPRINTSTART: <2018-11-09 Fri>
   :wpd-sidntrivedi012:      1
-  :wpd-bhavin192:           0.85
+  :wpd-bhavin192:           1
   :END:
 ** sidntrivedi012
 *** TODO [#A] Freecodecamp Javascript Algorithms and Data Structures [0/1]
