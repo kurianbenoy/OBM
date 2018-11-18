@@ -6,27 +6,92 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO                                                 | NEXT | IN_PROGRESS                                     | WAITING | DONE | CANCELED |
+|------------------------------------------------------+------+-------------------------------------------------+---------+------+----------|
+| DEV.1538995712. [#A] Freecodecamp Javascript Algori  |      | READ.1542393796. Learning Golang Chapter 7. Int |         |      |          |
+| READ.1538998440. [#A] MDN Javascript Guides          |      | DEV.1542394436. Learning Golang Chapter 7 Exer  |         |      |          |
+| READ.1538996950. [#A] Linux for you and me           |      |                                                 |         |      |          |
+| READ.1540535858. [#B] [[https://youtu.be/4XpnKHJAok8 |      |                                                 |         |      |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME           | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|----------------+-----------+--------+------+-----------+--------------+------------|
+| Bhavin192      |      12.3 |   5.17 |    0 |      12.3 |   2018-12-07 | ---------- |
+| Sidntrivedi012 |        10 |      0 |    0 |        10 |   2018-11-30 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  25 ++--------+---------+---------+---------+---------+---------+--------++   
+:     |                                                                     |   
+:     |    #########################################         ACTUAL ####### |   
+:     |    .....                                              IDEAL ....... |   
+:  20 ++        .....                                                      ++   
+:     |              .....                                                  |   
+:     |                   ....                                              |   
+:  15 ++                      .                                            ++   
+:     |                        .....                                        |   
+:     |                             .....                                   |   
+:     |                                  .....                              |   
+:  10 ++                                      .....                        ++   
+:     |                                            ....                     |   
+:     |                                                .                    |   
+:   5 ++                                                .........          ++   
+:     |                                                          .          |   
+:     |                                                           .....     |   
+:     |                                                                .....|   
+:   0 ++--------+---------+---------+---------+---------+---------+--------+.   
+:     0         2         4         6         8         10        12        14  
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:14]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2018-11-09 |   22.3 |    21 |                 |
+|   2 | 2018-11-10 |   22.3 |    19 |                 |
+|   3 | 2018-11-11 |   22.3 |    18 |                 |
+|   4 | 2018-11-12 |   22.3 |    16 |                 |
+|   5 | 2018-11-13 |   22.3 |    14 |                 |
+|   6 | 2018-11-14 |   22.3 |    13 |                 |
+|   7 | 2018-11-15 |   22.3 |    11 |                 |
+|   8 | 2018-11-16 |   22.3 |    10 |                 |
+|   9 | 2018-11-17 |   22.3 |     8 |                 |
+|  10 | 2018-11-18 |        |     6 |                 |
+|  11 | 2018-11-19 |        |     5 |                 |
+|  12 | 2018-11-20 |        |     3 |                 |
+|  13 | 2018-11-21 |        |     2 |                 |
+|  14 | 2018-11-22 |        |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                                   | TASKID          | OWNER          | PRIORITY | TODO        | ESTIMATED | ACTUAL |
+|--------------------------------------------------------+-----------------+----------------+----------+-------------+-----------+--------|
+| TASKS                                                  |                 |                | B        |             |      22.3 |   5.17 |
+|--------------------------------------------------------+-----------------+----------------+----------+-------------+-----------+--------|
+| sidntrivedi012                                         |                 |                | B        |             |        10 |        |
+| Freecodecamp Javascript Algorithms and Data Structures | DEV.1538995712  | sidntrivedi012 | A        | TODO        |         7 |        |
+| MDN Javascript Guides                                  | READ.1538998440 | sidntrivedi012 | A        | TODO        |         1 |        |
+| Linux for you and me                                   | READ.1538996950 | sidntrivedi012 | A        | TODO        |         1 |        |
+| [[https://youtu.be/4XpnKHJAok8][Linus Torvalds Git Tech Talk.]]                          | READ.1540535858 | sidntrivedi012 | B        | TODO        |         1 |        |
+|--------------------------------------------------------+-----------------+----------------+----------+-------------+-----------+--------|
+| bhavin192                                              |                 |                | B        |             |      12.3 |   5.17 |
+| Learning Golang Chapter 7. Interfaces                  | READ.1542393796 | bhavin192      | B        | IN_PROGRESS |         3 |   2.27 |
+| Learning Golang Chapter 7 Exercises                    | DEV.1542394436  | bhavin192      | B        | IN_PROGRESS |       9.3 |   2.90 |
 #+END:
 * TASKS
   :PROPERTIES:
   :ID:       TASKS
   :SPRINTLENGTH: 14
   :SPRINTSTART: <2018-11-09 Fri>
-  :wpd-sidntrivedi012:      1
-  :wpd-vaibhavk:      1.5
+  :wpd-sidntrivedi012: 1
+  :wpd-vaibhavk: 1.5
+  :wpd-bhavin192: 1
   :END:
 ** sidntrivedi012
 *** TODO [#A] Freecodecamp Javascript Algorithms and Data Structures [0/1]
@@ -100,3 +165,49 @@
    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial06/][Poll App, Part 6]] (1h)
    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial07/][Poll App, Part 7]] (2h)
    - [ ] [[https://docs.djangoproject.com/en/2.1/intro/reusable-apps/][Reusable Apps]] (1h 30m)
+** bhavin192
+*** IN_PROGRESS Learning Golang Chapter 7. Interfaces [5/6]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:   2.27
+    :OWNER:    bhavin192
+    :ID:       READ.1542393796
+    :TASKID:   READ.1542393796
+    :END:
+    :LOGBOOK:
+    CLOCK: [2018-11-16 Fri 18:50]--[2018-11-16 Fri 18:58] =>  0:08
+    CLOCK: [2018-11-16 Fri 18:23]--[2018-11-16 Fri 18:43] =>  0:20
+    CLOCK: [2018-11-15 Thu 19:50]--[2018-11-15 Thu 19:57] =>  0:07
+    CLOCK: [2018-11-15 Thu 18:47]--[2018-11-15 Thu 19:28] =>  0:41
+    CLOCK: [2018-11-14 Wed 22:44]--[2018-11-14 Wed 23:05] =>  0:21
+    CLOCK: [2018-11-14 Wed 21:59]--[2018-11-14 Wed 22:29] =>  0:30
+    CLOCK: [2018-11-12 Mon 19:38]--[2018-11-12 Mon 19:47] =>  0:09
+    :END:
+    - [X] 7.2 Interface Types (10m)
+    - [X] 7.3 Interface Satisfaction (25m)
+    - [X] 7.4 Parsing Flags with flag.Value (15m)
+    - [X] 7.5 Interface Values (50m)
+    - [X] 7.6 Sorting with sort.Interface (40m)
+    - [ ] 7.7 The http.Handler Interface (40m)
+*** IN_PROGRESS Learning Golang Chapter 7 Exercises [3/4]
+    :PROPERTIES:
+    :ESTIMATED: 9.3
+    :ACTUAL:   2.90
+    :OWNER:    bhavin192
+    :ID:       DEV.1542394436
+    :TASKID:   DEV.1542394436
+    :END:
+    :LOGBOOK:
+    CLOCK: [2018-11-14 Wed 23:06]--[2018-11-14 Wed 23:17] =>  0:11
+    CLOCK: [2018-11-13 Tue 19:06]--[2018-11-13 Tue 19:52] =>  0:46
+    CLOCK: [2018-11-12 Mon 22:16]--[2018-11-12 Mon 22:50] =>  0:34
+    CLOCK: [2018-11-12 Mon 19:50]--[2018-11-12 Mon 19:59] =>  0:09
+    CLOCK: [2018-11-11 Sun 22:33]--[2018-11-11 Sun 22:50] =>  0:17
+    CLOCK: [2018-11-10 Sat 20:41]--[2018-11-10 Sat 21:07] =>  0:26
+    CLOCK: [2018-11-10 Sat 20:02]--[2018-11-10 Sat 20:33] =>  0:31
+    :END:
+    - [X] 7.1 Part II (65m)
+    - [X] 7.2 (90m)
+    - [X] 7.4 (15m)
+    - [ ] 7.6 (6.5h)
+
