@@ -1,0 +1,65 @@
+#+TITLE: November 23, 2018-December 7, 2018 (15 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 15
+  :SPRINTSTART: <2018-11-23 Fri>
+  :wpd-bhavin192: 1.25
+  :END:
+** bhavin192
+*** Learning Golang Chapter 7. Interfaces [0/8]
+    :PROPERTIES:
+    :ESTIMATED: 4.75
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1542902097
+    :TASKID:   READ.1542902097
+    :END:
+    - [ ] 7.8 The error Interface (15m)
+    - [ ] 7.9 Example: Expression Evaluator (120m)
+    - [ ] 7.10 Type Assertions (20m)
+    - [ ] 7.11 Discriminating Errors with Type Assertions (15m)
+    - [ ] 7.12 Querying Behaviors with Interface Type Assertions (30m)
+    - [ ] 7.13 Type Switches (40m)
+    - [ ] 7.14 Example: Token-Based XML Decoding (40m)
+    - [ ] 7.15 A Few Words of Advice (5m)
+*** Learning Golang Chapter 7 Exercises [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 5.5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       DEV.1542902280
+    :TASKID:   DEV.1542902280
+    :END:
+    - [ ] 7.7 (70m)
+    - [ ] 7.9 (150m)
+    - [ ] 7.14 (120m)
+*** Go Girls Pune 
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       EVENT.1542904460
+    :TASKID:   EVENT.1542904460
+    :END:
