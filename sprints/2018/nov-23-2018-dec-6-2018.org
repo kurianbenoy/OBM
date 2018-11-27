@@ -1,0 +1,74 @@
+#+TITLE: November 23- December 6, 2018 (14 days)
+#+AUTHOR: vaibhav kaushik
+#+EMAIL: vaibhavkaushik@disroot.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 14
+  :SPRINTSTART: <2018-11-23 Fri>
+  :wpd-vaibhavk:
+  :END:
+** vaibhavk
+   :PROPERTIES:
+   :wpd:      1.42
+   :END:
+*** [#A] Computer Network [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER:    vaibhavk
+    :ID:       READ.1541589764
+    :TASKID:   READ.1541589764
+    :END:
+    - [ ] Chapter 5. Link Layer: Link, Access Network, LAN (4h)
+*** [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/ch01][Control Groups]] [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER:    vaibhavk
+    :ID:       READ.1541589889
+    :TASKID:   READ.1541589889
+    :END:
+    - [ ] [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/sec-relationships_between_subsystems_hierarchies_control_groups_and_tasks][How and Why Cgroup]] (1h)
+    - [ ] [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/ch-using_control_groups][Using Cgroups]] (1h 30m)
+    - [ ] [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/ch-subsystems_and_tunable_parameters][Subsystems and Tunable Parameters]] (1h 30m)
+    - [ ] [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/control-group-application-examples][Applications examples]] (1h 30m)
+*** [#A] [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]] - II [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER:    vaibhavk
+    :ID:       DEV.1541590094
+    :TASKID:   DEV.1541590094
+    :END:
+  1) [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial05/][Poll App, Part 5]] (2h 30m)
+  2) [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial06/][Poll App, Part 6]] (1h)
+  3) [ ] [[https://docs.djangoproject.com/en/2.1/intro/tutorial07/][Poll App, Part 7]] (2h)
+  4) [ ] [[https://docs.djangoproject.com/en/2.1/intro/reusable-apps/][Reusable Apps]] (1h 
+*** [[https://youtu.be/4XpnKHJAok8][Trovald's Git Talk]]
+    :PROPERTIES:
+    :ESTIMATED: 1
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: read.1543297783
+    :TASKID: read.1543297783
+    :END:
