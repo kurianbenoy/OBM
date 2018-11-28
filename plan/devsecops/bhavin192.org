@@ -1,0 +1,28 @@
+#+AUTHOR: Bhavin Gandhi
+#+EMAIL: bhavin7392@gmail.com
+#+TAGS: read write dev ops event meeting # Need to be category
+* GOALS
+** Programming Languages
+*** Golang
+**** The Go Programming Language
+     by Alan A. A. Donovan and Brian W. Kernighan
+     http://www.gopl.io/
+***** Chapter  8. Goroutines and Channels
+***** Chapter  9. Concurrency with Shared Variables
+***** Chapter 10. Packages and the Go Tool
+***** Chapter 11. Testing
+***** Chapter 12. Reflection
+***** Chapter 13. Low-Level Programming
+** GNU Emacs
+** Containers
+*** Namespaces
+**** Read about namespaces
+**** Try the unshare command
+*** Control Groups
+**** Read about Control Groups
+**** Set Cgroup values for a service
+*** Container run times
+**** Read about existing run times
+** Attend meetups
+* PLAN
+
