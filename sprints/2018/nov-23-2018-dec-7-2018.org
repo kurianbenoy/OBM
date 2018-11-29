@@ -6,19 +6,93 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO                                                | NEXT | IN_PROGRESS                                         | WAITING | DONE                                         | CANCELED |
+|-----------------------------------------------------+------+-----------------------------------------------------+---------+----------------------------------------------+----------|
+| READ.1541589764. [#A] Computer Network              |      | DEV.1538995712. [#A] Freecodecamp Javascript Algori |         | EVENT.1542904460. Go Girls Pune (2018-11-25) |          |
+| DEV.1541590094. [#A] [[https://docs.djangoproject.c |      | READ.1542902097. Learning Golang Chapter 7. Int     |         |                                              |          |
+|                                                     |      | DEV.1542902280. Learning Golang Chapter 7 Exer      |         |                                              |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME             | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+-----------+--------+------+-----------+--------------+------------|
+| Vaibhavk         |      11.5 |      0 |    0 |      11.5 |   2018-12-18 | ---------- |
+| Sidntrivedi012   |         4 |   1.07 |    0 |         4 |   2018-12-14 | ---------- |
+| Nightwarrior-Xxx |         0 |      0 |    0 |         0 |   2018-12-04 | ---------- |
+| Bhavin192        |     20.25 |  16.25 |   10 |     10.25 |   2018-12-17 | #####----- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  70 ++-------+---------+--------+--------+---------+--------+--------+---++   
+:     |    #######                                                          |   
+:     |           ##                                         ACTUAL ####### |   
+:  60 ++   ....                                               IDEAL .......++   
+:     |        .....###########################################             |   
+:  50 ++            .....                                                  ++   
+:     |                  ....                                               |   
+:     |                      .....                                          |   
+:  40 ++                          .....                                    ++   
+:     |                                ....                                 |   
+:  30 ++                                   .....                           ++   
+:     |                                         ....                        |   
+:     |                                             .                       |   
+:  20 ++                                             ....                  ++   
+:     |                                                  .....              |   
+:  10 ++                                                      .....        ++   
+:     |                                                            ....     |   
+:     |                                                                .....|   
+:   0 ++-------+---------+--------+--------+---------+--------+--------+---+.   
+:     0        2         4        6        8         10       12       14       
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:15]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED  |
+|-----+------------+--------+-------+------------------|
+|   1 | 2018-11-23 |  64.25 |    60 |                  |
+|   2 | 2018-11-24 |  64.25 |    56 |                  |
+|   3 | 2018-11-25 |  54.25 |    51 | EVENT.1542904460 |
+|   4 | 2018-11-26 |  54.25 |    47 |                  |
+|   5 | 2018-11-27 |  54.25 |    43 |                  |
+|   6 | 2018-11-28 |  54.25 |    39 |                  |
+|   7 | 2018-11-29 |  54.25 |    34 |                  |
+|   8 | 2018-11-30 |  54.25 |    30 |                  |
+|   9 | 2018-12-01 |  54.25 |    26 |                  |
+|  10 | 2018-12-02 |  54.25 |    21 |                  |
+|  11 | 2018-12-03 |  54.25 |    17 |                  |
+|  12 | 2018-12-04 |  54.25 |    13 |                  |
+|  13 | 2018-12-05 |        |     9 |                  |
+|  14 | 2018-12-06 |        |     4 |                  |
+|  15 | 2018-12-07 |        |     0 |                  |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                                            | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED | ACTUAL |
+|-----------------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| TASKS                                                           |                  |                  | B        |             |     64.25 |  17.32 |
+|-----------------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| bhavin192                                                       |                  |                  | B        |             |     20.25 |  16.25 |
+| Learning Golang Chapter 7. Interfaces                           | READ.1542902097  | bhavin192        | B        | IN_PROGRESS |      4.75 |   2.03 |
+| Learning Golang Chapter 7 Exercises                             | DEV.1542902280   | bhavin192        | B        | IN_PROGRESS |       5.5 |   5.60 |
+| Go Girls Pune                                                   | EVENT.1542904460 | bhavin192        | B        | DONE        |        10 |   8.62 |
+|-----------------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| nightwarrior-xxx                                                |                  |                  | B        |             |        22 |        |
+| Fun with graph theory                                           | READ.1542000533  | nightwarrior-xxx | B        |             |        12 |        |
+| Learning Cryptography                                           | READ.1542000612  | nightwarrior-xxx | B        |             |        10 |        |
+|-----------------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| sidntrivedi012                                                  |                  |                  | B        |             |         4 |   1.07 |
+| Freecodecamp Javascript Algorithms and Data Structures - Part I | DEV.1538995712   | sidntrivedi012   | A        | IN_PROGRESS |         4 |   1.07 |
+|-----------------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| vaibhavk                                                        |                  |                  | B        |             |      18.0 |        |
+| Computer Network                                                | READ.1541589764  | vaibhavk         | A        | TODO        |         4 |        |
+| [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/ch01][Control Groups]]                                                  | READ.1541589889  | vaibhavk         | B        |             |       5.5 |        |
+| [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]] - II                                             | DEV.1541590094   | vaibhavk         | A        | TODO        |       7.5 |        |
+| [[https://youtu.be/4XpnKHJAok8][Trovald's Git Talk]]                                              | read.1543297783  | vaibhavk         | B        |             |         1 |        |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -31,40 +105,64 @@
   :wpd-vaibhavk: 1.2
   :END:
 ** bhavin192
-*** Learning Golang Chapter 7. Interfaces [0/8]
+*** IN_PROGRESS Learning Golang Chapter 7. Interfaces [2/8]
     :PROPERTIES:
     :ESTIMATED: 4.75
-    :ACTUAL:
+    :ACTUAL:   2.03
     :OWNER:    bhavin192
     :ID:       READ.1542902097
     :TASKID:   READ.1542902097
     :END:
-    - [ ] 7.8 The error Interface (15m)
-    - [ ] 7.9 Example: Expression Evaluator (120m)
+    :LOGBOOK:
+    CLOCK: [2018-11-27 Tue 21:43]--[2018-11-27 Tue 22:05] =>  0:22
+    CLOCK: [2018-11-27 Tue 19:02]--[2018-11-27 Tue 19:42] =>  0:40
+    CLOCK: [2018-11-26 Mon 21:49]--[2018-11-26 Mon 22:25] =>  0:36
+    CLOCK: [2018-11-26 Mon 19:29]--[2018-11-26 Mon 19:53] =>  0:24
+    :END:
+    - [X] 7.8 The error Interface (15m)
+    - [X] 7.9 Example: Expression Evaluator (120m)
     - [ ] 7.10 Type Assertions (20m)
     - [ ] 7.11 Discriminating Errors with Type Assertions (15m)
     - [ ] 7.12 Querying Behaviors with Interface Type Assertions (30m)
     - [ ] 7.13 Type Switches (40m)
     - [ ] 7.14 Example: Token-Based XML Decoding (40m)
     - [ ] 7.15 A Few Words of Advice (5m)
-*** Learning Golang Chapter 7 Exercises [0/3]
+*** IN_PROGRESS Learning Golang Chapter 7 Exercises [2/3]
     :PROPERTIES:
     :ESTIMATED: 5.5
-    :ACTUAL:
+    :ACTUAL:   5.60
     :OWNER:    bhavin192
     :ID:       DEV.1542902280
     :TASKID:   DEV.1542902280
     :END:
-    - [ ] 7.7 (70m)
-    - [ ] 7.9 (150m)
+    :LOGBOOK:
+    CLOCK: [2018-12-04 Tue 19:23]--[2018-12-04 Tue 20:08] =>  0:45
+    CLOCK: [2018-12-03 Mon 22:38]--[2018-12-03 Mon 22:58] =>  0:20
+    CLOCK: [2018-12-03 Mon 22:00]--[2018-12-03 Mon 22:22] =>  0:22
+    CLOCK: [2018-12-03 Mon 21:46]--[2018-12-03 Mon 22:00] =>  0:14
+    CLOCK: [2018-12-03 Mon 20:59]--[2018-12-03 Mon 21:35] =>  0:36
+    CLOCK: [2018-11-29 Thu 22:10]--[2018-11-29 Thu 22:32] =>  0:22
+    CLOCK: [2018-11-29 Thu 19:45]--[2018-11-29 Thu 20:04] =>  0:19
+    CLOCK: [2018-11-28 Wed 21:22]--[2018-11-28 Wed 22:28] =>  1:06
+    CLOCK: [2018-11-28 Wed 19:31]--[2018-11-28 Wed 19:52] =>  0:21
+    CLOCK: [2018-11-25 Sun 20:03]--[2018-11-25 Sun 20:09] =>  0:06
+    CLOCK: [2018-11-24 Sat 17:17]--[2018-11-24 Sat 17:24] =>  0:07
+    CLOCK: [2018-11-24 Sat 15:57]--[2018-11-24 Sat 16:55] =>  0:58
+    :END:
+    - [X] 7.7 (70m)
+    - [X] 7.9 (150m)
     - [ ] 7.14 (120m)
-*** Go Girls Pune 
+*** DONE Go Girls Pune
+    CLOSED: [2018-11-25 Sun 17:24]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:
+    :ACTUAL:   8.62
     :OWNER:    bhavin192
     :ID:       EVENT.1542904460
     :TASKID:   EVENT.1542904460
+    :END:
+    :LOGBOOK:
+    CLOCK: [2018-11-25 Sun 08:47]--[2018-11-25 Sun 17:24] =>  8:37
     :END:
 ** nightwarrior-xxx
 *** Fun with graph theory [0/4] 
