@@ -89,15 +89,15 @@
 ** Organizations
 *** Honeynet
 ** Projects
+*** [[https://github.com/github/hub][github/hub]]
 *** [[https://github.com/ipfs/go-ipfs][go-ipfs]]
 *** [[https://github.com/taskcluster][TaskCluster]]
-*** [[https://github.com/hashicorp/vagrant][Vagrant]]
 * PLAN
 ** Sprint Nov 23 - Dec 07 
    :PROPERTIES:
-   :wpd-vaibhavk: 1.3
+   :wpd-vaibhavk: 1.2
    :END:
-*** [#A] Computer Network [0/2]
+*** TODO [#A] Computer Network [0/1]
     :PROPERTIES:
     :ESTIMATED: 4
     :ACTUAL:
@@ -108,7 +108,7 @@
     - [ ] Chapter 5. Link Layer: Link, Access Network, LAN (4h)
 *** [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/ch01][Control Groups]] [0/4]
     :PROPERTIES:
-    :ESTIMATED: 6
+    :ESTIMATED: 5.5
     :ACTUAL:
     :OWNER:    vaibhavk
     :ID:       READ.1541589889
@@ -118,9 +118,9 @@
     - [ ] [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/ch-using_control_groups][Using Cgroups]] (1h 30m)
     - [ ] [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/ch-subsystems_and_tunable_parameters][Subsystems and Tunable Parameters]] (1h 30m)
     - [ ] [[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/control-group-application-examples][Applications examples]] (1h 30m)
-*** [#A] [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]] - II [0/4]
+*** TODO [#A] [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]] - II [0/4]
     :PROPERTIES:
-    :ESTIMATED: 7
+    :ESTIMATED: 7.5
     :ACTUAL:
     :OWNER:    vaibhavk
     :ID:       DEV.1541590094
