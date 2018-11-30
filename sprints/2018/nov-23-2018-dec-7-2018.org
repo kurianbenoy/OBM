@@ -27,6 +27,7 @@
   :SPRINTSTART: <2018-11-23 Fri>
   :wpd-bhavin192: 1.25
   :wpd-nightwarrior-xxx: 1
+  :wpd-sidntrivedi012: 0.5
   :END:
 ** bhavin192
 *** Learning Golang Chapter 7. Interfaces [0/8]
@@ -97,3 +98,13 @@
     - [ ] Break repeating-key XOR     (1h)
     - [ ] AES in ECB mode             (2h)
     - [ ] Detect AES in ECB mode      (2h)
+** sidntrivedi012
+*** TODO [#A] Freecodecamp Javascript Algorithms and Data Structures - Part I [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER:    sidntrivedi012
+    :ID:       DEV.1538995712
+    :TASKID:   DEV.1538995712
+    :END:
+    - [ ] Basic Javascript

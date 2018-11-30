@@ -167,18 +167,5 @@
     :TASKID: WRITE.1539072660
     :END:      
 * PLAN
-** November 23, 2018 - December 7, 2018 (15 days)
-   :PROPERTIES:
-   :wpd-sidntrivedi: 0.5
-   :END:
-*** TODO [#A] Freecodecamp Javascript Algorithms and Data Structures [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 4
-    :ACTUAL:
-    :OWNER:    sidntrivedi012
-    :ID:       DEV.1538995712
-    :TASKID:   DEV.1538995712
-    :END:      
-    - [ ] Basic Javascript
 ** December 8, 2018 - December 21, 2018 (14 days)
 ** December 22, 2018 - January 6, 2019  (16 days)
