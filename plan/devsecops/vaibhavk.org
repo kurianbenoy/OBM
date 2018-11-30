@@ -3,7 +3,6 @@
 * GOALS
 ** Computer Network
 *** [#A] Computer Network by Kruose & Ross [0%]
-    - [ ] Chapter 5. Link Layer: Link, Access Network, LAN
     - [ ] Chapter 6. Wireless and Mobile Network
     - [ ] Chapter 7. Multimedia Network
     - [ ] Chapter 8. Security in Computer Network
@@ -89,7 +88,7 @@
 ** Organizations
 *** Honeynet
 ** Projects
+*** [[https://github.com/github/hub][github/hub]]
 *** [[https://github.com/ipfs/go-ipfs][go-ipfs]]
 *** [[https://github.com/taskcluster][TaskCluster]]
-*** [[https://github.com/hashicorp/vagrant][Vagrant]]
 * PLAN
