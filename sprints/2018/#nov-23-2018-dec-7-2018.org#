@@ -65,7 +65,7 @@
     :OWNER:    bhavin192
     :ID:       EVENT.1542904460
     :TASKID:   EVENT.1542904460
-    :END:
+    :END:      
 ** nightwarrior-xxx
 *** Fun with graph theory [0/4] 
     :PROPERTIES:
@@ -74,7 +74,7 @@
     :OWNER:    nightwarrior-xxx
     :ID:       READ.1542000533
     :TASKID:   READ.1542000533
-    :END:
+    :END:      
     [[https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/]]
     https://www.spoj.com/problems/tag/graph-theory
     - [ ] Flight Problem                                           (3h)
@@ -102,7 +102,6 @@
 ** sidntrivedi012
 *** TODO [#A] Freecodecamp Javascript Algorithms and Data Structures - Part I [0/1]
     :LOGBOOK:  
-    CLOCK: [2018-12-02 Sun 15:33]--[2018-12-02 Sun 16:04] =>  0:31
     CLOCK: [2018-11-30 Fri 15:32]--[2018-11-30 Fri 16:05] =>  0:33
     :END:      
     :PROPERTIES:
@@ -155,4 +154,4 @@
     :ID:       read.1543297783
     :TASKID:   read.1543297783
     :END:
-
+    
