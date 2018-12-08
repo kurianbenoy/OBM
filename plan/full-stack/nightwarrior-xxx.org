@@ -591,6 +591,6 @@
     :TASKID: READ.1544251043
     :END:
     https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/
-    - [ ] Chaining                   (3h)
-    - [ ] Double Hashing             (3h)
+    - [ ] Chaining                    (3h)
+    - [ ] Open Addressing             (3h)
 ** December 22, 2018 - January 6, 2019  (16 days)    
