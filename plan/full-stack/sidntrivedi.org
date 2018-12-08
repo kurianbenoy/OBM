@@ -4,7 +4,7 @@
 * GOALS
 ** Programming Languages
 *** [#A] Javascript
-**** Freecodecamp Javascript Algorithms and Data Structures [0/10]
+**** Freecodecamp Javascript Algorithms and Data Structures [1/10]
      :PROPERTIES:
      :ESTIMATED: 300
      :ACTUAL:
@@ -12,8 +12,6 @@
      :ID:       DEV.1538995712
      :TASKID:   DEV.1538995712
      :END:
-     - [ ] ES6							()
-     - [ ] REGULAR EXPRESSIONS					()
      - [ ] DEBUGGING						()
      - [ ] BASIC DATA STRUCTURES			        ()
      - [ ] BASIC ALGORITHM SCRIPTING				()
@@ -79,7 +77,6 @@
     :ID: READ.1538996950
     :TASKID: READ.1538996950
     :END:
-    - [ ] File System
     - [ ] Useful Commands	()
     - [ ] Users and groups	()
     - [ ] File Permissions	()
@@ -106,7 +103,6 @@
     - [ ] Stacks			()
     - [ ] Queues			()
     - [ ] Number Theory-I		()
-    - [ ] Standard Template Library     ()
     - [ ] Trees
     - [ ] Graph Theory-I		()
     - [ ] Hashing			()
@@ -168,4 +164,35 @@
     :END:      
 * PLAN
 ** December 8, 2018 - December 21, 2018 (14 days)
+   :PROPERTIES:
+   :wpd-sidntrivedi: 0.75 
+   :END:
+*** TODO Freecodecamp Javascript Algorithms and Data Structures [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 2.5
+    :ACTUAL:
+    :OWNER:    sidntrivedi012
+    :ID:       DEV.1538995712
+    :TASKID:   DEV.1538995712
+    :END:      
+    - [ ] ES6
+    - [ ] REGULAR EXPRESSIONS
+*** TODO [#A] Linux for you and me [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: sidntrivedi012
+    :ID: READ.1538996950
+    :TASKID: READ.1538996950
+    :END:      
+    - [ ] File System
+*** TODO [#A] [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]] [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 4 
+    :ACTUAL:
+    :OWNER: sidntrivedi012
+    :ID: READ.1539000246
+    :TASKID: READ.1539000246
+    :END:      
+    - [ ] Standard Template Library
 ** December 22, 2018 - January 6, 2019  (16 days)
