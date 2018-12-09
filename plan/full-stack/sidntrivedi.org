@@ -4,7 +4,7 @@
 * GOALS
 ** Programming Languages
 *** [#A] Javascript
-**** Freecodecamp Javascript Algorithms and Data Structures [1/10]
+**** Freecodecamp Javascript Algorithms and Data Structures [0/10]
      :PROPERTIES:
      :ESTIMATED: 300
      :ACTUAL:
@@ -175,6 +175,7 @@
     :ID:       DEV.1538995712
     :TASKID:   DEV.1538995712
     :END:      
+    - [ ] Basic Javascript
     - [ ] ES6
     - [ ] REGULAR EXPRESSIONS
 *** TODO [#A] Linux for you and me [0/1]

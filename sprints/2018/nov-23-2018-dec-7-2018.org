@@ -174,25 +174,21 @@
     - [ ] AES in ECB mode             (2h)
     - [ ] Detect AES in ECB mode      (2h)
 ** sidntrivedi012
-*** DONE [#A] Freecodecamp Javascript Algorithms and Data Structures - Part I [1/1]
+*** IN_PROGRESS [#A] Freecodecamp Javascript Algorithms and Data Structures - Part I [0/1]
     :PROPERTIES:
     :ESTIMATED: 4
     :ACTUAL:   1.07
     :OWNER:    sidntrivedi012
     :ID:       DEV.1538995712
     :TASKID:   DEV.1538995712
-    :END:
+    :END:      
     :LOGBOOK:
-    CLOCK: [2018-12-08 Sat 17:20]--[2018-12-08 Sat 18:07] =>  0:47
-    CLOCK: [2018-12-08 Sat 16:35]--[2018-12-08 Sat 17:05] =>  0:30
-    CLOCK: [2018-12-08 Sat 15:09]--[2018-12-08 Sat 15:59] =>  0:50
-    CLOCK: [2018-12-08 Sat 12:58]--[2018-12-08 Sat 13:29] =>  0:31
     CLOCK: [2018-12-06 Thu 19:02]--[2018-12-06 Thu 20:05] =>  1:03
     CLOCK: [2018-12-06 Thu 19:00]--[2018-12-06 Thu 19:01] =>  0:01
     CLOCK: [2018-12-02 Sun 15:33]--[2018-12-02 Sun 16:04] =>  0:31
     CLOCK: [2018-11-30 Fri 15:32]--[2018-11-30 Fri 16:05] =>  0:33
     :END:
-    - [X] Basic Javascript
+    - [ ] Basic Javascript
 ** vaibhavk
 *** TODO [#A] Computer Network [0/1]
     :PROPERTIES:
