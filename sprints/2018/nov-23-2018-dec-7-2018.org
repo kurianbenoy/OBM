@@ -81,15 +81,22 @@
   :wpd-vaibhavk: 1.2
   :END:
 ** bhavin192
-*** IN_PROGRESS Learning Golang Chapter 7. Interfaces [2/8]
+*** DONE Learning Golang Chapter 7. Interfaces [8/8]
+    CLOSED: [2018-12-07 Fri 23:07]
     :PROPERTIES:
     :ESTIMATED: 4.75
-    :ACTUAL:   2.03
+    :ACTUAL:   3.53
     :OWNER:    bhavin192
     :ID:       READ.1542902097
     :TASKID:   READ.1542902097
     :END:
     :LOGBOOK:
+    CLOCK: [2018-12-07 Fri 23:02]--[2018-12-07 Fri 23:07] =>  0:05
+    CLOCK: [2018-12-05 Wed 21:51]--[2018-12-05 Wed 22:04] =>  0:13
+    CLOCK: [2018-12-05 Wed 21:21]--[2018-12-05 Wed 21:44] =>  0:23
+    CLOCK: [2018-12-05 Wed 21:04]--[2018-12-05 Wed 21:21] =>  0:17
+    CLOCK: [2018-12-04 Tue 22:29]--[2018-12-04 Tue 22:39] =>  0:10
+    CLOCK: [2018-12-04 Tue 22:07]--[2018-12-04 Tue 22:29] =>  0:22
     CLOCK: [2018-11-27 Tue 21:43]--[2018-11-27 Tue 22:05] =>  0:22
     CLOCK: [2018-11-27 Tue 19:02]--[2018-11-27 Tue 19:42] =>  0:40
     CLOCK: [2018-11-26 Mon 21:49]--[2018-11-26 Mon 22:25] =>  0:36
@@ -97,21 +104,24 @@
     :END:
     - [X] 7.8 The error Interface (15m)
     - [X] 7.9 Example: Expression Evaluator (120m)
-    - [ ] 7.10 Type Assertions (20m)
-    - [ ] 7.11 Discriminating Errors with Type Assertions (15m)
-    - [ ] 7.12 Querying Behaviors with Interface Type Assertions (30m)
-    - [ ] 7.13 Type Switches (40m)
-    - [ ] 7.14 Example: Token-Based XML Decoding (40m)
-    - [ ] 7.15 A Few Words of Advice (5m)
-*** IN_PROGRESS Learning Golang Chapter 7 Exercises [2/3]
+    - [X] 7.10 Type Assertions (20m)
+    - [X] 7.11 Discriminating Errors with Type Assertions (15m)
+    - [X] 7.12 Querying Behaviors with Interface Type Assertions (30m)
+    - [X] 7.13 Type Switches (40m)
+    - [X] 7.14 Example: Token-Based XML Decoding (40m)
+    - [X] 7.15 A Few Words of Advice (5m)
+*** DONE Learning Golang Chapter 7 Exercises [3/3]
+    CLOSED: [2018-12-07 Fri 23:58]
     :PROPERTIES:
     :ESTIMATED: 5.5
-    :ACTUAL:   5.60
+    :ACTUAL:   6.48
     :OWNER:    bhavin192
     :ID:       DEV.1542902280
     :TASKID:   DEV.1542902280
     :END:
     :LOGBOOK:
+    CLOCK: [2018-12-07 Fri 23:14]--[2018-12-07 Fri 23:58] =>  0:44
+    CLOCK: [2018-12-06 Thu 19:47]--[2018-12-06 Thu 19:56] =>  0:09
     CLOCK: [2018-12-04 Tue 19:23]--[2018-12-04 Tue 20:08] =>  0:45
     CLOCK: [2018-12-03 Mon 22:38]--[2018-12-03 Mon 22:58] =>  0:20
     CLOCK: [2018-12-03 Mon 22:00]--[2018-12-03 Mon 22:22] =>  0:22
@@ -127,7 +137,7 @@
     :END:
     - [X] 7.7 (70m)
     - [X] 7.9 (150m)
-    - [ ] 7.14 (120m)
+    - [X] 7.14 (120m)
 *** DONE Go Girls Pune
     CLOSED: [2018-11-25 Sun 17:24]
     :PROPERTIES:
