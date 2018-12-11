@@ -25,4 +25,33 @@
 **** Read about existing run times
 ** Attend meetups
 * PLAN
+** December 8, 2018 - December 21, 2018 (14 days)
+   :PROPERTIES:
+   :wpd-bhavin192: 1.35
+   :END:
+*** Learning Golang Chapter 8. Goroutines and Channels [0/6]
+    :PROPERTIES:
+    :ESTIMATED: 3.40
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1544292539
+    :TASKID:   READ.1544292539
+    :END:
+    - [ ] 8.1 Goroutines (15m)
+    - [ ] 8.2 Example: Concurrent Clock Server (25m)
+    - [ ] 8.3 Example: Concurrent Echo Server (25m)
+    - [ ] 8.4 Channels (45m)
+    - [ ] 8.5 Looping in Parallel (50m)
+    - [ ] 8.6 Example: Concurrent Web Crawler (45m)
+*** Learning Golang Chapter 8 Exercises [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 10.5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       DEV.1544292696
+    :TASKID:   DEV.1544292696
+    :END:
+    - [ ] 8.2 (8h)
+    - [ ] 8.4 (30m)
+    - [ ] 8.5 (2h)
 
