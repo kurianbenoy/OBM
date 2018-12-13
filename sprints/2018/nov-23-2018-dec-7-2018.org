@@ -76,7 +76,6 @@
   :SPRINTLENGTH: 15
   :SPRINTSTART: <2018-11-23 Fri>
   :wpd-bhavin192: 1.25
-  :wpd-nightwarrior-xxx: 1
   :wpd-sidntrivedi012: 0.5
   :wpd-vaibhavk: 1.2
   :END:
@@ -150,39 +149,6 @@
     :LOGBOOK:
     CLOCK: [2018-11-25 Sun 08:47]--[2018-11-25 Sun 17:24] =>  8:37
     :END:
-** nightwarrior-xxx
-*** Fun with graph theory [0/4] 
-    :PROPERTIES:
-    :ESTIMATED: 12
-    :ACTUAL:   
-    :OWNER:    nightwarrior-xxx
-    :ID:       READ.1542000533
-    :TASKID:   READ.1542000533
-    :END:
-    [[https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/]]
-    https://www.spoj.com/problems/tag/graph-theory
-    - [ ] Flight Problem                                           (3h)
-    - [ ] Permutation Problem                                      (3h)
-    - [ ] Cycle Problem with weighted Graph and non weighted Graph (3h)
-    - [ ] Shortest Path Problem                                    (3h)
-*** Learning Cryptography [0/8]
-    :PROPERTIES:
-    :ESTIMATED: 10
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: READ.1542000612
-    :TASKID: READ.1542000612
-    :END:
-    [[https://www.cybrary.it/course/cryptography/]]
-    [[https://cryptopals.com/]]
-    - [ ] Convert hex to base64       (1h)
-    - [ ] Fixed XOR                   (1h)
-    - [ ] Single-byte XOR cipher      (1h)
-    - [ ] Detect single-character XOR (1h)
-    - [ ] Implement repeating-key XOR (1h)
-    - [ ] Break repeating-key XOR     (1h)
-    - [ ] AES in ECB mode             (2h)
-    - [ ] Detect AES in ECB mode      (2h)
 ** sidntrivedi012
 *** IN_PROGRESS [#A] Freecodecamp Javascript Algorithms and Data Structures - Part I [0/1]
     :PROPERTIES:
