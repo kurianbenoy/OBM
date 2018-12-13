@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 14
   :SPRINTSTART: <2018-12-08 Sat>
   :wpd-bhavin192: 1.35
+  :wpd-nightwarrior-xxx: 3.0
   :END:
 ** bhavin192
 *** Learning Golang Chapter 8. Goroutines and Channels [0/6]
@@ -53,4 +54,63 @@
     - [ ] 8.2 (8h)
     - [ ] 8.4 (30m)
     - [ ] 8.5 (2h)
+** nightwarrior-xxx
+*** Fun with graph theory [/] 
+    :PROPERTIES:
+    :ESTIMATED: 21
+    :ACTUAL:   
+    :OWNER:    nightwarrior-xxx
+    :ID:       READ.1542000533
+    :TASKID:   READ.1542000533
+    :END:
+    [[https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/]]
+    https://www.spoj.com/problems/tag/graph-theory
+    - [ ] Flight Problem                                           (3h)
+    - [ ] Permutation Problem                                      (3h)
+    - [ ] Cycle Problem with weighted Graph and non weighted Graph (3h)
+    - [ ] Shortest Path Problem                                    (3h)
+    - [ ] Flyod-Warshall Algorithm                                 (3h)
+    - [ ] Dijkstras Algorithm                                      (3h)
+    - [ ] Minimum Spanning Tree Problem                            (3h)
+*** Learning Cryptography [/]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: READ.1542000612
+    :TASKID: READ.1542000612
+    :END:
+    [[https://cryptopals.com/]]
+    - [ ] Convert hex to base64       (1h)
+    - [ ] Fixed XOR                   (1h)
+    - [ ] Single-byte XOR cipher      (1h)
+    - [ ] Detect single-character XOR (1h)
+    - [ ] Implement repeating-key XOR (1h)
+    - [ ] Break repeating-key XOR     (1h)
+    - [ ] AES in ECB mode             (2h)
+    - [ ] Detect AES in ECB mode      (2h)
+*** Playing with Trees [/]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: READ.1544250971
+    :TASKID: READ.1544250971
+    :END:
+    - [ ] B Trees                    (1.5h)
+    - [ ] B+ Trees                   (1.5h)
+    - [ ] AVL Trees                  (1.5h)
+    - [ ] Binary Trees               (1.5h)
+*** Build a hash table [/]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: READ.1544251043
+    :TASKID: READ.1544251043
+    :END:
+    https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/
+    - [ ] Chaining                    (3h)
+    - [ ] Open Addressing             (3h)
+
 
