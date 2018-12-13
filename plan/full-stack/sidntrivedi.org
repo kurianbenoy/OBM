@@ -163,43 +163,4 @@
     :TASKID: WRITE.1539072660
     :END:      
 * PLAN
-** December 8, 2018 - December 21, 2018 (14 days)
-   :PROPERTIES:
-   :wpd-sidntrivedi: 0.75 
-   :END:
-*** TODO Freecodecamp Javascript Algorithms and Data Structures [1/3]
-    :PROPERTIES:
-    :ESTIMATED: 2.5
-    :ACTUAL:
-    :OWNER:    sidntrivedi012
-    :ID:       DEV.1538995712
-    :TASKID:   DEV.1538995712
-    :END:      
-    :LOGBOOK:
-    CLOCK: [2018-12-08 Sat 17:20]--[2018-12-08 Sat 18:07] =>  0:47
-    CLOCK: [2018-12-08 Sat 16:35]--[2018-12-08 Sat 17:05] =>  0:30
-    CLOCK: [2018-12-08 Sat 15:09]--[2018-12-08 Sat 15:59] =>  0:50
-    CLOCK: [2018-12-08 Sat 12:58]--[2018-12-08 Sat 13:29] =>  0:31
-    :END:
-    - [X] Basic Javascript
-    - [ ] ES6
-    - [ ] REGULAR EXPRESSIONS
-*** TODO [#A] Linux for you and me [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 4
-    :ACTUAL:
-    :OWNER: sidntrivedi012
-    :ID: READ.1538996950
-    :TASKID: READ.1538996950
-    :END:      
-    - [ ] File System
-*** TODO [#A] [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]] [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 4 
-    :ACTUAL:
-    :OWNER: sidntrivedi012
-    :ID: READ.1539000246
-    :TASKID: READ.1539000246
-    :END:      
-    - [ ] Standard Template Library
 ** December 22, 2018 - January 6, 2019  (16 days)
