@@ -532,5 +532,4 @@
      - [ ] Telephone Number Validator
      - [ ] Cash Register 
 * PLAN
-** December 8, 2018 - December 21, 2018 (14 days)
 ** December 22, 2018 - January 6, 2019  (16 days)    
