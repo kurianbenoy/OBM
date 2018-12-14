@@ -56,7 +56,7 @@
     - [ ] 8.4 (30m)
     - [ ] 8.5 (2h)
 ** nightwarrior-xxx
-*** Fun with graph theory [/] 
+*** TODO Fun with graph theory [5/7] 
     :PROPERTIES:
     :ESTIMATED: 21
     :ACTUAL:   
@@ -64,16 +64,28 @@
     :ID:       READ.1542000533
     :TASKID:   READ.1542000533
     :END:
+    :LOGBOOK:
+    CLOCK: [2018-12-15 Sat 00:36]
+    CLOCK: [2018-12-14 Fri 23:58]--[2018-12-15 Sat 00:29] =>  0:31
+    CLOCK: [2018-12-14 Fri 22:51]--[2018-12-14 Fri 23:58] =>  1:07
+    CLOCK: [2018-12-14 Fri 13:59]--[2018-12-14 Fri 14:37] =>  0:38
+    CLOCK: [2018-12-14 Fri 13:18]--[2018-12-14 Fri 13:59] =>  0:41
+    CLOCK: [2018-12-13 Thu 21:01]--[2018-12-13 Thu 21:28] =>  0:27
+    CLOCK: [2018-12-13 Thu 20:16]--[2018-12-13 Thu 20:19] =>  0:03
+    CLOCK: [2018-12-13 Thu 19:48]--[2018-12-13 Thu 19:58] =>  0:10
+    CLOCK: [2018-12-09 Sun 08:21]--[2018-12-09 Sun 08:44] =>  0:23
+    CLOCK: [2018-12-09 Sun 05:40]--[2018-12-09 Sun 07:20] =>  1:40
+    :END:
     [[https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/]]
     https://www.spoj.com/problems/tag/graph-theory
-    - [ ] Flight Problem                                           (3h)
-    - [ ] Permutation Problem                                      (3h)
-    - [ ] Cycle Problem with weighted Graph and non weighted Graph (3h)
-    - [ ] Shortest Path Problem                                    (3h)
-    - [ ] Flyod-Warshall Algorithm                                 (3h)
+    - [X] Flight Problem                                           (3h)
+    - [X] Permutation Problem                                      (3h)
+    - [X] Cycle Problem with weighted Graph and non weighted Graph (3h)
+    - [X] Shortest Path Problem                                    (3h)
+    - [X] Flyod-Warshall Algorithm                                 (3h)
     - [ ] Dijkstras Algorithm                                      (3h)
     - [ ] Minimum Spanning Tree Problem                            (3h)
-*** Learning Cryptography [/]
+*** TODO Learning Cryptography [/]
     :PROPERTIES:
     :ESTIMATED: 10
     :ACTUAL:
@@ -90,7 +102,7 @@
     - [ ] Break repeating-key XOR     (1h)
     - [ ] AES in ECB mode             (2h)
     - [ ] Detect AES in ECB mode      (2h)
-*** Playing with Trees [/]
+*** TODO Playing with Trees [/]
     :PROPERTIES:
     :ESTIMATED: 6
     :ACTUAL:
@@ -102,7 +114,7 @@
     - [ ] B+ Trees                   (1.5h)
     - [ ] AVL Trees                  (1.5h)
     - [ ] Binary Trees               (1.5h)
-*** Build a hash table [/]
+*** DONE Build a hash table [2/2]
     :PROPERTIES:
     :ESTIMATED: 6
     :ACTUAL:
@@ -110,9 +122,15 @@
     :ID: READ.1544251043
     :TASKID: READ.1544251043
     :END:
+    :LOGBOOK:
+    CLOCK: [2018-12-08 Sat 17:52]--[2018-12-08 Sat 18:19] =>  0:27
+    CLOCK: [2018-12-08 Sat 15:51]--[2018-12-08 Sat 16:41] =>  0:50
+    CLOCK: [2018-12-08 Sat 15:03]--[2018-12-08 Sat 15:51] =>  0:48
+    CLOCK: [2018-12-08 Sat 13:24]--[2018-12-08 Sat 13:31] =>  0:07
+    :END:
     https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/
-    - [ ] Chaining                    (3h)
-    - [ ] Open Addressing             (3h)
+    - [X] Chaining                    (3h)
+    - [X] Open Addressing             (3h)
 
 ** sidntrivedi
 *** IN_PROGRESS Freecodecamp Javascript Algorithms and Data Structures [1/3]
