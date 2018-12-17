@@ -56,10 +56,10 @@
     - [ ] 8.4 (30m)
     - [ ] 8.5 (2h)
 ** nightwarrior-xxx
-*** TODO Fun with graph theory [5/7] 
+*** IN_PROGRESS Fun with graph theory [5/7]
     :PROPERTIES:
     :ESTIMATED: 21
-    :ACTUAL:   
+    :ACTUAL:   5.67
     :OWNER:    nightwarrior-xxx
     :ID:       READ.1542000533
     :TASKID:   READ.1542000533
@@ -116,7 +116,7 @@
 *** DONE Build a hash table [2/2]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:
+    :ACTUAL:   2.20
     :OWNER: nightwarrior-xxx
     :ID: READ.1544251043
     :TASKID: READ.1544251043
@@ -130,7 +130,6 @@
     https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/
     - [X] Chaining                    (3h)
     - [X] Open Addressing             (3h)
-
 ** sidntrivedi
 *** IN_PROGRESS Freecodecamp Javascript Algorithms and Data Structures [1/3]
     :PROPERTIES:
