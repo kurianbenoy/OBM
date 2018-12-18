@@ -30,30 +30,54 @@
   :wpd-sidntrivedi: 0.75
   :END:
 ** bhavin192
-*** Learning Golang Chapter 8. Goroutines and Channels [0/6]
+*** IN_PROGRESS Learning Golang Chapter 8. Goroutines and Channels [3/6]
     :PROPERTIES:
     :ESTIMATED: 3.40
-    :ACTUAL:
+    :ACTUAL:   1.23
     :OWNER:    bhavin192
     :ID:       READ.1544292539
     :TASKID:   READ.1544292539
     :END:
-    - [ ] 8.1 Goroutines (15m)
-    - [ ] 8.2 Example: Concurrent Clock Server (25m)
-    - [ ] 8.3 Example: Concurrent Echo Server (25m)
+    :LOGBOOK:
+    CLOCK: [2018-12-18 Tue 22:45]--[2018-12-18 Tue 22:54] =>  0:09
+    CLOCK: [2018-12-18 Tue 22:22]--[2018-12-18 Tue 22:37] =>  0:15
+    CLOCK: [2018-12-18 Tue 22:07]--[2018-12-18 Tue 22:21] =>  0:14
+    CLOCK: [2018-12-09 Sun 17:30]--[2018-12-09 Sun 17:49] =>  0:19
+    CLOCK: [2018-12-09 Sun 17:13]--[2018-12-09 Sun 17:30] =>  0:17
+    :END:
+    - [X] 8.1 Goroutines (15m)
+    - [X] 8.2 Example: Concurrent Clock Server (25m)
+    - [X] 8.3 Example: Concurrent Echo Server (25m)
     - [ ] 8.4 Channels (45m)
     - [ ] 8.5 Looping in Parallel (50m)
     - [ ] 8.6 Example: Concurrent Web Crawler (45m)
-*** Learning Golang Chapter 8 Exercises [0/3]
+*** IN_PROGRESS Learning Golang Chapter 8 Exercises [2/3]
     :PROPERTIES:
     :ESTIMATED: 10.5
-    :ACTUAL:
+    :ACTUAL:   9.35
     :OWNER:    bhavin192
     :ID:       DEV.1544292696
     :TASKID:   DEV.1544292696
     :END:
-    - [ ] 8.2 (8h)
-    - [ ] 8.4 (30m)
+    :LOGBOOK:
+    CLOCK: [2018-12-18 Tue 23:00]--[2018-12-18 Tue 23:19] =>  0:19
+    CLOCK: [2018-12-18 Tue 21:11]--[2018-12-18 Tue 21:52] =>  0:41
+    CLOCK: [2018-12-18 Tue 19:07]--[2018-12-18 Tue 20:02] =>  0:55
+    CLOCK: [2018-12-17 Mon 21:16]--[2018-12-17 Mon 22:35] =>  1:19
+    CLOCK: [2018-12-17 Mon 18:50]--[2018-12-17 Mon 19:07] =>  0:17
+    CLOCK: [2018-12-12 Wed 21:48]--[2018-12-12 Wed 22:52] =>  1:04
+    CLOCK: [2018-12-12 Wed 19:33]--[2018-12-12 Wed 19:56] =>  0:23
+    CLOCK: [2018-12-11 Tue 21:02]--[2018-12-11 Tue 21:59] =>  0:57
+    CLOCK: [2018-12-11 Tue 19:04]--[2018-12-11 Tue 19:46] =>  0:42
+    CLOCK: [2018-12-10 Mon 22:59]--[2018-12-10 Mon 23:07] =>  0:08
+    CLOCK: [2018-12-10 Mon 22:09]--[2018-12-10 Mon 22:53] =>  0:44
+    CLOCK: [2018-12-10 Mon 20:16]--[2018-12-10 Mon 20:33] =>  0:17
+    CLOCK: [2018-12-09 Sun 19:31]--[2018-12-09 Sun 20:12] =>  0:41
+    CLOCK: [2018-12-09 Sun 18:32]--[2018-12-09 Sun 19:13] =>  0:41
+    CLOCK: [2018-12-09 Sun 17:57]--[2018-12-09 Sun 18:10] =>  0:13
+    :END:
+    - [X] 8.2 (8h)
+    - [X] 8.4 (30m)
     - [ ] 8.5 (2h)
 ** nightwarrior-xxx
 *** IN_PROGRESS Fun with graph theory [5/7]
