@@ -56,7 +56,7 @@
     - [ ] 8.4 (30m)
     - [ ] 8.5 (2h)
 ** nightwarrior-xxx
-*** TODO Fun with graph theory [5/7] 
+*** DONE Fun with graph theory [7/7] 
     :PROPERTIES:
     :ESTIMATED: 21
     :ACTUAL:   
@@ -65,6 +65,9 @@
     :TASKID:   READ.1542000533
     :END:
     :LOGBOOK:              
+    CLOCK: [2018-12-17 Mon 16:08]--[2018-12-17 Mon 16:16] =>  0:08
+    CLOCK: [2018-12-17 Mon 15:26]--[2018-12-17 Mon 15:52] =>  0:26
+    CLOCK: [2018-12-17 Mon 14:26]--[2018-12-17 Mon 15:26] =>  1:00
     CLOCK: [2018-12-14 Fri 23:58]--[2018-12-15 Sat 00:29] =>  0:31
     CLOCK: [2018-12-14 Fri 22:51]--[2018-12-14 Fri 23:58] =>  1:07
     CLOCK: [2018-12-14 Fri 13:59]--[2018-12-14 Fri 14:37] =>  0:38
@@ -82,8 +85,8 @@
     - [X] Cycle Problem with weighted Graph and non weighted Graph (3h)
     - [X] Shortest Path Problem                                    (3h)
     - [X] Flyod-Warshall Algorithm                                 (3h)
-    - [ ] Dijkstras Algorithm                                      (3h)
-    - [ ] Minimum Spanning Tree Problem                            (3h)
+    - [X] Dijkstras Algorithm                                      (3h)
+    - [X] Minimum Spanning Tree Problem                            (3h)
 *** TODO Learning Cryptography [/]
     :PROPERTIES:
     :ESTIMATED: 10
@@ -102,6 +105,7 @@
     - [ ] AES in ECB mode             (2h)
     - [ ] Detect AES in ECB mode      (2h)
 *** TODO Playing with Trees [/]
+    CLOCK: [2018-12-17 Mon 18:37]--[2018-12-17 Mon 18:57] =>  0:20
     :PROPERTIES:
     :ESTIMATED: 6
     :ACTUAL:
@@ -116,7 +120,7 @@
 *** DONE Build a hash table [2/2]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:
+    :ACTUAL:    1.32h   
     :OWNER: nightwarrior-xxx
     :ID: READ.1544251043
     :TASKID: READ.1544251043
