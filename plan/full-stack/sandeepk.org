@@ -3,7 +3,7 @@
 #+EMAIL: sandeepchoudhary1507@gmail.com
 #+TAGS: read write dev ops task event meeting # Need to be category
 * PLAN
-** October   10, 2018 - October  23, 2018 (14 days) 
+** December  22, 2018 - January    6, 2019 (16 days) 
    :PROPERTIES:
    :wpd-sandeepk: 1
    :END:
