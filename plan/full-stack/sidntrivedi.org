@@ -43,22 +43,6 @@
       - [ ] Iterators and Generators		()
       - [ ] Meta Programming			()
 ** Frameworks
-*** [#A] React.js
-    :PROPERTIES:
-    :ESTIMATED: 
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: READ.1545396764
-    :TASKID: READ.1545396764
-    :END:
-*** [#C] Vue.js
-    :PROPERTIES:
-    :ESTIMATED: 
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: READ.1545396811
-    :TASKID: READ.1545396811
-    :END:      
 *** [#A] Express.js
     :PROPERTIES:
     :ESTIMATED: 
@@ -66,7 +50,23 @@
     :OWNER: sidntrivedi
     :ID: READ.1545396862
     :TASKID: READ.1545396862
+*** [#B] React.js
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1545396764
+    :TASKID: READ.1545396764
     :END:
+*** [#C] Electron.js
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1545396811
+    :TASKID: READ.1545396811
+    :END:      
+ 
 ** Systems
 *** [#A] Linux for you and me [1/11]
     :PROPERTIES:
@@ -113,9 +113,9 @@
     - [ ] Dynamic Programming		()
     - [ ] Bit Manipulation		()
 ** Projects
-*** F/OSS Projects
-**** [#A] [[https://github.com/publiclab][Public Lab]]
-*** Javascript FCC Projects
+*** [#A] F/OSS Projects
+**** [#A] [[https://github.com/publiclab][Start contributing to Public Lab]]
+*** [#A] Javascript FCC Projects
     :PROPERTIES:
     :ESTIMATED: 
     :ACTUAL:
@@ -185,7 +185,18 @@
      :ID:       READ.1538999439
      :TASKID:   READ.1538999439
      :END:      
+** Cyber Security
+*** Cryptography
+*** Web Application Security
 ** Web
+*** [#A] Node.js
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1545396935
+    :TASKID: READ.1545396935
+    :END:
 *** [#B] Data Visualization on Web
     :PROPERTIES:
     :ESTIMATED: 
@@ -196,22 +207,13 @@
     :END:
      - [ ] Data Visualization with D3.js
      - [ ] JSON APIs & AJAX
-*** [#A] Node.js
-    :PROPERTIES:
-    :ESTIMATED: 
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: READ.1545396935
-    :TASKID: READ.1545396935
-    :END:
 *** [#C] HTTP and REST
 **** [[https://developer.mozilla.org/en-US/docs/Web/HTTP][MDN HTTP Tutorials]]
 *** [#C] Application Architecture
 **** [[https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Modern_web_app_architecture][MDN Web Architecture]]
 ** Databases
-** Operating Systems
-** Introduction to Probability & Statistics
-** Meetups
+*** Choose what to learn: MongoDB/PostGRESql.
+** Attend Meetups
 *** Dgplug
     :PROPERTIES:
     :ESTIMATED: 
@@ -235,9 +237,10 @@
     :OWNER: sidntrivedi
     :ID: MEETING.1545412116
     :TASKID: MEETING.1545412116
-    :END:
-** Writing
-*** [[https://sidntrivedi012.github.io][Blog]]
+    :END:      
+** Weekly Blog Writing
+*** Blog
+    [[www.sidntrivedi012.github.io]]
     :PROPERTIES:
     :ESTIMATED: 
     :ACTUAL:
