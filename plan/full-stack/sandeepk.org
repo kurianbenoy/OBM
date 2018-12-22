@@ -10,7 +10,7 @@
 
 *** [[https://www.shellscript.sh][Shell Scripting Tutorial]] [0/11]
       :PROPERTIES:
-      :ESTIMATED: 6.2
+      :ESTIMATED: 7
       :ACTUAL:
       :OWNER: sandeepk
       :ID: read.1545506880
@@ -25,7 +25,8 @@
     - [ ] Chapter 11 Variable(Part3) (30m)
     - [ ] Chapter 12 External Programs (30m)
     - [ ] Chapter 13 Functions (30m)
-    - [ ] Chapter 15 Hints and Tips (20m)
+    - [ ] Chapter 14 Hints and Tips (30m)
+    - [ ] Chapter 15 Quick reference (30m)
     - [ ] Chapter 16 Interactive Shell (30m)
 
 *** [[https://www.shellscript.sh/exercises.html][Shell Script Exercise]] [0/2]
