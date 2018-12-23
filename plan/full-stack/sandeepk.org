@@ -8,7 +8,7 @@
    :wpd-sandeepk: 1
    :END:
 
-*** [[https://www.shellscript.sh][Shell Scripting Tutorial]] [0/11]
+*** [[https://www.shellscript.sh][Shell Scripting Tutorial]] [0/12]
       :PROPERTIES:
       :ESTIMATED: 7
       :ACTUAL:
