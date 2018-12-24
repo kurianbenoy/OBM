@@ -1,0 +1,5 @@
+#+TITLE: Plan
+#+AUTHOR: Sandeep Kumar Choudhary
+#+EMAIL: sandeepchoudhary1507@gmail.com
+#+TAGS: read write dev ops task event meeting # Need to be category
+* PLAN
