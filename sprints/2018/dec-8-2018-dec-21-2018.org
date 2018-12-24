@@ -169,41 +169,41 @@
     - [X] Chaining                    (3h)
     - [X] Open Addressing             (3h)
 ** sidntrivedi
-*** IN_PROGRESS Freecodecamp Javascript Algorithms and Data Structures [1/3]
+*** DONE Freecodecamp Javascript Algorithms and Data Structures [3/3]
     :PROPERTIES:
     :ESTIMATED: 2.5
-    :ACTUAL:   2.63
+    :ACTUAL:   4.02
     :OWNER:    sidntrivedi012
     :ID:       DEV.1538995712
     :TASKID:   DEV.1538995712
     :END:
     :LOGBOOK:
+    CLOCK: [2018-12-20 Thu 15:16]--[2018-12-20 Thu 16:04] =>  0:48
+    CLOCK: [2018-12-17 Mon 19:25]--[2018-12-17 Mon 19:26] =>  0:01
+    CLOCK: [2018-12-15 Sat 11:25]--[2018-12-15 Sat 11:59] =>  0:34
     CLOCK: [2018-12-08 Sat 17:20]--[2018-12-08 Sat 18:07] =>  0:47
     CLOCK: [2018-12-08 Sat 16:35]--[2018-12-08 Sat 17:05] =>  0:30
     CLOCK: [2018-12-08 Sat 15:09]--[2018-12-08 Sat 15:59] =>  0:50
     CLOCK: [2018-12-08 Sat 12:58]--[2018-12-08 Sat 13:29] =>  0:31
     :END:
     - [X] Basic Javascript
-    - [ ] ES6
-    - [ ] REGULAR EXPRESSIONS
-*** TODO [#A] Linux for you and me [0/1]
+    - [X] ES6
+    - [X] REGULAR EXPRESSIONS
+*** DONE [#A] Linux for you and me [1/1]     
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   2.07
     :OWNER: sidntrivedi012
     :ID: READ.1538996950
     :TASKID: READ.1538996950
     :END:
-    - [ ] File System
-*** TODO [#A] [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]] [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 4
-    :ACTUAL:
-    :OWNER: sidntrivedi012
-    :ID: READ.1539000246
-    :TASKID: READ.1539000246
-    :END:
-    - [ ] Standard Template Library
-
-      
-    
+    :LOGBOOK:
+    CLOCK: [2018-12-21 Fri 21:39]--[2018-12-21 Fri 21:40] =>  0:01
+    CLOCK: [2018-12-21 Fri 21:24]--[2018-12-21 Fri 21:24] =>  0:00
+    CLOCK: [2018-12-21 Fri 20:33]--[2018-12-21 Fri 21:23] =>  0:50
+    CLOCK: [2018-12-21 Fri 19:52]--[2018-12-21 Fri 20:13] =>  0:21
+    CLOCK: [2018-12-21 Fri 19:36]--[2018-12-21 Fri 19:51] =>  0:15
+    CLOCK: [2018-12-21 Fri 19:06]--[2018-12-21 Fri 19:33] =>  0:27
+    CLOCK: [2018-12-21 Fri 18:56]--[2018-12-21 Fri 19:06] =>  0:10
+    :END:      
+    - [X] File System
