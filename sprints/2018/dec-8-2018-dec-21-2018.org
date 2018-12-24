@@ -169,17 +169,3 @@
     CLOCK: [2018-12-21 Fri 18:56]--[2018-12-21 Fri 19:06] =>  0:10
     :END:      
     - [X] File System
-*** IN_PROGRESS [#A] [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]] [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 4
-    :ACTUAL:
-    :OWNER: sidntrivedi012
-    :ID: READ.1539000246
-    :TASKID: READ.1539000246
-    :END:
-    :LOGBOOK:  
-    CLOCK: [2018-12-21 Fri 22:34]--[2018-12-21 Fri 23:01] =>  0:27
-    :END:      
-    - [ ] Standard Template Library
-
-      
