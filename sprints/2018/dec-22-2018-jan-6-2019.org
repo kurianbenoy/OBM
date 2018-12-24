@@ -1,0 +1,78 @@
+#+TITLE: December 22, 2018 - January 6, 2018 (16 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH:
+  :SPRINTSTART:
+  :wpd-sandeepK:      1
+  :END:
+** sandeepK
+*** [[https://www.shellscript.sh][Shell Scripting Tutorial]] [0/12]
+      :PROPERTIES:
+      :ESTIMATED: 7
+      :ACTUAL:
+      :OWNER: sandeepk
+      :ID: read.1545506880
+      :TASKID: read.1545506880
+      :END:
+    - [ ] Revise Chatper 1, 2, 3, 4, 5 (1.3h)
+    - [ ] Chapter 6 Escape Characters (30m)
+    - [ ] Chapter 7 Loops (30m)
+    - [ ] Chapter 8 Test (30m)
+    - [ ] Chapter 9 Case (30m)
+    - [ ] Chapter 10 Variable(Part2) (30m)
+    - [ ] Chapter 11 Variable(Part3) (30m)
+    - [ ] Chapter 12 External Programs (30m)
+    - [ ] Chapter 13 Functions (30m)
+    - [ ] Chapter 14 Hints and Tips (30m)
+    - [ ] Chapter 15 Quick reference (30m)
+    - [ ] Chapter 16 Interactive Shell (30m)
+
+*** [[https://www.shellscript.sh/exercises.html][Shell Script Exercise]] [0/2]
+   :PROPERTIES:
+   :ESTIMATED: 6
+   :ACTUAL:
+   :OWNER: sandeepk
+   :ID: dev.1545507526
+   :TASKID: dev.1545507526
+   :END:
+   - [ ] Address Book (4h)
+   - [ ] Directory Traversal (2h)
+
+*** Blog Post [0/5]
+    :PROPERTIES:
+    :ESTIMATED: 3.4
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: read.1545507998
+    :TASKID: read.1545507998
+    :END:
+    - [ ] [[https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html][The Yoda of Silicon Valley]] (40m)
+    - [ ] [[https://www.tubefilter.com/2016/06/23/reverse-engineering-youtube-algorithm/][Reverse Engineering The YouTube alog]] (1h)
+    - [ ] [[https://www.interaction-design.org/literature/article/elaboration-likelihood-model-theory-using-elm-to-get-inside-the-user-s-mind][Elaboration Likehood Model Theory]] (1h)
+    - [ ] [[https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7][Static vs. Dynamic]] (20m)
+    - [ ] [[https://www.b-list.org/weblog/2018/nov/26/case/][Truths programmers should know about case]] (40m)
+
+
+
