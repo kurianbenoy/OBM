@@ -83,7 +83,7 @@
 *** DONE Fun with graph theory [7/7] 
     :PROPERTIES:
     :ESTIMATED: 21
-    :ACTUAL:   5.67
+    :ACTUAL:   7.23
     :OWNER:    nightwarrior-xxx
     :ID:       READ.1542000533
     :TASKID:   READ.1542000533
@@ -114,7 +114,7 @@
 *** DONE Learning Cryptography [8/8]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL: 4.70
+    :ACTUAL:   5.83
     :OWNER: nightwarrior-xxx
     :ID: READ.1542000612
     :TASKID: READ.1542000612
@@ -136,16 +136,16 @@
     - [X] AES in ECB mode             (2h)
     - [X] Detect AES in ECB mode      (2h)
 *** DONE Playing with Trees [4/4]
-    :LOGBOOK:
-    CLOCK: [2018-12-21 Fri 19:42]--[2018-12-21 Fri 20:33] =>  0:51
-    CLOCK: [2018-12-17 Mon 18:37]--[2018-12-17 Mon 18:57] =>  0:20
-    :END:
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL: 1.11
+    :ACTUAL:   1.18
     :OWNER: nightwarrior-xxx
     :ID: READ.1544250971
     :TASKID: READ.1544250971
+    :END:
+    :LOGBOOK:
+    CLOCK: [2018-12-21 Fri 19:42]--[2018-12-21 Fri 20:33] =>  0:51
+    CLOCK: [2018-12-17 Mon 18:37]--[2018-12-17 Mon 18:57] =>  0:20
     :END:
     - [X] B Trees                    (1.5h)
     - [X] B+ Trees                   (1.5h)
@@ -154,7 +154,7 @@
 *** DONE Build a hash table [2/2]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL: 2.12
+    :ACTUAL:   2.20
     :OWNER: nightwarrior-xxx
     :ID: READ.1544251043
     :TASKID: READ.1544251043
