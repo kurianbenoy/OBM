@@ -80,15 +80,18 @@
     - [X] 8.4 (30m)
     - [ ] 8.5 (2h)
 ** nightwarrior-xxx
-*** IN_PROGRESS Fun with graph theory [5/7]
+*** DONE Fun with graph theory [7/7] 
     :PROPERTIES:
     :ESTIMATED: 21
-    :ACTUAL:   5.67
+    :ACTUAL:   7.23
     :OWNER:    nightwarrior-xxx
     :ID:       READ.1542000533
     :TASKID:   READ.1542000533
     :END:
-    :LOGBOOK:              
+    :LOGBOOK:
+    CLOCK: [2018-12-17 Mon 16:08]--[2018-12-17 Mon 16:16] =>  0:08
+    CLOCK: [2018-12-17 Mon 15:26]--[2018-12-17 Mon 15:52] =>  0:26
+    CLOCK: [2018-12-17 Mon 14:26]--[2018-12-17 Mon 15:26] =>  1:00
     CLOCK: [2018-12-14 Fri 23:58]--[2018-12-15 Sat 00:29] =>  0:31
     CLOCK: [2018-12-14 Fri 22:51]--[2018-12-14 Fri 23:58] =>  1:07
     CLOCK: [2018-12-14 Fri 13:59]--[2018-12-14 Fri 14:37] =>  0:38
@@ -106,37 +109,48 @@
     - [X] Cycle Problem with weighted Graph and non weighted Graph (3h)
     - [X] Shortest Path Problem                                    (3h)
     - [X] Flyod-Warshall Algorithm                                 (3h)
-    - [ ] Dijkstras Algorithm                                      (3h)
-    - [ ] Minimum Spanning Tree Problem                            (3h)
-*** TODO Learning Cryptography [/]
+    - [X] Dijkstras Algorithm                                      (3h)
+    - [X] Minimum Spanning Tree Problem                            (3h)
+*** DONE Learning Cryptography [8/8]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:
+    :ACTUAL:   5.83
     :OWNER: nightwarrior-xxx
     :ID: READ.1542000612
     :TASKID: READ.1542000612
     :END:
+    :LOGBOOK:
+    CLOCK: [2018-12-21 Fri 22:26]--[2018-12-22 Sat 00:02] =>  1:36
+    CLOCK: [2018-12-21 Fri 21:36]--[2018-12-21 Fri 22:26] =>  0:50
+    CLOCK: [2018-12-21 Fri 20:39]--[2018-12-21 Fri 21:23] =>  0:44
+    CLOCK: [2018-12-20 Thu 12:19]--[2018-12-20 Thu 13:30] =>  1:11
+    CLOCK: [2018-12-20 Thu 06:30]--[2018-12-20 Thu 07:59] =>  1:29
+    :END:
     [[https://cryptopals.com/]]
-    - [ ] Convert hex to base64       (1h)
-    - [ ] Fixed XOR                   (1h)
-    - [ ] Single-byte XOR cipher      (1h)
-    - [ ] Detect single-character XOR (1h)
-    - [ ] Implement repeating-key XOR (1h)
-    - [ ] Break repeating-key XOR     (1h)
-    - [ ] AES in ECB mode             (2h)
-    - [ ] Detect AES in ECB mode      (2h)
-*** TODO Playing with Trees [/]
+    - [X] Convert hex to base64       (1h)
+    - [X] Fixed XOR                   (1h)
+    - [X] Single-byte XOR cipher      (1h)
+    - [X] Detect single-character XOR (1h)
+    - [X] Implement repeating-key XOR (1h)
+    - [X] Break repeating-key XOR     (1h)
+    - [X] AES in ECB mode             (2h)
+    - [X] Detect AES in ECB mode      (2h)
+*** DONE Playing with Trees [4/4]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:
+    :ACTUAL:   1.18
     :OWNER: nightwarrior-xxx
     :ID: READ.1544250971
     :TASKID: READ.1544250971
     :END:
-    - [ ] B Trees                    (1.5h)
-    - [ ] B+ Trees                   (1.5h)
-    - [ ] AVL Trees                  (1.5h)
-    - [ ] Binary Trees               (1.5h)
+    :LOGBOOK:
+    CLOCK: [2018-12-21 Fri 19:42]--[2018-12-21 Fri 20:33] =>  0:51
+    CLOCK: [2018-12-17 Mon 18:37]--[2018-12-17 Mon 18:57] =>  0:20
+    :END:
+    - [X] B Trees                    (1.5h)
+    - [X] B+ Trees                   (1.5h)
+    - [X] AVL Trees                  (1.5h)
+    - [X] Binary Trees               (1.5h)
 *** DONE Build a hash table [2/2]
     :PROPERTIES:
     :ESTIMATED: 6
@@ -191,3 +205,5 @@
     :END:
     - [ ] Standard Template Library
 
+      
+    
