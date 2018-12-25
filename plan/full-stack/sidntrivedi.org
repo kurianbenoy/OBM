@@ -12,52 +12,70 @@
      :ID:       DEV.1538995712
      :TASKID:   DEV.1538995712
      :END:
-     - [ ] DEBUGGING						()
-     - [ ] BASIC DATA STRUCTURES			        ()
-     - [ ] BASIC ALGORITHM SCRIPTING				()
-     - [ ] OBJECT ORIENTED PROGRAMMING				()
      - [ ] Functional Programming				()
      - [ ] Intermediate Algorithm Scripting			()
      - [ ] Javascript Algorithms & Data Structures Projects	()
-**** MDN Javascript Guides [0/15]
+**** Eloquent Javascript [0/21]
      :PROPERTIES:
-     :ESTIMATED:
+     :ESTIMATED: 
      :ACTUAL:
-     :OWNER:    sidntrivedi
-     :ID:       READ.1538998440
-     :TASKID:   READ.1538998440
+     :OWNER: sidntrivedi
+     :ID: READ.1545566922
+     :TASKID: READ.1545566922
+     :END:      
+** Web
+*** [#A] Node.js
+**** Learning Node [0/16]
+     :PROPERTIES:
+     :ESTIMATED: 
+     :ACTUAL:
+     :OWNER: sidntrivedi
+     :ID: READ.1545566270
+     :TASKID: READ.1545566270
      :END:
-      - [ ] Introduction                        ()
-      - [ ] Grammar and types			()
-      - [ ] Control Flow & Error handling	()
-      - [ ] Loops and iteration			()
-      - [ ] Functions				()
-      - [ ] Expressions & Operators		()
-      - [ ] Numbers and Dates			()
-      - [ ] Text Formatting			()
-      - [ ] Indexed Collections			()
-      - [ ] Keyed Collections			()
-      - [ ] Working with Objects		()
-      - [ ] Details of the Object Model		()
-      - [ ] Promises				()
-      - [ ] Iterators and Generators		()
-      - [ ] Meta Programming			()
-** Frameworks
-*** [#A] Express.js
+     -[ ] Node.js Up and Running
+     -[ ] Interactive Node with REPL
+     -[ ] The Node Core
+     -[ ] The Node Module System
+     -[ ] Control Flow,Asynchronous Patterns,and Exception Handling
+     -[ ] Routing Traffic,Serving Files,and Middleware
+     -[ ] The Express.js Framework
+     -[ ] Express,Template Systems,Systems,CSS
+     -[ ] Structured data with Node and Redis
+     -[ ] Node and MongoDB:Document Centric Data
+     -[ ] The Node Relational Database Bindings
+     -[ ] Graphics and HTML5 Video
+     -[ ] Websockets and socket.io
+     -[ ] Testing and Debugging Node Applications
+     -[ ] Guards at the Gate
+     -[ ] Scaling and Deploying Node Applications
+*** [#B] Data Visualization on Web
     :PROPERTIES:
     :ESTIMATED: 
     :ACTUAL:
     :OWNER: sidntrivedi
-    :ID: READ.1545396862
-    :TASKID: READ.1545396862
-*** [#B] React.js
-    :PROPERTIES:
-    :ESTIMATED: 
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: READ.1545396764
-    :TASKID: READ.1545396764
+    :ID: READ.1545412960
+    :TASKID: READ.1545412960
     :END:
+     - [ ] Data Visualization with D3.js
+     - [ ] JSON APIs & AJAX
+*** [#C] HTTP and REST
+**** [[https://developer.mozilla.org/en-US/docs/Web/HTTP][MDN HTTP Tutorials]]
+*** [#C] Application Architecture
+**** [[https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Modern_web_app_architecture][MDN Web Architecture]]
+** Frameworks
+*** [#B] React.js
+**** Freecodecamp React & Redux Track
+     :PROPERTIES:
+     :ESTIMATED: 
+     :ACTUAL:
+     :OWNER: sidntrivedi
+     :ID: READ.1545566635
+     :TASKID: READ.1545566635
+     :END:      
+     -[ ] React Track
+     -[ ] Redux Track
+     -[ ] React an
 *** [#C] Electron.js
     :PROPERTIES:
     :ESTIMATED: 
@@ -66,9 +84,8 @@
     :ID: READ.1545396811
     :TASKID: READ.1545396811
     :END:      
- 
 ** Systems
-*** [#A] Linux for you and me [1/11]
+*** [#A] Linux for you and me [2/11]
     :PROPERTIES:
     :ESTIMATED: 12
     :ACTUAL:
@@ -76,8 +93,6 @@
     :ID: READ.1538996950
     :TASKID: READ.1538996950
     :END:
-    - [ ] Useful Commands	()
-    - [ ] Users and groups	()
     - [ ] File Permissions	()
     - [ ] Processes in Linux	()
     - [ ] Linux Services	()
@@ -114,8 +129,8 @@
     - [ ] Bit Manipulation		()
 ** Projects
 *** [#A] F/OSS Projects
-**** [#A] [[https://github.com/publiclab][Start contributing to Public Lab]]
-*** [#A] Javascript FCC Projects
+**** Find a suitable Project to contribute to.
+*** [#A] Javascript Data Structures Algorithms FCC Projects
     :PROPERTIES:
     :ESTIMATED: 
     :ACTUAL:
@@ -167,6 +182,9 @@
      - [ ] URL Shortener Microservice
      - [ ] Exercise Tracker
      - [ ] File Metadata Microservice
+** Cyber Security
+*** Cryptography
+*** Web Application Security
 ** Scripting
 *** [#B] Shell Scripting
 **** Ryans Tutorial
@@ -185,32 +203,6 @@
      :ID:       READ.1538999439
      :TASKID:   READ.1538999439
      :END:      
-** Cyber Security
-*** Cryptography
-*** Web Application Security
-** Web
-*** [#A] Node.js
-    :PROPERTIES:
-    :ESTIMATED: 
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: READ.1545396935
-    :TASKID: READ.1545396935
-    :END:
-*** [#B] Data Visualization on Web
-    :PROPERTIES:
-    :ESTIMATED: 
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: READ.1545412960
-    :TASKID: READ.1545412960
-    :END:
-     - [ ] Data Visualization with D3.js
-     - [ ] JSON APIs & AJAX
-*** [#C] HTTP and REST
-**** [[https://developer.mozilla.org/en-US/docs/Web/HTTP][MDN HTTP Tutorials]]
-*** [#C] Application Architecture
-**** [[https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Modern_web_app_architecture][MDN Web Architecture]]
 ** Databases
 *** Choose what to learn: MongoDB/PostGRESql.
 ** Attend Meetups
@@ -238,6 +230,7 @@
     :ID: MEETING.1545412116
     :TASKID: MEETING.1545412116
     :END:      
+*** Mozilla Delhi/NCR
 ** Weekly Blog Writing
 *** Blog
     [[www.sidntrivedi012.github.io]]
@@ -250,3 +243,47 @@
     :END:      
 * PLAN
 ** December 22, 2018 - January 6, 2019  (16 days)
+   :PROPERTIES:
+   :wpd-sidntrivedi: 1
+   :END:
+*** Freecodecamp Javascript Algorithms and Data Structures [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER:    sidntrivedi
+    :ID:       DEV.1538995712
+    :TASKID:   DEV.1538995712
+    :END:      
+    - [ ] DEBUGGING						()
+    - [ ] BASIC DATA STRUCTURES			                ()
+    - [ ] BASIC ALGORITHM SCRIPTING				()
+    - [ ] OBJECT ORIENTED PROGRAMMING				()
+*** [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]] [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1539000246
+    :TASKID: READ.1539000246
+    :END:      
+    - [ ] Standard Template Library 
+*** [#A] Linux for you and me [2/11]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1538996950
+    :TASKID: READ.1538996950
+    :END:
+    - [ ] Useful Commands	()
+    - [ ] Users and groups	()
+*** Blog
+    [[www.sidntrivedi012.github.io]]
+    :PROPERTIES:
+    :ESTIMATED: 1 
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: WRITE.1539072660
+    :TASKID: WRITE.1539072660
+    :END:      
+    - [ ] Write one blog.
