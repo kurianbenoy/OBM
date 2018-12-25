@@ -30,15 +30,21 @@
   :wpd-sidntrivedi: 0.75
   :END:
 ** bhavin192
-*** IN_PROGRESS Learning Golang Chapter 8. Goroutines and Channels [3/6]
+*** DONE Learning Golang Chapter 8. Goroutines and Channels [6/6]
+    CLOSED: [2018-12-21 Fri 19:57]
     :PROPERTIES:
     :ESTIMATED: 3.40
-    :ACTUAL:   1.23
+    :ACTUAL:   2.62
     :OWNER:    bhavin192
     :ID:       READ.1544292539
     :TASKID:   READ.1544292539
     :END:
     :LOGBOOK:
+    CLOCK: [2018-12-21 Fri 19:39]--[2018-12-21 Fri 19:57] =>  0:18
+    CLOCK: [2018-12-19 Wed 22:01]--[2018-12-19 Wed 22:32] =>  0:31
+    CLOCK: [2018-12-19 Wed 19:41]--[2018-12-19 Wed 19:54] =>  0:13
+    CLOCK: [2018-12-19 Wed 19:33]--[2018-12-19 Wed 19:41] =>  0:08
+    CLOCK: [2018-12-19 Wed 19:20]--[2018-12-19 Wed 19:33] =>  0:13
     CLOCK: [2018-12-18 Tue 22:45]--[2018-12-18 Tue 22:54] =>  0:09
     CLOCK: [2018-12-18 Tue 22:22]--[2018-12-18 Tue 22:37] =>  0:15
     CLOCK: [2018-12-18 Tue 22:07]--[2018-12-18 Tue 22:21] =>  0:14
@@ -48,18 +54,20 @@
     - [X] 8.1 Goroutines (15m)
     - [X] 8.2 Example: Concurrent Clock Server (25m)
     - [X] 8.3 Example: Concurrent Echo Server (25m)
-    - [ ] 8.4 Channels (45m)
-    - [ ] 8.5 Looping in Parallel (50m)
-    - [ ] 8.6 Example: Concurrent Web Crawler (45m)
-*** IN_PROGRESS Learning Golang Chapter 8 Exercises [2/3]
+    - [X] 8.4 Channels (45m)
+    - [X] 8.5 Looping in Parallel (50m)
+    - [X] 8.6 Example: Concurrent Web Crawler (45m)
+*** DONE Learning Golang Chapter 8 Exercises [3/3]
+    CLOSED: [2018-12-20 Thu 19:47]
     :PROPERTIES:
     :ESTIMATED: 10.5
-    :ACTUAL:   9.35
+    :ACTUAL:   9.80
     :OWNER:    bhavin192
     :ID:       DEV.1544292696
     :TASKID:   DEV.1544292696
     :END:
     :LOGBOOK:
+    CLOCK: [2018-12-20 Thu 19:20]--[2018-12-20 Thu 19:47] =>  0:27
     CLOCK: [2018-12-18 Tue 23:00]--[2018-12-18 Tue 23:19] =>  0:19
     CLOCK: [2018-12-18 Tue 21:11]--[2018-12-18 Tue 21:52] =>  0:41
     CLOCK: [2018-12-18 Tue 19:07]--[2018-12-18 Tue 20:02] =>  0:55
@@ -78,7 +86,7 @@
     :END:
     - [X] 8.2 (8h)
     - [X] 8.4 (30m)
-    - [ ] 8.5 (2h)
+    - [X] 8.5 (2h)
 ** nightwarrior-xxx
 *** DONE Fun with graph theory [7/7] 
     :PROPERTIES:
