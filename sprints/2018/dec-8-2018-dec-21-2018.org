@@ -6,19 +6,92 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | READ.1544292539. Learning Golang Chapter 8. Gor (2018-12-21) |          |
+|      |      |             |         | READ.1542000533. Fun with graph theory (2018-12-21)          |          |
+|      |      |             |         | READ.1542000612. Learning Cryptography (2018-12-21)          |          |
+|      |      |             |         | READ.1544250971. Playing with Trees (2018-12-21)             |          |
+|      |      |             |         | READ.1544251043. Build a hash table (2018-12-21)             |          |
+|      |      |             |         | DEV.1538995712. Freecodecamp Javascript Algori (2018-12-21)  |          |
+|      |      |             |         | READ.1538996950. [#A] Linux for you and me (2018-12-21)      |          |
+|      |      |             |         | DEV.1544292696. Learning Golang Chapter 8 Exer (2018-12-20)  |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME             | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+-----------+--------------------+------+-----------+--------------+------------|
+| Sidntrivedi      |       6.5 |               6.09 |  6.5 |         0 |   2018-12-26 | ########## |
+| Nightwarrior-Xxx |        43 |              16.44 |   43 |         0 |   2018-12-26 | ########## |
+| Bhavin192        |      13.9 | 12.420000000000002 | 13.9 |         0 |   2018-12-26 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  70 +---------------------------------------------------------------------+   
+:     |                                                                     |   
+:     |    ################################################################ |   
+:  60 |+   .....                                              IDEAL .......+|   
+:     |         .....                                                  #    |   
+:  50 |+             .....                                             #   +|   
+:     |                   .....                                         #   |   
+:     |                        ....                                     #   |   
+:  40 |+                           .                                    #  +|   
+:     |                             .....                                #  |   
+:  30 |+                                 .....                           # +|   
+:     |                                       .....                       # |   
+:     |                                            .....                  # |   
+:  20 |+                                                .....             #+|   
+:     |                                                      ....          #|   
+:  10 |+                                                         .         #|   
+:     |                                                           .....    #|   
+:     |                                                                .....|   
+:   0 +---------------------------------------------------------------------+   
+:     0         2         4         6         8         10        12        14  
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:14]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                                                                                |
+|-----+------------+--------+-------+----------------------------------------------------------------------------------------------------------------|
+|   1 | 2018-12-08 |   63.4 |    59 |                                                                                                                |
+|   2 | 2018-12-09 |   63.4 |    54 |                                                                                                                |
+|   3 | 2018-12-10 |   63.4 |    50 |                                                                                                                |
+|   4 | 2018-12-11 |   63.4 |    45 |                                                                                                                |
+|   5 | 2018-12-12 |   63.4 |    41 |                                                                                                                |
+|   6 | 2018-12-13 |   63.4 |    36 |                                                                                                                |
+|   7 | 2018-12-14 |   63.4 |    32 |                                                                                                                |
+|   8 | 2018-12-15 |   63.4 |    27 |                                                                                                                |
+|   9 | 2018-12-16 |   63.4 |    23 |                                                                                                                |
+|  10 | 2018-12-17 |   63.4 |    18 |                                                                                                                |
+|  11 | 2018-12-18 |   63.4 |    14 |                                                                                                                |
+|  12 | 2018-12-19 |   63.4 |     9 |                                                                                                                |
+|  13 | 2018-12-20 |   52.9 |     5 | DEV.1544292696                                                                                                 |
+|  14 | 2018-12-21 |    0.0 |     0 | READ.1538996950 DEV.1538995712 READ.1544251043 READ.1544250971 READ.1542000612 READ.1542000533 READ.1544292539 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                                   | TASKID          | OWNER            | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|--------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------------------|
+| TASKS                                                  |                 |                  | B        |      |      63.4 |              34.95 |
+|--------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------------------|
+| bhavin192                                              |                 |                  | B        |      |      13.9 | 12.420000000000002 |
+| Learning Golang Chapter 8. Goroutines and Channels     | READ.1544292539 | bhavin192        | B        | DONE |      3.40 |               2.62 |
+| Learning Golang Chapter 8 Exercises                    | DEV.1544292696  | bhavin192        | B        | DONE |      10.5 |               9.80 |
+|--------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------------------|
+| nightwarrior-xxx                                       |                 |                  | B        |      |        43 |              16.44 |
+| Fun with graph theory                                  | READ.1542000533 | nightwarrior-xxx | B        | DONE |        21 |               7.23 |
+| Learning Cryptography                                  | READ.1542000612 | nightwarrior-xxx | B        | DONE |        10 |               5.83 |
+| Playing with Trees                                     | READ.1544250971 | nightwarrior-xxx | B        | DONE |         6 |               1.18 |
+| Build a hash table                                     | READ.1544251043 | nightwarrior-xxx | B        | DONE |         6 |               2.20 |
+|--------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------------------|
+| sidntrivedi                                            |                 |                  | B        |      |       6.5 |               6.09 |
+| Freecodecamp Javascript Algorithms and Data Structures | DEV.1538995712  | sidntrivedi012   | B        | DONE |       2.5 |               4.02 |
+| Linux for you and me                                   | READ.1538996950 | sidntrivedi012   | A        | DONE |         4 |               2.07 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -89,6 +162,7 @@
     - [X] 8.5 (2h)
 ** nightwarrior-xxx
 *** DONE Fun with graph theory [7/7] 
+    CLOSED: [2018-12-21 Fri 23:00]
     :PROPERTIES:
     :ESTIMATED: 21
     :ACTUAL:   7.23
@@ -120,6 +194,7 @@
     - [X] Dijkstras Algorithm                                      (3h)
     - [X] Minimum Spanning Tree Problem                            (3h)
 *** DONE Learning Cryptography [8/8]
+    CLOSED: [2018-12-21 Fri 23:00]
     :PROPERTIES:
     :ESTIMATED: 10
     :ACTUAL:   5.83
@@ -144,6 +219,7 @@
     - [X] AES in ECB mode             (2h)
     - [X] Detect AES in ECB mode      (2h)
 *** DONE Playing with Trees [4/4]
+    CLOSED: [2018-12-21 Fri 23:00]
     :PROPERTIES:
     :ESTIMATED: 6
     :ACTUAL:   1.18
@@ -160,6 +236,7 @@
     - [X] AVL Trees                  (1.5h)
     - [X] Binary Trees               (1.5h)
 *** DONE Build a hash table [2/2]
+    CLOSED: [2018-12-21 Fri 23:00]
     :PROPERTIES:
     :ESTIMATED: 6
     :ACTUAL:   2.20
@@ -178,6 +255,7 @@
     - [X] Open Addressing             (3h)
 ** sidntrivedi
 *** DONE Freecodecamp Javascript Algorithms and Data Structures [3/3]
+    CLOSED: [2018-12-21 Fri 23:00]
     :PROPERTIES:
     :ESTIMATED: 2.5
     :ACTUAL:   4.02
@@ -198,6 +276,7 @@
     - [X] ES6
     - [X] REGULAR EXPRESSIONS
 *** DONE [#A] Linux for you and me [1/1]     
+    CLOSED: [2018-12-21 Fri 23:00]
     :PROPERTIES:
     :ESTIMATED: 4
     :ACTUAL:   2.07
