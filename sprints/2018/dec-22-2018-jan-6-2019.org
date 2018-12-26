@@ -23,10 +23,11 @@
 * TASKS
   :PROPERTIES:
   :ID:       TASKS
-  :SPRINTLENGTH:
-  :SPRINTSTART:
+  :SPRINTLENGTH: 16
+  :SPRINTSTART: <2018-12-22 Sat>
   :wpd-sandeepK:      1
   :wpd-bhavin192: 1.25
+  :wpd-sidntrivedi: 1
   :END:
 ** sandeepK
 *** [[https://www.shellscript.sh][Shell Scripting Tutorial]] [0/12]
@@ -74,8 +75,6 @@
     - [ ] [[https://www.interaction-design.org/literature/article/elaboration-likelihood-model-theory-using-elm-to-get-inside-the-user-s-mind][Elaboration Likehood Model Theory]] (1h)
     - [ ] [[https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7][Static vs. Dynamic]] (20m)
     - [ ] [[https://www.b-list.org/weblog/2018/nov/26/case/][Truths programmers should know about case]] (40m)
-
-
 ** bhavin192
 *** Learning Golang
 **** Chapter 8. Goroutines and Channels [0/4]
@@ -141,3 +140,46 @@
     :END:
     - [ ] Learn to install particular version of GNU Emacs
     - [ ] Triage 5 bugs
+** sidntrivedi012
+*** Freecodecamp Javascript Algorithms and Data Structures [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER:    sidntrivedi
+    :ID:       DEV.1538995712
+    :TASKID:   DEV.1538995712
+    :END:      
+    - [ ] Debugging						()
+    - [ ] Basic Data Structures			                ()
+    - [ ] Basic Algorithm Scripting				()
+    - [ ] Object Oriented Programming				()
+*** [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]] [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1539000246
+    :TASKID: READ.1539000246
+    :END:      
+    - [ ] Standard Template Library 
+*** [#A] Linux for you and me [2/11]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1538996950
+    :TASKID: READ.1538996950
+    :END:
+    - [ ] Useful Commands	()
+    - [ ] Users and groups	()
+*** Blog
+    [[www.sidntrivedi012.github.io]]
+    :PROPERTIES:
+    :ESTIMATED: 1 
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: WRITE.1539072660
+    :TASKID: WRITE.1539072660
+    :END:      
+    - [ ] Write one blog.
+
