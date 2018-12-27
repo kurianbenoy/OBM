@@ -25,56 +25,11 @@
   :ID:       TASKS
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2018-12-22 Sat>
-  :wpd-sandeepK:      1
   :wpd-bhavin192: 1.25
+  :wpd-nightwarrior-xxx: 1
+  :wpd-sandeepK:      1
   :wpd-sidntrivedi: 1
   :END:
-** sandeepK
-*** [[https://www.shellscript.sh][Shell Scripting Tutorial]] [0/12]
-      :PROPERTIES:
-      :ESTIMATED: 7
-      :ACTUAL:
-      :OWNER: sandeepk
-      :ID: read.1545506880
-      :TASKID: read.1545506880
-      :END:
-    - [ ] Revise Chatper 1, 2, 3, 4, 5 (1.3h)
-    - [ ] Chapter 6 Escape Characters (30m)
-    - [ ] Chapter 7 Loops (30m)
-    - [ ] Chapter 8 Test (30m)
-    - [ ] Chapter 9 Case (30m)
-    - [ ] Chapter 10 Variable(Part2) (30m)
-    - [ ] Chapter 11 Variable(Part3) (30m)
-    - [ ] Chapter 12 External Programs (30m)
-    - [ ] Chapter 13 Functions (30m)
-    - [ ] Chapter 14 Hints and Tips (30m)
-    - [ ] Chapter 15 Quick reference (30m)
-    - [ ] Chapter 16 Interactive Shell (30m)
-
-*** [[https://www.shellscript.sh/exercises.html][Shell Script Exercise]] [0/2]
-   :PROPERTIES:
-   :ESTIMATED: 6
-   :ACTUAL:
-   :OWNER: sandeepk
-   :ID: dev.1545507526
-   :TASKID: dev.1545507526
-   :END:
-   - [ ] Address Book (4h)
-   - [ ] Directory Traversal (2h)
-
-*** Blog Post [0/5]
-    :PROPERTIES:
-    :ESTIMATED: 3.4
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: read.1545507998
-    :TASKID: read.1545507998
-    :END:
-    - [ ] [[https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html][The Yoda of Silicon Valley]] (40m)
-    - [ ] [[https://www.tubefilter.com/2016/06/23/reverse-engineering-youtube-algorithm/][Reverse Engineering The YouTube alog]] (1h)
-    - [ ] [[https://www.interaction-design.org/literature/article/elaboration-likelihood-model-theory-using-elm-to-get-inside-the-user-s-mind][Elaboration Likehood Model Theory]] (1h)
-    - [ ] [[https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7][Static vs. Dynamic]] (20m)
-    - [ ] [[https://www.b-list.org/weblog/2018/nov/26/case/][Truths programmers should know about case]] (40m)
 ** bhavin192
 *** Learning Golang
 **** Chapter 8. Goroutines and Channels [0/4]
@@ -140,6 +95,105 @@
     :END:
     - [ ] Learn to install particular version of GNU Emacs
     - [ ] Triage 5 bugs
+** nightwarrior-xxx
+*** freeCodeCamp: Javascript Algorithms and Data Structures  [/]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: READ.1539457208
+    :TASKID: READ.1539457208
+    :END:  
+    - [ ] Basic JavaScript                                                                           (2h)
+          [[https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript]]   
+    - [ ] ES6					                                                     (4h)
+          [[https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6]]
+    - [ ] Regular Expressions		                                                             (4h)
+          [[https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions]]
+*** Linux Kernel Module Programming Guide
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: READ.1545856561
+    :TASKID: READ.1545856561
+    :END:
+    http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf  (3h)
+*** Standard Template Library
+    :PROPERTIES:
+    :ESTIMATED: 1.5
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: READ.1545856251
+    :TASKID: READ.1545856251
+    :END:
+*** Euler Project Challenges [0/0]
+    :PROPERTIES:
+    :ESTIMATED: 1.5
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: READ.1545903248
+    :TASKID: READ.1545903248
+    :END:
+    [[https://www.hackerrank.com/contests/projecteuler/challenges]]
+    - [ ] Multiples of 3 and 5	  (0.5h)
+    - [ ] Even Fibonacci numbers  (0.5h)
+    - [ ] Largest prime factor	  (0.5h)
+*** Blog
+   :PROPERTIES:
+   :ESTIMATED: 1.0
+   :ACTUAL:
+   :OWNER: nightwarrior-xxx
+   :ID: WRITE.1545909518
+   :TASKID: WRITE.1545909518
+   :END:
+   Write a blog and make nightwarrior-xxx.github.io.  
+** sandeepK
+*** [[https://www.shellscript.sh][Shell Scripting Tutorial]] [0/12]
+      :PROPERTIES:
+      :ESTIMATED: 7
+      :ACTUAL:
+      :OWNER: sandeepk
+      :ID: read.1545506880
+      :TASKID: read.1545506880
+      :END:
+    - [ ] Revise Chatper 1, 2, 3, 4, 5 (1.3h)
+    - [ ] Chapter 6 Escape Characters (30m)
+    - [ ] Chapter 7 Loops (30m)
+    - [ ] Chapter 8 Test (30m)
+    - [ ] Chapter 9 Case (30m)
+    - [ ] Chapter 10 Variable(Part2) (30m)
+    - [ ] Chapter 11 Variable(Part3) (30m)
+    - [ ] Chapter 12 External Programs (30m)
+    - [ ] Chapter 13 Functions (30m)
+    - [ ] Chapter 14 Hints and Tips (30m)
+    - [ ] Chapter 15 Quick reference (30m)
+    - [ ] Chapter 16 Interactive Shell (30m)
+
+*** [[https://www.shellscript.sh/exercises.html][Shell Script Exercise]] [0/2]
+   :PROPERTIES:
+   :ESTIMATED: 6
+   :ACTUAL:
+   :OWNER: sandeepk
+   :ID: dev.1545507526
+   :TASKID: dev.1545507526
+   :END:
+   - [ ] Address Book (4h)
+   - [ ] Directory Traversal (2h)
+
+*** Blog Post [0/5]
+    :PROPERTIES:
+    :ESTIMATED: 3.4
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: read.1545507998
+    :TASKID: read.1545507998
+    :END:
+    - [ ] [[https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html][The Yoda of Silicon Valley]] (40m)
+    - [ ] [[https://www.tubefilter.com/2016/06/23/reverse-engineering-youtube-algorithm/][Reverse Engineering The YouTube alog]] (1h)
+    - [ ] [[https://www.interaction-design.org/literature/article/elaboration-likelihood-model-theory-using-elm-to-get-inside-the-user-s-mind][Elaboration Likehood Model Theory]] (1h)
+    - [ ] [[https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7][Static vs. Dynamic]] (20m)
+    - [ ] [[https://www.b-list.org/weblog/2018/nov/26/case/][Truths programmers should know about case]] (40m)
 ** sidntrivedi012
 *** Freecodecamp Javascript Algorithms and Data Structures [0/4]
     :PROPERTIES:
