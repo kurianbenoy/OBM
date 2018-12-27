@@ -51,99 +51,6 @@
         [[https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming]]
       - [ ] Intermediate Algorithm Scripting                                                                          (6h)
         [[https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting]]
-*** PHP  
-**** Documentation
-     [[https://secure.php.net/manual/en/]]
-***** Language Reference [/] 
-      - [ ] Basic syntax()                                                                                               
-      - [ ] Types ()
-      - [ ] Variables()
-      - [ ] Constants()
-      - [ ] Expressions()
-      - [ ] Operators()
-      - [ ] Control Structures()
-      - [ ] Functions()
-      - [ ] Classes and Objects()
-      - [ ] Namespaces()
-      - [ ] Errors()
-      - [ ] Exceptions()
-      - [ ] Generators()
-      - [ ] References Explained()
-      - [ ] Predefined Variables()
-      - [ ] Predefined Exceptions()
-      - [ ] Predefined Interfaces and Classes()
-      - [ ] Context options and parameters()
-      - [ ] Supported Protocols and Wrappers()
-***** Security [/]
-      - [ ] Introduction()
-      - [ ] General considerations()
-      - [ ] Installed as CGI binary()
-      - [ ] Installed as an Apache module()
-      - [ ] Session Security()
-      - [ ] Filesystem Security()
-      - [ ] Database Security()
-      - [ ] Error Reporting()
-      - [ ] Using Register Globals()
-      - [ ] User Submitted Data()
-      - [ ] Magic Quotes()
-      - [ ] Hiding PHP()
-      - [ ] Keeping Current()
-***** Features [/]
-      - [ ] HTTP authentication with PHP()
-      - [ ] Cookies()
-      - [ ] Sessions()
-      - [ ] Dealing with XForms()
-      - [ ] Handling file uploads()
-      - [ ] Using remote files()
-      - [ ] Connection handling()
-      - [ ] Persistent Database Connections()
-      - [ ] Safe Mode()
-      - [ ] Command line usage — Using PHP from the command line()
-      - [ ] Garbage Collection()
-      - [ ] DTrace Dynamic Tracing()
-***** Function Reference [/] 
-      - [ ] Affecting PHP's Behaviour()
-      - [ ] Audio Formats Manipulation()
-      - [ ] Authentication Services()
-      - [ ] Command Line Specific Extensions()
-      - [ ] Compression and Archive Extensions()
-      - [ ] Credit Card Processing()
-      - [ ] Cryptography Extensions()
-      - [ ] Database Extensions()
-      - [ ] Date and Time Related Extensions()
-      - [ ] File System Related Extensions()
-      - [ ] Human Language and Character Encoding Support()
-      - [ ] Image Processing and Generation()
-      - [ ] Mail Related Extensions()
-      - [ ] Mathematical Extensions()
-      - [ ] Non-Text MIME Output()
-      - [ ] Process Control Extensions()
-      - [ ] Other Basic Extensions()
-      - [ ] Other Services()
-      - [ ] Search Engine Extensions()
-      - [ ] Server Specific Extensions()
-      - [ ] Session Extensions()
-      - [ ] Text Processing()
-      - [ ] Variable and Type Related Extensions()
-      - [ ] Web Services()
-      - [ ] Windows Only Extensions()
-      - [ ] XML Manipulation()
-      - [ ] GUI Extensions()
-***** PHP at the Core: A Hacker's Guide [/]
-      - [ ] Memory management()
-      - [ ] Working with Variables()
-      - [ ] Writing Functions()
-      - [ ] Writing Classes()
-      - [ ] Working with Resources()
-      - [ ] Working with INI settings()
-      - [ ] Working with streams()
-      - [ ] The "counter" Extension - A Continuing Example()
-      - [ ] The PHP 5 build system()
-      - [ ] Extension structure()
-      - [ ] PDO Driver How-To()
-      - [ ] Zend Engine 2 API reference()
-      - [ ] Zend Engine 2 Opcodes()
-      - [ ] Zend Engine 1()
 *** Python
 **** PyBites	[0/53]
      - [ ] 53 - Query the Spotify API 					()
@@ -200,7 +107,7 @@
      - [ ] 02 - Word Values Part II - A Simple Game			()
      - [ ] 01 - Word Values Part I					()   
 ** Web Frameworks
-*** Front End Libraries [/]
+*** Front End Libraries [/] 
 **** Bootstrap [/]
      [[https://learn.freecodecamp.org/front-end-libraries/bootstrap]]
       - [ ] Responsive Design with Bootstrap Fluid Containers()
@@ -314,10 +221,7 @@
     - [ ] Use Array.map() to Dynamically Render Elements()
     - [ ] Give Sibling Elements a Unique Key Attribute()
     - [ ] Use Array.filter() to Dynamically Filter an Array()
-    - [ ] Render React on the Server with renderToString()
-*** Django 
-***** Documentation [/]
-      [[https://docs.djangoproject.com/en/2.1/intro/]]
+    - [ ] Render React on the Server with renderToString() [[https://docs.djangoproject.com/en/2.1/intro/]]
       - [ ] Django app, part 1
       - [ ] Django app, part 2
       - [ ] Django app, part 3
@@ -337,6 +241,24 @@
       - [ ] Data in Templates
       - [ ] Templates
       - [ ] Template Extending
+*** Backend FrameWorks  [/]
+**** Node [/]
+     - [ ] Node.js
+     - [ ] Npm
+     - [ ] Asynchronous programming
+     - [ ] ES6/ES7
+     - [ ] MongoDB
+     - [ ] Express
+     - [ ] Socket.IO
+     - [ ] JWT Authentication
+     - [ ] Mongoose
+     - [ ] Application deployment with Heroku
+     - [ ] Version control with Git
+     - [ ] GitHub
+     - [ ] REST API Design
+     - [ ] Code testing
+     - [ ] Debugging
+     - [ ] Mocha
 ** Databases
 *** SQL [0/4] 
      - [ ] Basic SQL
@@ -352,7 +274,7 @@
        [[Jiit.ac.in/slides/]]
 ** Data Structures And Algorithms
 *** HackerEarth
-     [[https://www.hackerearth.com/practice/codemonk/]]
+    [[https://www.hackerearth.com/practice/codemonk/]]
 **** Practice Problems [/]
        - [ ] Basics of Programming				()
        - [ ] Arrays					            	()
@@ -532,4 +454,4 @@
      - [ ] Telephone Number Validator
      - [ ] Cash Register 
 * PLAN
-** December 22, 2018 - January 6, 2019  (16 days)    
+
