@@ -10,10 +10,6 @@
 *** [[https://github.com/python/cpython/blob/master/Lib/socket.py][Python Socket module Source Code]]
 ** Data-Structures & Algorithms 
 *** [#A] Practice Competitive Programming                              :code:
-    SCHEDULED: <2018-09-25 Tue .2d/4d>
-    :PROPERTIES:
-    :STYLE:    habbit
-    :END:
 **** [[https://www.codechef.com/certification/prepare#foundation][Reference]]
 ***** Array
 ***** Strings
@@ -49,6 +45,8 @@
 *** Network File System
 ** Database
 *** PostgreSQL
+*** NoSQL
+*** CockroachDB
 ** Development
 *** [#A] [[https://pybit.es/pages/challenges.html][PyBites Challenges]]
 *** [#B] Gophercise [0%]
@@ -77,7 +75,6 @@
 **** [[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django][MDN Django Docs]]
 *** Golang
 **** Golang Series [0%]
-   - [ ] Go Bootcamp Series
    - [ ] Go Web Applications
    - [ ] [[https://www.calhoun.io/series][Calhoun Series]]
 *** [#A] Create a Web-app
@@ -86,9 +83,7 @@
 *** SELinux
 *** OWASP and Security Practices
 ** Organizations
-*** Honeynet
 ** Projects
-*** [[https://github.com/github/hub][github/hub]]
-*** [[https://github.com/ipfs/go-ipfs][go-ipfs]]
 *** [[https://github.com/taskcluster][TaskCluster]]
-* PLAN
+* PLAN 
+

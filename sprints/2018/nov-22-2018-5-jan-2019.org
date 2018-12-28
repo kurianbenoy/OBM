@@ -1,0 +1,96 @@
+#+TITLE: Example
+#+AUTHOR: youname
+#+EMAIL: youemail@domain.com
+#+TODO: TODO STARTED | DONE DEFERRED
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+| TODO                                                  | IN_PROGRESS                            | DONE |
+|-------------------------------------------------------+----------------------------------------+------|
+| READ.1545980465. [#B] Computer Network                | DEV.1545980266. [#A] Tango With Django |      |
+| Watch.1545980198. [#C] [[https://youtu.be/4XpnKHJAok8 |                                        |      |
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+| NAME     | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|----------+-----------+--------+------+-----------+--------------+------------|
+| Vaibhavk |        21 |      0 |    0 |        21 |   2019-01-21 | ---------- |
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xrange [0:15]" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt"
+#+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2018-12-22 |     21 |    20 |                 |
+|   2 | 2018-12-23 |     21 |    18 |                 |
+|   3 | 2018-12-24 |     21 |    17 |                 |
+|   4 | 2018-12-25 |     21 |    15 |                 |
+|   5 | 2018-12-26 |     21 |    14 |                 |
+|   6 | 2018-12-27 |     21 |    13 |                 |
+|   7 | 2018-12-28 |     21 |    11 |                 |
+|   8 | 2018-12-29 |        |    10 |                 |
+|   9 | 2018-12-30 |        |     8 |                 |
+|  10 | 2018-12-31 |        |     7 |                 |
+|  11 | 2019-01-01 |        |     6 |                 |
+|  12 | 2019-01-02 |        |     4 |                 |
+|  13 | 2019-01-03 |        |     3 |                 |
+|  14 | 2019-01-04 |        |     1 |                 |
+|  15 | 2019-01-05 |        |     0 |                 |
+#+END:
+** TASK LIST 
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM               | TASKID           | OWNER    | PRIORITY | TODO        | ESTIMATED | ACTUAL |
+|--------------------+------------------+----------+----------+-------------+-----------+--------|
+| TASKS              |                  |          | B        |             |        21 |        |
+|--------------------+------------------+----------+----------+-------------+-----------+--------|
+| [[https://youtu.be/4XpnKHJAok8][Trovald's Git Talk]] | Watch.1545980198 | vaibhavk | C        | TODO        |         1 |        |
+|--------------------+------------------+----------+----------+-------------+-----------+--------|
+| Tango With Django  | DEV.1545980266   | vaibhavk | A        | IN_PROGRESS |        16 |        |
+|--------------------+------------------+----------+----------+-------------+-----------+--------|
+| Computer Network   | READ.1545980465  | vaibhavk | B        | TODO        |         4 |        |
+#+END:
+* TASKS 
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 15
+  :SPRINTSTART: <2018-12-22 Sat>
+  :wpd-vaibhavk: 1.4
+  :END:
+** TODO [#C] [[https://youtu.be/4XpnKHJAok8][Trovald's Git Talk]]
+   :PROPERTIES:
+   :ESTIMATED: 1
+   :ACTUAL:
+   :OWNER:    vaibhavk
+   :ID:       Watch.1545980198
+   :TASKID:   Watch.1545980198
+   :END:
+** IN_PROGRESS [#A] Tango With Django [0/6]
+   :PROPERTIES:
+   :ESTIMATED: 16
+   :ACTUAL:
+   :OWNER:    vaibhavk
+   :ID:       DEV.1545980266
+   :TASKID:   DEV.1545980266
+   :END:
+   - [ ] Chapter 14. Making Rango Tango! Exercise
+   - [ ] Chapter 15. Making Rango Tango! Hints
+   - [ ] Chapter 16. JQuery and Django
+   - [ ] Chapter 17. AJAX in Django with JQuery
+   - [ ] Chapter 18. Automated Testing
+   - [ ] Chapter 20. Deploy
+** TODO [#B] Computer Network [0/2]
+   :PROPERTIES:
+   :ESTIMATED: 4
+   :ACTUAL:
+   :OWNER:    vaibhavk
+   :ID:       READ.1545980465
+   :TASKID:   READ.1545980465
+   :END:
+   - [ ] Application Layer Revision
+   - [ ] Transport Layre Revision
