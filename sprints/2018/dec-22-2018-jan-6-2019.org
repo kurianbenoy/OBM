@@ -107,7 +107,8 @@
     - [ ] Learn to install particular version of GNU Emacs
     - [ ] Triage 5 bugs
 ** nightwarrior-xxx
-*** freeCodeCamp: Javascript Algorithms and Data Structures  [/]
+*** DONE freeCodeCamp: Javascript Algorithms and Data Structures  [3/3]
+    CLOSED: [2018-12-30 Sun 04:09]
     :PROPERTIES:
     :ESTIMATED: 10
     :ACTUAL:
@@ -115,13 +116,21 @@
     :ID: READ.1539457208
     :TASKID: READ.1539457208
     :END:  
-    - [ ] Basic JavaScript                                                                           (2h)
+    :LOGBOOK:
+    CLOCK: [2018-12-30 Sun 02:52]--[2018-12-30 Sun 04:08] =>  1:16
+    CLOCK: [2018-12-29 Sat 15:16]--[2018-12-29 Sat 16:05] =>  0:49
+    CLOCK: [2018-12-28 Fri 01:43]--[2018-12-28 Fri 02:11] =>  0:28
+    CLOCK: [2018-12-28 Fri 00:16]--[2018-12-28 Fri 01:43] =>  1:27
+    CLOCK: [2018-12-27 Thu 20:32]--[2018-12-27 Thu 21:10] =>  0:38
+    CLOCK: [2018-12-27 Thu 19:11]--[2018-12-27 Thu 19:33] =>  0:22
+    :END:
+    - [X] Basic JavaScript                                                                            (2h)
           [[https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript]]   
-    - [ ] ES6					                                                     (4h)
+    - [X] ES6					                                                                                (4h)
           [[https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6]]
-    - [ ] Regular Expressions		                                                             (4h)
+    - [X] Regular Expressions		                                                                      (4h)
           [[https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions]]
-*** Linux Kernel Module Programming Guide
+*** TODO Linux Kernel Module Programming Guide
     :PROPERTIES:
     :ESTIMATED: 3
     :ACTUAL:
@@ -130,7 +139,7 @@
     :TASKID: READ.1545856561
     :END:
     http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf  (3h)
-*** Standard Template Library
+*** IN_PROGRESS Standard Template Library
     :PROPERTIES:
     :ESTIMATED: 1.5
     :ACTUAL:
@@ -138,7 +147,7 @@
     :ID: READ.1545856251
     :TASKID: READ.1545856251
     :END:
-*** Euler Project Challenges [0/0]
+*** TODO Euler Project Challenges [0/0]
     :PROPERTIES:
     :ESTIMATED: 1.5
     :ACTUAL:
@@ -150,7 +159,7 @@
     - [ ] Multiples of 3 and 5	  (0.5h)
     - [ ] Even Fibonacci numbers  (0.5h)
     - [ ] Largest prime factor	  (0.5h)
-*** Blog
+*** TODO Blog
    :PROPERTIES:
    :ESTIMATED: 1.0
    :ACTUAL:
