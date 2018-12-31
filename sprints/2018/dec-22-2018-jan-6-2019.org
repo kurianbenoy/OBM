@@ -111,7 +111,7 @@
     CLOSED: [2018-12-30 Sun 04:09]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:
+    :ACTUAL:   5.00
     :OWNER: nightwarrior-xxx
     :ID: READ.1539457208
     :TASKID: READ.1539457208
@@ -160,14 +160,14 @@
     - [ ] Even Fibonacci numbers  (0.5h)
     - [ ] Largest prime factor	  (0.5h)
 *** TODO Blog
-   :PROPERTIES:
+    :PROPERTIES:
    :ESTIMATED: 1.0
    :ACTUAL:
    :OWNER: nightwarrior-xxx
    :ID: WRITE.1545909518
    :TASKID: WRITE.1545909518
    :END:
-   Write a blog and make nightwarrior-xxx.github.io.  
+    Write a blog and make nightwarrior-xxx.github.io.  
 ** sandeepK
 *** [[https://www.shellscript.sh][Shell Scripting Tutorial]] [0/12]
       :PROPERTIES:
