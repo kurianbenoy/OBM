@@ -6,21 +6,21 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO                                            | NEXT | IN_PROGRESS                                     | WAITING | DONE                                                         | CANCELED |
-|-------------------------------------------------+------+-------------------------------------------------+---------+--------------------------------------------------------------+----------|
-| READ.1545856561. Linux Kernel Module Programmin |      | READ.1545719105. Chapter 8. Goroutines and Chan |         | read.1545506880. [[https://www.shellscript.sh][ (2019-01-01) |          |
-| READ.1545903248. Euler Project Challenges       |      | DEV.1545719190. Chapter 8 Exercises             |         | READ.1539457208. freeCodeCamp: Javascript Algor (2018-12-30) |          |
-| WRITE.1545909518. Blog                          |      | READ.1545856251. Standard Template Library      |         |                                                              |          |
-| dev.1545507526. [[https://www.shellscript.sh/e  |      |                                                 |         |                                                              |          |
+| TODO                                            | NEXT | IN_PROGRESS                                | WAITING | DONE                                                         | CANCELED |
+|-------------------------------------------------+------+--------------------------------------------+---------+--------------------------------------------------------------+----------|
+| READ.1545856561. Linux Kernel Module Programmin |      | OPS.1545721236. GNU Emacs bug triaging     |         | DEV.1545719190. Chapter 8 Exercises (2019-01-02)             |          |
+| READ.1545903248. Euler Project Challenges       |      | READ.1545856251. Standard Template Library |         | READ.1545719105. Chapter 8. Goroutines and Chan (2019-01-01) |          |
+| WRITE.1545909518. Blog                          |      |                                            |         | read.1545506880. [[https://www.shellscript.sh][ (2019-01-01) |          |
+| dev.1545507526. [[https://www.shellscript.sh/e  |      |                                            |         | READ.1539457208. freeCodeCamp: Javascript Algor (2018-12-30) |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
-| NAME             | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
-|------------------+-----------+--------------------+------+-----------+--------------+------------|
-| Sidntrivedi      |         0 |                  0 |    0 |         0 |   2019-01-02 | ---------- |
-| Sandeepk         |        13 |                5.5 |    7 |         6 |   2019-01-10 | #####----- |
-| Nightwarrior-Xxx |      17.0 |                5.0 |   10 |       7.0 |   2019-01-11 | ######---- |
-| Bhavin192        |      8.75 | 3.0199999999999996 |    0 |      8.75 |   2019-01-11 | ---------- |
+| NAME             | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+-----------+--------+------+-----------+--------------+------------|
+| Sidntrivedi      |         0 |      0 |    0 |         0 |   2019-01-03 | ---------- |
+| Sandeepk         |        13 |    5.5 |    7 |         6 |   2019-01-11 | #####----- |
+| Nightwarrior-Xxx |      17.0 |    5.0 |   10 |       7.0 |   2019-01-14 | ######---- |
+| Bhavin192        |     12.75 |   7.87 | 8.75 |         4 |   2019-01-09 | #######--- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -29,56 +29,56 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:16]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2018-12-22 |  62.65 |    59 |                 |
-|   2 | 2018-12-23 |  62.65 |    55 |                 |
-|   3 | 2018-12-24 |  62.65 |    51 |                 |
-|   4 | 2018-12-25 |  62.65 |    47 |                 |
-|   5 | 2018-12-26 |  62.65 |    43 |                 |
-|   6 | 2018-12-27 |  62.65 |    39 |                 |
-|   7 | 2018-12-28 |  62.65 |    35 |                 |
-|   8 | 2018-12-29 |  62.65 |    31 |                 |
-|   9 | 2018-12-30 |  52.65 |    27 | READ.1539457208 |
-|  10 | 2018-12-31 |  52.65 |    23 |                 |
-|  11 | 2019-01-01 |  45.65 |    20 | read.1545506880 |
-|  12 | 2019-01-02 |  45.65 |    16 |                 |
-|  13 | 2019-01-03 |        |    12 |                 |
-|  14 | 2019-01-04 |        |     8 |                 |
-|  15 | 2019-01-05 |        |     4 |                 |
-|  16 | 2019-01-06 |        |     0 |                 |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                 |
+|-----+------------+--------+-------+---------------------------------|
+|   1 | 2018-12-22 |  62.65 |    59 |                                 |
+|   2 | 2018-12-23 |  62.65 |    55 |                                 |
+|   3 | 2018-12-24 |  62.65 |    51 |                                 |
+|   4 | 2018-12-25 |  62.65 |    47 |                                 |
+|   5 | 2018-12-26 |  62.65 |    43 |                                 |
+|   6 | 2018-12-27 |  62.65 |    39 |                                 |
+|   7 | 2018-12-28 |  62.65 |    35 |                                 |
+|   8 | 2018-12-29 |  62.65 |    31 |                                 |
+|   9 | 2018-12-30 |  52.65 |    27 | READ.1539457208                 |
+|  10 | 2018-12-31 |  52.65 |    23 |                                 |
+|  11 | 2019-01-01 |   43.9 |    20 | read.1545506880 READ.1545719105 |
+|  12 | 2019-01-02 |   36.9 |    16 | DEV.1545719190                  |
+|  13 | 2019-01-03 |   36.9 |    12 |                                 |
+|  14 | 2019-01-04 |        |     8 |                                 |
+|  15 | 2019-01-05 |        |     4 |                                 |
+|  16 | 2019-01-06 |        |     0 |                                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                                                    | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED |             ACTUAL |
-|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| TASKS                                                   |                  |                  | B        |             |     62.65 |              13.52 |
-|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| bhavin192                                               |                  |                  | B        |             |     18.25 | 3.0199999999999996 |
-| Learning Golang                                         |                  |                  | B        |             |     14.25 | 3.0199999999999996 |
-| Chapter 8. Goroutines and Channels                      | READ.1545719105  | bhavin192        | B        | IN_PROGRESS |      1.75 |               0.70 |
-| Chapter 8 Exercises                                     | DEV.1545719190   | bhavin192        | B        | IN_PROGRESS |         7 |               2.32 |
-| Chapter 9. Concurrency with Shared Variables            | READ.1545719340  | bhavin192        | B        |             |       3.5 |                    |
-| Chapter 9 Exercises                                     | DEV.1545719399   | bhavin192        | B        |             |         2 |                    |
-| GNU Emacs bug triaging                                  | OPS.1545721236   | bhavin192        | B        |             |         4 |                    |
-|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| nightwarrior-xxx                                        |                  |                  | B        |             |      17.0 |                5.0 |
-| freeCodeCamp: Javascript Algorithms and Data Structures | READ.1539457208  | nightwarrior-xxx | B        | DONE        |        10 |               5.00 |
-| Linux Kernel Module Programming Guide                   | READ.1545856561  | nightwarrior-xxx | B        | TODO        |         3 |                    |
-| Standard Template Library                               | READ.1545856251  | nightwarrior-xxx | B        | IN_PROGRESS |       1.5 |                    |
-| Euler Project Challenges                                | READ.1545903248  | nightwarrior-xxx | B        | TODO        |       1.5 |                    |
-| Blog                                                    | WRITE.1545909518 | nightwarrior-xxx | B        | TODO        |       1.0 |                    |
-|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| sandeepK                                                |                  |                  | B        |             |      16.4 |                5.5 |
-| [[https://www.shellscript.sh][Shell Scripting Tutorial]]                                | read.1545506880  | sandeepk         | B        | DONE        |         7 |               5.50 |
-| [[https://www.shellscript.sh/exercises.html][Shell Script Exercise]]                                   | dev.1545507526   | sandeepk         | B        | TODO        |         6 |                    |
-| Blog Post                                               | read.1545507998  | sandeepk         | B        |             |       3.4 |                    |
-|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| sidntrivedi012                                          |                  |                  | B        |             |        11 |                    |
-| Freecodecamp Javascript Algorithms and Data Structures  | DEV.1538995712   | sidntrivedi      | B        |             |         4 |                    |
-| [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]]                             | READ.1539000246  | sidntrivedi      | B        |             |         3 |                    |
-| Linux for you and me                                    | READ.1538996950  | sidntrivedi      | A        |             |         4 |                    |
-| Blog                                                    |                  |                  | B        |             |           |                    |
+| ITEM                                                    | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED | ACTUAL |
+|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| TASKS                                                   |                  |                  | B        |             |     62.65 |  18.37 |
+|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| bhavin192                                               |                  |                  | B        |             |     18.25 |   7.87 |
+| Learning Golang                                         |                  |                  | B        |             |     14.25 |    7.3 |
+| Chapter 8. Goroutines and Channels                      | READ.1545719105  | bhavin192        | B        | DONE        |      1.75 |   1.28 |
+| Chapter 8 Exercises                                     | DEV.1545719190   | bhavin192        | B        | DONE        |         7 |   6.02 |
+| Chapter 9. Concurrency with Shared Variables            | READ.1545719340  | bhavin192        | B        |             |       3.5 |        |
+| Chapter 9 Exercises                                     | DEV.1545719399   | bhavin192        | B        |             |         2 |        |
+| GNU Emacs bug triaging                                  | OPS.1545721236   | bhavin192        | B        | IN_PROGRESS |         4 |   0.57 |
+|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| nightwarrior-xxx                                        |                  |                  | B        |             |      17.0 |    5.0 |
+| freeCodeCamp: Javascript Algorithms and Data Structures | READ.1539457208  | nightwarrior-xxx | B        | DONE        |        10 |   5.00 |
+| Linux Kernel Module Programming Guide                   | READ.1545856561  | nightwarrior-xxx | B        | TODO        |         3 |        |
+| Standard Template Library                               | READ.1545856251  | nightwarrior-xxx | B        | IN_PROGRESS |       1.5 |        |
+| Euler Project Challenges                                | READ.1545903248  | nightwarrior-xxx | B        | TODO        |       1.5 |        |
+| Blog                                                    | WRITE.1545909518 | nightwarrior-xxx | B        | TODO        |       1.0 |        |
+|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| sandeepK                                                |                  |                  | B        |             |      16.4 |    5.5 |
+| [[https://www.shellscript.sh][Shell Scripting Tutorial]]                                | read.1545506880  | sandeepk         | B        | DONE        |         7 |   5.50 |
+| [[https://www.shellscript.sh/exercises.html][Shell Script Exercise]]                                   | dev.1545507526   | sandeepk         | B        | TODO        |         6 |        |
+| Blog Post                                               | read.1545507998  | sandeepk         | B        |             |       3.4 |        |
+|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| sidntrivedi012                                          |                  |                  | B        |             |        11 |        |
+| Freecodecamp Javascript Algorithms and Data Structures  | DEV.1538995712   | sidntrivedi      | B        |             |         4 |        |
+| [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]]                             | READ.1539000246  | sidntrivedi      | B        |             |         3 |        |
+| Linux for you and me                                    | READ.1538996950  | sidntrivedi      | A        |             |         4 |        |
+| Blog                                                    |                  |                  | B        |             |           |        |
 #+END:
 * TASKS
   :PROPERTIES:
