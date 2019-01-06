@@ -1,59 +1,80 @@
-#+TITLE: Example
-#+AUTHOR: youname
-#+EMAIL: youemail@domain.com
+#+TITLE: 22 Nov - 6 Jan Sprint
+#+AUTHOR: vaibhavk
+#+EMAIL: vaibhavkaushik@disroot.org
 #+TODO: TODO STARTED | DONE DEFERRED
 #+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
-
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO                                                  | IN_PROGRESS                            | DONE |
-|-------------------------------------------------------+----------------------------------------+------|
-| READ.1545980465. [#B] Computer Network                | DEV.1545980266. [#A] Tango With Django |      |
-| Watch.1545980198. [#C] [[https://youtu.be/4XpnKHJAok8 |                                        |      |
+| TODO | STARTED | DONE                                                               | DEFERRED |
+|------+---------+--------------------------------------------------------------------+----------|
+|      |         | Watch.1545980198. [#C] [[https://youtu.be/4XpnKHJAok8 (2019-01-06) |          |
+|      |         | DEV.1545980266. [#A] Tango With Django (2019-01-06)                |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME     | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |----------+-----------+--------+------+-----------+--------------+------------|
-| Vaibhavk |        21 |      0 |    0 |        21 |   2019-01-21 | ---------- |
+| Vaibhavk |        17 |      0 |   17 |         0 |   2019-01-06 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
-
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  18 +---------------------------------------------------------------------+   
+:     |    #################################################################|   
+:  16 |+   ....                                              ACTUAL #######+|   
+:     |        .....                                          IDEAL ....... |   
+:  14 |+            ....                                                   +|   
+:     |                 .                                                   |   
+:  12 |+                 ....                                              +|   
+:     |                      .....                                          |   
+:  10 |+                          .....                                    +|   
+:     |                                ....                                 |   
+:   8 |+                                   .....                           +|   
+:     |                                         .....                       |   
+:   6 |+                                             ....                  +|   
+:     |                                                  ....               |   
+:   4 |+                                                     .             +|   
+:     |                                                       .....         |   
+:   2 |+                                                           ....    +|   
+:     |                                                                .....|   
+:   0 +---------------------------------------------------------------------+   
+:     0        2         4        6        8         10       12       14       
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xrange [0:15]" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt"
 #+BEGIN: block-update-burndown
 | DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
 |-----+------------+--------+-------+-----------------|
-|   1 | 2018-12-22 |     21 |    20 |                 |
-|   2 | 2018-12-23 |     21 |    18 |                 |
-|   3 | 2018-12-24 |     21 |    17 |                 |
-|   4 | 2018-12-25 |     21 |    15 |                 |
-|   5 | 2018-12-26 |     21 |    14 |                 |
-|   6 | 2018-12-27 |     21 |    13 |                 |
-|   7 | 2018-12-28 |     21 |    11 |                 |
-|   8 | 2018-12-29 |        |    10 |                 |
-|   9 | 2018-12-30 |        |     8 |                 |
-|  10 | 2018-12-31 |        |     7 |                 |
-|  11 | 2019-01-01 |        |     6 |                 |
-|  12 | 2019-01-02 |        |     4 |                 |
-|  13 | 2019-01-03 |        |     3 |                 |
-|  14 | 2019-01-04 |        |     1 |                 |
-|  15 | 2019-01-05 |        |     0 |                 |
+|   1 | 2018-12-22 |     17 |    16 |                 |
+|   2 | 2018-12-23 |     17 |    15 |                 |
+|   3 | 2018-12-24 |     17 |    14 |                 |
+|   4 | 2018-12-25 |     17 |    12 |                 |
+|   5 | 2018-12-26 |     17 |    11 |                 |
+|   6 | 2018-12-27 |     17 |    10 |                 |
+|   7 | 2018-12-28 |     17 |     9 |                 |
+|   8 | 2018-12-29 |     17 |     8 |                 |
+|   9 | 2018-12-30 |     17 |     7 |                 |
+|  10 | 2018-12-31 |     17 |     6 |                 |
+|  11 | 2019-01-01 |     17 |     5 |                 |
+|  12 | 2019-01-02 |     17 |     3 |                 |
+|  13 | 2019-01-03 |     17 |     2 |                 |
+|  14 | 2019-01-04 |     17 |     1 |                 |
+|  15 | 2019-01-05 |     17 |     0 |                 |
 #+END:
 ** TASK LIST 
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM               | TASKID           | OWNER    | PRIORITY | TODO        | ESTIMATED | ACTUAL |
-|--------------------+------------------+----------+----------+-------------+-----------+--------|
-| TASKS              |                  |          | B        |             |        21 |        |
-|--------------------+------------------+----------+----------+-------------+-----------+--------|
-| [[https://youtu.be/4XpnKHJAok8][Trovald's Git Talk]] | Watch.1545980198 | vaibhavk | C        | TODO        |         1 |        |
-|--------------------+------------------+----------+----------+-------------+-----------+--------|
-| Tango With Django  | DEV.1545980266   | vaibhavk | A        | IN_PROGRESS |        16 |        |
-|--------------------+------------------+----------+----------+-------------+-----------+--------|
-| Computer Network   | READ.1545980465  | vaibhavk | B        | TODO        |         4 |        |
+| ITEM               | TASKID           | OWNER    | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|--------------------+------------------+----------+----------+------+-----------+--------|
+| TASKS              |                  |          | B        |      |        17 |        |
+|--------------------+------------------+----------+----------+------+-----------+--------|
+| [[https://youtu.be/4XpnKHJAok8][Trovald's Git Talk]] | Watch.1545980198 | vaibhavk | C        | DONE |         1 |        |
+|--------------------+------------------+----------+----------+------+-----------+--------|
+| Tango With Django  | DEV.1545980266   | vaibhavk | A        | DONE |        16 |        |
 #+END:
 * TASKS 
   :PROPERTIES:
@@ -62,7 +83,8 @@
   :SPRINTSTART: <2018-12-22 Sat>
   :wpd-vaibhavk: 1.4
   :END:
-** TODO [#C] [[https://youtu.be/4XpnKHJAok8][Trovald's Git Talk]]
+** DONE [#C] [[https://youtu.be/4XpnKHJAok8][Trovald's Git Talk]]
+   CLOSED: [2019-01-06 Sun 17:43]
    :PROPERTIES:
    :ESTIMATED: 1
    :ACTUAL:
@@ -70,7 +92,8 @@
    :ID:       Watch.1545980198
    :TASKID:   Watch.1545980198
    :END:
-** IN_PROGRESS [#A] Tango With Django [0/6]
+** DONE [#A] Tango With Django [1/6]
+   CLOSED: [2019-01-06 Sun 18:25]
    :PROPERTIES:
    :ESTIMATED: 16
    :ACTUAL:
@@ -78,19 +101,9 @@
    :ID:       DEV.1545980266
    :TASKID:   DEV.1545980266
    :END:
-   - [ ] Chapter 14. Making Rango Tango! Exercise
-   - [ ] Chapter 15. Making Rango Tango! Hints
-   - [ ] Chapter 16. JQuery and Django
-   - [ ] Chapter 17. AJAX in Django with JQuery
-   - [ ] Chapter 18. Automated Testing
-   - [ ] Chapter 20. Deploy
-** TODO [#B] Computer Network [0/2]
-   :PROPERTIES:
-   :ESTIMATED: 4
-   :ACTUAL:
-   :OWNER:    vaibhavk
-   :ID:       READ.1545980465
-   :TASKID:   READ.1545980465
+   :LOGBOOK:
+   CLOCK: [2018-12-29 Sat 17:33]--[2018-12-29 Sat 17:57] =>  0:24
+   CLOCK: [2018-12-29 Sat 14:15]--[2018-12-29 Sat 15:17] =>  1:02
    :END:
-   - [ ] Application Layer Revision
-   - [ ] Transport Layre Revision
+   - [X] Chapter 14. Making Rango Tango! Exercise
+
