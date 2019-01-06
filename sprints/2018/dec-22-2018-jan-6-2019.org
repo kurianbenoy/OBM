@@ -172,7 +172,7 @@
 *** DONE [[https://www.shellscript.sh][Shell Scripting Tutorial]] [12/12]
       :PROPERTIES:
       :ESTIMATED: 7
-      :ACTUAL:
+      :ACTUAL:   5.50
       :OWNER: sandeepk
       :ID: read.1545506880
       :TASKID: read.1545506880
@@ -198,30 +198,43 @@
     - [X] Chapter 15 Quick reference (30m)
     - [X] Chapter 16 Interactive Shell (30m)
 
-*** TODO [[https://www.shellscript.sh/exercises.html][Shell Script Exercise]] [0/2]
+*** DONE [[https://www.shellscript.sh/exercises.html][Shell Script Exercise]] [2/2]
    :PROPERTIES:
    :ESTIMATED: 6
-   :ACTUAL:
+   :ACTUAL:   5.08
    :OWNER: sandeepk
    :ID: dev.1545507526
    :TASKID: dev.1545507526
    :END:
-   - [ ] Address Book (4h)
-   - [ ] Directory Traversal (2h)
+   :LOGBOOK:
+   CLOCK: [2019-01-04 Fri 20:00]--[2019-01-04 Fri 21:35] =>  1:35
+   CLOCK: [2019-01-03 Thu 20:00]--[2019-01-03 Thu 21:00] =>  1:00
+   CLOCK: [2019-01-02 Wed 22:00]--[2019-01-02 Wed 23:30] =>  1:30
+   CLOCK: [2019-01-02 Wed 19:00]--[2019-01-02 Wed 20:00] =>  1:00
+   :END:
+   - [X] Address Book (4h)
+   - [X] Directory Traversal (2h)
 
-*** Blog Post [0/5]
+*** DONE Blog Post [5/5]
     :PROPERTIES:
     :ESTIMATED: 3.4
-    :ACTUAL:
+    :ACTUAL:   2.83
     :OWNER: sandeepk
     :ID: read.1545507998
     :TASKID: read.1545507998
     :END:
-    - [ ] [[https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html][The Yoda of Silicon Valley]] (40m)
-    - [ ] [[https://www.tubefilter.com/2016/06/23/reverse-engineering-youtube-algorithm/][Reverse Engineering The YouTube alog]] (1h)
-    - [ ] [[https://www.interaction-design.org/literature/article/elaboration-likelihood-model-theory-using-elm-to-get-inside-the-user-s-mind][Elaboration Likehood Model Theory]] (1h)
-    - [ ] [[https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7][Static vs. Dynamic]] (20m)
-    - [ ] [[https://www.b-list.org/weblog/2018/nov/26/case/][Truths programmers should know about case]] (40m)
+    :LOGBOOK:
+    CLOCK: [2019-01-06 Sun 21:00]--[2019-01-06 Sun 21:20] =>  0:20
+    CLOCK: [2019-01-06 Sun 20:00]--[2019-01-06 Sun 20:40] =>  0:40
+    CLOCK: [2019-01-05 Sat 20:00]--[2019-01-05 Sat 20:40] =>  0:40
+    CLOCK: [2019-01-04 Fri 14:00]--[2019-01-04 Fri 14:30] =>  0:30
+    CLOCK: [2019-01-02 Wed 13:30]--[2019-01-02 Wed 14:10] =>  0:40
+    :END:
+    - [X] [[https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html][The Yoda of Silicon Valley]] (40m)
+    - [X] [[https://www.tubefilter.com/2016/06/23/reverse-engineering-youtube-algorithm/][Reverse Engineering The YouTube alog]] (1h)
+    - [X] [[https://www.interaction-design.org/literature/article/elaboration-likelihood-model-theory-using-elm-to-get-inside-the-user-s-mind][Elaboration Likehood Model Theory]] (1h)
+    - [X] [[https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7][Static vs. Dynamic]] (20m)
+    - [X] [[https://www.b-list.org/weblog/2018/nov/26/case/][Truths programmers should know about case]] (40m)
 ** sidntrivedi012
 *** Freecodecamp Javascript Algorithms and Data Structures [0/4]
     :PROPERTIES:
