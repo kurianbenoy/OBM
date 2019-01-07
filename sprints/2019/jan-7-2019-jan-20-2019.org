@@ -1,0 +1,68 @@
+#+TITLE: January 7-20, 2019 (14 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 16
+  :SPRINTSTART: <2019-01-07 Mon>
+  :wpd-sandeepK: 1.5
+  :END:
+** sandeepK
+*** [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] [0/4]
+   :PROPERTIES:
+   :ESTIMATED: 16
+   :ACTUAL:
+   :OWNER: sandeepk
+   :ID: READ.1546799863
+   :TASKID: READ.1546799863
+   :END:
+   - [ ] What is Learning?                                 (5h)
+   - [ ] Chunking                                          (2h)
+   - [ ] Procrastination and Memory                        (5h)
+   - [ ] Renaissance Learning and Unlocking Your Potential (4h)
+*** Blog to Read [0/5]
+   :PROPERTIES:
+   :ESTIMATED: 3
+   :ACTUAL:
+   :OWNER: sandeepk
+   :ID: READ.1546802118
+   :TASKID: READ.1546802118
+   :END:
+   - [ ] [[https://kwokchain.com/2018/11/09/selection-bias-in-poker/][Selection Bias Poker]]                               (20m)
+   - [ ] [[https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3][OOP Python 3]]                                       (1h 20m)
+   - [ ] Leadership Toolbox                                 (20m)
+   - [ ] The 3-Step Evening Ritual That Will Make You Happy (20m)
+   - [ ] Linux Services                                     (40m)
+*** Django Migraions [0/0]
+   :PROPERTIES:
+   :ESTIMATED: 2
+   :ACTUAL:
+   :OWNER: sandeepk
+   :ID: READ.1546802528
+   :TASKID: READ.1546802528
+   :END:
+   - [ ] Data Migrations- A Primer      (30m)
+   - [ ] Digging Deeper into Migrations (30m)
+   - [ ] Django  Migrations             (30m)
+   - [ ] Django 1.7 Migraions-primer    (30m)
+
