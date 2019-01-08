@@ -139,47 +139,53 @@
      - [X] 8.8  (45m)
      - [X] 8.9  (1.25h)
      - [X] 8.10 (3h)
-**** Chapter 9. Concurrency with Shared Variables [0/8]
+**** DONE Chapter 9. Concurrency with Shared Variables [8/8]
+     CLOSED: [2019-01-06 Sun 16:32]
      :PROPERTIES:
      :ESTIMATED: 3.5
-     :ACTUAL:
+     :ACTUAL:   2.32
      :OWNER:    bhavin192
      :ID:       READ.1545719340
      :TASKID:   READ.1545719340
      :END:
-     - [ ] 9.1 Race Conditions (45m)
-     - [ ] 9.2 Mutual Exclusion: sync.Mutex (25m)
-     - [ ] 9.3 Read/Write Mutexes: sync.RWMutex (10m)
-     - [ ] 9.4 Memory Synchronization (10m)
-     - [ ] 9.5 Lazy Initialization: sync.Once (20m)
-     - [ ] 9.6 The Race Detector (5m)
-     - [ ] 9.7 Example: Concurrent Non-Blocking Cache (50m)
-     - [ ] 9.8 Goroutines and Threads (40m)
-**** Chapter 9 Exercises [0/4]
+     :LOGBOOK:
+     CLOCK: [2019-01-06 Sun 16:10]--[2019-01-06 Sun 16:32] =>  0:22
+     CLOCK: [2019-01-06 Sun 11:56]--[2019-01-06 Sun 12:26] =>  0:30
+     CLOCK: [2019-01-06 Sun 11:40]--[2019-01-06 Sun 11:45] =>  0:05
+     CLOCK: [2019-01-05 Sat 21:26]--[2019-01-05 Sat 21:42] =>  0:16
+     CLOCK: [2019-01-05 Sat 21:17]--[2019-01-05 Sat 21:22] =>  0:05
+     CLOCK: [2019-01-05 Sat 15:47]--[2019-01-05 Sat 15:52] =>  0:05
+     CLOCK: [2019-01-05 Sat 15:40]--[2019-01-05 Sat 15:47] =>  0:07
+     CLOCK: [2019-01-03 Thu 22:48]--[2019-01-03 Thu 23:06] =>  0:18
+     CLOCK: [2019-01-03 Thu 19:05]--[2019-01-03 Thu 19:36] =>  0:31
+     :END:
+     - [X] 9.1 Race Conditions (45m)
+     - [X] 9.2 Mutual Exclusion: sync.Mutex (25m)
+     - [X] 9.3 Read/Write Mutexes: sync.RWMutex (10m)
+     - [X] 9.4 Memory Synchronization (10m)
+     - [X] 9.5 Lazy Initialization: sync.Once (20m)
+     - [X] 9.6 The Race Detector (5m)
+     - [X] 9.7 Example: Concurrent Non-Blocking Cache (50m)
+     - [X] 9.8 Goroutines and Threads (40m)
+**** DONE Chapter 9 Exercises [4/4]
+     CLOSED: [2019-01-06 Sun 23:33]
      :PROPERTIES:
      :ESTIMATED: 2
-     :ACTUAL:
+     :ACTUAL:   1.37
      :OWNER:    bhavin192
      :ID:       DEV.1545719399
      :TASKID:   DEV.1545719399
      :END:
-     - [ ] 9.1 Exercises (30m)
-     - [ ] 9.5 Exercises (35m)
-     - [ ] 9.7 Exercises (20m)
-     - [ ] 9.8 Exercises (30m)
-*** IN_PROGRESS GNU Emacs bug triaging [0/2]
-    :PROPERTIES:
-    :ESTIMATED: 4
-    :ACTUAL:   0.57
-    :OWNER:    bhavin192
-    :ID:       OPS.1545721236
-    :TASKID:   OPS.1545721236
-    :END:
-    :LOGBOOK:
-    CLOCK: [2019-01-02 Wed 16:39]--[2019-01-02 Wed 17:13] =>  0:34
-    :END:
-    - [ ] Learn to install particular version of GNU Emacs
-    - [ ] Triage 5 bugs
+     :LOGBOOK:
+     CLOCK: [2019-01-06 Sun 23:12]--[2019-01-06 Sun 23:33] =>  0:21
+     CLOCK: [2019-01-06 Sun 14:25]--[2019-01-06 Sun 14:50] =>  0:25
+     CLOCK: [2019-01-06 Sun 11:31]--[2019-01-06 Sun 11:40] =>  0:09
+     CLOCK: [2019-01-03 Thu 21:15]--[2019-01-03 Thu 21:42] =>  0:27
+     :END:
+     - [X] 9.1 Exercises (30m)
+     - [X] 9.5 Exercises (35m)
+     - [X] 9.7 Exercises (20m)
+     - [X] 9.8 Exercises (30m)
 ** nightwarrior-xxx
 *** DONE freeCodeCamp: Javascript Algorithms and Data Structures  [3/3]
     CLOSED: [2018-12-30 Sun 04:09]
