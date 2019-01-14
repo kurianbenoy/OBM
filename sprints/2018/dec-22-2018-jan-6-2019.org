@@ -139,7 +139,8 @@
     :TASKID: READ.1545856561
     :END:
     http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf  (3h)
-*** IN_PROGRESS Standard Template Library
+*** DONE Standard Template Library
+    CLOSED: [2019-01-03 Thu 00:12]
     :PROPERTIES:
     :ESTIMATED: 1.5
     :ACTUAL:
@@ -147,7 +148,11 @@
     :ID: READ.1545856251
     :TASKID: READ.1545856251
     :END:
-*** TODO Euler Project Challenges [0/0]
+    :LOGBOOK:
+    CLOCK: [2019-01-02 Wed 23:59]--[2019-01-03 Thu 00:12] =>  0:13
+    CLOCK: [2019-01-02 Wed 22:15]--[2019-01-02 Wed 22:43] =>  0:28
+    :END:
+*** IN_PROGRESS Euler Project Challenges [1/3]
     :PROPERTIES:
     :ESTIMATED: 1.5
     :ACTUAL:
@@ -155,8 +160,11 @@
     :ID: READ.1545903248
     :TASKID: READ.1545903248
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-01-06 Sun 00:38]
+    :END:
     [[https://www.hackerrank.com/contests/projecteuler/challenges]]
-    - [ ] Multiples of 3 and 5	  (0.5h)
+    - [X] Multiples of 3 and 5	  (0.5h)
     - [ ] Even Fibonacci numbers  (0.5h)
     - [ ] Largest prime factor	  (0.5h)
 *** TODO Blog
