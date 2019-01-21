@@ -28,15 +28,17 @@
   :wpd-sandeepK: 1.5
   :END:
 ** sandeepK
-*** TODO [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] [1/4]
+*** TODO [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] [2/4]
    :PROPERTIES:
    :ESTIMATED: 16
-   :ACTUAL:   3.58
+   :ACTUAL:   5.28
    :OWNER: sandeepk
    :ID: READ.1546799863
    :TASKID: READ.1546799863
    :END:
    :LOGOBOOK:
+   CLOCK: [2019-01-18 Fri 21:33]--[2019-01-18 Fri 22:17] =>  0:44
+   CLOCK: [2019-01-16 Wed 21:02]--[2019-01-16 Wed 22:00] =>  0:58
    CLOCK: [2019-01-13 Sun 22:10]--[2019-01-13 Sun 22:50] =>  0:40
    CLOCK: [2019-01-09 Wed 21:05]--[2019-01-09 Wed 21:40] =>  0:35
    CLOCK: [2019-01-09 Wed 20:02]--[2019-01-09 Wed 20:35] =>  0:33
@@ -44,25 +46,32 @@
    CLOCK: [2019-01-07 Mon 20:10]--[2019-01-07 Mon 21:00] =>  0:50
    :END:
    - [X] What is Learning?                                 (5h)
-   - [ ] Chunking                                          (2h)
+   - [X] Chunking                                          (2h)
    - [ ] Procrastination and Memory                        (5h)
    - [ ] Renaissance Learning and Unlocking Your Potential (4h)
-*** Blog to Read [1/5]
+*** DONE Blog to Read [5/5]
    :PROPERTIES:
    :ESTIMATED: 3
-   :ACTUAL:
+   :ACTUAL:   2.97
    :OWNER: sandeepk
    :ID: READ.1546802118
    :TASKID: READ.1546802118
    :END:
    :LOGBOOK:
+   CLOCK: [2019-01-17 Thu 17:26]--[2019-01-17 Thu 17:50] =>  0:24
+   CLOCK: [2019-01-16 Wed 14:00]--[2019-01-16 Wed 14:20] =>  0:20
+   CLOCK: [2019-01-15 Tue 16:00]--[2019-01-15 Tue 16:38] =>  0:35
+   CLOCK: [2019-01-15 Tue 15:17]--[2019-01-15 Tue 15:43] =>  0:28
+   CLOCK: [2019-01-14 Mon 13:00]--[2019-01-14 Mon 13:15] =>  0:15
+   CLOCK: [2019-01-14 Mon 12:15]--[2019-01-14 Mon 12:30] =>  0:15
+   CLOCK: [2019-01-14 Mon 11:00]--[2019-01-14 Mon 11:15] =>  0:15
    CLOCK: [2019-01-12 Sat 20:05]--[2019-01-12 Sat 20:30] =>  0:25
    :END:
    - [X] [[https://kwokchain.com/2018/11/09/selection-bias-in-poker/][Selection Bias Poker]]                               (20m)
-   - [ ] [[https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3][OOP Python 3]]                                       (1h 20m)
-   - [ ] Leadership Toolbox                                 (20m)
-   - [ ] The 3-Step Evening Ritual That Will Make You Happy (20m)
-   - [ ] Linux Services                                     (40m)
+   - [X] [[https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3][OOP Python 3]]                                       (1h 20m)
+   - [X] Leadership Toolbox                                 (20m)
+   - [X] The 3-Step Evening Ritual That Will Make You Happy (20m)
+   - [X] Linux Services                                     (40m)
 *** DONE Django Migraions [4/4]
    :PROPERTIES:
    :ESTIMATED: 2
