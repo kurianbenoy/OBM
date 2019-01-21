@@ -6,16 +6,17 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO                                   | STARTED | DONE | DEFERRED |
-|----------------------------------------+---------+------+----------|
-| DEV.1545980266. [#A] Tango With Django |         |      |          |
-| READ.1545980465. [#B] Computer Network |         |      |          |
+| TODO | STARTED | DONE                                                | DEFERRED                                            |
+|------+---------+-----------------------------------------------------+-----------------------------------------------------|
+|      |         | NETWORK.1546779916. Meetup (2019-01-22)             | READ.1545980465. [#A] Computer Network (2019-01-22) |
+|      |         | DEV.1545980266. [#A] Tango With Django (2019-01-20) | . [[https://www.meetup.com/Gurga (2019-01-15)       |
+|      |         | . [[https://www.meetup.com/ilugd (2019-01-13)       |                                                     |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME     | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |----------+-----------+--------+------+-----------+--------------+------------|
-| Vaibhavk |        20 |      0 |    0 |        20 |   2019-01-29 | ---------- |
+| Vaibhavk |        20 |      0 |   20 |         0 |   2019-01-22 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -24,37 +25,22 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xrange [0:15]" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2019-01-06 |     20 |    19 |                 |
-|   2 | 2019-01-07 |        |    17 |                 |
-|   3 | 2019-01-08 |        |    16 |                 |
-|   4 | 2019-01-09 |        |    15 |                 |
-|   5 | 2019-01-10 |        |    13 |                 |
-|   6 | 2019-01-11 |        |    12 |                 |
-|   7 | 2019-01-12 |        |    11 |                 |
-|   8 | 2019-01-13 |        |     9 |                 |
-|   9 | 2019-01-14 |        |     8 |                 |
-|  10 | 2019-01-15 |        |     7 |                 |
-|  11 | 2019-01-16 |        |     5 |                 |
-|  12 | 2019-01-17 |        |     4 |                 |
-|  13 | 2019-01-18 |        |     3 |                 |
-|  14 | 2019-01-19 |        |     1 |                 |
-|  15 | 2019-01-20 |        |     0 |                 |
+| DAY | DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-
 #+END:
 ** TASK LIST 
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                  | TASKID             | OWNER    | PRIORITY | TODO | ESTIMATED | ACTUAL |
-|-----------------------+--------------------+----------+----------+------+-----------+--------|
-| TASKS                 |                    |          | B        |      |        20 |        |
-|-----------------------+--------------------+----------+----------+------+-----------+--------|
-| Tango With Django     | DEV.1545980266     | vaibhavk | A        | TODO |        16 |        |
-|-----------------------+--------------------+----------+----------+------+-----------+--------|
-| Computer Network      | READ.1545980465    | vaibhavk | B        | TODO |         4 |        |
-|-----------------------+--------------------+----------+----------+------+-----------+--------|
-| Meetup                | NETWORK.1546779916 | vaibhavk | B        |      |           |        |
-| [[https://www.meetup.com/ilugdelhi/events/jkbtdqyzcbqb/][ILUGD Meetup]]          |                    |          | B        |      |           |        |
-| [[https://www.meetup.com/Gurgaon-Go-Meetup/events/tnmvlqyzcbzb/][Golang Gurgaon Meetup]] |                    |          | B        |      |           |        |
+| ITEM                  | TASKID             | OWNER    | PRIORITY | TODO     | ESTIMATED | ACTUAL |
+|-----------------------+--------------------+----------+----------+----------+-----------+--------|
+| TASKS                 |                    |          | B        |          |        20 |        |
+|-----------------------+--------------------+----------+----------+----------+-----------+--------|
+| Tango With Django     | DEV.1545980266     | vaibhavk | A        | DONE     |        16 |        |
+|-----------------------+--------------------+----------+----------+----------+-----------+--------|
+| Computer Network      | READ.1545980465    | vaibhavk | A        | DEFERRED |         4 |        |
+|-----------------------+--------------------+----------+----------+----------+-----------+--------|
+| Meetup                | NETWORK.1546779916 | vaibhavk | B        | DONE     |           |        |
+| [[https://www.meetup.com/ilugdelhi/events/jkbtdqyzcbqb/][ILUGD Meetup]]          |                    |          | B        | DONE     |           |        |
+| [[https://www.meetup.com/Gurgaon-Go-Meetup/events/tnmvlqyzcbzb/][Golang Gurgaon Meetup]] |                    |          | B        | DEFERRED |           |        |
 #+END:
 
 * TASKS
@@ -64,7 +50,8 @@
   :SPRINTSTART: <2019-01-06 Sun>
   :wpd-vaibhavk: 1.2
   :END:
-** TODO [#A] Tango With Django [0/5]
+** DONE [#A] Tango With Django [5/5]
+   CLOSED: [2019-01-20 Sun 19:27]
    :PROPERTIES:
    :ESTIMATED: 16
    :ACTUAL:
@@ -72,12 +59,22 @@
    :ID:       DEV.1545980266
    :TASKID:   DEV.1545980266
    :END:
-   - [ ] Chapter 15. Making Rango Tango! Hints
-   - [ ] Chapter 16. JQuery and Django
-   - [ ] Chapter 17. AJAX in Django with JQuery
-   - [ ] Chapter 18. Automated Testing
-   - [ ] Chapter 20. Deploy
-** TODO [#B] Computer Network [0/2]
+   :LOGBOOK:
+   CLOCK: [2019-01-14 Mon 19:52]--[2019-01-14 Mon 23:32] =>  3:40
+   CLOCK: [2019-01-13 Sun 19:04]--[2019-01-13 Sun 19:31] =>  0:27
+   CLOCK: [2019-01-11 Fri 17:36]--[2019-01-11 Fri 18:53] =>  1:17
+   CLOCK: [2019-01-09 Wed 13:36]--[2019-01-09 Wed 15:20] =>  1:44
+   CLOCK: [2019-01-08 Tue 09:36]--[2019-01-08 Tue 09:53] =>  0:17
+   CLOCK: [2019-01-07 Mon 23:07]--[2019-01-07 Mon 23:27] =>  0:20
+   CLOCK: [2019-01-07 Mon 22:04]--[2019-01-07 Mon 22:17] =>  0:13
+   :END:
+   - [X] Chapter 15. Making Rango Tango! Hints
+   - [X] Chapter 16. JQuery and Django
+   - [X] Chapter 17. AJAX in Django with JQuery
+   - [X] Chapter 18. Automated Testing
+   - [X] Chapter 20. Deploy
+** DEFERRED [#A] Computer Network [0/2]
+   CLOSED: [2019-01-22 Tue 01:00]
    :PROPERTIES:
    :ESTIMATED: 4
    :ACTUAL:
@@ -87,13 +84,14 @@
    :END:
    - [ ] Application Layer Revision
    - [ ] Transport Layr
-** Meetup
+** DONE Meetup
+   CLOSED: [2019-01-22 Tue 00:54]
    :PROPERTIES:
    :OWNER: vaibhavk
    :ID: NETWORK.1546779916
    :TASKID: NETWORK.1546779916
    :END:
-*** [[https://www.meetup.com/ilugdelhi/events/jkbtdqyzcbqb/][ILUGD Meetup]]
-    SCHEDULED: <2019-01-13 Sun>
-*** [[https://www.meetup.com/Gurgaon-Go-Meetup/events/tnmvlqyzcbzb/][Golang Gurgaon Meetup]]
-    SCHEDULED: <2019-01-19 Sat>
+*** DONE [[https://www.meetup.com/ilugdelhi/events/jkbtdqyzcbqb/][ILUGD Meetup]]
+    CLOSED: [2019-01-13 Sun 18:53] SCHEDULED: <2019-01-13 Sun>
+*** DEFERRED [[https://www.meetup.com/Gurgaon-Go-Meetup/events/tnmvlqyzcbzb/][Golang Gurgaon Meetup]]
+    CLOSED: [2019-01-15 Tue 17:44] SCHEDULED: <2019-01-19 Sat>
