@@ -48,7 +48,6 @@
 *** NoSQL
 *** CockroachDB
 ** Development
-*** [#A] [[https://pybit.es/pages/challenges.html][PyBites Challenges]]
 *** [#B] Gophercise [0%]
   - [ ] Quiz Game
   - [ ] URL Shortener
@@ -67,11 +66,9 @@
   - [ ] Image Transform Service
   - [ ] Building Images
   - [ ] Building PDFs
-*** Testing
 ** Web Development
 *** [#A] Django
 **** [[https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps][Server-side website programming first steps]]
-**** [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]]
 **** [[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django][MDN Django Docs]]
 *** Golang
 **** Golang Series [0%]
@@ -85,5 +82,12 @@
 ** Organizations
 ** Projects
 *** [[https://github.com/taskcluster][TaskCluster]]
+*** [[https://github.com/kubernetes/][Kubernetes]]
 * PLAN 
-
+** Sprint 6 Feb - 19 Feb
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 15
+  :SPRINTSTART: <2019-02-06 Wed>
+  :wpd-vaibhavk: 
+  :END:
