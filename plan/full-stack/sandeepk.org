@@ -21,8 +21,8 @@
 
 *** Project Hacker News [0/3]
    :PROPERTIES:
-   :ESTIMATED: Project Hacker News
-   :ACTUAL:   15
+   :ESTIMATED: 15
+   :ACTUAL:   
    :OWNER:    sandeepk
    :ID:       DEV.1548171355
    :TASKID:   DEV.1548171355
