@@ -210,44 +210,19 @@
           [[https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6]]
     - [X] Regular Expressions		                                                                      (4h)
           [[https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions]]
-*** TODO Linux Kernel Module Programming Guide
-    :PROPERTIES:
-    :ESTIMATED: 3
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: READ.1545856561
-    :TASKID: READ.1545856561
-    :END:
-    http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf  (3h)
-*** IN_PROGRESS Standard Template Library
+*** DONE Standard Template Library
+    CLOSED: [2019-01-03 Thu 00:12]
     :PROPERTIES:
     :ESTIMATED: 1.5
-    :ACTUAL:
+    :ACTUAL:   0.68
     :OWNER: nightwarrior-xxx
     :ID: READ.1545856251
     :TASKID: READ.1545856251
     :END:
-*** TODO Euler Project Challenges [0/0]
-    :PROPERTIES:
-    :ESTIMATED: 1.5
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: READ.1545903248
-    :TASKID: READ.1545903248
+    :LOGBOOK:
+    CLOCK: [2019-01-02 Wed 23:59]--[2019-01-03 Thu 00:12] =>  0:13
+    CLOCK: [2019-01-02 Wed 22:15]--[2019-01-02 Wed 22:43] =>  0:28
     :END:
-    [[https://www.hackerrank.com/contests/projecteuler/challenges]]
-    - [ ] Multiples of 3 and 5	  (0.5h)
-    - [ ] Even Fibonacci numbers  (0.5h)
-    - [ ] Largest prime factor	  (0.5h)
-*** TODO Blog
-    :PROPERTIES:
-   :ESTIMATED: 1.0
-   :ACTUAL:
-   :OWNER: nightwarrior-xxx
-   :ID: WRITE.1545909518
-   :TASKID: WRITE.1545909518
-   :END:
-    Write a blog and make nightwarrior-xxx.github.io.  
 ** sandeepK
 *** DONE [[https://www.shellscript.sh][Shell Scripting Tutorial]] [12/12]
     CLOSED: [2019-01-01 Tue 22:00]
