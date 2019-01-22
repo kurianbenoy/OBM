@@ -36,10 +36,13 @@
     :ID: READ.1548140097
     :TASKID: READ.1548140097
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-01-21 Mon 08:00]--[2018-09-19 Mon 13:00] =>  5:00
+    :END:
     - [ ] Module - I [0/5]
-      - [ ] 2019-01-19 - 1 - Sets
-      - [ ] 2019-01-20 - 2 - Relations and Functions
-      - [ ] 2019-01-21 - 3 - Trigonometric Functions I
+      - [X] 2019-01-19 - 1 - Sets
+      - [X] 2019-01-20 - 2 - Relations and Functions
+      - [X] 2019-01-21 - 3 - Trigonometric Functions I
       - [ ] 2019-01-22 - 4 - Trigonometric Functions II
       - [ ] 2019-01-25 - 5 - Relation between Sides and Angles of a Triangle
     - [ ] Module - II: Sequences and series [0/2]
