@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2019-01-07 Mon>
   :wpd-sandeepK: 1.5
+  :wpd-bhavin192: 1
   :END:
 ** sandeepK
 *** [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] [0/4]
@@ -65,4 +66,71 @@
    - [ ] Digging Deeper into Migrations (30m)
    - [ ] Django  Migrations             (30m)
    - [ ] Django 1.7 Migraions-primer    (30m)
+
+** bhavin192
+*** Learning Golang
+**** Chapter 10. Packages and the Go Tool [0/7]
+     :PROPERTIES:
+     :ESTIMATED: 1.7
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       READ.1547127701
+     :TASKID:   READ.1547127701
+     :END:
+     - [ ] 10.1 Introduction            (5m)
+     - [ ] 10.2 Import Paths            (3m)
+     - [ ] 10.3 The Package Declaration (3m)
+     - [ ] 10.4 Import Declarations     (5m)
+     - [ ] 10.5 Blank Imports           (12m)
+     - [ ] 10.6 Packages and Naming     (10m)
+     - [ ] 10.7 The Go Tool             (1h)
+**** Chapter 10 Exercises [0/2]
+     :PROPERTIES:
+     :ESTIMATED: 2.25
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       DEV.1547127751
+     :TASKID:   DEV.1547127751
+     :END:
+     - [ ] 10.5 (1h)
+     - [ ] 10.7 (1.25h)
+**** Chapter 11. Testing [0/6]
+     :PROPERTIES:
+     :ESTIMATED: 3
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       READ.1547130354
+     :TASKID:   READ.1547130354
+     :END:
+     - [ ] 11.1 The go test Tool    (10m)
+     - [ ] 11.2 Test Functions      (1.7h)
+     - [ ] 11.3 Coverage            (20m)
+     - [ ] 11.4 Benchmark Functions (20m)
+     - [ ] 11.5 Profiling           (25m)
+     - [ ] 11.6 Example Functions   (5m)
+**** Chapter 11 Exercises [0/2]
+     :PROPERTIES:
+     :ESTIMATED: 4.25
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       DEV.1547130395
+     :TASKID:   DEV.1547130395
+     :END:
+     - [ ] 11.2 (3h)
+     - [ ] 11.4 (1.25h)
+*** GNU Emacs bug triaging [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       OPS.1545721236
+    :TASKID:   OPS.1545721236
+    :END:
+    - [ ] Build GNU Emacs 26.1 from source code
+    - [ ] Triage 5 bugs
+      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33983][#33983]]
+      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33979][#33979]]
+      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33973][#33973]]
+      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33921][#33921]]
+      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33900][#33900]]
 
