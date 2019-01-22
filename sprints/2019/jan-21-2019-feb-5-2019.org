@@ -1,0 +1,86 @@
+#+TITLE: January 21, 2019 - February 5, 2019 (16 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 16
+  :SPRINTSTART: <2019-01-21 Mon>
+  :wpd-jasonbraganza: 5
+  :END:
+** jasonbraganza
+*** NIOS Maths Text Book [0/10]
+    :PROPERTIES:
+    :ESTIMATED: 50.0
+    :ACTUAL:
+    :OWNER: shaks
+    :ID: READ.1548140097
+    :TASKID: READ.1548140097
+    :END:
+    - [ ] Module - I [0/5]
+      - [ ] 2019-01-19 - 1 - Sets
+      - [ ] 2019-01-20 - 2 - Relations and Functions
+      - [ ] 2019-01-21 - 3 - Trigonometric Functions I
+      - [ ] 2019-01-22 - 4 - Trigonometric Functions II
+      - [ ] 2019-01-25 - 5 - Relation between Sides and Angles of a Triangle
+    - [ ] Module - II: Sequences and series [0/2]
+      - [ ] 2019-01-26 - 6 - Sequences and series
+      - [ ] 2019-01-27 - 7 - Some special sequences
+    - [ ] Module - III: Algebra–I [0/5]
+      - [ ] 2019-01-28 - 8 - Complex Numbers
+      - [ ] 2019-01-29 - 9 - Quadratic Equations and Linear Inequalities
+      - [ ] 2019-02-01 - 10 - Principle of Mathematical Induction
+      - [ ] 2019-02-02 - 11 -  Permtations and Combinations
+      - [ ] 2019-02-03 - 12 - Binomial Theorem
+    - [ ] Module - IV: Co-ordinate Geometry [0/4]
+      - [ ] 2019-02-09 - 13 - Cartesian System of Rectangular Co-ordinates
+      - [ ] 2019-02-10 - 14 - Straight Lines
+      - [ ] 2019-02-11 - 15 - Circles
+      - [ ] 2019-02-12 - 16 - Conic Sections
+    - [ ] Module - V: Statistics and Probability [0/3]
+      - [ ] 2019-02-15 - 17 - Measures of Dispersion
+      - [ ] 2019-02-16 - 18 - Random Experiments and Events
+      - [ ] 2019-02-17 - 19 - Probability
+    - [ ] Module - VI: Algebra–II [0/3]
+      - [ ] 2019-02-18 - 20 - Matrices
+      - [ ] 2019-02-19 - 21 - Determinants
+      - [ ] 2019-02-22 - 22 - Inverse of a Matrix and its Applications
+    - [ ] Module - VII: Relations and Functions [0/2]
+      - [ ] 2019-02-23 - 23 - Relations and Functions II
+      - [ ] 2019-02-24 - 24 - Inverse Trigonometric Functions
+    - [ ] Module - VIII: Calculus [0/8]
+      - [ ] 2019-02-25 - 25 -  Limits and Continuity
+      - [ ] 2019-02-26 - 26 - Differentiation
+      - [ ] 2019-03-01 - 27 - Differentiation of Trigonometric Functions
+      - [ ] 2019-03-02 - 28 - Differentiation of Exponential and Logarithmic functions
+      - [ ] 2019-03-03 - 29 - Application of Derivatives
+      - [ ] 2019-03-04 - 30 - Integration
+      - [ ] 2019-03-05 - 31 - Definite Integrals
+      - [ ] 2019-03-08 - 32 - Differential Integrals
+    - [ ] Module - IX: Vectors and Three Dimensional Geometry [0/4]
+      - [ ] 2019-03-09 - 33 - Introduction to Three Dimensional Geometry
+      - [ ] 2019-03-10 - 34 - Vectors
+      - [ ] 2019-03-11 - 35 - Plane
+      - [ ] 2019-03-12 - 36 - Straight Line
+    - [ ] Module - X: Linear Programming and Mathematical Reasoning [0/2]
+      - [ ] 2019-03-15 - 37 - Linear Programming
+      - [ ] 2019-03-16 - 38 - Mathematical Reasoning
