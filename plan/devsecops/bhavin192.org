@@ -7,10 +7,6 @@
 **** The Go Programming Language
      by Alan A. A. Donovan and Brian W. Kernighan
      http://www.gopl.io/
-***** Chapter  8. Goroutines and Channels
-***** Chapter  9. Concurrency with Shared Variables
-***** Chapter 10. Packages and the Go Tool
-***** Chapter 11. Testing
 ***** Chapter 12. Reflection
 ***** Chapter 13. Low-Level Programming
 ** GNU Emacs
@@ -25,4 +21,3 @@
 **** Read about existing run times
 ** Attend meetups
 * PLAN
-

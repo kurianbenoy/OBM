@@ -114,8 +114,6 @@ have the notion of time.
 Upcoming Sprints
 ================
 
-* December  22, 2018 - January    6, 2019 (16 days)
-
 * January   7, 2019 - January  20, 2018 (14 days)
 * January  21, 2019 - February  5, 2019 (16 days)
 * February  6, 2019 - February 18, 2019 (13 days)

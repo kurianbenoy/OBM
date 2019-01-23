@@ -1,0 +1,197 @@
+#+AUTHOR: Piyush Aggarwal
+#+EMAIL: piyushaggarwal002@gmail.com
+#+TAGS: read write dev ops event meeting learn # Need to be category
+* GOALS
+** BOOKS
+*** PYM [0/10]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER:    brute4s99
+    :ID:       READ.1545932091
+    :TASKID:   READ.1545932091
+    :END: 
+    https://pymbook.readthedocs.io/en/latest/
+    - [ ] Installation, The Beginning, Using mu editor, Variables and Datatypes                                (1h)
+    - [ ] Operators and Expressions, if-else, the control flow, Looping                                        (1h)
+    - [ ] Data Structures, Strings, Functions                                                                  (1h)
+    - [ ] File Handling, Exceptions                                                                            (1h)
+    - [ ] Class, Modules, Collections module                                                                   (1h)
+    - [ ] Using VS Code as your primary Python editor, PEP8 Guidelines, Iterators, Generators and Decorators   (1h)
+    - [ ] Virtualenv, Type-hinting and annotations                                                             (1h)
+    - [ ] Simple testing in Python, A project structure                                                        (1h)
+    - [ ] Build CLI applications with Click                                                                    (1h)
+    - [ ] Intro to Flask                                                                                       (1h)
+*** LYM [0/10]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER:    brute4s99
+    :ID:       READ.1545932416
+    :TASKID:   READ.1545932416
+    :END:
+     https://lym.readthedocs.io/en/latest/
+     - [ ] Shell commands                     (1h)
+     - [ ] File system                        (1h)
+     - [ ] Useful Commands                    (1h)
+     - [ ] Users and Groups, File Permissions (1h)
+     - [ ] Processes in Linux                 (1h)
+     - [ ] Linux Services                     (1h)
+     - [ ] Package Management                 (1h)
+     - [ ] File System Mounting               (1h)
+     - [ ] Networking Commands                (1h)
+     - [ ] Random Things, What's Next?        (1h)
+*** How to be a Rockstar Freelancer [0/20]
+    :PROPERTIES:
+    :ESTIMATED: 20
+    :ACTUAL:
+    :OWNER:    brute4s99
+    :ID:       READ.1545932534
+    :TASKID:   READ.1545932534
+    :END:
+*** Linux System Programming [0/20]
+    :PROPERTIES:
+    :ESTIMATED: 20
+    :ACTUAL:
+    :OWNER:    brute4s99
+    :ID:       READ.1545932595
+    :TASKID:   READ.1545932595
+    :END:
+** COURSES
+*** Stanford University
+**** CS231n - CNNs [0/27]
+     :PROPERTIES:
+     :ESTIMATED: 50
+     :ACTUAL:
+     :OWNER:    brute4s99
+     :ID:       LEARN.1545932745
+     :TASKID:   LEARN.1545932745
+     :END:
+       http://cs231n.stanford.edu/
+       - [ ] Lec 1 : Introduction
+       - [ ] Lec 2 : Image Classification
+       - [ ] Python / numpy / Google Cloud
+	http://cs231n.stanford.edu/notebooks/python_numpy_tutorial.ipynb
+       - [ ] Lec 3 : Loss Functions and Optimization
+       - [ ] Lec 4 : Intro to Neural Networks
+       - [ ] BackPropagation
+	http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds02.pdf
+       - [ ] Lec 5 : CNNS
+       - [ ] ASSIGNMENT 1
+	http://cs231n.github.io/assignments2018/assignment1/
+       - [ ] Lec 6 : Training Neural Networks - 1
+       - [ ] Tips And Tricks for Tuning NNs
+	https://docs.google.com/presentation/d/1S5cSBBzWXnc9xj02yL-3MTt6RdZv6rX2AO-WF_5ipAs/edit#slide=id.p
+       - [ ] Lec 7 : Training Neural Networks - 2
+       - [ ] Lec 8 : Deep Learning Software, Hardware
+       - [ ] PyTorch Tutorial
+	http://cs231n.stanford.edu/notebooks/pytorch_tutorial.ipynb
+       - [ ] Lec 9 : CNN Architectures
+       - [ ] ASSIGNMENT 2
+	http://cs231n.github.io/assignments2018/assignment2/
+       - [ ] Lec 10 : RNNs
+       - [ ] MidTerm Review
+	http://cs231n.stanford.edu/slides/2018/cs231n_2018_midterm_review.pdf
+       - [ ] Lec 11 : Detection and Segmentation
+       - [ ] Practical Object Detection and Segmentation
+	http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds06.pdf
+       - [ ] Lec 12 : Visualizing and Understanding
+       - [ ] Lec 13 : Generative Models
+       - [ ] Lec 14 : Deep Reinforcement Learning
+       - [ ] ASSIGNMENT 3
+	http://cs231n.github.io/assignments2018/assignment3/
+       - [ ] Weak Supervision
+	http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds07.pdf
+       - [ ] Video Understanding
+	http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds08.pdf
+       - [ ] Efficient Methods and Hardware for Deep Learning
+       - [ ] Adversarial Examples and Adversarial Training
+**** Probability and Statistics [0/19]
+     :PROPERTIES:
+     :ESTIMATED: 20
+     :ACTUAL:
+     :OWNER:    brute4s99
+     :ID:       LEARN.1545933197
+     :TASKID:   LEARN.1545933197
+     :END:
+       https://online.stanford.edu/courses/gse-yprobstat-probability-and-statistics (Data Analysis)
+       - [ ] Introduction 
+       - [ ] EDA: Examining Distributions
+       - [ ] EDA : Examining Relationships
+       - [ ] Producing Data: Sampling
+       - [ ] Producing Data: Designing Studies
+       - [ ] Probability: Introduction
+       - [ ] Probability: Finding Probability of Events
+       - [ ] Probability: Conditional Probability and Independence
+       - [ ] Probability: Discrete Random Variables
+       - [ ] Probability: Continuous Random Variables
+       - [ ] Probability: Sampling Distributions
+       - [ ] Inference: Estimation
+       - [ ] Inference: Hypothesis Testing Overview
+       - [ ] Inference: Hypothesis Testing for the Population Proportion
+       - [ ] Inference: Hypothesis Testing for the Population Mean
+       - [ ] Inference: Relationships C -> Q
+       - [ ] Inference Relationships Q -> Q
+       - [ ] Inference: Relationships Q -> Q
+       - [ ] Course Wrap-Up, Additional Resources
+**** Statistical Learning [0/10]
+     :PROPERTIES:
+     :ESTIMATED: 10
+     :ACTUAL:
+     :OWNER:    brute4s99
+     :ID:       LEARN.1545933410
+     :TASKID:   LEARN.1545933410
+     :END:
+       https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
+       - [ ] Intro
+       - [ ] Overview of Statistical Learning
+       - [ ] Linear Regression
+       - [ ] Classification
+       - [ ] Resampling Methods
+       - [ ] Linear Model Selection and Regularization
+       - [ ] Moving Beyond Linearity
+       - [ ] Tree-Based Methods
+       - [ ] Support Vector Machines
+       - [ ] Unsupervised Learning
+**** CS224n - RNNs [0/18]
+     :PROPERTIES:
+     :ESTIMATED: 30
+     :ACTUAL:
+     :OWNER:    brute4s99
+     :ID:       LEARN.1545933509
+     :TASKID:   LEARN.1545933509
+     :END:
+	https://web.stanford.edu/class/cs224n/
+	- [ ] Lec 01 : Intro to NLP and Deep Learning
+	- [ ] Lec 02 : Word Vectors 1 [word2vec]
+	- [ ] Lec 03 : GloVe : Global Vectors fot Word Representations
+	- [ ] Lec 04 : Word Window  Classification and NNs
+	- [ ] Lec 05 : Backpropagation and Project Advice
+	- [ ] Lec 06 : Dependency Parsing 
+	- [ ] Lec 07 : Intro to Tensorflow
+	- [ ] Lec 08 : RNNs and Language Models 
+	- [ ] Lec 09 : Machine Translation and Advanced Recurrent LSTMs and GRUs
+	- [ ] Review Session : Midterm Review
+	- [ ] Lec 10 : Neural Machine Translation and Models with Attention
+	- [ ] Lec 11 : Gated Recurrent Units and Further Topics in NMT
+	- [ ] Lec 12 : End to end Models for Speech Processing
+	- [ ] Lec 13 : CNNS
+	- [ ] Lec 14 : Tree Recursive NNs and Constituency Parsing
+	- [ ] Lec 15 : Coreference Resolution
+	- [ ] Dynamic NNs for Question Answering
+*** Coursera
+**** Neural Networks and Deep Learning [0/4]
+     :PROPERTIES:
+     :ESTIMATED: 8
+     :ACTUAL:
+     :OWNER:    brute4s99
+     :ID:       LEARN.1545933594
+     :TASKID:   LEARN.1545933594
+     :END:
+       https://www.coursera.org/learn/neural-networks-deep-learning
+       - [ ] Week 1 courseware
+       - [ ] Week 2 courseware
+       - [ ] Week 3 courseware
+       - [ ] Week 4 courseware
+
+* PLAN
