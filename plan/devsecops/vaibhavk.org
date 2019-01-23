@@ -83,11 +83,51 @@
 ** Projects
 *** [[https://github.com/taskcluster][TaskCluster]]
 *** [[https://github.com/kubernetes/][Kubernetes]]
+**** [[https://kubernetes.io/docs/tutorials/][Tutorial]] [0/6]
+     - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/][Create a Cluster]]
+     - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/][Using kubectl to Create a Deployment]]
+     - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/][Viewing Pods and Nodes]]
+     - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/][Using a Service to Expose Your App]]
+     - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/scale/scale-intro/][Running Multiple Instances of Your App]]
+     - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/][Performing a Rolling Update]]
+**** [[https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/][Configuring Redis using a ConfigMap]]
 * PLAN 
-** Sprint 6 Feb - 19 Feb
+** vaibhavk
   :PROPERTIES:
   :ID:       TASKS
-  :SPRINTLENGTH: 15
-  :SPRINTSTART: <2019-02-06 Wed>
-  :wpd-vaibhavk: 
+  :SPRINTLENGTH: 16
+  :SPRINTSTART: <2019-01-21 Mon>
+  :wpd-vaibhavk: 1.5
   :END:
+*** Computer Network by Kruose & Ross
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: READ.1548224363
+    :TASKID: READ.1548224363
+    :END:
+**** Chapter 6. Wireless and Mobile Network
+*** Kubernetes Tutorial
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: DEV.1548225186
+    :TASKID: DEV.1548225186
+    :END:
+   - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/][Create a Cluster]] (1h)
+   - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/][Using kubectl to Create a Deployment]] (1h 30m)
+   - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/][Viewing Pods and Nodes]] (2h)
+   - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/][Using a Service to Expose Your App]] (2h)
+   - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/scale/scale-intro/][Running Multiple Instances of Your App]] (2h)
+   - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/][Performing a Rolling Update]] (1h 30m)
+*** TaskCluster
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: DEV.1548225960
+    :TASKID: DEV.1548225960
+    :END:
+**** [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517015][Issue 1517015]]
