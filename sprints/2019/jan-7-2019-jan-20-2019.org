@@ -94,68 +94,51 @@
 
 ** bhavin192
 *** Learning Golang
-**** Chapter 10. Packages and the Go Tool [0/7]
+**** DONE Chapter 10. Packages and the Go Tool [7/7]
+     CLOSED: [2019-01-14 Mon 20:07]
      :PROPERTIES:
      :ESTIMATED: 1.7
-     :ACTUAL:
+     :ACTUAL:   1.22
      :OWNER:    bhavin192
      :ID:       READ.1547127701
      :TASKID:   READ.1547127701
      :END:
-     - [ ] 10.1 Introduction            (5m)
-     - [ ] 10.2 Import Paths            (3m)
-     - [ ] 10.3 The Package Declaration (3m)
-     - [ ] 10.4 Import Declarations     (5m)
-     - [ ] 10.5 Blank Imports           (12m)
-     - [ ] 10.6 Packages and Naming     (10m)
-     - [ ] 10.7 The Go Tool             (1h)
-**** Chapter 10 Exercises [0/2]
+     :LOGBOOK:
+     CLOCK: [2019-01-14 Mon 19:44]--[2019-01-14 Mon 20:07] =>  0:23
+     CLOCK: [2019-01-14 Mon 19:23]--[2019-01-14 Mon 19:39] =>  0:16
+     CLOCK: [2019-01-14 Mon 19:15]--[2019-01-14 Mon 19:22] =>  0:07
+     CLOCK: [2019-01-09 Wed 18:50]--[2019-01-09 Wed 18:57] =>  0:07
+     CLOCK: [2019-01-09 Wed 18:42]--[2019-01-09 Wed 18:47] =>  0:05
+     CLOCK: [2019-01-08 Tue 23:04]--[2019-01-08 Tue 23:08] =>  0:04
+     CLOCK: [2019-01-08 Tue 19:57]--[2019-01-08 Tue 20:00] =>  0:03
+     CLOCK: [2019-01-08 Tue 19:48]--[2019-01-08 Tue 19:56] =>  0:08
+     :END:
+     - [X] 10.1 Introduction            (5m)
+     - [X] 10.2 Import Paths            (3m)
+     - [X] 10.3 The Package Declaration (3m)
+     - [X] 10.4 Import Declarations     (5m)
+     - [X] 10.5 Blank Imports           (12m)
+     - [X] 10.6 Packages and Naming     (10m)
+     - [X] 10.7 The Go Tool             (1h)
+**** DONE Chapter 10 Exercises [2/2]
+     CLOSED: [2019-01-15 Tue 23:20]
      :PROPERTIES:
      :ESTIMATED: 2.25
-     :ACTUAL:
+     :ACTUAL:   4.05
      :OWNER:    bhavin192
      :ID:       DEV.1547127751
      :TASKID:   DEV.1547127751
      :END:
-     - [ ] 10.5 (1h)
-     - [ ] 10.7 (1.25h)
-**** Chapter 11. Testing [0/6]
-     :PROPERTIES:
-     :ESTIMATED: 3
-     :ACTUAL:
-     :OWNER:    bhavin192
-     :ID:       READ.1547130354
-     :TASKID:   READ.1547130354
+     :LOGBOOK:
+     CLOCK: [2019-01-15 Tue 22:23]--[2019-01-15 Tue 23:20] =>  0:57
+     CLOCK: [2019-01-14 Mon 22:04]--[2019-01-14 Mon 22:16] =>  0:12
+     CLOCK: [2019-01-14 Mon 19:40]--[2019-01-14 Mon 19:43] =>  0:03
+     CLOCK: [2019-01-12 Sat 19:32]--[2019-01-12 Sat 20:11] =>  0:39
+     CLOCK: [2019-01-12 Sat 18:25]--[2019-01-12 Sat 19:14] =>  0:49
+     CLOCK: [2019-01-12 Sat 17:26]--[2019-01-12 Sat 18:08] =>  0:42
+     CLOCK: [2019-01-10 Thu 21:53]--[2019-01-10 Thu 22:02] =>  0:09
+     CLOCK: [2019-01-09 Wed 19:33]--[2019-01-09 Wed 20:05] =>  0:32
      :END:
-     - [ ] 11.1 The go test Tool    (10m)
-     - [ ] 11.2 Test Functions      (1.7h)
-     - [ ] 11.3 Coverage            (20m)
-     - [ ] 11.4 Benchmark Functions (20m)
-     - [ ] 11.5 Profiling           (25m)
-     - [ ] 11.6 Example Functions   (5m)
-**** Chapter 11 Exercises [0/2]
-     :PROPERTIES:
-     :ESTIMATED: 4.25
-     :ACTUAL:
-     :OWNER:    bhavin192
-     :ID:       DEV.1547130395
-     :TASKID:   DEV.1547130395
-     :END:
-     - [ ] 11.2 (3h)
-     - [ ] 11.4 (1.25h)
-*** GNU Emacs bug triaging [0/2]
-    :PROPERTIES:
-    :ESTIMATED: 2
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       OPS.1545721236
-    :TASKID:   OPS.1545721236
-    :END:
-    - [ ] Build GNU Emacs 26.1 from source code
-    - [ ] Triage 5 bugs
-      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33983][#33983]]
-      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33979][#33979]]
-      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33973][#33973]]
-      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33921][#33921]]
-      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33900][#33900]]
+     - [X] 10.5 (1h)
+     - [X] 10.7 (1.25h)
 
