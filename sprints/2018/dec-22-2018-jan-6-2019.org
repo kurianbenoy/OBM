@@ -6,21 +6,28 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO                                            | NEXT | IN_PROGRESS                                | WAITING | DONE                                                         | CANCELED |
-|-------------------------------------------------+------+--------------------------------------------+---------+--------------------------------------------------------------+----------|
-| READ.1545856561. Linux Kernel Module Programmin |      | OPS.1545721236. GNU Emacs bug triaging     |         | DEV.1545719190. Chapter 8 Exercises (2019-01-02)             |          |
-| READ.1545903248. Euler Project Challenges       |      | READ.1545856251. Standard Template Library |         | READ.1545719105. Chapter 8. Goroutines and Chan (2019-01-01) |          |
-| WRITE.1545909518. Blog                          |      |                                            |         | read.1545506880. [[https://www.shellscript.sh][ (2019-01-01) |          |
-| dev.1545507526. [[https://www.shellscript.sh/e  |      |                                            |         | READ.1539457208. freeCodeCamp: Javascript Algor (2018-12-30) |          |
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | READ.1538996950. [#A] Linux for you and me (2019-12-29)      |          |
+|      |      |             |         | READ.1539000246. [[https://www.hackerearth.com/ (2019-12-27) |          |
+|      |      |             |         | READ.1545719340. Chapter 9. Concurrency with Sh (2019-01-06) |          |
+|      |      |             |         | DEV.1545719399. Chapter 9 Exercises (2019-01-06)             |          |
+|      |      |             |         | read.1545507998. Blog Post (2019-01-06)                      |          |
+|      |      |             |         | dev.1545507526. [[https://www.shellscript.sh/e (2019-01-04)  |          |
+|      |      |             |         | READ.1545856251. Standard Template Library (2019-01-03)      |          |
+|      |      |             |         | DEV.1545719190. Chapter 8 Exercises (2019-01-02)             |          |
+|      |      |             |         | READ.1545719105. Chapter 8. Goroutines and Chan (2019-01-01) |          |
+|      |      |             |         | read.1545506880. [[https://www.shellscript.sh][ (2019-01-01) |          |
+|      |      |             |         | READ.1539457208. freeCodeCamp: Javascript Algor (2018-12-30) |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
-| NAME             | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
-|------------------+-----------+--------+------+-----------+--------------+------------|
-| Sidntrivedi      |         0 |      0 |    0 |         0 |   2019-01-03 | ---------- |
-| Sandeepk         |        13 |    5.5 |    7 |         6 |   2019-01-11 | #####----- |
-| Nightwarrior-Xxx |      17.0 |    5.0 |   10 |       7.0 |   2019-01-14 | ######---- |
-| Bhavin192        |     12.75 |   7.87 | 8.75 |         4 |   2019-01-09 | #######--- |
+| NAME             | ESTIMATED |             ACTUAL |  DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+-----------+--------------------+-------+-----------+--------------+------------|
+| Sidntrivedi      |         7 |               7.22 |     7 |         0 |   2019-01-24 | ########## |
+| Sandeepk         |      16.4 |              13.41 |  16.4 |         0 |   2019-01-24 | ########## |
+| Nightwarrior-Xxx |      11.5 |               5.68 |  11.5 |         0 |   2019-01-24 | ########## |
+| Bhavin192        |     14.25 | 10.989999999999998 | 14.25 |         0 |   2019-01-24 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -29,56 +36,50 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:16]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                 |
-|-----+------------+--------+-------+---------------------------------|
-|   1 | 2018-12-22 |  62.65 |    59 |                                 |
-|   2 | 2018-12-23 |  62.65 |    55 |                                 |
-|   3 | 2018-12-24 |  62.65 |    51 |                                 |
-|   4 | 2018-12-25 |  62.65 |    47 |                                 |
-|   5 | 2018-12-26 |  62.65 |    43 |                                 |
-|   6 | 2018-12-27 |  62.65 |    39 |                                 |
-|   7 | 2018-12-28 |  62.65 |    35 |                                 |
-|   8 | 2018-12-29 |  62.65 |    31 |                                 |
-|   9 | 2018-12-30 |  52.65 |    27 | READ.1539457208                 |
-|  10 | 2018-12-31 |  52.65 |    23 |                                 |
-|  11 | 2019-01-01 |   43.9 |    20 | read.1545506880 READ.1545719105 |
-|  12 | 2019-01-02 |   36.9 |    16 | DEV.1545719190                  |
-|  13 | 2019-01-03 |   36.9 |    12 |                                 |
-|  14 | 2019-01-04 |        |     8 |                                 |
-|  15 | 2019-01-05 |        |     4 |                                 |
-|  16 | 2019-01-06 |        |     0 |                                 |
+| DAY |       DATE |             ACTUAL | IDEAL | TASKS COMPLETED                                |
+|-----+------------+--------------------+-------+------------------------------------------------|
+|   1 | 2018-12-22 |              49.15 |    46 |                                                |
+|   2 | 2018-12-23 |              49.15 |    43 |                                                |
+|   3 | 2018-12-24 |              49.15 |    40 |                                                |
+|   4 | 2018-12-25 |              49.15 |    37 |                                                |
+|   5 | 2018-12-26 |              49.15 |    34 |                                                |
+|   6 | 2018-12-27 |              49.15 |    31 |                                                |
+|   7 | 2018-12-28 |              49.15 |    28 |                                                |
+|   8 | 2018-12-29 |              49.15 |    25 |                                                |
+|   9 | 2018-12-30 |              39.15 |    22 | READ.1539457208                                |
+|  10 | 2018-12-31 |              39.15 |    18 |                                                |
+|  11 | 2019-01-01 |               30.4 |    15 | read.1545506880 READ.1545719105                |
+|  12 | 2019-01-02 |               23.4 |    12 | DEV.1545719190                                 |
+|  13 | 2019-01-03 |               21.9 |     9 | READ.1545856251                                |
+|  14 | 2019-01-04 | 15.899999999999999 |     6 | dev.1545507526                                 |
+|  15 | 2019-01-05 | 15.899999999999999 |     3 |                                                |
+|  16 | 2019-01-06 |  6.999999999999998 |     0 | read.1545507998 DEV.1545719399 READ.1545719340 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                                                    | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED | ACTUAL |
-|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| TASKS                                                   |                  |                  | B        |             |     62.65 |  18.37 |
-|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| bhavin192                                               |                  |                  | B        |             |     18.25 |   7.87 |
-| Learning Golang                                         |                  |                  | B        |             |     14.25 |    7.3 |
-| Chapter 8. Goroutines and Channels                      | READ.1545719105  | bhavin192        | B        | DONE        |      1.75 |   1.28 |
-| Chapter 8 Exercises                                     | DEV.1545719190   | bhavin192        | B        | DONE        |         7 |   6.02 |
-| Chapter 9. Concurrency with Shared Variables            | READ.1545719340  | bhavin192        | B        |             |       3.5 |        |
-| Chapter 9 Exercises                                     | DEV.1545719399   | bhavin192        | B        |             |         2 |        |
-| GNU Emacs bug triaging                                  | OPS.1545721236   | bhavin192        | B        | IN_PROGRESS |         4 |   0.57 |
-|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| nightwarrior-xxx                                        |                  |                  | B        |             |      17.0 |    5.0 |
-| freeCodeCamp: Javascript Algorithms and Data Structures | READ.1539457208  | nightwarrior-xxx | B        | DONE        |        10 |   5.00 |
-| Linux Kernel Module Programming Guide                   | READ.1545856561  | nightwarrior-xxx | B        | TODO        |         3 |        |
-| Standard Template Library                               | READ.1545856251  | nightwarrior-xxx | B        | IN_PROGRESS |       1.5 |        |
-| Euler Project Challenges                                | READ.1545903248  | nightwarrior-xxx | B        | TODO        |       1.5 |        |
-| Blog                                                    | WRITE.1545909518 | nightwarrior-xxx | B        | TODO        |       1.0 |        |
-|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| sandeepK                                                |                  |                  | B        |             |      16.4 |    5.5 |
-| [[https://www.shellscript.sh][Shell Scripting Tutorial]]                                | read.1545506880  | sandeepk         | B        | DONE        |         7 |   5.50 |
-| [[https://www.shellscript.sh/exercises.html][Shell Script Exercise]]                                   | dev.1545507526   | sandeepk         | B        | TODO        |         6 |        |
-| Blog Post                                               | read.1545507998  | sandeepk         | B        |             |       3.4 |        |
-|---------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| sidntrivedi012                                          |                  |                  | B        |             |        11 |        |
-| Freecodecamp Javascript Algorithms and Data Structures  | DEV.1538995712   | sidntrivedi      | B        |             |         4 |        |
-| [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]]                             | READ.1539000246  | sidntrivedi      | B        |             |         3 |        |
-| Linux for you and me                                    | READ.1538996950  | sidntrivedi      | A        |             |         4 |        |
-| Blog                                                    |                  |                  | B        |             |           |        |
+| ITEM                                                    | TASKID          | OWNER            | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|---------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------------------|
+| TASKS                                                   |                 |                  | B        |      |     49.15 |               37.3 |
+|---------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------------------|
+| bhavin192                                               |                 |                  | B        |      |     14.25 | 10.989999999999998 |
+| Learning Golang                                         |                 |                  | B        |      |     14.25 | 10.989999999999998 |
+| Chapter 8. Goroutines and Channels                      | READ.1545719105 | bhavin192        | B        | DONE |      1.75 |               1.28 |
+| Chapter 8 Exercises                                     | DEV.1545719190  | bhavin192        | B        | DONE |         7 |               6.02 |
+| Chapter 9. Concurrency with Shared Variables            | READ.1545719340 | bhavin192        | B        | DONE |       3.5 |               2.32 |
+| Chapter 9 Exercises                                     | DEV.1545719399  | bhavin192        | B        | DONE |         2 |               1.37 |
+|---------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------------------|
+| nightwarrior-xxx                                        |                 |                  | B        |      |      11.5 |               5.68 |
+| freeCodeCamp: Javascript Algorithms and Data Structures | READ.1539457208 | nightwarrior-xxx | B        | DONE |        10 |               5.00 |
+| Standard Template Library                               | READ.1545856251 | nightwarrior-xxx | B        | DONE |       1.5 |               0.68 |
+|---------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------------------|
+| sandeepK                                                |                 |                  | B        |      |      16.4 |              13.41 |
+| [[https://www.shellscript.sh][Shell Scripting Tutorial]]                                | read.1545506880 | sandeepk         | B        | DONE |         7 |               5.50 |
+| [[https://www.shellscript.sh/exercises.html][Shell Script Exercise]]                                   | dev.1545507526  | sandeepk         | B        | DONE |         6 |               5.08 |
+| Blog Post                                               | read.1545507998 | sandeepk         | B        | DONE |       3.4 |               2.83 |
+|---------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------------------|
+| sidntrivedi012                                          |                 |                  | B        |      |         7 |               7.22 |
+| [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]]                             | READ.1539000246 | sidntrivedi      | B        | DONE |         3 |               3.80 |
+| Linux for you and me                                    | READ.1538996950 | sidntrivedi      | A        | DONE |         4 |               3.42 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -255,6 +256,7 @@
     - [X] Chapter 16 Interactive Shell (30m)
 
 *** DONE [[https://www.shellscript.sh/exercises.html][Shell Script Exercise]] [2/2]
+    CLOSED: [2019-01-04 Tue 21:40]
    :PROPERTIES:
    :ESTIMATED: 6
    :ACTUAL:   5.08
@@ -272,6 +274,7 @@
    - [X] Directory Traversal (2h)
 
 *** DONE Blog Post [5/5]
+    CLOSED: [2019-01-06 Sun 21:20]
     :PROPERTIES:
     :ESTIMATED: 3.4
     :ACTUAL:   2.83
@@ -292,19 +295,8 @@
     - [X] [[https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7][Static vs. Dynamic]] (20m)
     - [X] [[https://www.b-list.org/weblog/2018/nov/26/case/][Truths programmers should know about case]] (40m)
 ** sidntrivedi012
-*** TODO Freecodecamp Javascript Algorithms and Data Structures [0/4]
-    :PROPERTIES:
-    :ESTIMATED: 4
-    :ACTUAL:   1.27
-    :OWNER:    sidntrivedi
-    :ID:       DEV.1538995712
-    :TASKID:   DEV.1538995712
-    :END:      
-    - [ ] Debugging						()
-    - [ ] Basic Data Structures			                ()
-    - [ ] Basic Algorithm Scripting				()
-    - [ ] Object Oriented Programming				()
 *** DONE [[https://www.hackerearth.com/practice/codemonk/][HackerEarth Codemonk Series]] [1/1]
+    CLOSED: [2019-12-27 Thu 10:10]
     :PROPERTIES:
     :ESTIMATED: 3
     :ACTUAL:   3.80
@@ -319,6 +311,7 @@
     :END:      
     - [X] Standard Template Library 
 *** DONE [#A] Linux for you and me [2/2]
+    CLOSED: [2019-12-29 Sat 04:20]
     :PROPERTIES:
     :ESTIMATED: 4
     :ACTUAL:   3.42
@@ -333,14 +326,3 @@
     :END:      
     - [X] Useful Commands	()
     - [X] Users and groups	()
-*** TODO Blog
-    [[www.sidntrivedi012.github.io]]
-    :PROPERTIES:
-    :ESTIMATED: 1 
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: WRITE.1539072660
-    :TASKID: WRITE.1539072660
-    :END:      
-    - [ ] Write one blog.
-
