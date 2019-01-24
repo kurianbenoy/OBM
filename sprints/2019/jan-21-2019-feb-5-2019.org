@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2019-01-21 Mon>
   :wpd-jasonbraganza: 5
+  :wpd-sandeepk: 1.5
   :END:
 ** jasonbraganza
 *** NIOS Maths Text Book [0/10]
@@ -84,3 +85,27 @@
     - [ ] Module - X: Linear Programming and Mathematical Reasoning [0/2]
       - [ ] 2019-03-15 - 37 - Linear Programming
       - [ ] 2019-03-16 - 38 - Mathematical Reasoning
+** sandeepk
+*** [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 9
+    :ACTUAL:
+    :OWNER:    sandeepk
+    :ID:       READ.1548088815
+    :TASKID:   READ.1548088815
+    :END:
+    - [ ] Procrastination and Memory (5h)
+    - [ ] Renaissance Learning and Unlocking Your Potential (4h)
+*** Project Hacker News [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 15
+    :ACTUAL:   
+    :OWNER:    sandeepk
+    :ID:       DEV.1548171355
+    :TASKID:   DEV.1548171355
+    :END:
+    - [ ] Features Break Down (3h)
+    - [ ] Env SetUp (6h)
+    - [ ] Model Layout (6h)
+
+
