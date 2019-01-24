@@ -10,10 +10,6 @@
 *** [[https://github.com/python/cpython/blob/master/Lib/socket.py][Python Socket module Source Code]]
 ** Data-Structures & Algorithms 
 *** [#A] Practice Competitive Programming                              :code:
-    SCHEDULED: <2018-09-25 Tue .2d/4d>
-    :PROPERTIES:
-    :STYLE:    habbit
-    :END:
 **** [[https://www.codechef.com/certification/prepare#foundation][Reference]]
 ***** Array
 ***** Strings
@@ -49,8 +45,9 @@
 *** Network File System
 ** Database
 *** PostgreSQL
+*** NoSQL
+*** CockroachDB
 ** Development
-*** [#A] [[https://pybit.es/pages/challenges.html][PyBites Challenges]]
 *** [#B] Gophercise [0%]
   - [ ] Quiz Game
   - [ ] URL Shortener
@@ -69,15 +66,12 @@
   - [ ] Image Transform Service
   - [ ] Building Images
   - [ ] Building PDFs
-*** Testing
 ** Web Development
 *** [#A] Django
 **** [[https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps][Server-side website programming first steps]]
-**** [[https://docs.djangoproject.com/en/2.1/intro/][Django Project]]
 **** [[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django][MDN Django Docs]]
 *** Golang
 **** Golang Series [0%]
-   - [ ] Go Bootcamp Series
    - [ ] Go Web Applications
    - [ ] [[https://www.calhoun.io/series][Calhoun Series]]
 *** [#A] Create a Web-app
@@ -86,9 +80,15 @@
 *** SELinux
 *** OWASP and Security Practices
 ** Organizations
-*** Honeynet
 ** Projects
-*** [[https://github.com/github/hub][github/hub]]
-*** [[https://github.com/ipfs/go-ipfs][go-ipfs]]
 *** [[https://github.com/taskcluster][TaskCluster]]
-* PLAN
+*** [[https://github.com/kubernetes/][Kubernetes]]
+**** [[https://kubernetes.io/docs/tutorials/][Tutorial]] [0/6]
+     - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/][Create a Cluster]]
+     - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/][Using kubectl to Create a Deployment]]
+     - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/][Viewing Pods and Nodes]]
+     - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/][Using a Service to Expose Your App]]
+     - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/scale/scale-intro/][Running Multiple Instances of Your App]]
+     - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/][Performing a Rolling Update]]
+**** [[https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/][Configuring Redis using a ConfigMap]]
+* PLAN 
