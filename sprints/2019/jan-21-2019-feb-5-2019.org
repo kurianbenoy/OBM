@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2019-01-21 Mon>
   :wpd-jasonbraganza: 5
+  :wpd-vaibhavk: 1.5
   :END:
 ** jasonbraganza
 *** NIOS Maths Text Book [0/10]
@@ -84,3 +85,36 @@
     - [ ] Module - X: Linear Programming and Mathematical Reasoning [0/2]
       - [ ] 2019-03-15 - 37 - Linear Programming
       - [ ] 2019-03-16 - 38 - Mathematical Reasoning
+** vaibhavk
+*** Computer Network by Kruose & Ross [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: READ.1548224363
+    :TASKID: READ.1548224363
+    :END:
+    - [ ] Chapter 6. Wireless and Mobile Network
+*** Kubernetes Tutorial [0/6]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: DEV.1548225186
+    :TASKID: DEV.1548225186
+    :END:
+    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/][Create a Cluster]] (1h)
+    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/][Using kubectl to Create a Deployment]] (1h 30m)
+    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/][Viewing Pods and Nodes]] (2h)
+    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/][Using a Service to Expose Your App]] (2h)
+    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/scale/scale-intro/][Running Multiple Instances of Your App]] (2h)
+    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/][Performing a Rolling Update]] (1h 30m)
+*** TaskCluster
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: DEV.1548225960
+    :TASKID: DEV.1548225960
+    :END:
+**** [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517015][Issue 1517015]]

@@ -76,7 +76,6 @@
   :SPRINTLENGTH: 15
   :SPRINTSTART: <2018-11-23 Fri>
   :wpd-bhavin192: 1.25
-  :wpd-vaibhavk: 1.2
   :END:
 ** bhavin192
 *** DONE Learning Golang Chapter 7. Interfaces [8/8]
