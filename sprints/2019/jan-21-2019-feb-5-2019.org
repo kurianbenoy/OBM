@@ -154,7 +154,7 @@
 *** TODO [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] [1/2]
     :PROPERTIES:
     :ESTIMATED: 9
-    :ACTUAL:
+    :ACTUAL:   4.58
     :OWNER:    sandeepk
     :ID:       READ.1548088815
     :TASKID:   READ.1548088815
@@ -171,7 +171,7 @@
 *** TODO Project Hacker News [2/3]
     :PROPERTIES:
     :ESTIMATED: 15
-    :ACTUAL:   
+    :ACTUAL:   8.33
     :OWNER:    sandeepk
     :ID:       DEV.1548171355
     :TASKID:   DEV.1548171355
