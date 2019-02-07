@@ -25,11 +25,54 @@
   :ID:       TASKS
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2019-01-21 Mon>
+  :wpd-bhavin192: 0.5
   :wpd-jasonbraganza: 5
   :wpd-nightwarrior-xxx: 1.2
   :wpd-sandeepk: 1.5
   :wpd-vaibhavk: 1.5
   :END:
+** bhavin192
+*** Learning Golang
+**** Chapter 11. Testing [0/6]
+     :PROPERTIES:
+     :ESTIMATED: 2.5
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       READ.1547130354
+     :TASKID:   READ.1547130354
+     :END:
+     - [ ] 11.1 The go test Tool    (10m)
+     - [ ] 11.2 Test Functions      (1.7h)
+     - [ ] 11.3 Coverage            (20m)
+     - [ ] 11.4 Benchmark Functions (20m)
+     - [ ] 11.5 Profiling           (25m)
+     - [ ] 11.6 Example Functions   (5m)
+**** Chapter 11 Exercises [0/2]
+     :PROPERTIES:
+     :ESTIMATED: 3.35
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       DEV.1547130395
+     :TASKID:   DEV.1547130395
+     :END:
+     - [ ] 11.2 (3h)
+     - [ ] 11.4 (1.25h)
+*** GNU Emacs bug triaging [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       OPS.1545721236
+    :TASKID:   OPS.1545721236
+    :END:
+    - [ ] Build GNU Emacs 26.1 from source code
+    - [ ] Triage 5 bugs
+      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33983][#33983]]: c++-mode syntax highlighting after some symbols
+      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33979][#33979]]: python.el is not fully PEP 8 compliant for closing parens
+      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33973][#33973]]: Multi-line C++ raw string literal font lock is broken
+      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33921][#33921]]: Default height is inconsistently - and apparently
+        also incorrectly - documented
+      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33900][#33900]]: GNUmakefile mode colors fooled by colons in shell commands
 ** jasonbraganza
 *** NIOS Maths Text Book [0/10]
     :PROPERTIES:
@@ -224,4 +267,3 @@
     :TASKID: DEV.1548225960
     :END:
 **** [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517015][Issue 1517015]]
-
