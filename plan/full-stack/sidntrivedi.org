@@ -87,24 +87,17 @@
      :ID: READ.1545566270
      :TASKID: READ.1545566270
      :END:
-*** [#A] ExpressJS
-**** Nodeschool Expressworks
-     :PROPERTIES:
-     :ESTIMATED: 
-     :ACTUAL:
-     :OWNER: sidntrivedi
-     :ID: READ.1549886209
-     :TASKID: READ.1549886209
-     :END:
-**** Express Docs
+**** ExpressJS
+***** Nodeschool Expressworks
+      :PROPERTIES:
+      :ESTIMATED: 
+      :ACTUAL:
+      :OWNER: sidntrivedi
+      :ID: READ.1549886209
+      :TASKID: READ.1549886209
+      :END:
+***** Express Docs
 *** [#B] FCC Data Visualization on Web
-    :PROPERTIES:
-    :ESTIMATED: 
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: READ.1545412960
-    :TASKID: READ.1545412960
-    :END:
 *** [#C] HTTP and REST
 **** [[https://developer.mozilla.org/en-US/docs/Web/HTTP][MDN HTTP Tutorials]]
 *** [#C] Application Architecture
@@ -156,3 +149,34 @@
     :TASKID: WRITE.1539072660
     :END:      
 * PLAN
+** February  6, 2019 - February 18, 2019 (13 days)
+   :PROPERTIES:
+   :wpd-sidntrivedi: 0.5
+   :END:
+*** [[https://github.com/maxogden/art-of-node/#learn-node-interactively][Art of node]]
+    :PROPERTIES:
+    :ESTIMATED: 0.75
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1545566270
+    :TASKID: READ.1545566270
+    :END:      
+    - [ ] Understanding Node
+*** DS/Algo Foundation
+    :PROPERTIES:
+    :ESTIMATED: 1.75
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1549883885
+    :TASKID: READ.1549883885
+    :END:
+    - [ ] Asymptotic analysis (Big-O notation)
+*** Linux for you and me
+    :PROPERTIES:
+    :ESTIMATED: 1
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1538996950
+    :TASKID: READ.1538996950
+    :END:      
+    - [ ] File Permissions	()
