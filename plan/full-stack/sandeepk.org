@@ -3,40 +3,49 @@
 #+EMAIL: sandeepchoudhary1507@gmail.com
 #+TAGS: read write dev ops task event meeting # Need to be category
 * PLAN
-** February  6, 2019 - February  18, 2019 (13 days)
+** February  6, 2019 - February 18, 2019 (13 days)
    :PROPERTIES:
    :wpd-sandeepk: 1.5
    :END:
 
 *** Project Stacknews [0/2]
-   :PROPERTIES:
-   :ESTIMATED: 8
-   :ACTUAL:
-   :OWNER: sandeepk
-   :ID: DEV.1549808449
-   :TASKID: DEV.1549808449
-   :END:
-   - [ ] User Add/Delete/Password Forget (4h)
-   - [ ] Post Add/Delete (4h)
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1549808449
+    :TASKID: DEV.1549808449
+    :END:
+    - [ ] User Add/Delete/Password Forget (4h)
+    - [ ] Post Add/Delete (4h)
 
-*** Vue JS [0/3]
-   :PROPERTIES:
-   :ESTIMATED: 6
-   :ACTUAL:
-   :OWNER: sandeepk
-   :ID: READ.1549808642
-   :TASKID: READ.1549808642
-   :END:
-   - [ ] (1h)
-   - [ ] (2h)
-   - [ ] (3h)
+*** Vue JS [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1549808642
+    :TASKID: READ.1549808642
+    :END:
+    - [ ] Essentials (6h)
 
 *** Learning How to Learn [0/1]
-   :PROPERTIES:
-   :ESTIMATED: 4
-   :ACTUAL:
-   :OWNER: sandeepk
-   :ID: READ.1549808796
-   :TASKID: READ.1549808796
-   :END:
-   - [ ] Renaissance Learning and Unlocking Your Potential (4h)
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1549808796
+    :TASKID: READ.1549808796
+    :END:
+    - [ ] Renaissance Learning and Unlocking Your Potential (4h)
+
+*** Emacs Bug Process [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1549896237
+    :TASKID: READ.1549896237
+    :END:
+    - [ ] https://debbugs.gnu.org/server-control.html (1h)
+    - [ ] https://debbugs.gnu.org/server-request.html#introduction (1h)
