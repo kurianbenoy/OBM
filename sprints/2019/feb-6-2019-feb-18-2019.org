@@ -6,27 +6,77 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
+|------+------+-------------+---------+------+----------|
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME             | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+-----------+--------+------+-----------+--------------+------------|
+| Sidntrivedi      |         0 |      0 |    0 |         0 |   2019-02-13 | ---------- |
+| Sandeepk         |         0 |      0 |    0 |         0 |   2019-02-13 | ---------- |
+| Nightwarrior-Xxx |         0 |      0 |    0 |         0 |   2019-02-13 | ---------- |
+| Bhavin192        |         0 |      0 |    0 |         0 |   2019-02-13 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:13]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2019-02-06 |  41.25 |    38 |                 |
+|   2 | 2019-02-07 |  41.25 |    35 |                 |
+|   3 | 2019-02-08 |  41.25 |    32 |                 |
+|   4 | 2019-02-09 |  41.25 |    29 |                 |
+|   5 | 2019-02-10 |  41.25 |    25 |                 |
+|   6 | 2019-02-11 |  41.25 |    22 |                 |
+|   7 | 2019-02-12 |  41.25 |    19 |                 |
+|   8 | 2019-02-13 |  41.25 |    16 |                 |
+|   9 | 2019-02-14 |        |    13 |                 |
+|  10 | 2019-02-15 |        |    10 |                 |
+|  11 | 2019-02-16 |        |     6 |                 |
+|  12 | 2019-02-17 |        |     3 |                 |
+|  13 | 2019-02-18 |        |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                        | TASKID           | OWNER            | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|-----------------------------+------------------+------------------+----------+------+-----------+--------|
+| TASKS                       |                  |                  | B        |      |     41.25 |        |
+|-----------------------------+------------------+------------------+----------+------+-----------+--------|
+| bhavin192                   |                  |                  | B        |      |     12.75 |        |
+| Learning Golang             |                  |                  | B        |      |      8.75 |        |
+| Chapter 12. Reflection      | READ.1549470496  | bhavin192        | B        |      |         2 |        |
+| Chapter 12 Exercises        | DEV.1549470564   | bhavin192        | B        |      |      6.75 |        |
+| GNU Emacs bug triaging      | OPS.1549821237   | bhavin192        | B        |      |         2 |        |
+| Write blog post about Emacs | WRITE.1549821271 | bhavin192        | B        |      |         2 |        |
+|-----------------------------+------------------+------------------+----------+------+-----------+--------|
+| nightwarrior-xxx            |                  |                  | B        |      |         5 |        |
+| Learning Node               | DEV.1550008095   | nightwarrior-xxx | A        |      |         4 |        |
+| Sharing the Learning        | WRTIE.1550008405 | nightwarrior-xxx | B        |      |         1 |        |
+|-----------------------------+------------------+------------------+----------+------+-----------+--------|
+| sandeepk                    |                  |                  | B        |      |        20 |        |
+| Project Stacknews           | DEV.1549808449   | sandeepk         | B        |      |         8 |        |
+| Vue JS                      | READ.1549808642  | sandeepk         | B        |      |         6 |        |
+| Learning How to Learn       | READ.1549808796  | sandeepk         | B        |      |         4 |        |
+| Emacs Bug Process           | READ.1549896237  | sandeepk         | B        |      |         2 |        |
+|-----------------------------+------------------+------------------+----------+------+-----------+--------|
+| sidntrivedi                 |                  |                  | B        |      |       3.5 |        |
+| [[https://github.com/maxogden/art-of-node/#learn-node-interactively][Art of node]]                 | READ.1545566270  | sidntrivedi      | B        |      |      0.75 |        |
+| DS/Algo Foundation          | READ.1549883885  | sidntrivedi      | B        |      |      1.75 |        |
+| Linux for you and me        | READ.1538996950  | sidntrivedi      | B        |      |         1 |        |
 #+END:
 * TASKS
   :PROPERTIES:
   :ID:       TASKS
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2019-02-06 Wed>
-  :wpd:bhavin192: 1
-  :wpd-sandeepk: 1.5
+  :wpd-bhavin192: 1
+  :wpd-nightwarrior-xxx: 1.2
+  :wpd-sandeepk: 1.2
   :wpd-sidntrivedi: 0.5
   :END:
 ** bhavin192
@@ -77,6 +127,27 @@
     :ID:       WRITE.1549821271
     :TASKID:   WRITE.1549821271
     :END:
+** nightwarrior-xxx
+*** [#A] Learning Node [/]
+         :PROPERTIES:
+         :ESTIMATED: 4
+         :ACTUAL:
+         :OWNER: nightwarrior-xxx
+         :ID: DEV.1550008095
+         :TASKID: DEV.1550008095
+         :END:
+         - [ ] ES6/ES7
+         - [ ] MongoDB
+         - [ ] Express
+         - [ ] Socket.IO
+*** [#B] Sharing the Learning 
+         :PROPERTIES:
+         :ESTIMATED: 1
+         :ACTUAL:
+         :OWNER: nightwarrior-xxx
+         :ID: WRTIE.1550008405
+         :TASKID: WRTIE.1550008405
+         :END:
 ** sandeepk
 *** Project Stacknews [0/2]
     :PROPERTIES:
