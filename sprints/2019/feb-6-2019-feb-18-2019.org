@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2019-02-06 Wed>
   :wpd-sandeepk: 1.5
+  :wpd-sidntrivedi: 0.5
   :END:
 ** sandeepk
 *** Project Stacknews [0/2]
@@ -66,3 +67,31 @@
     :END:
     - [ ] https://debbugs.gnu.org/server-control.html (1h)
     - [ ] https://debbugs.gnu.org/server-request.html#introduction (1h)
+** sidntrivedi
+*** [[https://github.com/maxogden/art-of-node/#learn-node-interactively][Art of node]]
+    :PROPERTIES:
+    :ESTIMATED: 0.75
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1545566270
+    :TASKID: READ.1545566270
+    :END:      
+    - [ ] Understanding Node
+*** DS/Algo Foundation
+    :PROPERTIES:
+    :ESTIMATED: 1.75
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1549883885
+    :TASKID: READ.1549883885
+    :END:
+    - [ ] Asymptotic analysis (Big-O notation)
+*** Linux for you and me
+    :PROPERTIES:
+    :ESTIMATED: 1
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1538996950
+    :TASKID: READ.1538996950
+    :END:      
+    - [ ] File Permissions	()
