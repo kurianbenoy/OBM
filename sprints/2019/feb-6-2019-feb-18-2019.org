@@ -77,7 +77,6 @@
     :ID:       WRITE.1549821271
     :TASKID:   WRITE.1549821271
     :END:
->>>>>>> bhavin192/operation-blue-moon-master
 ** sandeepk
 *** Project Stacknews [0/2]
     :PROPERTIES:
