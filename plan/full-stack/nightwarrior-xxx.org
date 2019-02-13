@@ -461,6 +461,3 @@
          :END:
 ** February 19, 2019 - February 28, 2019 (10 days)
 ** March     1, 2019 - March     7, 2019 ( 7 days)
-   :LOGBOOK:
-   CLOCK: [2019-01-30 Wed 01:53]--[2019-01-30 Wed 02:28] =>  0:35
-   :END:
