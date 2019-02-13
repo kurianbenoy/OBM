@@ -157,6 +157,11 @@
     :ID: DEV.1549808449
     :TASKID: DEV.1549808449
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-02-10 Sun 16:00]--[2019-02-10 Sun 17:30] =>  1:30
+    CLOCK: [2019-02-09 Sat 21:00]--[2019-02-09 Sat 22:20] =>  1:20
+    CLOCK: [2019-02-09 Sat 13:00]--[2019-02-09 Sat 14:30] =>  1:30
+    :END:
     - [ ] User Add/Delete/Password Forget (4h)
     - [ ] Post Add/Delete (4h)
 *** Vue JS [0/1]
@@ -167,6 +172,9 @@
     :ID: READ.1549808642
     :TASKID: READ.1549808642
     :END:
+    :LOGBOOK:
+    CLOCK:
+    :END:
     - [ ] Essentials (6h)
 *** Learning How to Learn [0/1]
     :PROPERTIES:
@@ -176,6 +184,11 @@
     :ID: READ.1549808796
     :TASKID: READ.1549808796
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-02-13 Wed 20:00]--[2019-02-13 Wed 21:00] =>  1:00
+    CLOCK: [2019-02-08 Fri 21:00]--[2019-02-08 Fri 21:40] =>  0:40
+    CLOCK: [2019-02-07 Thu 20:30]--[2019-02-07 Thu 21:30] =>  1:00
+    :END:
     - [ ] Renaissance Learning and Unlocking Your Potential (4h)
 *** Emacs Bug Process [0/2]
     :PROPERTIES:
@@ -184,6 +197,9 @@
     :OWNER: sandeepk
     :ID: READ.1549896237
     :TASKID: READ.1549896237
+    :END:
+    :LOGBOOK:
+    CLOCK:
     :END:
     - [ ] https://debbugs.gnu.org/server-control.html (1h)
     - [ ] https://debbugs.gnu.org/server-request.html#introduction (1h)
