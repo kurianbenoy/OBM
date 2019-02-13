@@ -194,7 +194,8 @@
     - [ ] Processes
     - [ ] Threading
 ** sandeepk
-*** TODO [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] [1/2]
+*** DONE [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] - Part I [1/2]
+    CLOSED: [2019-02-05 Tue 23:30]
     :PROPERTIES:
     :ESTIMATED: 9
     :ACTUAL:   4.58
@@ -210,7 +211,6 @@
     CLOCK: [2019-01-26 Sat 13:00]--[2019-01-26 Sat 13:30] =>  0:30
     :END:
     - [X] Procrastination and Memory (5h)
-    - [ ] Renaissance Learning and Unlocking Your Potential (4h)
 *** DONE Project Hacker News [3/3]
     :PROPERTIES:
     :ESTIMATED: 15
