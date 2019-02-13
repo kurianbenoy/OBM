@@ -435,29 +435,5 @@
      - [ ] Telephone Number Validator
      - [ ] Cash Register 
 * PLAN:
-** February  6, 2019 - February 18, 2019 (13 days)
-    :PROPERTIES:
-    :wpd-nightwarrior-xxx: 1.2
-    :END:
-*** [#A] Learning Node [/]
-         :PROPERTIES:
-         :ESTIMATED: 4
-         :ACTUAL:
-         :OWNER: nightwarrior-xxx
-         :ID: DEV.1550008095
-         :TASKID: DEV.1550008095
-         :END:
-         - [ ] ES6/ES7
-         - [ ] MongoDB
-         - [ ] Express
-         - [ ] Socket.IO
-*** [#B] Sharing the Learning 
-         :PROPERTIES:
-         :ESTIMATED: 1
-         :ACTUAL:
-         :OWNER: nightwarrior-xxx
-         :ID: WRTIE.1550008405
-         :TASKID: WRTIE.1550008405
-         :END:
 ** February 19, 2019 - February 28, 2019 (10 days)
 ** March     1, 2019 - March     7, 2019 ( 7 days)

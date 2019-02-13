@@ -27,7 +27,6 @@
   :SPRINTSTART: <2019-01-21 Mon>
   :wpd-bhavin192: 0.5
   :wpd-jasonbraganza: 5
-  :wpd-nightwarrior-xxx: 1.2
   :wpd-sandeepk: 1.5
   :wpd-vaibhavk: 1.5
   :END:
@@ -130,75 +129,6 @@
     - [ ] Module - X: Linear Programming and Mathematical Reasoning [0/2]
       - [ ] 2019-03-15 - 37 - Linear Programming
       - [ ] 2019-03-16 - 38 - Mathematical Reasoning
-** nightwarrior-xxx
-*** [#A] Learning Node [3/7]
-    :PROPERTIES:
-    :ESTIMATED: 8
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: DEV.1548227691
-    :TASKID: DEV.1548227691
-    :END:
-    :LOGBOOK:
-    CLOCK: [2019-01-30 Wed 00:56]--[2019-01-30 Wed 01:53] =>  0:57
-    CLOCK: [2019-01-29 Tue 20:36]--[2019-01-29 Tue 20:53] =>  0:17
-    CLOCK: [2019-01-25 Fri 13:11]--[2019-01-25 Fri 13:36] =>  0:25
-    CLOCK: [2019-01-24 Thu 02:28]--[2019-01-24 Thu 03:17] =>  0:49
-    :END:
-    - [X] Node.js
-    - [X] Npm
-    - [X] Asynchronous programming
-    - [ ] ES6/ES7
-    - [ ] MongoDB
-    - [ ] Express
-    - [ ] Socket.IO
-*** [#A] Blog
-    :PROPERTIES:
-    :ESTIMATED: 1
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: WRITE.1548227615
-    :TASKID: WRITE.1548227615
-    :END:
-*** [#B] Cracking the HackerEarth [0/3]
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: WRITE.1548227737
-    :TASKID: WRITE.1548227737
-    :END:
-    - [ ] Segment Trees Problems
-    - [ ] Interval Trees Problems
-    - [ ] RB Trees Problems
-*** [#B] Advance Shell Scripting By TLDP [0/19]  
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: READ.1539458077
-    :TASKID: READ.1539458077
-    :END:
-    [[http://tldp.org/LDP/abs/html/]]
-    - [ ] cleanup: A script to clean up log files in /var/log
-    - [ ] cleanup: An improved clean-up script
-    - [ ] leanup: An enhanced and generalized version of above scripts.
-    - [ ] Code blocks and I/O redirection
-    - [ ] Saving the output of a code block to a file
-    - [ ] Running a loop in the background
-    - [ ] Backup of all files changed in last day
-    - [ ] Variable assignment and substitution
-    - [ ] Plain Variable Assignment
-    - [ ] Variable Assignment, plain and fancy
-    - [ ] Integer or string?
-    - [ ] Positional Parameters
-    - [ ] whois domain name lookup
-    - [ ] Using shift
-    - [ ] Echoing Weird Variables
-    - [ ] Escaped Characters
-    - [ ] Detecting key-presses
-    - [ ] Processes
-    - [ ] Threading
 ** sandeepk
 *** TODO [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] [1/2]
     :PROPERTIES:
