@@ -1,0 +1,146 @@
+#+TITLE: February 6-18, 2019 (13 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 13
+  :SPRINTSTART: <2019-02-06 Wed>
+  :wpd:bhavin192: 1
+  :wpd-sandeepk: 1.5
+  :wpd-sidntrivedi: 0.5
+  :END:
+** bhavin192
+*** Learning Golang
+**** Chapter 12. Reflection [0/6]
+     :PROPERTIES:
+     :ESTIMATED: 2
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       READ.1549470496
+     :TASKID:   READ.1549470496
+     :END:
+     - [ ] 12.1 Why Reflection?                      (7m)
+     - [ ] 12.2 reflect.Type and reflect.Value       (15m)
+     - [ ] 12.3 Display, a Recursive Value Printer   (40m)
+     - [ ] 12.4 Example: Encoding S-Expressions      (25m)
+     - [ ] 12.5 Setting Variables with reflect.Value (15m)
+     - [ ] 12.6 Example: Decoding S-Expressions      (25m)
+**** Chapter 12 Exercises [0/3]
+     :PROPERTIES:
+     :ESTIMATED: 6.75
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       DEV.1549470564
+     :TASKID:   DEV.1549470564
+     :END:
+     - [ ] 12.3        (1.75h)
+     - [ ] 12.4        (3h)
+     - [ ] 12.6 Part I (7h)
+*** GNU Emacs bug triaging
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       OPS.1549821237
+    :TASKID:   OPS.1549821237
+    :END:
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34268][#34268]]: wrong indentation in python mode
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34330][#34330]]: shell auto-complete cannot handle special characters
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34287][#34287]]: dired-do-rename vs. ls -R switch
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34267][#34267]]: Multiple themes in M-x customize-themes
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34397][#34397]]: completion forgets to escape "?"
+*** Write blog post about Emacs
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1549821271
+    :TASKID:   WRITE.1549821271
+    :END:
+** sandeepk
+*** Project Stacknews [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1549808449
+    :TASKID: DEV.1549808449
+    :END:
+    - [ ] User Add/Delete/Password Forget (4h)
+    - [ ] Post Add/Delete (4h)
+*** Vue JS [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1549808642
+    :TASKID: READ.1549808642
+    :END:
+    - [ ] Essentials (6h)
+*** Learning How to Learn [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1549808796
+    :TASKID: READ.1549808796
+    :END:
+    - [ ] Renaissance Learning and Unlocking Your Potential (4h)
+*** Emacs Bug Process [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1549896237
+    :TASKID: READ.1549896237
+    :END:
+    - [ ] https://debbugs.gnu.org/server-control.html (1h)
+    - [ ] https://debbugs.gnu.org/server-request.html#introduction (1h)
+** sidntrivedi
+*** [[https://github.com/maxogden/art-of-node/#learn-node-interactively][Art of node]]
+    :PROPERTIES:
+    :ESTIMATED: 0.75
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1545566270
+    :TASKID: READ.1545566270
+    :END:      
+    - [ ] Understanding Node
+*** DS/Algo Foundation
+    :PROPERTIES:
+    :ESTIMATED: 1.75
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1549883885
+    :TASKID: READ.1549883885
+    :END:
+    - [ ] Asymptotic analysis (Big-O notation)
+*** Linux for you and me
+    :PROPERTIES:
+    :ESTIMATED: 1
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1538996950
+    :TASKID: READ.1538996950
+    :END:      
+    - [ ] File Permissions	()
