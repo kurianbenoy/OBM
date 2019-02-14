@@ -200,11 +200,14 @@
 *** DS/Algo Foundation
     :PROPERTIES:
     :ESTIMATED: 1.75
-    :ACTUAL:
+    :ACTUAL:   1.02
     :OWNER: sidntrivedi
     :ID: READ.1549883885
     :TASKID: READ.1549883885
     :END:
+    :LOGBOOK:  
+    CLOCK: [2019-02-14 Thu 19:17]--[2019-02-14 Thu 20:18] =>  1:01
+    :END:      
     - [ ] Asymptotic analysis (Big-O notation)
 *** Linux for you and me
     :PROPERTIES:
