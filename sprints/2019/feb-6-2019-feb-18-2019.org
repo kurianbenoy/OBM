@@ -197,7 +197,7 @@
     :TASKID: READ.1545566270
     :END:      
     - [ ] Understanding Node
-*** DS/Algo Foundation
+*** IN_PROGRESS DS/Algo Foundation
     :PROPERTIES:
     :ESTIMATED: 1.75
     :ACTUAL:   1.02
