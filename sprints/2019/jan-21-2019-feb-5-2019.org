@@ -25,8 +25,81 @@
   :ID:       TASKS
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2019-01-21 Mon>
+  :wpd-bhavin192: 0.5
   :wpd-jasonbraganza: 5
+  :wpd-sandeepk: 1.5
+  :wpd-vaibhavk: 1.5
   :END:
+** bhavin192
+*** Learning Golang
+**** DONE Chapter 11. Testing [6/6]
+     CLOSED: [2019-01-30 Wed 22:43]
+     :PROPERTIES:
+     :ESTIMATED: 2.5
+     :ACTUAL:   1.37
+     :OWNER:    bhavin192
+     :ID:       READ.1547130354
+     :TASKID:   READ.1547130354
+     :END:
+     :LOGBOOK:
+     CLOCK: [2019-01-30 Wed 22:38]--[2019-01-30 Wed 22:43] =>  0:05
+     CLOCK: [2019-01-30 Wed 22:23]--[2019-01-30 Wed 22:37] =>  0:14
+     CLOCK: [2019-01-28 Mon 19:36]--[2019-01-28 Mon 19:48] =>  0:12
+     CLOCK: [2019-01-28 Mon 19:23]--[2019-01-28 Mon 19:35] =>  0:12
+     CLOCK: [2019-01-26 Sat 19:49]--[2019-01-26 Sat 19:53] =>  0:04
+     CLOCK: [2019-01-26 Sat 19:18]--[2019-01-26 Sat 19:32] =>  0:14
+     CLOCK: [2019-01-26 Sat 17:43]--[2019-01-26 Sat 17:59] =>  0:16
+     CLOCK: [2019-01-24 Thu 22:35]--[2019-01-24 Thu 22:40] =>  0:05
+     :END:
+     - [X] 11.1 The go test Tool    (10m)
+     - [X] 11.2 Test Functions      (1.7h)
+     - [X] 11.3 Coverage            (20m)
+     - [X] 11.4 Benchmark Functions (20m)
+     - [X] 11.5 Profiling           (25m)
+     - [X] 11.6 Example Functions   (5m)
+**** DONE Chapter 11 Exercises [2/2]
+     CLOSED: [2019-01-29 Tue 22:39]
+     :PROPERTIES:
+     :ESTIMATED: 3.35
+     :ACTUAL:   1.85
+     :OWNER:    bhavin192
+     :ID:       DEV.1547130395
+     :TASKID:   DEV.1547130395
+     :END:
+     :LOGBOOK:
+     CLOCK: [2019-01-29 Tue 22:10]--[2019-01-29 Tue 22:39] =>  0:29
+     CLOCK: [2019-01-26 Sat 19:41]--[2019-01-26 Sat 19:47] =>  0:06
+     CLOCK: [2019-01-26 Sat 17:37]--[2019-01-26 Sat 17:43] =>  0:06
+     CLOCK: [2019-01-22 Tue 20:18]--[2019-01-22 Tue 20:39] =>  0:21
+     CLOCK: [2019-01-21 Mon 20:51]--[2019-01-21 Mon 21:23] =>  0:32
+     CLOCK: [2019-01-21 Mon 20:08]--[2019-01-21 Mon 20:25] =>  0:17
+     :END:
+     - [X] 11.2 (3h)
+     - [X] 11.4 (1.25h)
+*** DONE GNU Emacs bug triaging [2/2]
+    CLOSED: [2019-02-05 Tue 23:59]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:   2.42
+    :OWNER:    bhavin192
+    :ID:       OPS.1545721236
+    :TASKID:   OPS.1545721236
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-02-05 Tue 23:25]--[2019-02-05 Tue 23:59] =>  0:34
+    CLOCK: [2019-02-04 Mon 19:35]--[2019-02-04 Mon 19:55] =>  0:20
+    CLOCK: [2019-02-02 Sat 11:09]--[2019-02-02 Sat 11:48] =>  0:39
+    CLOCK: [2019-01-31 Thu 21:20]--[2019-01-31 Thu 21:39] =>  0:19
+    CLOCK: [2019-01-30 Wed 17:12]--[2019-01-30 Wed 17:45] =>  0:33
+    :END:
+    - [X] Build GNU Emacs 26.1 from source code
+    - [X] Triage 5 bugs
+      - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33983][#33983]]: c++-mode syntax highlighting after some symbols
+      - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33979][#33979]]: python.el is not fully PEP 8 compliant for closing parens
+      - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33973][#33973]]: Multi-line C++ raw string literal font lock is broken
+      - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33921][#33921]]: Default height is inconsistently - and apparently
+        also incorrectly - documented
+      - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33900][#33900]]: GNUmakefile mode colors fooled by colons in shell commands
 ** jasonbraganza
 *** NIOS Maths Text Book [0/10]
     :PROPERTIES:
@@ -89,3 +162,79 @@
     - [ ] Module - X: Linear Programming and Mathematical Reasoning [0/2]
       - [ ] 2019-03-15 - 37 - Linear Programming
       - [ ] 2019-03-16 - 38 - Mathematical Reasoning
+** sandeepk
+*** DONE [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] - Part I [1/2]
+    CLOSED: [2019-02-05 Tue 23:30]
+    :PROPERTIES:
+    :ESTIMATED: 9
+    :ACTUAL:   4.58
+    :OWNER:    sandeepk
+    :ID:       READ.1548088815
+    :TASKID:   READ.1548088815
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-01-31 Thu 20:15]--[2019-01-31 Thu 21:35] =>  1:20
+    CLOCK: [2019-01-29 Tue 20:55]--[2019-01-29 Tue 22:00] =>  1:05
+    CLOCK: [2019-01-28 Mon 21:20]--[2019-01-28 Mon 22:25] =>  1:05
+    CLOCK: [2019-01-26 Sat 13:55]--[2019-01-26 Sat 14:30] =>  0:35
+    CLOCK: [2019-01-26 Sat 13:00]--[2019-01-26 Sat 13:30] =>  0:30
+    :END:
+    - [X] Procrastination and Memory (5h)
+*** DONE Project Hacker News [3/3]
+    :PROPERTIES:
+    :ESTIMATED: 15
+    :ACTUAL:   10.00
+    :OWNER:    sandeepk
+    :ID:       DEV.1548171355
+    :TASKID:   DEV.1548171355
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-02-05 Tue 20:20]--[2019-02-05 Tue 21:15] =>  0:55
+    CLOCK: [2019-02-04 Mon 20:30]--[2019-02-04 Mon 21:15] =>  0:45
+    CLOCK: [2019-02-03 Sun 16:00]--[2019-02-03 Sun 17:00] =>  1:00
+    CLOCK: [2019-02-02 Sat 20:00]--[2019-02-02 Sat 21:00] =>  1:00
+    CLOCK: [2019-01-30 Wed 21:00]--[2019-01-30 Wed 22:00] =>  1:00
+    CLOCK: [2019-01-30 Wed 14:00]--[2019-01-30 Wed 14:40] =>  0:40
+    CLOCK: [2019-01-27 Sun 17:00]--[2019-01-27 Sun 18:00] =>  1:00
+    CLOCK: [2019-01-27 Sun 14:00]--[2019-01-27 Sun 14:35] =>  0:35
+    CLOCK: [2019-01-26 Sat 21:00]--[2019-01-26 Sat 21:30] =>  0:30
+    CLOCK: [2019-01-26 Sat 19:00]--[2019-01-26 Sat 19:40] =>  0:40
+    CLOCK: [2019-01-21 Mon 23:00]--[2019-01-22 Tue 00:00] =>  1:00
+    CLOCK: [2019-01-21 Mon 21:35]--[2019-01-21 Mon 22:30] =>  0:55
+    :END:
+    - [X] Features Break Down (3h)
+    - [X] Env SetUp (6h)
+    - [X] Model Layout (6h)
+** vaibhavk
+*** Computer Network by Kruose & Ross [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: READ.1548224363
+    :TASKID: READ.1548224363
+    :END:
+    - [ ] Chapter 6. Wireless and Mobile Network
+*** Kubernetes Tutorial [0/6]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: DEV.1548225186
+    :TASKID: DEV.1548225186
+    :END:
+    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/][Create a Cluster]] (1h)
+    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/][Using kubectl to Create a Deployment]] (1h 30m)
+    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/][Viewing Pods and Nodes]] (2h)
+    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/][Using a Service to Expose Your App]] (2h)
+    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/scale/scale-intro/][Running Multiple Instances of Your App]] (2h)
+    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/][Performing a Rolling Update]] (1h 30m)
+*** TaskCluster
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: DEV.1548225960
+    :TASKID: DEV.1548225960
+    :END:
+**** [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517015][Issue 1517015]]

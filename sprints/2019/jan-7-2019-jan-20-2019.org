@@ -6,19 +6,60 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | READ.1546802118. Blog to Read (2019-01-17)                   |          |
+|      |      |             |         | DEV.1547127751. Chapter 10 Exercises (2019-01-15)            |          |
+|      |      |             |         | READ.1547127701. Chapter 10. Packages and the G (2019-01-14) |          |
+|      |      |             |         | READ.1546802528. Django Migraions (2019-01-13)               |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME      | ESTIMATED |            ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|-----------+-----------+-------------------+------+-----------+--------------+------------|
+| Bhavin192 |      3.95 |              5.27 | 3.95 |         0 |   2019-01-24 | ########## |
+| Sandeepk  |         5 | 4.970000000000001 |    5 |         0 |   2019-01-24 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:16]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE |                 ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+------------------------+-------+-----------------|
+|   1 | 2019-01-07 |                   8.95 |     8 |                 |
+|   2 | 2019-01-08 |                   8.95 |     8 |                 |
+|   3 | 2019-01-09 |                   8.95 |     7 |                 |
+|   4 | 2019-01-10 |                   8.95 |     7 |                 |
+|   5 | 2019-01-11 |                   8.95 |     6 |                 |
+|   6 | 2019-01-12 |                   8.95 |     6 |                 |
+|   7 | 2019-01-13 |      6.949999999999999 |     5 | READ.1546802528 |
+|   8 | 2019-01-14 |      5.249999999999999 |     4 | READ.1547127701 |
+|   9 | 2019-01-15 |      2.999999999999999 |     4 | DEV.1547127751  |
+|  10 | 2019-01-16 |      2.999999999999999 |     3 |                 |
+|  11 | 2019-01-17 | -8.881784197001252e-16 |     3 | READ.1546802118 |
+|  12 | 2019-01-18 | -8.881784197001252e-16 |     2 |                 |
+|  13 | 2019-01-19 | -8.881784197001252e-16 |     2 |                 |
+|  14 | 2019-01-20 | -8.881784197001252e-16 |     1 |                 |
+|  15 | 2019-01-21 | -8.881784197001252e-16 |     1 |                 |
+|  16 | 2019-01-22 | -8.881784197001252e-16 |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                 | TASKID          | OWNER     | PRIORITY | TODO | ESTIMATED |            ACTUAL |
+|--------------------------------------+-----------------+-----------+----------+------+-----------+-------------------|
+| TASKS                                |                 |           | B        |      |      8.95 |             10.24 |
+|--------------------------------------+-----------------+-----------+----------+------+-----------+-------------------|
+| sandeepK                             |                 |           | B        |      |         5 | 4.970000000000001 |
+| Blog to Read                         | READ.1546802118 | sandeepk  | B        | DONE |         3 |              2.97 |
+| Django Migraions                     | READ.1546802528 | sandeepk  | B        | DONE |         2 |              2.00 |
+|--------------------------------------+-----------------+-----------+----------+------+-----------+-------------------|
+| bhavin192                            |                 |           | B        |      |      3.95 |              5.27 |
+| Learning Golang                      |                 |           | B        |      |      3.95 |              5.27 |
+| Chapter 10. Packages and the Go Tool | READ.1547127701 | bhavin192 | B        | DONE |       1.7 |              1.22 |
+| Chapter 10 Exercises                 | DEV.1547127751  | bhavin192 | B        | DONE |      2.25 |              4.05 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -29,133 +70,96 @@
   :wpd-bhavin192: 1
   :END:
 ** sandeepK
-*** TODO [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] [2/4]
-   :PROPERTIES:
-   :ESTIMATED: 16
-   :ACTUAL:   5.28
-   :OWNER: sandeepk
-   :ID: READ.1546799863
-   :TASKID: READ.1546799863
-   :END:
-   :LOGBOOK:
-   CLOCK: [2019-01-18 Fri 21:33]--[2019-01-18 Fri 22:17] =>  0:44
-   CLOCK: [2019-01-16 Wed 21:02]--[2019-01-16 Wed 22:00] =>  0:58
-   CLOCK: [2019-01-13 Sun 22:10]--[2019-01-13 Sun 22:50] =>  0:40
-   CLOCK: [2019-01-09 Wed 21:05]--[2019-01-09 Wed 21:40] =>  0:35
-   CLOCK: [2019-01-09 Wed 20:02]--[2019-01-09 Wed 20:35] =>  0:33
-   CLOCK: [2019-01-08 Tue 20:08]--[2019-01-08 Tue 21:05] =>  0:57
-   CLOCK: [2019-01-07 Mon 20:10]--[2019-01-07 Mon 21:00] =>  0:50
-   :END:
-   - [X] What is Learning?                                 (5h)
-   - [X] Chunking                                          (2h)
-   - [ ] Procrastination and Memory                        (5h)
-   - [ ] Renaissance Learning and Unlocking Your Potential (4h)
 *** DONE Blog to Read [5/5]
-   :PROPERTIES:
-   :ESTIMATED: 3
-   :ACTUAL:   2.97
-   :OWNER: sandeepk
-   :ID: READ.1546802118
-   :TASKID: READ.1546802118
-   :END:
-   :LOGBOOK:
-   CLOCK: [2019-01-17 Thu 17:26]--[2019-01-17 Thu 17:50] =>  0:24
-   CLOCK: [2019-01-16 Wed 14:00]--[2019-01-16 Wed 14:20] =>  0:20
-   CLOCK: [2019-01-15 Tue 16:00]--[2019-01-15 Tue 16:38] =>  0:35
-   CLOCK: [2019-01-15 Tue 15:17]--[2019-01-15 Tue 15:43] =>  0:28
-   CLOCK: [2019-01-14 Mon 13:00]--[2019-01-14 Mon 13:15] =>  0:15
-   CLOCK: [2019-01-14 Mon 12:15]--[2019-01-14 Mon 12:30] =>  0:15
-   CLOCK: [2019-01-14 Mon 11:00]--[2019-01-14 Mon 11:15] =>  0:15
-   CLOCK: [2019-01-12 Sat 20:05]--[2019-01-12 Sat 20:30] =>  0:25
-   :END:
-   - [X] [[https://kwokchain.com/2018/11/09/selection-bias-in-poker/][Selection Bias Poker]]                               (20m)
-   - [X] [[https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3][OOP Python 3]]                                       (1h 20m)
-   - [X] Leadership Toolbox                                 (20m)
-   - [X] The 3-Step Evening Ritual That Will Make You Happy (20m)
-   - [X] Linux Services                                     (40m)
+    CLOSED: [2019-01-17 Thu 17:55]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:   2.97
+    :OWNER: sandeepk
+    :ID: READ.1546802118
+    :TASKID: READ.1546802118
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-01-17 Thu 17:26]--[2019-01-17 Thu 17:50] =>  0:24
+    CLOCK: [2019-01-16 Wed 14:00]--[2019-01-16 Wed 14:20] =>  0:20
+    CLOCK: [2019-01-15 Tue 16:00]--[2019-01-15 Tue 16:38] =>  0:35
+    CLOCK: [2019-01-15 Tue 15:17]--[2019-01-15 Tue 15:43] =>  0:28
+    CLOCK: [2019-01-14 Mon 13:00]--[2019-01-14 Mon 13:15] =>  0:15
+    CLOCK: [2019-01-14 Mon 12:15]--[2019-01-14 Mon 12:30] =>  0:15
+    CLOCK: [2019-01-14 Mon 11:00]--[2019-01-14 Mon 11:15] =>  0:15
+    CLOCK: [2019-01-12 Sat 20:05]--[2019-01-12 Sat 20:30] =>  0:25
+    :END:
+    - [X] [[https://kwokchain.com/2018/11/09/selection-bias-in-poker/][Selection Bias Poker]]                               (20m)
+    - [X] [[https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3][OOP Python 3]]                                       (1h 20m)
+    - [X] Leadership Toolbox                                 (20m)
+    - [X] The 3-Step Evening Ritual That Will Make You Happy (20m)
+    - [X] Linux Services                                     (40m)
 *** DONE Django Migraions [4/4]
-   :PROPERTIES:
-   :ESTIMATED: 2
-   :ACTUAL:   2.00
-   :OWNER: sandeepk
-   :ID: READ.1546802528
-   :TASKID: READ.1546802528
-   :END:
-   :LOGBOOK:
-   CLOCK: [2019-01-13 Sun 20:00]--[2019-01-13 Sun 20:25] =>  0:25
-   CLOCK: [2019-01-10 Thu 17:15]--[2019-01-10 Thu 17:40] =>  0:25
-   CLOCK: [2019-01-08 Tue 14:15]--[2019-01-08 Tue 15:00] =>  0:45
-   CLOCK: [2019-01-07 Mon 14:35]--[2019-01-07 Mon 15:00] =>  0:25
-   :END:
-   - [X] Data Migrations- A Primer      (30m)
-   - [X] Digging Deeper into Migrations (30m)
-   - [X] Django  Migrations             (30m)
-   - [X] Django 1.7 Migraions-primer    (30m)
-
+    CLOSED: [2019-01-13 Sun 20:30]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:   2.00
+    :OWNER: sandeepk
+    :ID: READ.1546802528
+    :TASKID: READ.1546802528
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-01-13 Sun 20:00]--[2019-01-13 Sun 20:25] =>  0:25
+    CLOCK: [2019-01-10 Thu 17:15]--[2019-01-10 Thu 17:40] =>  0:25
+    CLOCK: [2019-01-08 Tue 14:15]--[2019-01-08 Tue 15:00] =>  0:45
+    CLOCK: [2019-01-07 Mon 14:35]--[2019-01-07 Mon 15:00] =>  0:25
+    :END:
+    - [X] Data Migrations- A Primer      (30m)
+    - [X] Digging Deeper into Migrations (30m)
+    - [X] Django  Migrations             (30m)
+    - [X] Django 1.7 Migraions-primer    (30m)
 ** bhavin192
 *** Learning Golang
-**** Chapter 10. Packages and the Go Tool [0/7]
+**** DONE Chapter 10. Packages and the Go Tool [7/7]
+     CLOSED: [2019-01-14 Mon 20:07]
      :PROPERTIES:
      :ESTIMATED: 1.7
-     :ACTUAL:
+     :ACTUAL:   1.22
      :OWNER:    bhavin192
      :ID:       READ.1547127701
      :TASKID:   READ.1547127701
      :END:
-     - [ ] 10.1 Introduction            (5m)
-     - [ ] 10.2 Import Paths            (3m)
-     - [ ] 10.3 The Package Declaration (3m)
-     - [ ] 10.4 Import Declarations     (5m)
-     - [ ] 10.5 Blank Imports           (12m)
-     - [ ] 10.6 Packages and Naming     (10m)
-     - [ ] 10.7 The Go Tool             (1h)
-**** Chapter 10 Exercises [0/2]
+     :LOGBOOK:
+     CLOCK: [2019-01-14 Mon 19:44]--[2019-01-14 Mon 20:07] =>  0:23
+     CLOCK: [2019-01-14 Mon 19:23]--[2019-01-14 Mon 19:39] =>  0:16
+     CLOCK: [2019-01-14 Mon 19:15]--[2019-01-14 Mon 19:22] =>  0:07
+     CLOCK: [2019-01-09 Wed 18:50]--[2019-01-09 Wed 18:57] =>  0:07
+     CLOCK: [2019-01-09 Wed 18:42]--[2019-01-09 Wed 18:47] =>  0:05
+     CLOCK: [2019-01-08 Tue 23:04]--[2019-01-08 Tue 23:08] =>  0:04
+     CLOCK: [2019-01-08 Tue 19:57]--[2019-01-08 Tue 20:00] =>  0:03
+     CLOCK: [2019-01-08 Tue 19:48]--[2019-01-08 Tue 19:56] =>  0:08
+     :END:
+     - [X] 10.1 Introduction            (5m)
+     - [X] 10.2 Import Paths            (3m)
+     - [X] 10.3 The Package Declaration (3m)
+     - [X] 10.4 Import Declarations     (5m)
+     - [X] 10.5 Blank Imports           (12m)
+     - [X] 10.6 Packages and Naming     (10m)
+     - [X] 10.7 The Go Tool             (1h)
+**** DONE Chapter 10 Exercises [2/2]
+     CLOSED: [2019-01-15 Tue 23:20]
      :PROPERTIES:
      :ESTIMATED: 2.25
-     :ACTUAL:
+     :ACTUAL:   4.05
      :OWNER:    bhavin192
      :ID:       DEV.1547127751
      :TASKID:   DEV.1547127751
      :END:
-     - [ ] 10.5 (1h)
-     - [ ] 10.7 (1.25h)
-**** Chapter 11. Testing [0/6]
-     :PROPERTIES:
-     :ESTIMATED: 3
-     :ACTUAL:
-     :OWNER:    bhavin192
-     :ID:       READ.1547130354
-     :TASKID:   READ.1547130354
+     :LOGBOOK:
+     CLOCK: [2019-01-15 Tue 22:23]--[2019-01-15 Tue 23:20] =>  0:57
+     CLOCK: [2019-01-14 Mon 22:04]--[2019-01-14 Mon 22:16] =>  0:12
+     CLOCK: [2019-01-14 Mon 19:40]--[2019-01-14 Mon 19:43] =>  0:03
+     CLOCK: [2019-01-12 Sat 19:32]--[2019-01-12 Sat 20:11] =>  0:39
+     CLOCK: [2019-01-12 Sat 18:25]--[2019-01-12 Sat 19:14] =>  0:49
+     CLOCK: [2019-01-12 Sat 17:26]--[2019-01-12 Sat 18:08] =>  0:42
+     CLOCK: [2019-01-10 Thu 21:53]--[2019-01-10 Thu 22:02] =>  0:09
+     CLOCK: [2019-01-09 Wed 19:33]--[2019-01-09 Wed 20:05] =>  0:32
      :END:
-     - [ ] 11.1 The go test Tool    (10m)
-     - [ ] 11.2 Test Functions      (1.7h)
-     - [ ] 11.3 Coverage            (20m)
-     - [ ] 11.4 Benchmark Functions (20m)
-     - [ ] 11.5 Profiling           (25m)
-     - [ ] 11.6 Example Functions   (5m)
-**** Chapter 11 Exercises [0/2]
-     :PROPERTIES:
-     :ESTIMATED: 4.25
-     :ACTUAL:
-     :OWNER:    bhavin192
-     :ID:       DEV.1547130395
-     :TASKID:   DEV.1547130395
-     :END:
-     - [ ] 11.2 (3h)
-     - [ ] 11.4 (1.25h)
-*** GNU Emacs bug triaging [0/2]
-    :PROPERTIES:
-    :ESTIMATED: 2
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       OPS.1545721236
-    :TASKID:   OPS.1545721236
-    :END:
-    - [ ] Build GNU Emacs 26.1 from source code
-    - [ ] Triage 5 bugs
-      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33983][#33983]]
-      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33979][#33979]]
-      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33973][#33973]]
-      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33921][#33921]]
-      - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33900][#33900]]
+     - [X] 10.5 (1h)
+     - [X] 10.7 (1.25h)
 

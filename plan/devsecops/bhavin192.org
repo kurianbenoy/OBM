@@ -20,4 +20,5 @@
 *** Container run times
 **** Read about existing run times
 ** Attend meetups
+** Write blog posts
 * PLAN

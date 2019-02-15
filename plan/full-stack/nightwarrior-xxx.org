@@ -222,25 +222,6 @@
     - [ ] Give Sibling Elements a Unique Key Attribute()
     - [ ] Use Array.filter() to Dynamically Filter an Array()
     - [ ] Render React on the Server with renderToString() [[https://docs.djangoproject.com/en/2.1/intro/]]
-      - [ ] Django app, part 1
-      - [ ] Django app, part 2
-      - [ ] Django app, part 3
-      - [ ] Django app, part 4
-      - [ ] Django app, part 5
-      - [ ] Django app, part 6
-      - [ ] Django app, part 7
-      - [ ] How to write reusable apps
-      - [ ] First patch for Django
-***** Django Girl's Tutorials [/]
-      [[https://tutorial.djangogirls.org/en/]]  
-      - [ ] Models
-      - [ ] Admin
-      - [ ] Urls
-      - [ ] Views
-      - [ ] ORM
-      - [ ] Data in Templates
-      - [ ] Templates
-      - [ ] Template Extending
 *** Backend FrameWorks  [/]
 **** Node [/]
      - [ ] Node.js
@@ -250,7 +231,7 @@
      - [ ] MongoDB
      - [ ] Express
      - [ ] Socket.IO
-     - [ ] JWT Authentication
+     - [ ] Jwt Authentication
      - [ ] Mongoose
      - [ ] Application deployment with Heroku
      - [ ] Version control with Git
@@ -453,5 +434,6 @@
      - [ ] Caesars Cipher
      - [ ] Telephone Number Validator
      - [ ] Cash Register 
-* PLAN
-
+* PLAN:
+** February 19, 2019 - February 28, 2019 (10 days)
+** March     1, 2019 - March     7, 2019 ( 7 days)
