@@ -149,60 +149,65 @@
          :TASKID: WRTIE.1550008405
          :END:
 ** sandeepk
-*** Project Stacknews [0/2]
+*** DONE Project Stacknews [2/2]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:
+    :ACTUAL:   7.33
     :OWNER: sandeepk
     :ID: DEV.1549808449
     :TASKID: DEV.1549808449
     :END:
     :LOGBOOK:
+    CLOCK: [2019-02-17 Sun 16:00]--[2019-02-17 Sun 18:00] =>  2:00
+    CLOCK: [2019-02-16 Sat 18:00]--[2019-02-16 Sat 19:00] =>  1:00
     CLOCK: [2019-02-10 Sun 16:00]--[2019-02-10 Sun 17:30] =>  1:30
     CLOCK: [2019-02-09 Sat 21:00]--[2019-02-09 Sat 22:20] =>  1:20
     CLOCK: [2019-02-09 Sat 13:00]--[2019-02-09 Sat 14:30] =>  1:30
     :END:
-    - [ ] User Add/Delete/Password Forget (4h)
-    - [ ] Post Add/Delete (4h)
-*** Vue JS [0/1]
+    - [X] User Add/Delete/Password Forget (4h)
+    - [X] Post Add/Delete (4h)
+*** TODO Vue JS [0/1]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:
+    :ACTUAL:   3.00
     :OWNER: sandeepk
     :ID: READ.1549808642
     :TASKID: READ.1549808642
     :END:
     :LOGBOOK:
-    CLOCK:
+    CLOCK: [2019-02-16 Sat 14:00]--[2019-02-16 Sat 16:00] =>  2:00
+    CLOCK: [2019-02-16 Sat 11:30]--[2019-02-16 Sat 12:30] =>  1:00
     :END:
     - [ ] Essentials (6h)
-*** Learning How to Learn [0/1]
+*** DONE Learning How to Learn [1/1]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   4.00
     :OWNER: sandeepk
     :ID: READ.1549808796
     :TASKID: READ.1549808796
     :END:
     :LOGBOOK:
+    CLOCK: [2019-02-15 Fri 20:20]--[2019-02-15 Fri 21:30] =>  1:10
     CLOCK: [2019-02-13 Wed 20:00]--[2019-02-13 Wed 21:00] =>  1:00
-    CLOCK: [2019-02-08 Fri 21:00]--[2019-02-08 Fri 21:40] =>  0:40
+    CLOCK: [2019-02-08 Fri 21:00]--[2019-02-08 Fri 21:50] =>  0:50
     CLOCK: [2019-02-07 Thu 20:30]--[2019-02-07 Thu 21:30] =>  1:00
     :END:
-    - [ ] Renaissance Learning and Unlocking Your Potential (4h)
-*** Emacs Bug Process [0/2]
+    - [X] Renaissance Learning and Unlocking Your Potential (4h)
+*** DONE Emacs Bug Process [2/2]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   1.42
     :OWNER: sandeepk
     :ID: READ.1549896237
     :TASKID: READ.1549896237
     :END:
     :LOGBOOK:
-    CLOCK:
+    CLOCK: [2019-02-17 Sun 12:00]--[2019-02-17 Sun 12:45] =>  0:45
+    CLOCK: [2019-02-15 Fri 17:30]--[2019-02-15 Fri 18:10] =>  0:40
     :END:
-    - [ ] https://debbugs.gnu.org/server-control.html (1h)
-    - [ ] https://debbugs.gnu.org/server-request.html#introduction (1h)
+    - [X] https://debbugs.gnu.org/server-control.html (1h)
+    - [X] https://debbugs.gnu.org/server-request.html#introduction (1h)
 ** sidntrivedi
 *** [[https://github.com/maxogden/art-of-node/#learn-node-interactively][Art of node]]
     :PROPERTIES:
