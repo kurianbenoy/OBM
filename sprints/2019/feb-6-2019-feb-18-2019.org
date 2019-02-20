@@ -188,33 +188,42 @@
     - [ ] https://debbugs.gnu.org/server-control.html (1h)
     - [ ] https://debbugs.gnu.org/server-request.html#introduction (1h)
 ** sidntrivedi
-*** [[https://github.com/maxogden/art-of-node/#learn-node-interactively][Art of node]]
+*** DONE [[https://github.com/maxogden/art-of-node/#learn-node-interactively][Art of node]]
     :PROPERTIES:
     :ESTIMATED: 0.75
-    :ACTUAL:
+    :ACTUAL:   1.00
     :OWNER: sidntrivedi
     :ID: READ.1545566270
     :TASKID: READ.1545566270
     :END:      
-    - [ ] Understanding Node
-*** DS/Algo Foundation
+    :LOGBOOK:  
+    CLOCK: [2019-02-18 Mon 19:55]--[2019-02-18 Mon 20:00] =>  0:05
+    CLOCK: [2019-02-18 Mon 22:05]--[2019-02-18 Mon 23:00] =>  0:55
+    :END:      
+    - [X] Understanding Node
+*** DONE DS/Algo Foundation
     :PROPERTIES:
     :ESTIMATED: 1.75
-    :ACTUAL:   1.02
+    :ACTUAL:   1.63
     :OWNER: sidntrivedi
     :ID: READ.1549883885
     :TASKID: READ.1549883885
-    :END:
+    :END:      
     :LOGBOOK:  
+    CLOCK: [2019-02-17 Sun 12:39]--[2019-02-17 Sun 13:16] =>  0:37
     CLOCK: [2019-02-14 Thu 19:17]--[2019-02-14 Thu 20:18] =>  1:01
     :END:      
-    - [ ] Asymptotic analysis (Big-O notation)
-*** Linux for you and me
+    - [X] Asymptotic analysis (Big-O notation)
+*** DONE Linux for you and me
     :PROPERTIES:
     :ESTIMATED: 1
-    :ACTUAL:
+    :ACTUAL:   0.73
     :OWNER: sidntrivedi
     :ID: READ.1538996950
     :TASKID: READ.1538996950
     :END:      
-    - [ ] File Permissions	()
+    :LOGBOOK:
+    CLOCK: [2019-02-18 Mon 23:10]--[2019-02-18 Mon 23:54] =>  0:0
+    :END:      
+    - [X] File Permissions	()
+      
