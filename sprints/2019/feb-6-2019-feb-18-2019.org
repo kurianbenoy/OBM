@@ -127,27 +127,6 @@
     :ID:       WRITE.1549821271
     :TASKID:   WRITE.1549821271
     :END:
-** nightwarrior-xxx
-*** [#A] Learning Node [/]
-         :PROPERTIES:
-         :ESTIMATED: 4
-         :ACTUAL:
-         :OWNER: nightwarrior-xxx
-         :ID: DEV.1550008095
-         :TASKID: DEV.1550008095
-         :END:
-         - [ ] ES6/ES7
-         - [ ] MongoDB
-         - [ ] Express
-         - [ ] Socket.IO
-*** [#B] Sharing the Learning 
-         :PROPERTIES:
-         :ESTIMATED: 1
-         :ACTUAL:
-         :OWNER: nightwarrior-xxx
-         :ID: WRTIE.1550008405
-         :TASKID: WRTIE.1550008405
-         :END:
 ** sandeepk
 *** DONE Project Stacknews [2/2]
     :PROPERTIES:
