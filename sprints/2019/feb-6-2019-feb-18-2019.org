@@ -81,52 +81,50 @@
   :END:
 ** bhavin192
 *** Learning Golang
-**** Chapter 12. Reflection [0/6]
+**** DONE Chapter 12. Reflection [6/6]
+     CLOSED: [2019-02-17 Sun 17:49]
      :PROPERTIES:
      :ESTIMATED: 2
-     :ACTUAL:
+     :ACTUAL:   2.37
      :OWNER:    bhavin192
      :ID:       READ.1549470496
      :TASKID:   READ.1549470496
      :END:
-     - [ ] 12.1 Why Reflection?                      (7m)
-     - [ ] 12.2 reflect.Type and reflect.Value       (15m)
-     - [ ] 12.3 Display, a Recursive Value Printer   (40m)
-     - [ ] 12.4 Example: Encoding S-Expressions      (25m)
-     - [ ] 12.5 Setting Variables with reflect.Value (15m)
-     - [ ] 12.6 Example: Decoding S-Expressions      (25m)
-**** Chapter 12 Exercises [0/3]
+     :LOGBOOK:
+     CLOCK: [2019-02-17 Sun 17:22]--[2019-02-17 Sun 17:49] =>  0:27
+     CLOCK: [2019-02-16 Sat 19:10]--[2019-02-16 Sat 19:35] =>  0:25
+     CLOCK: [2019-02-13 Wed 21:37]--[2019-02-13 Wed 21:56] =>  0:19
+     CLOCK: [2019-02-07 Thu 21:39]--[2019-02-07 Thu 22:17] =>  0:38
+     CLOCK: [2019-02-06 Wed 22:21]--[2019-02-06 Wed 22:48] =>  0:27
+     CLOCK: [2019-02-06 Wed 22:15]--[2019-02-06 Wed 22:21] =>  0:06
+     :END:
+     - [X] 12.1 Why Reflection?                      (7m)
+     - [X] 12.2 reflect.Type and reflect.Value       (15m)
+     - [X] 12.3 Display, a Recursive Value Printer   (40m)
+     - [X] 12.4 Example: Encoding S-Expressions      (25m)
+     - [X] 12.5 Setting Variables with reflect.Value (15m)
+     - [X] 12.6 Example: Decoding S-Expressions      (25m)
+**** DONE Chapter 12 Exercises [3/3]
+     CLOSED: [2019-02-16 Sat 17:48]
      :PROPERTIES:
      :ESTIMATED: 6.75
-     :ACTUAL:
+     :ACTUAL:   2.58
      :OWNER:    bhavin192
      :ID:       DEV.1549470564
      :TASKID:   DEV.1549470564
      :END:
-     - [ ] 12.3        (1.75h)
-     - [ ] 12.4        (3h)
-     - [ ] 12.6 Part I (7h)
-*** GNU Emacs bug triaging
-    :PROPERTIES:
-    :ESTIMATED: 2
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       OPS.1549821237
-    :TASKID:   OPS.1549821237
-    :END:
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34268][#34268]]: wrong indentation in python mode
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34330][#34330]]: shell auto-complete cannot handle special characters
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34287][#34287]]: dired-do-rename vs. ls -R switch
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34267][#34267]]: Multiple themes in M-x customize-themes
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34397][#34397]]: completion forgets to escape "?"
-*** Write blog post about Emacs
-    :PROPERTIES:
-    :ESTIMATED: 2
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       WRITE.1549821271
-    :TASKID:   WRITE.1549821271
-    :END:
+     :LOGBOOK:
+     CLOCK: [2019-02-16 Sat 17:23]--[2019-02-16 Sat 17:48] =>  0:25
+     CLOCK: [2019-02-16 Sat 16:09]--[2019-02-16 Sat 16:25] =>  0:16
+     CLOCK: [2019-02-13 Wed 22:36]--[2019-02-13 Wed 23:21] =>  0:45
+     CLOCK: [2019-02-13 Wed 22:20]--[2019-02-13 Wed 22:28] =>  0:08
+     CLOCK: [2019-02-13 Wed 19:42]--[2019-02-13 Wed 19:48] =>  0:06
+     CLOCK: [2019-02-11 Mon 22:25]--[2019-02-11 Mon 23:15] =>  0:50
+     CLOCK: [2019-02-07 Thu 22:50]--[2019-02-07 Thu 22:55] =>  0:05
+     :END:
+     - [X] 12.3        (1.75h)
+     - [X] 12.4        (3h)
+     - [X] 12.6 Part I (2h)
 ** sandeepk
 *** DONE Project Stacknews [2/2]
     :PROPERTIES:
