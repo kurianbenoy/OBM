@@ -6,19 +6,68 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | OPS.1545721236. GNU Emacs bug triaging (2019-02-05)          |          |
+|      |      |             |         | READ.1548140097. NIOS Maths Text Book - Part I (2019-02-05)  |          |
+|      |      |             |         | READ.1548088815. [[https://www.coursera.org/lea (2019-02-05) |          |
+|      |      |             |         | DEV.1548171355. Project Hacker News (2019-02-05)             |          |
+|      |      |             |         | READ.1547130354. Chapter 11. Testing (2019-01-30)            |          |
+|      |      |             |         | DEV.1547130395. Chapter 11 Exercises (2019-01-29)            |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME          | ESTIMATED |            ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|---------------+-----------+-------------------+------+-----------+--------------+------------|
+| Vaibhavk      |         0 |                 0 |    0 |         0 |   2019-02-21 | ---------- |
+| Sandeepk      |        24 |             14.58 |   24 |         0 |   2019-02-21 | ########## |
+| Jasonbraganza |         0 |                 0 |    0 |         0 |   2019-02-21 | ---------- |
+| Bhavin192     |      7.85 | 5.640000000000001 | 7.85 |         0 |   2019-02-21 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:16]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                               |
+|-----+------------+--------+-------+---------------------------------------------------------------|
+|   1 | 2019-01-21 |  81.85 |    77 |                                                               |
+|   2 | 2019-01-22 |  81.85 |    72 |                                                               |
+|   3 | 2019-01-23 |  81.85 |    67 |                                                               |
+|   4 | 2019-01-24 |  81.85 |    61 |                                                               |
+|   5 | 2019-01-25 |  81.85 |    56 |                                                               |
+|   6 | 2019-01-26 |  81.85 |    51 |                                                               |
+|   7 | 2019-01-27 |  81.85 |    46 |                                                               |
+|   8 | 2019-01-28 |  81.85 |    41 |                                                               |
+|   9 | 2019-01-29 |   78.5 |    36 | DEV.1547130395                                                |
+|  10 | 2019-01-30 |   76.0 |    31 | READ.1547130354                                               |
+|  11 | 2019-01-31 |   76.0 |    26 |                                                               |
+|  12 | 2019-02-01 |   76.0 |    20 |                                                               |
+|  13 | 2019-02-02 |   76.0 |    15 |                                                               |
+|  14 | 2019-02-03 |   76.0 |    10 |                                                               |
+|  15 | 2019-02-04 |   76.0 |     5 |                                                               |
+|  16 | 2019-02-05 |    0.0 |     0 | DEV.1548171355 READ.1548088815 READ.1548140097 OPS.1545721236 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                           | TASKID          | OWNER     | PRIORITY | TODO | ESTIMATED |            ACTUAL |
+|--------------------------------+-----------------+-----------+----------+------+-----------+-------------------|
+| TASKS                          |                 |           | B        |      |     81.85 |             35.22 |
+|--------------------------------+-----------------+-----------+----------+------+-----------+-------------------|
+| bhavin192                      |                 |           | B        |      |      7.85 | 5.640000000000001 |
+| Learning Golang                |                 |           | B        |      |      5.85 |              3.22 |
+| Chapter 11. Testing            | READ.1547130354 | bhavin192 | B        | DONE |       2.5 |              1.37 |
+| Chapter 11 Exercises           | DEV.1547130395  | bhavin192 | B        | DONE |      3.35 |              1.85 |
+| GNU Emacs bug triaging         | OPS.1545721236  | bhavin192 | B        | DONE |         2 |              2.42 |
+|--------------------------------+-----------------+-----------+----------+------+-----------+-------------------|
+| jasonbraganza                  |                 |           | B        |      |      50.0 |              15.0 |
+| NIOS Maths Text Book - Part I  | READ.1548140097 | shaks     | B        | DONE |      50.0 |             15.00 |
+|--------------------------------+-----------------+-----------+----------+------+-----------+-------------------|
+| sandeepk                       |                 |           | B        |      |        24 |             14.58 |
+| [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] - Part I | READ.1548088815 | sandeepk  | B        | DONE |         9 |              4.58 |
+| Project Hacker News            | DEV.1548171355  | sandeepk  | B        | DONE |        15 |             10.00 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -138,6 +187,7 @@
     :END:
     - [X] Procrastination and Memory (5h)
 *** DONE Project Hacker News [3/3]
+    CLOSED: [2019-02-05 Tue 23:30]
     :PROPERTIES:
     :ESTIMATED: 15
     :ACTUAL:   10.00
@@ -162,36 +212,3 @@
     - [X] Features Break Down (3h)
     - [X] Env SetUp (6h)
     - [X] Model Layout (6h)
-** vaibhavk
-*** Computer Network by Kruose & Ross [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:
-    :OWNER: vaibhavk
-    :ID: READ.1548224363
-    :TASKID: READ.1548224363
-    :END:
-    - [ ] Chapter 6. Wireless and Mobile Network
-*** Kubernetes Tutorial [0/6]
-    :PROPERTIES:
-    :ESTIMATED: 10
-    :ACTUAL:
-    :OWNER: vaibhavk
-    :ID: DEV.1548225186
-    :TASKID: DEV.1548225186
-    :END:
-    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/][Create a Cluster]] (1h)
-    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/][Using kubectl to Create a Deployment]] (1h 30m)
-    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/][Viewing Pods and Nodes]] (2h)
-    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/][Using a Service to Expose Your App]] (2h)
-    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/scale/scale-intro/][Running Multiple Instances of Your App]] (2h)
-    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/][Performing a Rolling Update]] (1h 30m)
-*** TaskCluster
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:
-    :OWNER: vaibhavk
-    :ID: DEV.1548225960
-    :TASKID: DEV.1548225960
-    :END:
-**** [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517015][Issue 1517015]]
