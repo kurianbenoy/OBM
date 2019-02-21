@@ -1,0 +1,196 @@
+#+TITLE: February 19-28, 2019 (10 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
+|------+------+-------------+---------+------+----------|
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+| NAME             | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+-----------+--------+------+-----------+--------------+------------|
+| Nightwarrior-Xxx |         0 |      0 |    0 |         0 |   2019-02-20 | ---------- |
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:10]"
+#+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2019-02-19 |     20 |    18 |                 |
+|   2 | 2019-02-20 |     20 |    16 |                 |
+|   3 | 2019-02-21 |        |    14 |                 |
+|   4 | 2019-02-22 |        |    12 |                 |
+|   5 | 2019-02-23 |        |    10 |                 |
+|   6 | 2019-02-24 |        |     8 |                 |
+|   7 | 2019-02-25 |        |     6 |                 |
+|   8 | 2019-02-26 |        |     4 |                 |
+|   9 | 2019-02-27 |        |     2 |                 |
+|  10 | 2019-02-28 |        |     0 |                 |
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                               | TASKID           | OWNER            | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|------------------------------------+------------------+------------------+----------+------+-----------+--------|
+| TASKS                              |                  |                  | B        |      |        20 |        |
+|------------------------------------+------------------+------------------+----------+------+-----------+--------|
+| nightwarrior-xxx                   |                  |                  | B        |      |        20 |        |
+| Understanding the concept of React | DEV.1550564523   | nightwarrior-xxx | A        |      |        19 |        |
+| Writing your learning              | WRITE.1550564807 | nightwarrior-xxx | B        |      |         1 |        |
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 10
+  :SPRINTSTART: <2019-02-19 Tue>
+  :wpd-jasonbraganza: 8
+  :wpd-nightwarrior-xxx: 2
+  :END:
+** jasonbraganza
+*** NIOS Maths Text Book [0/10]
+    :PROPERTIES:
+    :ESTIMATED: 50.0
+    :ACTUAL:
+    :OWNER: jasonbraganza
+    :ID: READ.1548140097
+    :TASKID: READ.1548140097
+    :END:
+    :LOGBOOK:
+    :END:
+    - [ ] Module - I [0/2]
+      - [ ] 2019-02-18 - 4 - Trigonometric Functions II
+      - [ ] 2019-02-19 - 5 - Relation between Sides and Angles of a Triangle
+    - [ ] Module - II: Sequences and series [0/2]
+      - [ ] 2019-02-20 - 6 - Sequences and series
+      - [ ] 2019-02-21 - 7 - Some special sequences
+    - [ ] Module - III: Algebra I [0/5]
+      - [ ] 2019-02-22 - 8 - Complex Numbers
+      - [ ] 2019-02-23 - 9 - Quadratic Equations and Linear Inequalities
+      - [ ] 2019-02-24 - 10 - Principle of Mathematical Induction
+      - [ ] 2019-02-27 - 11 - Permutations and Combinations
+      - [ ] 2019-02-28 - 12 - Binomial Theorem
+    - [ ] Module - IV: Co-ordinate Geometry [0/4]
+      - [ ] 2019-03-01 - 13 - Cartesian System of Rectangular Co-ordinates
+      - [ ] 2019-03-02 - 14 - Straight Lines
+      - [ ] 2019-03-03 - 15 - Circles
+      - [ ] 2019-03-04 - 16 - Conic Sections
+    - [ ] Module - V: Statistics and Probability [0/3]
+      - [ ] 2019-03-05 - 17 - Measures of Dispersion
+      - [ ] 2019-03-06 - 18 - Random Experiments and Events
+      - [ ] 2019-03-07 - 19 - Probability
+    - [ ] Module - VI: Algebra II [0/3]
+      - [ ] 2019-03-08 - 20 - Matrices
+      - [ ] 2019-03-09 - 21 - Determinants
+      - [ ] 2019-03-10 - 22 - Inverse of a Matrix and its Applications
+    - [ ] Module - VII: Relations and Functions [0/2]
+      - [ ] 2019-03-11 - 23 - Relations and Functions II
+      - [ ] 2019-03-12 - 24 - Inverse Trigonometric Functions
+    - [ ] Module - VIII: Calculus [0/8]
+      - [ ] 2019-03-13 - 25 -  Limits and Continuity
+      - [ ] 2019-03-14 - 26 - Differentiation
+      - [ ] 2019-03-15 - 27 - Differentiation of Trigonometric Functions
+      - [ ] 2019-03-16 - 28 - Differentiation of Exponential and Logarithmic functions
+      - [ ] 2019-03-17 - 29 - Application of Derivatives
+      - [ ] 2019-03-18 - 30 - Integration
+      - [ ] 2019-03-19 - 31 - Definite Integrals
+      - [ ] 2019-03-20 - 32 - Differential Integrals
+    - [ ] Module - IX: Vectors and Three Dimensional Geometry [0/4]
+      - [ ] 2019-03-21 - 33 - Introduction to Three Dimensional Geometry
+      - [ ] 2019-03-22 - 34 - Vectors
+      - [ ] 2019-03-23 - 35 - Plane
+      - [ ] 2019-03-24 - 36 - Straight Line
+    - [ ] Module - X: Linear Programming and Mathematical Reasoning [0/2]
+      - [ ] 2019-03-25 - 37 - Linear Programming
+      - [ ] 2019-03-26 - 38 - Mathematical Reasoning
+*** NIOS Accounts Text Book [0/10]
+    :PROPERTIES:
+    :ESTIMATED: 30.0
+    :ACTUAL:
+    :OWNER: jasonbraganza
+    :ID: READ.1548140097
+    :TASKID: READ.1548140097
+    :END:
+    :LOGBOOK:
+    :END:
+    - [ ] Module - I: Basic Accounting [0/5]
+      - [ ] 2019-02-18 - 1 - Accounting - An Introduction
+      - [ ] 2019-02-19 - 2 - Accounting Concepts
+      - [ ] 2019-02-20 - 3 - Accounting Conventions and Standards
+      - [ ] 2019-02-21 - 4 - Accounting for Business Transactions
+      - [ ] 2019-02-22 - 5 - Journal
+      - [ ] 2019-02-23 - 6 - Ledger
+      - [ ] 2019-02-24 - 7 - Cash Book
+      - [ ] 2019-02-27 - 8 - Special Purpose Books
+    - [ ] Module - II: Trial Balance and Computers [0/5]
+      - [ ] 2019-02-28 - 9 - Trial Balance
+      - [ ] 2019-03-01 - 10 - Bank Reconciliation Statement
+      - [ ] 2019-03-02 - 11 - Bills of Exchange
+      - [ ] 2019-03-03 - 12 - Errors and their Rectification
+      - [ ] 2019-03-04 - 13 - Computer and Computerised Accounting System
+    - [ ] Module - III: Financial Statements [0/8]
+      - [ ] 2019-03-05 - 14 - Depreciation
+      - [ ] 2019-03-06 - 15 - Provision and Reserves
+      - [ ] 2019-03-07 - 16 - Financial Statements - An Introduction
+      - [ ] 2019-03-08 - 17 - Financial Statements I
+      - [ ] 2019-03-09 - 18 - Financial Statements II
+      - [ ] 2019-03-10 - 19 - Not for Profit Organisations - An Introduction
+      - [ ] 2019-03-11 - 20 - Financial Statements (Not for Profit Organisations)
+      - [ ] 2019-03-12 - 21 - Accounts From Incomplete Records
+    - [ ] Module - IV: Partnership Accounts [0/4]
+      - [ ] 2019-03-13 - 22 - Partnership - An Introduction
+      - [ ] 2019-03-14 - 23 - Admission of a Partner
+      - [ ] 2019-03-15 - 24 - Retirement and Death of a Partner
+      - [ ] 2019-03-16 - 25 - Dissolution of a partnership firm
+    - [ ] Module - V: Company Accounts [0/5]
+      - [ ] 2019-03-17 - 26 - Company - An Introduction
+      - [ ] 2019-03-18 - 27 - Issue of Shares
+      - [ ] 2019-03-19 - 28 - Forfeiture of Shares
+      - [ ] 2019-03-20 - 29 - Reissue of Forfeited Shares
+      - [ ] 2019-03-21 - 30 - Issue of Debentures
+    - [ ] Module - VI : Analysis of Financial Statements [0/4]
+      - [ ] 2019-03-22 - 31 - Financial Statements Analysis-An Introduction
+      - [ ] 2019-03-23 - 32 - Accounting Ratios-I
+      - [ ] 2019-03-24 - 33 - Accounting Ratios-II
+      - [ ] 2019-03-25 - 34 - Cash Flow Statement
+    - [ ] Module - VII: Application of Computers in Financial Accounting [0/4]
+      - [ ] 2019-03-26 - 35 - Electronic Spread Sheet
+      - [ ] 2019-03-27 - 36 - Use of Spread-sheet in Business Application
+      - [ ] 2019-03-28 - 37 - Graphs and Charts for Business
+      - [ ] 2019-03-29 - 38 - Database Management System for Accounting
+** nightwarrior-xxx
+*** [#A] Understanding the concept of React [0/13]
+         :PROPERTIES:
+         :ESTIMATED: 19
+         :ACTUAL:
+         :OWNER: nightwarrior-xxx
+         :ID: DEV.1550564523
+         :TASKID: DEV.1550564523
+         :END:
+         - [ ] Getting Started
+         - [ ] Refreshing Next Generation JavaScript (Optional)
+         - [ ] Understanding the Base Features & Syntax
+         - [ ] Working with Lists and Conditionals
+         - [ ] Styling React Components & Elements
+         - [ ] Debugging React Apps
+         - [ ] Diving Deeper into Components & React Internals
+         - [ ] A Real App_ The Burger Builder (Basic Version)
+         - [ ] Reaching out to the Web (Http _ Ajax)
+         - [ ] Burger Builder Project_ Accessing a Server
+         - [ ] Multi-Page-Feeling in a Single-Page-App_ Routing 
+         - [ ] Adding Routing to our Burger Project
+         - [ ] Forms and Form Validation
+*** [#B] Writing your learning 
+         :PROPERTIES:
+         :ESTIMATED: 1
+         :ACTUAL:
+         :OWNER: nightwarrior-xxx
+         :ID: WRITE.1550564807
+         :TASKID: WRITE.1550564807
+         :END:
