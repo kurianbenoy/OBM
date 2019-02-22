@@ -6,17 +6,23 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
-|------+------+-------------+---------+------+----------|
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | DEV.1549808449. Project Stacknews (2019-02-18)               |          |
+|      |      |             |         | READ.1549808796. Learning How to Learn (2019-02-18)          |          |
+|      |      |             |         | READ.1549896237. Emacs Bug Process (2019-02-18)              |          |
+|      |      |             |         | READ.1545566270. [[https://github.com/maxogden/ (2019-02-18) |          |
+|      |      |             |         | READ.1549883885. DS/Algo Foundation (2019-02-18)             |          |
+|      |      |             |         | READ.1538996950. Linux for you and me (2019-02-18)           |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME             | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |------------------+-----------+--------+------+-----------+--------------+------------|
-| Sidntrivedi      |         0 |      0 |    0 |         0 |   2019-02-13 | ---------- |
-| Sandeepk         |         0 |      0 |    0 |         0 |   2019-02-13 | ---------- |
-| Nightwarrior-Xxx |         0 |      0 |    0 |         0 |   2019-02-13 | ---------- |
-| Bhavin192        |         0 |      0 |    0 |         0 |   2019-02-13 | ---------- |
+| Sidntrivedi      |       3.5 |   3.36 |  3.5 |         0 |   2019-02-21 | ########## |
+| Sandeepk         |        14 |  12.75 |   14 |         0 |   2019-02-21 | ########## |
+| Nightwarrior-Xxx |         0 |      0 |    0 |         0 |   2019-02-21 | ---------- |
+| Bhavin192        |         0 |      0 |    0 |         0 |   2019-02-21 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -25,49 +31,44 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:13]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2019-02-06 |  41.25 |    38 |                 |
-|   2 | 2019-02-07 |  41.25 |    35 |                 |
-|   3 | 2019-02-08 |  41.25 |    32 |                 |
-|   4 | 2019-02-09 |  41.25 |    29 |                 |
-|   5 | 2019-02-10 |  41.25 |    25 |                 |
-|   6 | 2019-02-11 |  41.25 |    22 |                 |
-|   7 | 2019-02-12 |  41.25 |    19 |                 |
-|   8 | 2019-02-13 |  41.25 |    16 |                 |
-|   9 | 2019-02-14 |        |    13 |                 |
-|  10 | 2019-02-15 |        |    10 |                 |
-|  11 | 2019-02-16 |        |     6 |                 |
-|  12 | 2019-02-17 |        |     3 |                 |
-|  13 | 2019-02-18 |        |     0 |                 |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                                                                |
+|-----+------------+--------+-------+------------------------------------------------------------------------------------------------|
+|   1 | 2019-02-06 |  30.25 |    28 |                                                                                                |
+|   2 | 2019-02-07 |  30.25 |    26 |                                                                                                |
+|   3 | 2019-02-08 |  30.25 |    23 |                                                                                                |
+|   4 | 2019-02-09 |  30.25 |    21 |                                                                                                |
+|   5 | 2019-02-10 |  30.25 |    19 |                                                                                                |
+|   6 | 2019-02-11 |  30.25 |    16 |                                                                                                |
+|   7 | 2019-02-12 |  30.25 |    14 |                                                                                                |
+|   8 | 2019-02-13 |  30.25 |    12 |                                                                                                |
+|   9 | 2019-02-14 |  30.25 |     9 |                                                                                                |
+|  10 | 2019-02-15 |  30.25 |     7 |                                                                                                |
+|  11 | 2019-02-16 |  30.25 |     5 |                                                                                                |
+|  12 | 2019-02-17 |  30.25 |     2 |                                                                                                |
+|  13 | 2019-02-18 |  12.75 |     0 | READ.1538996950 READ.1549883885 READ.1545566270 READ.1549896237 READ.1549808796 DEV.1549808449 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                        | TASKID           | OWNER            | PRIORITY | TODO | ESTIMATED | ACTUAL |
-|-----------------------------+------------------+------------------+----------+------+-----------+--------|
-| TASKS                       |                  |                  | B        |      |     41.25 |        |
-|-----------------------------+------------------+------------------+----------+------+-----------+--------|
-| bhavin192                   |                  |                  | B        |      |     12.75 |        |
-| Learning Golang             |                  |                  | B        |      |      8.75 |        |
-| Chapter 12. Reflection      | READ.1549470496  | bhavin192        | B        |      |         2 |        |
-| Chapter 12 Exercises        | DEV.1549470564   | bhavin192        | B        |      |      6.75 |        |
-| GNU Emacs bug triaging      | OPS.1549821237   | bhavin192        | B        |      |         2 |        |
-| Write blog post about Emacs | WRITE.1549821271 | bhavin192        | B        |      |         2 |        |
-|-----------------------------+------------------+------------------+----------+------+-----------+--------|
-| nightwarrior-xxx            |                  |                  | B        |      |         5 |        |
-| Learning Node               | DEV.1550008095   | nightwarrior-xxx | A        |      |         4 |        |
-| Sharing the Learning        | WRTIE.1550008405 | nightwarrior-xxx | B        |      |         1 |        |
-|-----------------------------+------------------+------------------+----------+------+-----------+--------|
-| sandeepk                    |                  |                  | B        |      |        20 |        |
-| Project Stacknews           | DEV.1549808449   | sandeepk         | B        |      |         8 |        |
-| Vue JS                      | READ.1549808642  | sandeepk         | B        |      |         6 |        |
-| Learning How to Learn       | READ.1549808796  | sandeepk         | B        |      |         4 |        |
-| Emacs Bug Process           | READ.1549896237  | sandeepk         | B        |      |         2 |        |
-|-----------------------------+------------------+------------------+----------+------+-----------+--------|
-| sidntrivedi                 |                  |                  | B        |      |       3.5 |        |
-| [[https://github.com/maxogden/art-of-node/#learn-node-interactively][Art of node]]                 | READ.1545566270  | sidntrivedi      | B        |      |      0.75 |        |
-| DS/Algo Foundation          | READ.1549883885  | sidntrivedi      | B        |      |      1.75 |        |
-| Linux for you and me        | READ.1538996950  | sidntrivedi      | B        |      |         1 |        |
+| ITEM                        | TASKID           | OWNER       | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|-----------------------------+------------------+-------------+----------+------+-----------+--------|
+| TASKS                       |                  |             | B        |      |     30.25 |  16.11 |
+|-----------------------------+------------------+-------------+----------+------+-----------+--------|
+| bhavin192                   |                  |             | B        |      |     12.75 |        |
+| Learning Golang             |                  |             | B        |      |      8.75 |        |
+| Chapter 12. Reflection      | READ.1549470496  | bhavin192   | B        |      |         2 |        |
+| Chapter 12 Exercises        | DEV.1549470564   | bhavin192   | B        |      |      6.75 |        |
+| GNU Emacs bug triaging      | OPS.1549821237   | bhavin192   | B        |      |         2 |        |
+| Write blog post about Emacs | WRITE.1549821271 | bhavin192   | B        |      |         2 |        |
+|-----------------------------+------------------+-------------+----------+------+-----------+--------|
+| sandeepk                    |                  |             | B        |      |        14 |  12.75 |
+| Project Stacknews           | DEV.1549808449   | sandeepk    | B        | DONE |         8 |   7.33 |
+| Learning How to Learn       | READ.1549808796  | sandeepk    | B        | DONE |         4 |   4.00 |
+| Emacs Bug Process           | READ.1549896237  | sandeepk    | B        | DONE |         2 |   1.42 |
+|-----------------------------+------------------+-------------+----------+------+-----------+--------|
+| sidntrivedi                 |                  |             | B        |      |       3.5 |   3.36 |
+| [[https://github.com/maxogden/art-of-node/#learn-node-interactively][Art of node]]                 | READ.1545566270  | sidntrivedi | B        | DONE |      0.75 |   1.00 |
+| DS/Algo Foundation          | READ.1549883885  | sidntrivedi | B        | DONE |      1.75 |   1.63 |
+| Linux for you and me        | READ.1538996950  | sidntrivedi | B        | DONE |         1 |   0.73 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -81,54 +82,53 @@
   :END:
 ** bhavin192
 *** Learning Golang
-**** Chapter 12. Reflection [0/6]
+**** DONE Chapter 12. Reflection [6/6]
+     CLOSED: [2019-02-17 Sun 17:49]
      :PROPERTIES:
      :ESTIMATED: 2
-     :ACTUAL:
+     :ACTUAL:   2.37
      :OWNER:    bhavin192
      :ID:       READ.1549470496
      :TASKID:   READ.1549470496
      :END:
-     - [ ] 12.1 Why Reflection?                      (7m)
-     - [ ] 12.2 reflect.Type and reflect.Value       (15m)
-     - [ ] 12.3 Display, a Recursive Value Printer   (40m)
-     - [ ] 12.4 Example: Encoding S-Expressions      (25m)
-     - [ ] 12.5 Setting Variables with reflect.Value (15m)
-     - [ ] 12.6 Example: Decoding S-Expressions      (25m)
-**** Chapter 12 Exercises [0/3]
+     :LOGBOOK:
+     CLOCK: [2019-02-17 Sun 17:22]--[2019-02-17 Sun 17:49] =>  0:27
+     CLOCK: [2019-02-16 Sat 19:10]--[2019-02-16 Sat 19:35] =>  0:25
+     CLOCK: [2019-02-13 Wed 21:37]--[2019-02-13 Wed 21:56] =>  0:19
+     CLOCK: [2019-02-07 Thu 21:39]--[2019-02-07 Thu 22:17] =>  0:38
+     CLOCK: [2019-02-06 Wed 22:21]--[2019-02-06 Wed 22:48] =>  0:27
+     CLOCK: [2019-02-06 Wed 22:15]--[2019-02-06 Wed 22:21] =>  0:06
+     :END:
+     - [X] 12.1 Why Reflection?                      (7m)
+     - [X] 12.2 reflect.Type and reflect.Value       (15m)
+     - [X] 12.3 Display, a Recursive Value Printer   (40m)
+     - [X] 12.4 Example: Encoding S-Expressions      (25m)
+     - [X] 12.5 Setting Variables with reflect.Value (15m)
+     - [X] 12.6 Example: Decoding S-Expressions      (25m)
+**** DONE Chapter 12 Exercises [3/3]
+     CLOSED: [2019-02-16 Sat 17:48]
      :PROPERTIES:
      :ESTIMATED: 6.75
-     :ACTUAL:
+     :ACTUAL:   2.58
      :OWNER:    bhavin192
      :ID:       DEV.1549470564
      :TASKID:   DEV.1549470564
      :END:
-     - [ ] 12.3        (1.75h)
-     - [ ] 12.4        (3h)
-     - [ ] 12.6 Part I (7h)
-*** GNU Emacs bug triaging
-    :PROPERTIES:
-    :ESTIMATED: 2
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       OPS.1549821237
-    :TASKID:   OPS.1549821237
-    :END:
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34268][#34268]]: wrong indentation in python mode
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34330][#34330]]: shell auto-complete cannot handle special characters
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34287][#34287]]: dired-do-rename vs. ls -R switch
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34267][#34267]]: Multiple themes in M-x customize-themes
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34397][#34397]]: completion forgets to escape "?"
-*** Write blog post about Emacs
-    :PROPERTIES:
-    :ESTIMATED: 2
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       WRITE.1549821271
-    :TASKID:   WRITE.1549821271
-    :END:
+     :LOGBOOK:
+     CLOCK: [2019-02-16 Sat 17:23]--[2019-02-16 Sat 17:48] =>  0:25
+     CLOCK: [2019-02-16 Sat 16:09]--[2019-02-16 Sat 16:25] =>  0:16
+     CLOCK: [2019-02-13 Wed 22:36]--[2019-02-13 Wed 23:21] =>  0:45
+     CLOCK: [2019-02-13 Wed 22:20]--[2019-02-13 Wed 22:28] =>  0:08
+     CLOCK: [2019-02-13 Wed 19:42]--[2019-02-13 Wed 19:48] =>  0:06
+     CLOCK: [2019-02-11 Mon 22:25]--[2019-02-11 Mon 23:15] =>  0:50
+     CLOCK: [2019-02-07 Thu 22:50]--[2019-02-07 Thu 22:55] =>  0:05
+     :END:
+     - [X] 12.3        (1.75h)
+     - [X] 12.4        (3h)
+     - [X] 12.6 Part I (2h)
 ** sandeepk
 *** DONE Project Stacknews [2/2]
+    CLOSED: [2019-02-18 Mon 23:00]
     :PROPERTIES:
     :ESTIMATED: 8
     :ACTUAL:   7.33
@@ -146,6 +146,7 @@
     - [X] User Add/Delete/Password Forget (4h)
     - [X] Post Add/Delete (4h)
 *** DONE Learning How to Learn [1/1]
+    CLOSED: [2019-02-18 Mon 23:00]
     :PROPERTIES:
     :ESTIMATED: 4
     :ACTUAL:   4.00
@@ -161,6 +162,7 @@
     :END:
     - [X] Renaissance Learning and Unlocking Your Potential (4h)
 *** DONE Emacs Bug Process [2/2]
+    CLOSED: [2019-02-18 Mon 23:00]
     :PROPERTIES:
     :ESTIMATED: 2
     :ACTUAL:   1.42
@@ -175,33 +177,45 @@
     - [X] https://debbugs.gnu.org/server-control.html (1h)
     - [X] https://debbugs.gnu.org/server-request.html#introduction (1h)
 ** sidntrivedi
-*** [[https://github.com/maxogden/art-of-node/#learn-node-interactively][Art of node]]
+*** DONE [[https://github.com/maxogden/art-of-node/#learn-node-interactively][Art of node]]
+    CLOSED: [2019-02-18 Mon 23:00]
     :PROPERTIES:
     :ESTIMATED: 0.75
-    :ACTUAL:
+    :ACTUAL:   1.00
     :OWNER: sidntrivedi
     :ID: READ.1545566270
     :TASKID: READ.1545566270
     :END:      
-    - [ ] Understanding Node
-*** IN_PROGRESS DS/Algo Foundation
+    :LOGBOOK:  
+    CLOCK: [2019-02-18 Mon 19:55]--[2019-02-18 Mon 20:00] =>  0:05
+    CLOCK: [2019-02-18 Mon 22:05]--[2019-02-18 Mon 23:00] =>  0:55
+    :END:      
+    - [X] Understanding Node
+*** DONE DS/Algo Foundation
+    CLOSED: [2019-02-18 Mon 23:00]
     :PROPERTIES:
     :ESTIMATED: 1.75
-    :ACTUAL:   1.02
+    :ACTUAL:   1.63
     :OWNER: sidntrivedi
     :ID: READ.1549883885
     :TASKID: READ.1549883885
-    :END:
+    :END:      
     :LOGBOOK:  
+    CLOCK: [2019-02-17 Sun 12:39]--[2019-02-17 Sun 13:16] =>  0:37
     CLOCK: [2019-02-14 Thu 19:17]--[2019-02-14 Thu 20:18] =>  1:01
     :END:      
-    - [ ] Asymptotic analysis (Big-O notation)
-*** Linux for you and me
+    - [X] Asymptotic analysis (Big-O notation)
+*** DONE Linux for you and me
+    CLOSED: [2019-02-18 Mon 23:00]
     :PROPERTIES:
     :ESTIMATED: 1
-    :ACTUAL:
+    :ACTUAL:   0.73
     :OWNER: sidntrivedi
     :ID: READ.1538996950
     :TASKID: READ.1538996950
     :END:      
-    - [ ] File Permissions	()
+    :LOGBOOK:
+    CLOCK: [2019-02-18 Mon 23:10]--[2019-02-18 Mon 23:54] =>  0:0
+    :END:      
+    - [X] File Permissions	()
+      
