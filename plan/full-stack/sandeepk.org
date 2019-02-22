@@ -3,3 +3,39 @@
 #+EMAIL: sandeepchoudhary1507@gmail.com
 #+TAGS: read write dev ops task event meeting # Need to be category
 * PLAN
+** February 19, 2019 - February 28, 2019 (10 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1.5
+   :END:
+
+*** Django Project Optimization
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1550764743
+    :TASKID: READ.1550764743
+    :END:
+    - [ ] [[https://dizballanze.com/django-project-optimization-part-1/] [Part 1]] 3h
+    - [ ] [[https://dizballanze.com/en/django-project-optimization-part-2/] [Part 2]] 2h
+*** Project Stacknews
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1550765016
+    :TASKID: DEV.1550765016
+    :END:
+    - [ ] Front End User Interaction Page 4h
+    - [ ] Landing Page 3h
+*** Blog Writing
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: WRITE.1550819723
+    :TASKID: WRITE.1550819723
+    :END:
+    - [ ] Write blog for Music productivity 1h
+    - [ ] Write blog for shell script Notes 2h
+      
