@@ -112,10 +112,10 @@
     :TASKID:   WRITE.1549821271
     :END:
 ** jasonbraganza
-*** NIOS Maths Text Book [0/10]
+*** IN_PROGRESS NIOS Maths Text Book [0/10]
     :PROPERTIES:
     :ESTIMATED: 50.0
-    :ACTUAL:
+    :ACTUAL:   14.33
     :OWNER: jasonbraganza
     :ID: READ.1548140097
     :TASKID: READ.1548140097
@@ -123,7 +123,7 @@
     :LOGBOOK:
     CLOCK: [2019-02-22 Fri 15:30]--[2019-02-22 Fri 17:30] =>  2:00
     CLOCK: [2019-02-22 Fri 09:00]--[2019-02-22 Fri 14:30] =>  5:30
-    CLOCK: [2019-02-21 Thu 09:00]--[2019-03-21 Thu 15:50] =>  6:00
+    CLOCK: [2019-02-21 Thu 09:00]--[2019-02-21 Thu 15:50] =>  6:50
     :END:
     - [ ] Module - I [0/2]
       - [ ] 2019-02-18 - 4 - Trigonometric Functions II
