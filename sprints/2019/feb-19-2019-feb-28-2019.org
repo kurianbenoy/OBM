@@ -6,16 +6,18 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS | WAITING | DONE | CANCELED |
-|------+------+-------------+---------+------+----------|
+| TODO | NEXT | IN_PROGRESS                           | WAITING | DONE | CANCELED |
+|------+------+---------------------------------------+---------+------+----------|
+|      |      | READ.1548140097. NIOS Maths Text Book |         |      |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME             | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |------------------+-----------+--------+------+-----------+--------------+------------|
-| Nightwarrior-Xxx |         0 |      0 |    0 |         0 |   2019-02-21 | ---------- |
-| Jasonbraganza    |         0 |      0 |    0 |         0 |   2019-02-21 | ---------- |
-| Bhavin192        |         0 |      0 |    0 |         0 |   2019-02-21 | ---------- |
+| Sandeepk         |         0 |      0 |    0 |         0 |   2019-02-25 | ---------- |
+| Nightwarrior-Xxx |         0 |      0 |    0 |         0 |   2019-02-25 | ---------- |
+| Jasonbraganza    |      50.0 |  14.33 |    0 |      50.0 |   2019-03-06 | ---------- |
+| Bhavin192        |         0 |      0 |    0 |         0 |   2019-02-25 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -26,37 +28,42 @@
 #+BEGIN: block-update-burndown
 | DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
 |-----+------------+--------+-------+-----------------|
-|   1 | 2019-02-19 | 110.75 |   100 |                 |
-|   2 | 2019-02-20 | 110.75 |    89 |                 |
-|   3 | 2019-02-21 | 110.75 |    78 |                 |
-|   4 | 2019-02-22 |        |    66 |                 |
-|   5 | 2019-02-23 |        |    55 |                 |
-|   6 | 2019-02-24 |        |    44 |                 |
-|   7 | 2019-02-25 |        |    33 |                 |
-|   8 | 2019-02-26 |        |    22 |                 |
-|   9 | 2019-02-27 |        |    11 |                 |
+|   1 | 2019-02-19 | 125.75 |   113 |                 |
+|   2 | 2019-02-20 | 125.75 |   101 |                 |
+|   3 | 2019-02-21 | 125.75 |    88 |                 |
+|   4 | 2019-02-22 | 125.75 |    75 |                 |
+|   5 | 2019-02-23 | 125.75 |    63 |                 |
+|   6 | 2019-02-24 | 125.75 |    50 |                 |
+|   7 | 2019-02-25 | 125.75 |    38 |                 |
+|   8 | 2019-02-26 |        |    25 |                 |
+|   9 | 2019-02-27 |        |    13 |                 |
 |  10 | 2019-02-28 |        |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                               | TASKID           | OWNER            | PRIORITY | TODO | ESTIMATED | ACTUAL |
-|------------------------------------+------------------+------------------+----------+------+-----------+--------|
-| TASKS                              |                  |                  | B        |      |    110.75 |        |
-|------------------------------------+------------------+------------------+----------+------+-----------+--------|
-| bhavin192                          |                  |                  | B        |      |     10.75 |        |
-| Learning Golang                    |                  |                  | B        |      |       8.5 |        |
-| Chapter 12. Reflection             | READ.1550682829  | bhavin192        | B        |      |       0.5 |        |
-| Chapter 12 Exercises               | DEV.1550682876   | bhavin192        | B        |      |         8 |        |
-| GNU Emacs bug triaging             | OPS.1549821237   | bhavin192        | B        |      |      0.25 |        |
-| Write blog post about Emacs        | WRITE.1549821271 | bhavin192        | B        |      |         2 |        |
-|------------------------------------+------------------+------------------+----------+------+-----------+--------|
-| jasonbraganza                      |                  |                  | B        |      |      80.0 |        |
-| NIOS Maths Text Book               | READ.1548140097  | jasonbraganza    | B        |      |      50.0 |        |
-| NIOS Accounts Text Book            | READ.1548140097  | jasonbraganza    | B        |      |      30.0 |        |
-|------------------------------------+------------------+------------------+----------+------+-----------+--------|
-| nightwarrior-xxx                   |                  |                  | B        |      |        20 |        |
-| Understanding the concept of React | DEV.1550564523   | nightwarrior-xxx | A        |      |        19 |        |
-| Writing your learning              | WRITE.1550564807 | nightwarrior-xxx | B        |      |         1 |        |
+| ITEM                               | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED | ACTUAL |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| TASKS                              |                  |                  | B        |             |    125.75 |  14.33 |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| bhavin192                          |                  |                  | B        |             |     10.75 |        |
+| Learning Golang                    |                  |                  | B        |             |       8.5 |        |
+| Chapter 12. Reflection             | READ.1550682829  | bhavin192        | B        |             |       0.5 |        |
+| Chapter 12 Exercises               | DEV.1550682876   | bhavin192        | B        |             |         8 |        |
+| GNU Emacs bug triaging             | OPS.1549821237   | bhavin192        | B        |             |      0.25 |        |
+| Write blog post about Emacs        | WRITE.1549821271 | bhavin192        | B        |             |         2 |        |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| jasonbraganza                      |                  |                  | B        |             |      80.0 |  14.33 |
+| NIOS Maths Text Book               | READ.1548140097  | jasonbraganza    | B        | IN_PROGRESS |      50.0 |  14.33 |
+| NIOS Accounts Text Book            | READ.1548140097  | jasonbraganza    | B        |             |      30.0 |        |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| sandeepk                           |                  |                  | B        |             |        15 |        |
+| Django Project Optimization        | READ.1550764743  | sandeepk         | B        |             |         5 |        |
+| Project Stacknews                  | DEV.1550765016   | sandeepk         | B        |             |         7 |        |
+| Blog Writing                       | WRITE.1550819723 | sandeepk         | B        |             |         3 |        |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| nightwarrior-xxx                   |                  |                  | B        |             |        20 |        |
+| Understanding the concept of React | DEV.1550564523   | nightwarrior-xxx | A        |             |        19 |        |
+| Writing your learning              | WRITE.1550564807 | nightwarrior-xxx | B        |             |         1 |        |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -66,6 +73,10 @@
   :wpd-bhavin192: 1
   :wpd-jasonbraganza: 8
   :wpd-nightwarrior-xxx: 2
+<<<<<<< HEAD
+=======
+  :wpd-sandeepk: 1.5
+>>>>>>> skchoudhary/operation-blue-moon-master
   :END:
 ** bhavin192
 *** Learning Golang
@@ -225,6 +236,37 @@
       - [ ] 2019-03-27 - 36 - Use of Spread-sheet in Business Application
       - [ ] 2019-03-28 - 37 - Graphs and Charts for Business
       - [ ] 2019-03-29 - 38 - Database Management System for Accounting
+** sandeepk
+*** Django Project Optimization
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1550764743
+    :TASKID: READ.1550764743
+    :END:
+    - [ ] [[https://dizballanze.com/django-project-optimization-part-1/] [Part 1]] 3h
+    - [ ] [[https://dizballanze.com/en/django-project-optimization-part-2/] [Part 2]] 2h
+*** Project Stacknews
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1550765016
+    :TASKID: DEV.1550765016
+    :END:
+    - [ ] Front End User Interaction Page 4h
+    - [ ] Landing Page 3h
+*** Blog Writing
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: WRITE.1550819723
+    :TASKID: WRITE.1550819723
+    :END:
+    - [ ] Write blog for Music productivity 1h
+    - [ ] Write blog for shell script Notes 2h
 ** nightwarrior-xxx
 *** [#A] Understanding the concept of React [0/13]
          :PROPERTIES:
