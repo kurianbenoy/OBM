@@ -165,7 +165,7 @@
       - [ ] 2019-03-28 - 37 - Graphs and Charts for Business
       - [ ] 2019-03-29 - 38 - Database Management System for Accounting
 ** nightwarrior-xxx
-*** [#A] Understanding the concept of React [0/13]
+*** [#A] Understanding the concept of React [2/13]
          :PROPERTIES:
          :ESTIMATED: 19
          :ACTUAL:
@@ -173,8 +173,14 @@
          :ID: DEV.1550564523
          :TASKID: DEV.1550564523
          :END:
-         - [ ] Getting Started
-         - [ ] Refreshing Next Generation JavaScript (Optional)
+         :LOGBOOK:
+         CLOCK: [2019-02-21 Thu 08:26]--[2019-02-21 Thu 08:35] =>  0:09
+         CLOCK: [2019-02-21 Thu 06:57]--[2019-02-21 Thu 07:06] =>  0:09
+         CLOCK: [2019-02-21 Thu 06:03]--[2019-02-21 Thu 06:55] =>  0:52
+         CLOCK: [2019-02-21 Thu 00:20]--[2019-02-21 Thu 00:27] =>  0:07
+         :END:
+         - [X] Getting Started
+         - [X] Refreshing Next Generation JavaScript (Optional)
          - [ ] Understanding the Base Features & Syntax
          - [ ] Working with Lists and Conditionals
          - [ ] Styling React Components & Elements
