@@ -73,10 +73,7 @@
   :wpd-bhavin192: 1
   :wpd-jasonbraganza: 8
   :wpd-nightwarrior-xxx: 2
-<<<<<<< HEAD
-=======
   :wpd-sandeepk: 1.5
->>>>>>> skchoudhary/operation-blue-moon-master
   :END:
 ** bhavin192
 *** Learning Golang
