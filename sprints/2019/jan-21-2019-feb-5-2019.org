@@ -6,165 +6,224 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | STARTED | DONE                                                         | DEFERRED |
+|------+---------+--------------------------------------------------------------+----------|
+|      |         | READ.1548224363. [#A] Computer Network by Kruose & R         |          |
+|      |         | DEV.1548225186. [#A] Kubernetes Tutorial                     |          |
+|      |         | DEV.1548225960. [#B] TaskCluster                             |          |
+|      |         | OPS.1545721236. GNU Emacs bug triaging (2019-02-05)          |          |
+|      |         | READ.1548140097. NIOS Maths Text Book - Part I (2019-02-05)  |          |
+|      |         | READ.1548088815. [[https://www.coursera.org/lea (2019-02-05) |          |
+|      |         | DEV.1548171355. Project Hacker News (2019-02-05)             |          |
+|      |         | READ.1547130354. Chapter 11. Testing (2019-01-30)            |          |
+|      |         | DEV.1547130395. Chapter 11 Exercises (2019-01-29)            |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME          | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|---------------+-----------+--------------------+------+-----------+--------------+------------|
+| Vaibhavk      |        22 | 15.660000000000002 |    0 |        22 |   2019-03-22 | ---------- |
+| Sandeepk      |        24 |              14.58 |    0 |        24 |   2019-03-25 | ---------- |
+| Jasonbraganza |         0 |                  0 |    0 |         0 |   2019-03-01 | ---------- |
+| Bhavin192     |      7.85 |  5.640000000000001 |    0 |      7.85 |   2019-03-25 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  120 +--------------------------------------------------------------------+   
+:      |                                                                    |   
+:      |   #################################################################|   
+:  100 |+  .....                                              IDEAL .......+|   
+:      |        ....                                                        |   
+:      |            ....                                                    |   
+:   80 |+               .....                                              +|   
+:      |                     ....                                           |   
+:      |                         ....                                       |   
+:   60 |+                            .....                                 +|   
+:      |                                  ....                              |   
+:      |                                      ....                          |   
+:   40 |+                                         ....                     +|   
+:      |                                              .....                 |   
+:      |                                                   ....             |   
+:   20 |+                                                      ....        +|   
+:      |                                                           .....    |   
+:      |                                                                ....|   
+:    0 +--------------------------------------------------------------------+   
+:      0        2       4        6        8       10       12      14       16  
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:16]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2019-01-21 | 103.85 |    97 |                 |
+|   2 | 2019-01-22 | 103.85 |    91 |                 |
+|   3 | 2019-01-23 | 103.85 |    84 |                 |
+|   4 | 2019-01-24 | 103.85 |    78 |                 |
+|   5 | 2019-01-25 | 103.85 |    71 |                 |
+|   6 | 2019-01-26 | 103.85 |    65 |                 |
+|   7 | 2019-01-27 | 103.85 |    58 |                 |
+|   8 | 2019-01-28 | 103.85 |    52 |                 |
+|   9 | 2019-01-29 | 103.85 |    45 |                 |
+|  10 | 2019-01-30 | 103.85 |    39 |                 |
+|  11 | 2019-01-31 | 103.85 |    32 |                 |
+|  12 | 2019-02-01 | 103.85 |    26 |                 |
+|  13 | 2019-02-02 | 103.85 |    19 |                 |
+|  14 | 2019-02-03 | 103.85 |    13 |                 |
+|  15 | 2019-02-04 | 103.85 |     6 |                 |
+|  16 | 2019-02-05 | 103.85 |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                              | TASKID          | OWNER     | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|-----------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| TASKS                             |                 |           | B        |      |    103.85 |              50.88 |
+|-----------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| bhavin192                         |                 |           | B        |      |      7.85 |  5.640000000000001 |
+| Learning Golang                   |                 |           | B        |      |      5.85 |               3.22 |
+| Chapter 11. Testing               | READ.1547130354 | bhavin192 | B        | DONE |       2.5 |               1.37 |
+| Chapter 11 Exercises              | DEV.1547130395  | bhavin192 | B        | DONE |      3.35 |               1.85 |
+| GNU Emacs bug triaging            | OPS.1545721236  | bhavin192 | B        | DONE |         2 |               2.42 |
+|-----------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| jasonbraganza                     |                 |           | B        |      |      50.0 |               15.0 |
+| NIOS Maths Text Book - Part I     | READ.1548140097 | shaks     | B        | DONE |      50.0 |              15.00 |
+|-----------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| sandeepk                          |                 |           | B        |      |        24 |              14.58 |
+| [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] - Part I    | READ.1548088815 | sandeepk  | B        | DONE |         9 |               4.58 |
+| Project Hacker News               | DEV.1548171355  | sandeepk  | B        | DONE |        15 |              10.00 |
+|-----------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
+| vaibhavk                          |                 |           | B        |      |        22 | 15.660000000000002 |
+| Computer Network by Kruose & Ross | READ.1548224363 | vaibhavk  | A        | DONE |         6 |               4.48 |
+| Kubernetes Tutorial               | DEV.1548225186  | vaibhavk  | A        | DONE |        10 |               4.53 |
+| TaskCluster                       | DEV.1548225960  | vaibhavk  | B        | DONE |         6 |               6.65 |
+| [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517015][Issue 1517015]]                     |                 |           | B        |      |           |                    |
 #+END:
 * TASKS
   :PROPERTIES:
   :ID:       TASKS
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2019-01-21 Mon>
+  :wpd-bhavin192: 0.5
   :wpd-jasonbraganza: 5
-  :wpd-nightwarrior-xxx: 1.2
   :wpd-sandeepk: 1.5
   :wpd-vaibhavk: 1.5
   :END:
+** bhavin192
+*** Learning Golang
+**** DONE Chapter 11. Testing [6/6]
+     CLOSED: [2019-01-30 Wed 22:43]
+     :PROPERTIES:
+     :ESTIMATED: 2.5
+     :ACTUAL:   1.37
+     :OWNER:    bhavin192
+     :ID:       READ.1547130354
+     :TASKID:   READ.1547130354
+     :END:
+     :LOGBOOK:
+     CLOCK: [2019-01-30 Wed 22:38]--[2019-01-30 Wed 22:43] =>  0:05
+     CLOCK: [2019-01-30 Wed 22:23]--[2019-01-30 Wed 22:37] =>  0:14
+     CLOCK: [2019-01-28 Mon 19:36]--[2019-01-28 Mon 19:48] =>  0:12
+     CLOCK: [2019-01-28 Mon 19:23]--[2019-01-28 Mon 19:35] =>  0:12
+     CLOCK: [2019-01-26 Sat 19:49]--[2019-01-26 Sat 19:53] =>  0:04
+     CLOCK: [2019-01-26 Sat 19:18]--[2019-01-26 Sat 19:32] =>  0:14
+     CLOCK: [2019-01-26 Sat 17:43]--[2019-01-26 Sat 17:59] =>  0:16
+     CLOCK: [2019-01-24 Thu 22:35]--[2019-01-24 Thu 22:40] =>  0:05
+     :END:
+     - [X] 11.1 The go test Tool    (10m)
+     - [X] 11.2 Test Functions      (1.7h)
+     - [X] 11.3 Coverage            (20m)
+     - [X] 11.4 Benchmark Functions (20m)
+     - [X] 11.5 Profiling           (25m)
+     - [X] 11.6 Example Functions   (5m)
+**** DONE Chapter 11 Exercises [2/2]
+     CLOSED: [2019-01-29 Tue 22:39]
+     :PROPERTIES:
+     :ESTIMATED: 3.35
+     :ACTUAL:   1.85
+     :OWNER:    bhavin192
+     :ID:       DEV.1547130395
+     :TASKID:   DEV.1547130395
+     :END:
+     :LOGBOOK:
+     CLOCK: [2019-01-29 Tue 22:10]--[2019-01-29 Tue 22:39] =>  0:29
+     CLOCK: [2019-01-26 Sat 19:41]--[2019-01-26 Sat 19:47] =>  0:06
+     CLOCK: [2019-01-26 Sat 17:37]--[2019-01-26 Sat 17:43] =>  0:06
+     CLOCK: [2019-01-22 Tue 20:18]--[2019-01-22 Tue 20:39] =>  0:21
+     CLOCK: [2019-01-21 Mon 20:51]--[2019-01-21 Mon 21:23] =>  0:32
+     CLOCK: [2019-01-21 Mon 20:08]--[2019-01-21 Mon 20:25] =>  0:17
+     :END:
+     - [X] 11.2 (3h)
+     - [X] 11.4 (1.25h)
+*** DONE GNU Emacs bug triaging [2/2]
+    CLOSED: [2019-02-05 Tue 23:59]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:   2.42
+    :OWNER:    bhavin192
+    :ID:       OPS.1545721236
+    :TASKID:   OPS.1545721236
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-02-05 Tue 23:25]--[2019-02-05 Tue 23:59] =>  0:34
+    CLOCK: [2019-02-04 Mon 19:35]--[2019-02-04 Mon 19:55] =>  0:20
+    CLOCK: [2019-02-02 Sat 11:09]--[2019-02-02 Sat 11:48] =>  0:39
+    CLOCK: [2019-01-31 Thu 21:20]--[2019-01-31 Thu 21:39] =>  0:19
+    CLOCK: [2019-01-30 Wed 17:12]--[2019-01-30 Wed 17:45] =>  0:33
+    :END:
+    - [X] Build GNU Emacs 26.1 from source code
+    - [X] Triage 5 bugs
+      - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33983][#33983]]: c++-mode syntax highlighting after some symbols
+      - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33979][#33979]]: python.el is not fully PEP 8 compliant for closing parens
+      - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33973][#33973]]: Multi-line C++ raw string literal font lock is broken
+      - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33921][#33921]]: Default height is inconsistently - and apparently
+        also incorrectly - documented
+      - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33900][#33900]]: GNUmakefile mode colors fooled by colons in shell commands
 ** jasonbraganza
-*** NIOS Maths Text Book [0/10]
+*** DONE NIOS Maths Text Book - Part I [1/1]
+    CLOSED: [2019-02-05 Tue 23:00]
     :PROPERTIES:
     :ESTIMATED: 50.0
-    :ACTUAL:
+    :ACTUAL:   15.00
     :OWNER: shaks
     :ID: READ.1548140097
     :TASKID: READ.1548140097
     :END:
-    - [ ] Module - I [0/5]
-      - [ ] 2019-01-19 - 1 - Sets
-      - [ ] 2019-01-20 - 2 - Relations and Functions
-      - [ ] 2019-01-21 - 3 - Trigonometric Functions I
-      - [ ] 2019-01-22 - 4 - Trigonometric Functions II
-      - [ ] 2019-01-25 - 5 - Relation between Sides and Angles of a Triangle
-    - [ ] Module - II: Sequences and series [0/2]
-      - [ ] 2019-01-26 - 6 - Sequences and series
-      - [ ] 2019-01-27 - 7 - Some special sequences
-    - [ ] Module - III: Algebra–I [0/5]
-      - [ ] 2019-01-28 - 8 - Complex Numbers
-      - [ ] 2019-01-29 - 9 - Quadratic Equations and Linear Inequalities
-      - [ ] 2019-02-01 - 10 - Principle of Mathematical Induction
-      - [ ] 2019-02-02 - 11 -  Permtations and Combinations
-      - [ ] 2019-02-03 - 12 - Binomial Theorem
-    - [ ] Module - IV: Co-ordinate Geometry [0/4]
-      - [ ] 2019-02-09 - 13 - Cartesian System of Rectangular Co-ordinates
-      - [ ] 2019-02-10 - 14 - Straight Lines
-      - [ ] 2019-02-11 - 15 - Circles
-      - [ ] 2019-02-12 - 16 - Conic Sections
-    - [ ] Module - V: Statistics and Probability [0/3]
-      - [ ] 2019-02-15 - 17 - Measures of Dispersion
-      - [ ] 2019-02-16 - 18 - Random Experiments and Events
-      - [ ] 2019-02-17 - 19 - Probability
-    - [ ] Module - VI: Algebra–II [0/3]
-      - [ ] 2019-02-18 - 20 - Matrices
-      - [ ] 2019-02-19 - 21 - Determinants
-      - [ ] 2019-02-22 - 22 - Inverse of a Matrix and its Applications
-    - [ ] Module - VII: Relations and Functions [0/2]
-      - [ ] 2019-02-23 - 23 - Relations and Functions II
-      - [ ] 2019-02-24 - 24 - Inverse Trigonometric Functions
-    - [ ] Module - VIII: Calculus [0/8]
-      - [ ] 2019-02-25 - 25 -  Limits and Continuity
-      - [ ] 2019-02-26 - 26 - Differentiation
-      - [ ] 2019-03-01 - 27 - Differentiation of Trigonometric Functions
-      - [ ] 2019-03-02 - 28 - Differentiation of Exponential and Logarithmic functions
-      - [ ] 2019-03-03 - 29 - Application of Derivatives
-      - [ ] 2019-03-04 - 30 - Integration
-      - [ ] 2019-03-05 - 31 - Definite Integrals
-      - [ ] 2019-03-08 - 32 - Differential Integrals
-    - [ ] Module - IX: Vectors and Three Dimensional Geometry [0/4]
-      - [ ] 2019-03-09 - 33 - Introduction to Three Dimensional Geometry
-      - [ ] 2019-03-10 - 34 - Vectors
-      - [ ] 2019-03-11 - 35 - Plane
-      - [ ] 2019-03-12 - 36 - Straight Line
-    - [ ] Module - X: Linear Programming and Mathematical Reasoning [0/2]
-      - [ ] 2019-03-15 - 37 - Linear Programming
-      - [ ] 2019-03-16 - 38 - Mathematical Reasoning
-** nightwarrior-xxx
-*** [#A] Learning Node [0/7]
-    :PROPERTIES:
-    :ESTIMATED: 8
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: DEV.1548227691
-    :TASKID: DEV.1548227691
+    :LOGBOOK:
+    CLOCK: [2019-01-23 Wed 08:00]--[2019-01-23 Wed 13:00] =>  5:00
+    CLOCK: [2019-01-22 Tue 08:00]--[2019-01-22 Tue 13:00] =>  5:00
+    CLOCK: [2019-01-21 Mon 08:00]--[2019-01-21 Mon 13:00] =>  5:00
     :END:
-    - [ ] Node.js
-    - [ ] Npm
-    - [ ] Asynchronous programming
-    - [ ] ES6/ES7
-    - [ ] MongoDB
-    - [ ] Express
-    - [ ] Socket.IO
-*** [#A] Blog
-    :PROPERTIES:
-    :ESTIMATED: 1
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: WRITE.1548227615
-    :TASKID: WRITE.1548227615
-    :END:
-*** [#B] Cracking the HackerEarth [0/3]
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: WRITE.1548227737
-    :TASKID: WRITE.1548227737
-    :END:
-    - [ ] Segment Trees Problems
-    - [ ] Interval Trees Problems
-    - [ ] RB Trees Problems
-*** [#B] Advance Shell Scripting By TLDP [0/19]  
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: READ.1539458077
-    :TASKID: READ.1539458077
-    :END:
-    [[http://tldp.org/LDP/abs/html/]]
-    - [ ] cleanup: A script to clean up log files in /var/log
-    - [ ] cleanup: An improved clean-up script
-    - [ ] leanup: An enhanced and generalized version of above scripts.
-    - [ ] Code blocks and I/O redirection
-    - [ ] Saving the output of a code block to a file
-    - [ ] Running a loop in the background
-    - [ ] Backup of all files changed in last day
-    - [ ] Variable assignment and substitution
-    - [ ] Plain Variable Assignment
-    - [ ] Variable Assignment, plain and fancy
-    - [ ] Integer or string?
-    - [ ] Positional Parameters
-    - [ ] whois domain name lookup
-    - [ ] Using shift
-    - [ ] Echoing Weird Variables
-    - [ ] Escaped Characters
-    - [ ] Detecting key-presses
-    - [ ] Processes
-    - [ ] Threading
+    - [X] Module - I [3/3]
+      - [X] 2019-01-19 - 1 - Sets
+      - [X] 2019-01-20 - 2 - Relations and Functions
+      - [X] 2019-01-21 - 3 - Trigonometric Functions I
 ** sandeepk
-*** [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] [0/2]
+*** DONE [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] - Part I [1/2]
+    CLOSED: [2019-02-05 Tue 23:30]
     :PROPERTIES:
     :ESTIMATED: 9
-    :ACTUAL:
+    :ACTUAL:   4.58
     :OWNER:    sandeepk
     :ID:       READ.1548088815
     :TASKID:   READ.1548088815
     :END:
-    - [ ] Procrastination and Memory (5h)
-    - [ ] Renaissance Learning and Unlocking Your Potential (4h)
-*** Project Hacker News [0/3]
+    :LOGBOOK:
+    CLOCK: [2019-01-31 Thu 20:15]--[2019-01-31 Thu 21:35] =>  1:20
+    CLOCK: [2019-01-29 Tue 20:55]--[2019-01-29 Tue 22:00] =>  1:05
+    CLOCK: [2019-01-28 Mon 21:20]--[2019-01-28 Mon 22:25] =>  1:05
+    CLOCK: [2019-01-26 Sat 13:55]--[2019-01-26 Sat 14:30] =>  0:35
+    CLOCK: [2019-01-26 Sat 13:00]--[2019-01-26 Sat 13:30] =>  0:30
+    :END:
+    - [X] Procrastination and Memory (5h)
+*** DONE Project Hacker News [3/3]
+    CLOSED: [2019-02-05 Tue 23:30]
     :PROPERTIES:
     :ESTIMATED: 15
-    :ACTUAL:   
+    :ACTUAL:   10.00
     :OWNER:    sandeepk
     :ID:       DEV.1548171355
     :TASKID:   DEV.1548171355
@@ -223,3 +282,20 @@
     CLOCK: [2019-01-31 Thu 00:37]--[2019-01-31 Thu 02:41] =>  2:04
     :END:
 **** [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517015][Issue 1517015]]
+    :LOGBOOK:
+    CLOCK: [2019-02-05 Tue 20:20]--[2019-02-05 Tue 21:15] =>  0:55
+    CLOCK: [2019-02-04 Mon 20:30]--[2019-02-04 Mon 21:15] =>  0:45
+    CLOCK: [2019-02-03 Sun 16:00]--[2019-02-03 Sun 17:00] =>  1:00
+    CLOCK: [2019-02-02 Sat 20:00]--[2019-02-02 Sat 21:00] =>  1:00
+    CLOCK: [2019-01-30 Wed 21:00]--[2019-01-30 Wed 22:00] =>  1:00
+    CLOCK: [2019-01-30 Wed 14:00]--[2019-01-30 Wed 14:40] =>  0:40
+    CLOCK: [2019-01-27 Sun 17:00]--[2019-01-27 Sun 18:00] =>  1:00
+    CLOCK: [2019-01-27 Sun 14:00]--[2019-01-27 Sun 14:35] =>  0:35
+    CLOCK: [2019-01-26 Sat 21:00]--[2019-01-26 Sat 21:30] =>  0:30
+    CLOCK: [2019-01-26 Sat 19:00]--[2019-01-26 Sat 19:40] =>  0:40
+    CLOCK: [2019-01-21 Mon 23:00]--[2019-01-22 Tue 00:00] =>  1:00
+    CLOCK: [2019-01-21 Mon 21:35]--[2019-01-21 Mon 22:30] =>  0:55
+    :END:
+    - [X] Features Break Down (3h)
+    - [X] Env SetUp (6h)
+    - [X] Model Layout (6h)

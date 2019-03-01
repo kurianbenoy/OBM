@@ -7,7 +7,6 @@
 **** The Go Programming Language
      by Alan A. A. Donovan and Brian W. Kernighan
      http://www.gopl.io/
-***** Chapter 12. Reflection
 ***** Chapter 13. Low-Level Programming
 ** GNU Emacs
 ** Containers
@@ -20,4 +19,5 @@
 *** Container run times
 **** Read about existing run times
 ** Attend meetups
+** Write blog posts
 * PLAN

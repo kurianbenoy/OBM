@@ -434,7 +434,6 @@
      - [ ] Caesars Cipher
      - [ ] Telephone Number Validator
      - [ ] Cash Register 
-* PLAN
-** February  6, 2019 - February 18, 2019 (13 days)
+* PLAN:
 ** February 19, 2019 - February 28, 2019 (10 days)
 ** March     1, 2019 - March     7, 2019 ( 7 days)
