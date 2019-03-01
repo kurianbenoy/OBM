@@ -6,101 +6,67 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | STARTED | DONE                                                         | DEFERRED |
-|------+---------+--------------------------------------------------------------+----------|
-|      |         | READ.1548224363. [#A] Computer Network by Kruose & R         |          |
-|      |         | DEV.1548225186. [#A] Kubernetes Tutorial                     |          |
-|      |         | DEV.1548225960. [#B] TaskCluster                             |          |
-|      |         | OPS.1545721236. GNU Emacs bug triaging (2019-02-05)          |          |
-|      |         | READ.1548140097. NIOS Maths Text Book - Part I (2019-02-05)  |          |
-|      |         | READ.1548088815. [[https://www.coursera.org/lea (2019-02-05) |          |
-|      |         | DEV.1548171355. Project Hacker News (2019-02-05)             |          |
-|      |         | READ.1547130354. Chapter 11. Testing (2019-01-30)            |          |
-|      |         | DEV.1547130395. Chapter 11 Exercises (2019-01-29)            |          |
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | OPS.1545721236. GNU Emacs bug triaging (2019-02-05)          |          |
+|      |      |             |         | READ.1548140097. NIOS Maths Text Book - Part I (2019-02-05)  |          |
+|      |      |             |         | READ.1548088815. [[https://www.coursera.org/lea (2019-02-05) |          |
+|      |      |             |         | DEV.1548171355. Project Hacker News (2019-02-05)             |          |
+|      |      |             |         | READ.1547130354. Chapter 11. Testing (2019-01-30)            |          |
+|      |      |             |         | DEV.1547130395. Chapter 11 Exercises (2019-01-29)            |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
-| NAME          | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
-|---------------+-----------+--------------------+------+-----------+--------------+------------|
-| Vaibhavk      |        22 | 15.660000000000002 |    0 |        22 |   2019-03-22 | ---------- |
-| Sandeepk      |        24 |              14.58 |    0 |        24 |   2019-03-25 | ---------- |
-| Jasonbraganza |         0 |                  0 |    0 |         0 |   2019-03-01 | ---------- |
-| Bhavin192     |      7.85 |  5.640000000000001 |    0 |      7.85 |   2019-03-25 | ---------- |
+| NAME          | ESTIMATED |            ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|---------------+-----------+-------------------+------+-----------+--------------+------------|
+| Sandeepk      |        24 |             14.58 |   24 |         0 |   2019-03-01 | ########## |
+| Jasonbraganza |         0 |                 0 |    0 |         0 |   2019-03-01 | ---------- |
+| Bhavin192     |      7.85 | 5.640000000000001 | 7.85 |         0 |   2019-03-01 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
-:                                                                               
-:                                    Burndown                                   
-:                                                                               
-:  120 +--------------------------------------------------------------------+   
-:      |                                                                    |   
-:      |   #################################################################|   
-:  100 |+  .....                                              IDEAL .......+|   
-:      |        ....                                                        |   
-:      |            ....                                                    |   
-:   80 |+               .....                                              +|   
-:      |                     ....                                           |   
-:      |                         ....                                       |   
-:   60 |+                            .....                                 +|   
-:      |                                  ....                              |   
-:      |                                      ....                          |   
-:   40 |+                                         ....                     +|   
-:      |                                              .....                 |   
-:      |                                                   ....             |   
-:   20 |+                                                      ....        +|   
-:      |                                                           .....    |   
-:      |                                                                ....|   
-:    0 +--------------------------------------------------------------------+   
-:      0        2       4        6        8       10       12      14       16  
-:                                                                               
-:
+
 #+END:
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:16]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2019-01-21 | 103.85 |    97 |                 |
-|   2 | 2019-01-22 | 103.85 |    91 |                 |
-|   3 | 2019-01-23 | 103.85 |    84 |                 |
-|   4 | 2019-01-24 | 103.85 |    78 |                 |
-|   5 | 2019-01-25 | 103.85 |    71 |                 |
-|   6 | 2019-01-26 | 103.85 |    65 |                 |
-|   7 | 2019-01-27 | 103.85 |    58 |                 |
-|   8 | 2019-01-28 | 103.85 |    52 |                 |
-|   9 | 2019-01-29 | 103.85 |    45 |                 |
-|  10 | 2019-01-30 | 103.85 |    39 |                 |
-|  11 | 2019-01-31 | 103.85 |    32 |                 |
-|  12 | 2019-02-01 | 103.85 |    26 |                 |
-|  13 | 2019-02-02 | 103.85 |    19 |                 |
-|  14 | 2019-02-03 | 103.85 |    13 |                 |
-|  15 | 2019-02-04 | 103.85 |     6 |                 |
-|  16 | 2019-02-05 | 103.85 |     0 |                 |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                               |
+|-----+------------+--------+-------+---------------------------------------------------------------|
+|   1 | 2019-01-21 |  81.85 |    77 |                                                               |
+|   2 | 2019-01-22 |  81.85 |    72 |                                                               |
+|   3 | 2019-01-23 |  81.85 |    67 |                                                               |
+|   4 | 2019-01-24 |  81.85 |    61 |                                                               |
+|   5 | 2019-01-25 |  81.85 |    56 |                                                               |
+|   6 | 2019-01-26 |  81.85 |    51 |                                                               |
+|   7 | 2019-01-27 |  81.85 |    46 |                                                               |
+|   8 | 2019-01-28 |  81.85 |    41 |                                                               |
+|   9 | 2019-01-29 |   78.5 |    36 | DEV.1547130395                                                |
+|  10 | 2019-01-30 |   76.0 |    31 | READ.1547130354                                               |
+|  11 | 2019-01-31 |   76.0 |    26 |                                                               |
+|  12 | 2019-02-01 |   76.0 |    20 |                                                               |
+|  13 | 2019-02-02 |   76.0 |    15 |                                                               |
+|  14 | 2019-02-03 |   76.0 |    10 |                                                               |
+|  15 | 2019-02-04 |   76.0 |     5 |                                                               |
+|  16 | 2019-02-05 |    0.0 |     0 | DEV.1548171355 READ.1548088815 READ.1548140097 OPS.1545721236 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                              | TASKID          | OWNER     | PRIORITY | TODO | ESTIMATED |             ACTUAL |
-|-----------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
-| TASKS                             |                 |           | B        |      |    103.85 |              50.88 |
-|-----------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
-| bhavin192                         |                 |           | B        |      |      7.85 |  5.640000000000001 |
-| Learning Golang                   |                 |           | B        |      |      5.85 |               3.22 |
-| Chapter 11. Testing               | READ.1547130354 | bhavin192 | B        | DONE |       2.5 |               1.37 |
-| Chapter 11 Exercises              | DEV.1547130395  | bhavin192 | B        | DONE |      3.35 |               1.85 |
-| GNU Emacs bug triaging            | OPS.1545721236  | bhavin192 | B        | DONE |         2 |               2.42 |
-|-----------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
-| jasonbraganza                     |                 |           | B        |      |      50.0 |               15.0 |
-| NIOS Maths Text Book - Part I     | READ.1548140097 | shaks     | B        | DONE |      50.0 |              15.00 |
-|-----------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
-| sandeepk                          |                 |           | B        |      |        24 |              14.58 |
-| [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] - Part I    | READ.1548088815 | sandeepk  | B        | DONE |         9 |               4.58 |
-| Project Hacker News               | DEV.1548171355  | sandeepk  | B        | DONE |        15 |              10.00 |
-|-----------------------------------+-----------------+-----------+----------+------+-----------+--------------------|
-| vaibhavk                          |                 |           | B        |      |        22 | 15.660000000000002 |
-| Computer Network by Kruose & Ross | READ.1548224363 | vaibhavk  | A        | DONE |         6 |               4.48 |
-| Kubernetes Tutorial               | DEV.1548225186  | vaibhavk  | A        | DONE |        10 |               4.53 |
-| TaskCluster                       | DEV.1548225960  | vaibhavk  | B        | DONE |         6 |               6.65 |
-| [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517015][Issue 1517015]]                     |                 |           | B        |      |           |                    |
+| ITEM                           | TASKID          | OWNER     | PRIORITY | TODO | ESTIMATED |            ACTUAL |
+|--------------------------------+-----------------+-----------+----------+------+-----------+-------------------|
+| TASKS                          |                 |           | B        |      |     81.85 |             35.22 |
+|--------------------------------+-----------------+-----------+----------+------+-----------+-------------------|
+| bhavin192                      |                 |           | B        |      |      7.85 | 5.640000000000001 |
+| Learning Golang                |                 |           | B        |      |      5.85 |              3.22 |
+| Chapter 11. Testing            | READ.1547130354 | bhavin192 | B        | DONE |       2.5 |              1.37 |
+| Chapter 11 Exercises           | DEV.1547130395  | bhavin192 | B        | DONE |      3.35 |              1.85 |
+| GNU Emacs bug triaging         | OPS.1545721236  | bhavin192 | B        | DONE |         2 |              2.42 |
+|--------------------------------+-----------------+-----------+----------+------+-----------+-------------------|
+| jasonbraganza                  |                 |           | B        |      |      50.0 |              15.0 |
+| NIOS Maths Text Book - Part I  | READ.1548140097 | shaks     | B        | DONE |      50.0 |             15.00 |
+|--------------------------------+-----------------+-----------+----------+------+-----------+-------------------|
+| sandeepk                       |                 |           | B        |      |        24 |             14.58 |
+| [[https://www.coursera.org/learn/learning-how-to-learn/][Learning How to Learn]] - Part I | READ.1548088815 | sandeepk  | B        | DONE |         9 |              4.58 |
+| Project Hacker News            | DEV.1548171355  | sandeepk  | B        | DONE |        15 |             10.00 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -110,7 +76,6 @@
   :wpd-bhavin192: 0.5
   :wpd-jasonbraganza: 5
   :wpd-sandeepk: 1.5
-  :wpd-vaibhavk: 1.5
   :END:
 ** bhavin192
 *** Learning Golang
@@ -231,71 +196,3 @@
     - [ ] Features Break Down (3h)
     - [ ] Env SetUp (6h)
     - [ ] Model Layout (6h)
-** vaibhavk
-*** DONE [#A] Computer Network by Kruose & Ross [1/1]
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:   4.48
-    :OWNER: vaibhavk
-    :ID: READ.1548224363
-    :TASKID: READ.1548224363
-    :END:
-    :LOGBOOK:
-    CLOCK: [2019-02-10 Sun 18:18]--[2019-02-10 Sun 18:50] =>  0:32
-    CLOCK: [2019-02-10 Sun 17:13]--[2019-02-10 Sun 17:54] =>  0:41
-    CLOCK: [2019-02-09 Sat 16:45]--[2019-02-09 Sat 17:11] =>  0:26
-    CLOCK: [2019-02-09 Sat 12:45]--[2019-02-09 Sat 13:28] =>  0:43
-    CLOCK: [2019-02-02 Sat 02:20]--[2019-02-02 Sat 03:44] =>  1:24
-    CLOCK: [2019-02-03 Sun 00:20]--[2019-02-03 Sun 01:03] =>  0:43
-    :END:
-    - [X] Chapter 6. Wireless and Mobile Network
-*** DONE [#A] Kubernetes Tutorial [6/6]
-    :PROPERTIES:
-    :ESTIMATED: 10
-    :ACTUAL:   4.53
-    :OWNER: vaibhavk
-    :ID: DEV.1548225186
-    :TASKID: DEV.1548225186
-    :END:
-    :LOGBOOK:
-    CLOCK: [2019-02-02 Sat 21:20]--[2019-02-03 Sun 00:15] =>  2:55
-    CLOCK: [2019-02-01 Fri 19:54]--[2019-02-01 Fri 20:31] =>  0:37
-    CLOCK: [2019-02-01 Fri 18:47]--[2019-02-01 Fri 19:47] =>  1:00
-    :END:
-    - [X] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/][Create a Cluster]] (1h)
-    - [X] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/][Using kubectl to Create a Deployment]] (1h 30m)
-    - [X] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/][Viewing Pods and Nodes]] (2h)
-    - [X] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/][Using a Service to Expose Your App]] (2h)
-    - [X] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/scale/scale-intro/][Running Multiple Instances of Your App]] (2h)
-    - [X] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/][Performing a Rolling Update]] (1h 30m)
-*** DONE [#B] TaskCluster
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:   6.65
-    :OWNER: vaibhavk
-    :ID: DEV.1548225960
-    :TASKID: DEV.1548225960
-    :END:
-    :LOGBOOK:
-    CLOCK: [2019-02-03 Sun 17:58]--[2019-02-03 Sun 21:03] =>  3:05
-    CLOCK: [2019-02-02 Sat 02:55]--[2019-02-02 Sat 04:25] =>  1:30
-    CLOCK: [2019-01-31 Thu 00:37]--[2019-01-31 Thu 02:41] =>  2:04
-    :END:
-**** [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517015][Issue 1517015]]
-    :LOGBOOK:
-    CLOCK: [2019-02-05 Tue 20:20]--[2019-02-05 Tue 21:15] =>  0:55
-    CLOCK: [2019-02-04 Mon 20:30]--[2019-02-04 Mon 21:15] =>  0:45
-    CLOCK: [2019-02-03 Sun 16:00]--[2019-02-03 Sun 17:00] =>  1:00
-    CLOCK: [2019-02-02 Sat 20:00]--[2019-02-02 Sat 21:00] =>  1:00
-    CLOCK: [2019-01-30 Wed 21:00]--[2019-01-30 Wed 22:00] =>  1:00
-    CLOCK: [2019-01-30 Wed 14:00]--[2019-01-30 Wed 14:40] =>  0:40
-    CLOCK: [2019-01-27 Sun 17:00]--[2019-01-27 Sun 18:00] =>  1:00
-    CLOCK: [2019-01-27 Sun 14:00]--[2019-01-27 Sun 14:35] =>  0:35
-    CLOCK: [2019-01-26 Sat 21:00]--[2019-01-26 Sat 21:30] =>  0:30
-    CLOCK: [2019-01-26 Sat 19:00]--[2019-01-26 Sat 19:40] =>  0:40
-    CLOCK: [2019-01-21 Mon 23:00]--[2019-01-22 Tue 00:00] =>  1:00
-    CLOCK: [2019-01-21 Mon 21:35]--[2019-01-21 Mon 22:30] =>  0:55
-    :END:
-    - [X] Features Break Down (3h)
-    - [X] Env SetUp (6h)
-    - [X] Model Layout (6h)

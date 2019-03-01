@@ -84,26 +84,3 @@
 *** [[https://github.com/kubernetes/][Kubernetes]]
 **** [[https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/][Configuring Redis using a ConfigMap]]
 * PLAN 
-** vaibhavk
-  :PROPERTIES:
-  :ID:       TASKS
-  :SPRINTLENGTH: 7
-  :SPRINTSTART: <2019-03-01 Fri>
-  :wpd-vaibhavk: 1.25
-  :END:
-*** [#A] [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517865][Taskcluster Issue]]
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER: vaibhavk
-    :ID: DEV.1551435937
-    :TASKID: DEV.1551435937
-    :END:
-*** [#B] [[https://github.com/deepmind/kapitan/issues/201][Kapitan GSoC task #201]]
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER: vaibhavk
-    :ID: DEV.1551436242
-    :TASKID: DEV.1551436242
-    :END:

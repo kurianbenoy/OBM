@@ -1,0 +1,45 @@
+#+TITLE: March 1-7, 2019 (7 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 7
+  :SPRINTSTART: <2019-03-01 Fri>
+  :wpd-vaibhavk: 1.25
+  :END:
+*** [#A] [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517865][Taskcluster Issue]]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: DEV.1551435937
+    :TASKID: DEV.1551435937
+    :END:
+*** [#B] [[https://github.com/deepmind/kapitan/issues/201][Kapitan GSoC task #201]]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: DEV.1551436242
+    :TASKID: DEV.1551436242
+    :END:
