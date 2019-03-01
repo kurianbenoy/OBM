@@ -234,36 +234,40 @@
       - [ ] 2019-03-28 - 37 - Graphs and Charts for Business
       - [ ] 2019-03-29 - 38 - Database Management System for Accounting
 ** sandeepk
-*** Django Project Optimization
+*** DONE Django Project Optimization [2/2]
+    CLOSED: [2019-03-26 Tue 10:30]
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL:
+    :ACTUAL:   4.87
     :OWNER: sandeepk
     :ID: READ.1550764743
     :TASKID: READ.1550764743
     :END:
-    - [ ] [[https://dizballanze.com/django-project-optimization-part-1/] [Part 1]] 3h
-    - [ ] [[https://dizballanze.com/en/django-project-optimization-part-2/] [Part 2]] 2h
-*** Project Stacknews
-    :PROPERTIES:
-    :ESTIMATED: 7
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: DEV.1550765016
-    :TASKID: DEV.1550765016
+    :LOGBOOK:
+    CLOCK: [2019-02-26 Tue 09:40]--[2019-02-26 Tue 10:30] =>  0:50
+    CLOCK: [2019-02-25 Mon 23:00]--[2019-02-25 Mon 23:55] =>  0:55
+    CLOCK: [2019-02-24 Sun 22:30]--[2019-02-24 Sun 23:30] =>  1:00
+    CLOCK: [2019-02-22 Fri 22:50]--[2019-02-22 Fri 23:45] =>  0:55
+    CLOCK: [2019-02-21 Thu 22:40]--[2019-02-21 Thu 23:52] =>  1:12
     :END:
-    - [ ] Front End User Interaction Page 4h
-    - [ ] Landing Page 3h
-*** Blog Writing
+    - [X] [[https://dizballanze.com/django-project-optimization-part-1/] [Part 1]] 3h
+    - [X] [[https://dizballanze.com/en/django-project-optimization-part-2/] [Part 2]] 2h
+*** DONE Blog Writing [2/2]
+    CLOSED: [2019-03-23 Sat 15:10]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   2.33
     :OWNER: sandeepk
     :ID: WRITE.1550819723
     :TASKID: WRITE.1550819723
     :END:
-    - [ ] Write blog for Music productivity 1h
-    - [ ] Write blog for shell script Notes 2h
+    :LOGBOOK:
+    CLOCK: [2019-02-23 Sat 14:00]--[2019-02-23 Sat 15:10] =>  1:10
+    CLOCK: [2019-02-20 Wed 08:30]--[2019-02-20 Wed 09:10] =>  0:40
+    CLOCK: [2019-02-19 Tue 21:25]--[2019-02-19 Tue 21:55] =>  0:30
+    :END:
+    - [X] Write blog for Music productivity 1h
+    - [X] Write blog for shell script Notes 2h
 ** nightwarrior-xxx
 *** [#A] Understanding the concept of React [0/13]
          :PROPERTIES:
@@ -294,3 +298,4 @@
          :ID: WRITE.1550564807
          :TASKID: WRITE.1550564807
          :END:
+	 
