@@ -25,8 +25,20 @@
   :ID:       TASKS
   :SPRINTLENGTH: 7
   :SPRINTSTART: <2019-03-01 Fri>
+  :wpd-sandeepk: 1
   :wpd-vaibhavk: 1.25
   :END:
+** sandeepk
+*** Project Stacknews [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1550765016
+    :TASKID: DEV.1550765016
+    :END:
+    - [ ] Front End User Interaction Page 4h
+    - [ ] Landing Page 3h
 ** vaibhavk
 *** [#A] [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517865][Taskcluster Issue]]
     :PROPERTIES:
