@@ -3,3 +3,18 @@
 #+EMAIL: sandeepchoudhary1507@gmail.com
 #+TAGS: read write dev ops task event meeting # Need to be category
 * PLAN
+** March 1, 2019 - March 7, 2019 ( 7 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+*** Project Stacknews [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1550765016
+    :TASKID: DEV.1550765016
+    :END:
+    - [ ] Front End User Interaction Page 4h
+    - [ ] Landing Page 3h
