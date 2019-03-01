@@ -173,36 +173,53 @@
     - [ ] Env SetUp (6h)
     - [ ] Model Layout (6h)
 ** vaibhavk
-*** Computer Network by Kruose & Ross [0/1]
+*** DONE [#A] Computer Network by Kruose & Ross [1/1]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:
+    :ACTUAL:   4.48
     :OWNER: vaibhavk
     :ID: READ.1548224363
     :TASKID: READ.1548224363
     :END:
-    - [ ] Chapter 6. Wireless and Mobile Network
-*** Kubernetes Tutorial [0/6]
+    :LOGBOOK:
+    CLOCK: [2019-02-10 Sun 18:18]--[2019-02-10 Sun 18:50] =>  0:32
+    CLOCK: [2019-02-10 Sun 17:13]--[2019-02-10 Sun 17:54] =>  0:41
+    CLOCK: [2019-02-09 Sat 16:45]--[2019-02-09 Sat 17:11] =>  0:26
+    CLOCK: [2019-02-09 Sat 12:45]--[2019-02-09 Sat 13:28] =>  0:43
+    CLOCK: [2019-02-02 Sat 02:20]--[2019-02-02 Sat 03:44] =>  1:24
+    CLOCK: [2019-02-03 Sun 00:20]--[2019-02-03 Sun 01:03] =>  0:43
+    :END:
+    - [X] Chapter 6. Wireless and Mobile Network
+*** DONE [#A] Kubernetes Tutorial [6/6]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:
+    :ACTUAL:   4.53
     :OWNER: vaibhavk
     :ID: DEV.1548225186
     :TASKID: DEV.1548225186
     :END:
-    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/][Create a Cluster]] (1h)
-    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/][Using kubectl to Create a Deployment]] (1h 30m)
-    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/][Viewing Pods and Nodes]] (2h)
-    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/][Using a Service to Expose Your App]] (2h)
-    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/scale/scale-intro/][Running Multiple Instances of Your App]] (2h)
-    - [ ] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/][Performing a Rolling Update]] (1h 30m)
-*** TaskCluster
+    :LOGBOOK:
+    CLOCK: [2019-02-02 Sat 21:20]--[2019-02-03 Sun 00:15] =>  2:55
+    CLOCK: [2019-02-01 Fri 19:54]--[2019-02-01 Fri 20:31] =>  0:37
+    CLOCK: [2019-02-01 Fri 18:47]--[2019-02-01 Fri 19:47] =>  1:00
+    :END:
+    - [X] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/][Create a Cluster]] (1h)
+    - [X] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/][Using kubectl to Create a Deployment]] (1h 30m)
+    - [X] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/][Viewing Pods and Nodes]] (2h)
+    - [X] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/][Using a Service to Expose Your App]] (2h)
+    - [X] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/scale/scale-intro/][Running Multiple Instances of Your App]] (2h)
+    - [X] [[https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/][Performing a Rolling Update]] (1h 30m)
+*** DONE [#B] TaskCluster
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:
+    :ACTUAL:   6.65
     :OWNER: vaibhavk
     :ID: DEV.1548225960
     :TASKID: DEV.1548225960
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-02-03 Sun 17:58]--[2019-02-03 Sun 21:03] =>  3:05
+    CLOCK: [2019-02-02 Sat 02:55]--[2019-02-02 Sat 04:25] =>  1:30
+    CLOCK: [2019-01-31 Thu 00:37]--[2019-01-31 Thu 02:41] =>  2:04
+    :END:
 **** [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517015][Issue 1517015]]
-
