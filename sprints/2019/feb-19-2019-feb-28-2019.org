@@ -252,16 +252,6 @@
     :END:
     - [X] [[https://dizballanze.com/django-project-optimization-part-1/] [Part 1]] 3h
     - [X] [[https://dizballanze.com/en/django-project-optimization-part-2/] [Part 2]] 2h
-*** Project Stacknews
-    :PROPERTIES:
-    :ESTIMATED: 7
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: DEV.1550765016
-    :TASKID: DEV.1550765016
-    :END:
-    - [ ] Front End User Interaction Page 4h
-    - [ ] Landing Page 3h
 *** DONE Blog Writing [2/2]
     CLOSED: [2019-03-23 Sat 15:10]
     :PROPERTIES:
