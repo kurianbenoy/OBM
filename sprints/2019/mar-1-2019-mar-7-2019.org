@@ -29,13 +29,16 @@
   :wpd-vaibhavk: 1.25
   :END:
 ** sandeepk
-*** Project Stacknews [0/2]
+*** TODO Project Stacknews [0/2]
     :PROPERTIES:
     :ESTIMATED: 7
-    :ACTUAL:
+    :ACTUAL:   2.50
     :OWNER: sandeepk
     :ID: DEV.1550765016
     :TASKID: DEV.1550765016
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-03 Sun 15:00]--[2019-03-03 Sun 17:30] =>  2:30
     :END:
     - [ ] Front End User Interaction Page 4h
     - [ ] Landing Page 3h
