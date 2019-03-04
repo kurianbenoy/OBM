@@ -1,0 +1,299 @@
+#+TITLE: February 19-28, 2019 (10 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS                           | WAITING | DONE | CANCELED |
+|------+------+---------------------------------------+---------+------+----------|
+|      |      | READ.1548140097. NIOS Maths Text Book |         |      |          |
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+| NAME             | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+-----------+--------+------+-----------+--------------+------------|
+| Sandeepk         |         0 |      0 |    0 |         0 |   2019-02-25 | ---------- |
+| Nightwarrior-Xxx |         0 |      0 |    0 |         0 |   2019-02-25 | ---------- |
+| Jasonbraganza    |      50.0 |  14.33 |    0 |      50.0 |   2019-03-06 | ---------- |
+| Bhavin192        |         0 |      0 |    0 |         0 |   2019-02-25 | ---------- |
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:10]"
+#+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2019-02-19 | 125.75 |   113 |                 |
+|   2 | 2019-02-20 | 125.75 |   101 |                 |
+|   3 | 2019-02-21 | 125.75 |    88 |                 |
+|   4 | 2019-02-22 | 125.75 |    75 |                 |
+|   5 | 2019-02-23 | 125.75 |    63 |                 |
+|   6 | 2019-02-24 | 125.75 |    50 |                 |
+|   7 | 2019-02-25 | 125.75 |    38 |                 |
+|   8 | 2019-02-26 |        |    25 |                 |
+|   9 | 2019-02-27 |        |    13 |                 |
+|  10 | 2019-02-28 |        |     0 |                 |
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                               | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED | ACTUAL |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| TASKS                              |                  |                  | B        |             |    125.75 |  14.33 |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| bhavin192                          |                  |                  | B        |             |     10.75 |        |
+| Learning Golang                    |                  |                  | B        |             |       8.5 |        |
+| Chapter 12. Reflection             | READ.1550682829  | bhavin192        | B        |             |       0.5 |        |
+| Chapter 12 Exercises               | DEV.1550682876   | bhavin192        | B        |             |         8 |        |
+| GNU Emacs bug triaging             | OPS.1549821237   | bhavin192        | B        |             |      0.25 |        |
+| Write blog post about Emacs        | WRITE.1549821271 | bhavin192        | B        |             |         2 |        |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| jasonbraganza                      |                  |                  | B        |             |      80.0 |  14.33 |
+| NIOS Maths Text Book               | READ.1548140097  | jasonbraganza    | B        | IN_PROGRESS |      50.0 |  14.33 |
+| NIOS Accounts Text Book            | READ.1548140097  | jasonbraganza    | B        |             |      30.0 |        |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| sandeepk                           |                  |                  | B        |             |        15 |        |
+| Django Project Optimization        | READ.1550764743  | sandeepk         | B        |             |         5 |        |
+| Project Stacknews                  | DEV.1550765016   | sandeepk         | B        |             |         7 |        |
+| Blog Writing                       | WRITE.1550819723 | sandeepk         | B        |             |         3 |        |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
+| nightwarrior-xxx                   |                  |                  | B        |             |        20 |        |
+| Understanding the concept of React | DEV.1550564523   | nightwarrior-xxx | A        |             |        19 |        |
+| Writing your learning              | WRITE.1550564807 | nightwarrior-xxx | B        |             |         1 |        |
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 10
+  :SPRINTSTART: <2019-02-19 Tue>
+  :wpd-bhavin192: 1
+  :wpd-jasonbraganza: 8
+  :wpd-nightwarrior-xxx: 2
+<<<<<<< HEAD
+=======
+  :wpd-sandeepk: 1.5
+>>>>>>> skchoudhary/operation-blue-moon-master
+  :END:
+** bhavin192
+*** Learning Golang
+**** Chapter 12. Reflection [0/3]
+     :PROPERTIES:
+     :ESTIMATED: 0.5
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       READ.1550682829
+     :TASKID:   READ.1550682829
+     :END:
+     - [ ] 12.7 Accessing Struct Field Tags      (20m)
+     - [ ] 12.8 Displaying the Methods of a Type (5m)
+     - [ ] 12.9 A Word of Caution                (10m)
+**** Chapter 12 Exercises [0/2]
+     :PROPERTIES:
+     :ESTIMATED: 8
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       DEV.1550682876
+     :TASKID:   DEV.1550682876
+     :END:
+     - [ ] 12.6 Part II (5.5h)
+     - [ ] 12.7         (2.5h)
+*** GNU Emacs bug triaging [0/5]
+    :PROPERTIES:
+    :ESTIMATED: 0.25
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       OPS.1549821237
+    :TASKID:   OPS.1549821237
+    :END:
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34268][#34268]]: wrong indentation in python mode
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34330][#34330]]: shell auto-complete cannot handle special characters
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34287][#34287]]: dired-do-rename vs. ls -R switch
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34267][#34267]]: Multiple themes in M-x customize-themes
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34397][#34397]]: completion forgets to escape "?"
+*** Write blog post about Emacs
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1549821271
+    :TASKID:   WRITE.1549821271
+    :END:
+** jasonbraganza
+*** IN_PROGRESS NIOS Maths Text Book [0/10]
+    :PROPERTIES:
+    :ESTIMATED: 50.0
+    :ACTUAL:   14.33
+    :OWNER: jasonbraganza
+    :ID: READ.1548140097
+    :TASKID: READ.1548140097
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-02-22 Fri 15:30]--[2019-02-22 Fri 17:30] =>  2:00
+    CLOCK: [2019-02-22 Fri 09:00]--[2019-02-22 Fri 14:30] =>  5:30
+    CLOCK: [2019-02-21 Thu 09:00]--[2019-02-21 Thu 15:50] =>  6:50
+    :END:
+    - [ ] Module - I [0/2]
+      - [ ] 2019-02-18 - 4 - Trigonometric Functions II
+      - [ ] 2019-02-19 - 5 - Relation between Sides and Angles of a Triangle
+    - [ ] Module - II: Sequences and series [0/2]
+      - [ ] 2019-02-20 - 6 - Sequences and series
+      - [ ] 2019-02-21 - 7 - Some special sequences
+    - [ ] Module - III: Algebra I [0/5]
+      - [ ] 2019-02-22 - 8 - Complex Numbers
+      - [ ] 2019-02-23 - 9 - Quadratic Equations and Linear Inequalities
+      - [ ] 2019-02-24 - 10 - Principle of Mathematical Induction
+      - [ ] 2019-02-27 - 11 - Permutations and Combinations
+      - [ ] 2019-02-28 - 12 - Binomial Theorem
+    - [ ] Module - IV: Co-ordinate Geometry [0/4]
+      - [ ] 2019-03-01 - 13 - Cartesian System of Rectangular Co-ordinates
+      - [ ] 2019-03-02 - 14 - Straight Lines
+      - [ ] 2019-03-03 - 15 - Circles
+      - [ ] 2019-03-04 - 16 - Conic Sections
+    - [ ] Module - V: Statistics and Probability [0/3]
+      - [ ] 2019-03-05 - 17 - Measures of Dispersion
+      - [ ] 2019-03-06 - 18 - Random Experiments and Events
+      - [ ] 2019-03-07 - 19 - Probability
+    - [ ] Module - VI: Algebra II [0/3]
+      - [ ] 2019-03-08 - 20 - Matrices
+      - [ ] 2019-03-09 - 21 - Determinants
+      - [ ] 2019-03-10 - 22 - Inverse of a Matrix and its Applications
+    - [ ] Module - VII: Relations and Functions [0/2]
+      - [ ] 2019-03-11 - 23 - Relations and Functions II
+      - [ ] 2019-03-12 - 24 - Inverse Trigonometric Functions
+    - [ ] Module - VIII: Calculus [0/8]
+      - [ ] 2019-03-13 - 25 -  Limits and Continuity
+      - [ ] 2019-03-14 - 26 - Differentiation
+      - [ ] 2019-03-15 - 27 - Differentiation of Trigonometric Functions
+      - [ ] 2019-03-16 - 28 - Differentiation of Exponential and Logarithmic functions
+      - [ ] 2019-03-17 - 29 - Application of Derivatives
+      - [ ] 2019-03-18 - 30 - Integration
+      - [ ] 2019-03-19 - 31 - Definite Integrals
+      - [ ] 2019-03-20 - 32 - Differential Integrals
+    - [ ] Module - IX: Vectors and Three Dimensional Geometry [0/4]
+      - [ ] 2019-03-21 - 33 - Introduction to Three Dimensional Geometry
+      - [ ] 2019-03-22 - 34 - Vectors
+      - [ ] 2019-03-23 - 35 - Plane
+      - [ ] 2019-03-24 - 36 - Straight Line
+    - [ ] Module - X: Linear Programming and Mathematical Reasoning [0/2]
+      - [ ] 2019-03-25 - 37 - Linear Programming
+      - [ ] 2019-03-26 - 38 - Mathematical Reasoning
+*** NIOS Accounts Text Book [0/10]
+    :PROPERTIES:
+    :ESTIMATED: 30.0
+    :ACTUAL:
+    :OWNER: jasonbraganza
+    :ID: READ.1548140097
+    :TASKID: READ.1548140097
+    :END:
+    :LOGBOOK:
+    :END:
+    - [ ] Module - I: Basic Accounting [0/5]
+      - [ ] 2019-02-18 - 1 - Accounting - An Introduction
+      - [ ] 2019-02-19 - 2 - Accounting Concepts
+      - [ ] 2019-02-20 - 3 - Accounting Conventions and Standards
+      - [ ] 2019-02-21 - 4 - Accounting for Business Transactions
+      - [ ] 2019-02-22 - 5 - Journal
+      - [ ] 2019-02-23 - 6 - Ledger
+      - [ ] 2019-02-24 - 7 - Cash Book
+      - [ ] 2019-02-27 - 8 - Special Purpose Books
+    - [ ] Module - II: Trial Balance and Computers [0/5]
+      - [ ] 2019-02-28 - 9 - Trial Balance
+      - [ ] 2019-03-01 - 10 - Bank Reconciliation Statement
+      - [ ] 2019-03-02 - 11 - Bills of Exchange
+      - [ ] 2019-03-03 - 12 - Errors and their Rectification
+      - [ ] 2019-03-04 - 13 - Computer and Computerised Accounting System
+    - [ ] Module - III: Financial Statements [0/8]
+      - [ ] 2019-03-05 - 14 - Depreciation
+      - [ ] 2019-03-06 - 15 - Provision and Reserves
+      - [ ] 2019-03-07 - 16 - Financial Statements - An Introduction
+      - [ ] 2019-03-08 - 17 - Financial Statements I
+      - [ ] 2019-03-09 - 18 - Financial Statements II
+      - [ ] 2019-03-10 - 19 - Not for Profit Organisations - An Introduction
+      - [ ] 2019-03-11 - 20 - Financial Statements (Not for Profit Organisations)
+      - [ ] 2019-03-12 - 21 - Accounts From Incomplete Records
+    - [ ] Module - IV: Partnership Accounts [0/4]
+      - [ ] 2019-03-13 - 22 - Partnership - An Introduction
+      - [ ] 2019-03-14 - 23 - Admission of a Partner
+      - [ ] 2019-03-15 - 24 - Retirement and Death of a Partner
+      - [ ] 2019-03-16 - 25 - Dissolution of a partnership firm
+    - [ ] Module - V: Company Accounts [0/5]
+      - [ ] 2019-03-17 - 26 - Company - An Introduction
+      - [ ] 2019-03-18 - 27 - Issue of Shares
+      - [ ] 2019-03-19 - 28 - Forfeiture of Shares
+      - [ ] 2019-03-20 - 29 - Reissue of Forfeited Shares
+      - [ ] 2019-03-21 - 30 - Issue of Debentures
+    - [ ] Module - VI : Analysis of Financial Statements [0/4]
+      - [ ] 2019-03-22 - 31 - Financial Statements Analysis-An Introduction
+      - [ ] 2019-03-23 - 32 - Accounting Ratios-I
+      - [ ] 2019-03-24 - 33 - Accounting Ratios-II
+      - [ ] 2019-03-25 - 34 - Cash Flow Statement
+    - [ ] Module - VII: Application of Computers in Financial Accounting [0/4]
+      - [ ] 2019-03-26 - 35 - Electronic Spread Sheet
+      - [ ] 2019-03-27 - 36 - Use of Spread-sheet in Business Application
+      - [ ] 2019-03-28 - 37 - Graphs and Charts for Business
+      - [ ] 2019-03-29 - 38 - Database Management System for Accounting
+** sandeepk
+*** Django Project Optimization
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1550764743
+    :TASKID: READ.1550764743
+    :END:
+    - [ ] [[https://dizballanze.com/django-project-optimization-part-1/] [Part 1]] 3h
+    - [ ] [[https://dizballanze.com/en/django-project-optimization-part-2/] [Part 2]] 2h
+*** Project Stacknews
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1550765016
+    :TASKID: DEV.1550765016
+    :END:
+    - [ ] Front End User Interaction Page 4h
+    - [ ] Landing Page 3h
+*** Blog Writing
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: WRITE.1550819723
+    :TASKID: WRITE.1550819723
+    :END:
+    - [ ] Write blog for Music productivity 1h
+    - [ ] Write blog for shell script Notes 2h
+** nightwarrior-xxx
+*** [#A] Understanding the concept of React [0/13]
+         :PROPERTIES:
+         :ESTIMATED: 19
+         :ACTUAL:
+         :OWNER: nightwarrior-xxx
+         :ID: DEV.1550564523
+         :TASKID: DEV.1550564523
+         :END:
+         - [ ] Getting Started
+         - [ ] Refreshing Next Generation JavaScript (Optional)
+         - [ ] Understanding the Base Features & Syntax
+         - [ ] Working with Lists and Conditionals
+         - [ ] Styling React Components & Elements
+         - [ ] Debugging React Apps
+         - [ ] Diving Deeper into Components & React Internals
+         - [ ] A Real App_ The Burger Builder (Basic Version)
+         - [ ] Reaching out to the Web (Http _ Ajax)
+         - [ ] Burger Builder Project_ Accessing a Server
+         - [ ] Multi-Page-Feeling in a Single-Page-App_ Routing 
+         - [ ] Adding Routing to our Burger Project
+         - [ ] Forms and Form Validation
+*** [#B] Writing your learning 
+         :PROPERTIES:
+         :ESTIMATED: 1
+         :ACTUAL:
+         :OWNER: nightwarrior-xxx
+         :ID: WRITE.1550564807
+         :TASKID: WRITE.1550564807
+         :END:
