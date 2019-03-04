@@ -21,3 +21,39 @@
 ** Attend meetups
 ** Write blog posts
 * PLAN
+** March     1, 2019 - March     7, 2019 ( 7 days)
+   :PROPERTIES:
+   :wpd-bhavin192: 1
+   :END:
+*** Learning Golang
+**** Chapter 12 Exercises [0/2]
+     :PROPERTIES:
+     :ESTIMATED: 3.5
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       DEV.1550682876
+     :TASKID:   DEV.1550682876
+     :END:
+     - [ ] 12.6 Part II (5.5h)
+     - [ ] 12.7         (2.5h)
+**** Chapter 13. Low-Level Programming [0/4]
+     :PROPERTIES:
+     :ESTIMATED: 2
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       READ.1551715610
+     :TASKID:   READ.1551715610
+     :END:
+     - [ ] 13.1 unsafe.Sizeof, Alignof, and Offsetof (25m)
+     - [ ] 13.2 unsafe.Pointer                       (20m)
+     - [ ] 13.3 Example: Deep Equivalence            (25m)
+     - [ ] 13.4 Calling C Code with cgo              (45m)
+**** Chapter 13 Exercises [0/1]
+     :PROPERTIES:
+     :ESTIMATED: 1
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       DEV.1551715724
+     :TASKID:   DEV.1551715724
+     :END:
+     - [ ] 13.3 (1h)
