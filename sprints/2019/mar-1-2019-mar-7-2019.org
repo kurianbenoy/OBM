@@ -25,42 +25,15 @@
   :ID:       TASKS
   :SPRINTLENGTH: 7
   :SPRINTSTART: <2019-03-01 Fri>
+  :wpd-jasonbraganza: 11.42
   :wpd-sandeepk: 1
   :wpd-vaibhavk: 1.25
   :END:
-** sandeepk
-*** Project Stacknews [0/2]
-    :PROPERTIES:
-    :ESTIMATED: 7
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: DEV.1550765016
-    :TASKID: DEV.1550765016
-    :END:
-    - [ ] Front End User Interaction Page 4h
-    - [ ] Landing Page 3h
-** vaibhavk
-*** [#A] [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517865][Taskcluster Issue]]
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER: vaibhavk
-    :ID: DEV.1551435937
-    :TASKID: DEV.1551435937
-    :END:
-*** [#B] [[https://github.com/deepmind/kapitan/issues/201][Kapitan GSoC task #201]]
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER: vaibhavk
-    :ID: DEV.1551436242
-    :TASKID: DEV.1551436242
-    :END:
 ** jasonbraganza
 *** IN_PROGRESS NIOS Maths Text Book [0/10]
     :PROPERTIES:
     :ESTIMATED: 50.0
-    :ACTUAL:   14.33
+    :ACTUAL:   9.50
     :OWNER: jasonbraganza
     :ID: READ.1548140097
     :TASKID: READ.1548140097
@@ -69,7 +42,7 @@
     CLOCK: [2019-03-05 Tue 08:00]--[2019-03-05 Tue 13:00] =>  5:00
     CLOCK: [2019-03-04 Mon 10:00]--[2019-03-04 Mon 14:30] =>  4:30
     :END:
-      - [ ] Module - I [0/2]
+    - [ ] Module - I [0/2]
       - [ ] 4 - Trigonometric Functions II
       - [ ] 5 - Relation between Sides and Angles of a Triangle
     - [ ] Module - II: Sequences and series [0/2]
@@ -122,7 +95,7 @@
     :ID: READ.1548140097
     :TASKID: READ.1548140097
     :END:
-      - [ ] Module - I: Basic Accounting [0/5]
+    - [ ] Module - I: Basic Accounting [0/5]
       - [ ] 1 - Accounting - An Introduction
       - [ ] 2 - Accounting Concepts
       - [ ] 3 - Accounting Conventions and Standards
@@ -167,3 +140,31 @@
       - [ ] 36 - Use of Spread-sheet in Business Application
       - [ ] 37 - Graphs and Charts for Business
       - [ ] 38 - Database Management System for Accounting
+** sandeepk
+*** Project Stacknews [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1550765016
+    :TASKID: DEV.1550765016
+    :END:
+    - [ ] Front End User Interaction Page 4h
+    - [ ] Landing Page 3h
+** vaibhavk
+*** [#A] [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517865][Taskcluster Issue]]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: DEV.1551435937
+    :TASKID: DEV.1551435937
+    :END:
+*** [#B] [[https://github.com/deepmind/kapitan/issues/201][Kapitan GSoC task #201]]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: DEV.1551436242
+    :TASKID: DEV.1551436242
+    :END:
