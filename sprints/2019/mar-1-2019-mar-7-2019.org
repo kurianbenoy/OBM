@@ -29,7 +29,7 @@
   :wpd-vaibhavk: 1.25
   :END:
 ** sandeepk
-*** TODO Project Stacknews [0/2]
+*** IN_PROGRESS Project Stacknews [0/2]
     :PROPERTIES:
     :ESTIMATED: 7
     :ACTUAL:   2.50
