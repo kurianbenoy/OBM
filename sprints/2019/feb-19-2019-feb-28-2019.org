@@ -6,18 +6,22 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS                           | WAITING | DONE | CANCELED |
-|------+------+---------------------------------------+---------+------+----------|
-|      |      | READ.1548140097. NIOS Maths Text Book |         |      |          |
+| TODO | NEXT | IN_PROGRESS                           | WAITING | DONE                                                       | CANCELED |
+|------+------+---------------------------------------+---------+------------------------------------------------------------+----------|
+|      |      | READ.1548140097. NIOS Maths Text Book |         | READ.1550764743. Django Project Optimization (2019-03-26)  |          |
+|      |      |                                       |         | WRITE.1550819723. Blog Writing (2019-03-23)                |          |
+|      |      |                                       |         | OPS.1549821237. GNU Emacs bug triaging (2019-02-28)        |          |
+|      |      |                                       |         | READ.1550682829. Chapter 12. Reflection (2019-02-27)       |          |
+|      |      |                                       |         | WRITE.1549821271. Write blog post about Emacs (2019-02-19) |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
-| NAME             | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
-|------------------+-----------+--------+------+-----------+--------------+------------|
-| Sandeepk         |         0 |      0 |    0 |         0 |   2019-02-25 | ---------- |
-| Nightwarrior-Xxx |         0 |      0 |    0 |         0 |   2019-02-25 | ---------- |
-| Jasonbraganza    |      50.0 |  14.33 |    0 |      50.0 |   2019-03-06 | ---------- |
-| Bhavin192        |         0 |      0 |    0 |         0 |   2019-02-25 | ---------- |
+| NAME             | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+-----------+--------------------+------+-----------+--------------+------------|
+| Sandeepk         |         8 |                7.2 |    8 |         0 |   2019-03-06 | ########## |
+| Nightwarrior-Xxx |         0 |                  0 |    0 |         0 |   2019-03-06 | ---------- |
+| Jasonbraganza    |      50.0 |              14.33 |    0 |      50.0 |   2019-03-15 | ---------- |
+| Bhavin192        |      2.75 | 3.1799999999999997 | 2.75 |         0 |   2019-03-06 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -26,44 +30,42 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:10]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2019-02-19 | 125.75 |   113 |                 |
-|   2 | 2019-02-20 | 125.75 |   101 |                 |
-|   3 | 2019-02-21 | 125.75 |    88 |                 |
-|   4 | 2019-02-22 | 125.75 |    75 |                 |
-|   5 | 2019-02-23 | 125.75 |    63 |                 |
-|   6 | 2019-02-24 | 125.75 |    50 |                 |
-|   7 | 2019-02-25 | 125.75 |    38 |                 |
-|   8 | 2019-02-26 |        |    25 |                 |
-|   9 | 2019-02-27 |        |    13 |                 |
-|  10 | 2019-02-28 |        |     0 |                 |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED  |
+|-----+------------+--------+-------+------------------|
+|   1 | 2019-02-19 | 108.75 |   100 | WRITE.1549821271 |
+|   2 | 2019-02-20 | 108.75 |    89 |                  |
+|   3 | 2019-02-21 | 108.75 |    78 |                  |
+|   4 | 2019-02-22 | 108.75 |    66 |                  |
+|   5 | 2019-02-23 | 108.75 |    55 |                  |
+|   6 | 2019-02-24 | 108.75 |    44 |                  |
+|   7 | 2019-02-25 | 108.75 |    33 |                  |
+|   8 | 2019-02-26 | 108.75 |    22 |                  |
+|   9 | 2019-02-27 | 108.25 |    11 | READ.1550682829  |
+|  10 | 2019-02-28 |  108.0 |     0 | OPS.1549821237   |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                               | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED | ACTUAL |
-|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| TASKS                              |                  |                  | B        |             |    125.75 |  14.33 |
-|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| bhavin192                          |                  |                  | B        |             |     10.75 |        |
-| Learning Golang                    |                  |                  | B        |             |       8.5 |        |
-| Chapter 12. Reflection             | READ.1550682829  | bhavin192        | B        |             |       0.5 |        |
-| Chapter 12 Exercises               | DEV.1550682876   | bhavin192        | B        |             |         8 |        |
-| GNU Emacs bug triaging             | OPS.1549821237   | bhavin192        | B        |             |      0.25 |        |
-| Write blog post about Emacs        | WRITE.1549821271 | bhavin192        | B        |             |         2 |        |
-|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| jasonbraganza                      |                  |                  | B        |             |      80.0 |  14.33 |
-| NIOS Maths Text Book               | READ.1548140097  | jasonbraganza    | B        | IN_PROGRESS |      50.0 |  14.33 |
-| NIOS Accounts Text Book            | READ.1548140097  | jasonbraganza    | B        |             |      30.0 |        |
-|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| sandeepk                           |                  |                  | B        |             |        15 |        |
-| Django Project Optimization        | READ.1550764743  | sandeepk         | B        |             |         5 |        |
-| Project Stacknews                  | DEV.1550765016   | sandeepk         | B        |             |         7 |        |
-| Blog Writing                       | WRITE.1550819723 | sandeepk         | B        |             |         3 |        |
-|------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| nightwarrior-xxx                   |                  |                  | B        |             |        20 |        |
-| Understanding the concept of React | DEV.1550564523   | nightwarrior-xxx | A        |             |        19 |        |
-| Writing your learning              | WRITE.1550564807 | nightwarrior-xxx | B        |             |         1 |        |
+| ITEM                               | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED |             ACTUAL |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| TASKS                              |                  |                  | B        |             |    110.75 | 24.709999999999997 |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| bhavin192                          |                  |                  | B        |             |      2.75 | 3.1799999999999997 |
+| Learning Golang                    |                  |                  | B        |             |       0.5 |               0.43 |
+| Chapter 12. Reflection             | READ.1550682829  | bhavin192        | B        | DONE        |       0.5 |               0.43 |
+| GNU Emacs bug triaging             | OPS.1549821237   | bhavin192        | B        | DONE        |      0.25 |               0.18 |
+| Write blog post about Emacs        | WRITE.1549821271 | bhavin192        | B        | DONE        |         2 |               2.57 |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| jasonbraganza                      |                  |                  | B        |             |      80.0 |              14.33 |
+| NIOS Maths Text Book               | READ.1548140097  | jasonbraganza    | B        | IN_PROGRESS |      50.0 |              14.33 |
+| NIOS Accounts Text Book            | READ.1548140097  | jasonbraganza    | B        |             |      30.0 |                    |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| sandeepk                           |                  |                  | B        |             |         8 |                7.2 |
+| Django Project Optimization        | READ.1550764743  | sandeepk         | B        | DONE        |         5 |               4.87 |
+| Blog Writing                       | WRITE.1550819723 | sandeepk         | B        | DONE        |         3 |               2.33 |
+|------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| nightwarrior-xxx                   |                  |                  | B        |             |        20 |                    |
+| Understanding the concept of React | DEV.1550564523   | nightwarrior-xxx | A        |             |        19 |                    |
+| Writing your learning              | WRITE.1550564807 | nightwarrior-xxx | B        |             |         1 |                    |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -77,47 +79,52 @@
   :END:
 ** bhavin192
 *** Learning Golang
-**** Chapter 12. Reflection [0/3]
+**** DONE Chapter 12. Reflection [3/3]
+     CLOSED: [2019-02-27 Wed 22:28]
      :PROPERTIES:
      :ESTIMATED: 0.5
-     :ACTUAL:
+     :ACTUAL:   0.43
      :OWNER:    bhavin192
      :ID:       READ.1550682829
      :TASKID:   READ.1550682829
      :END:
-     - [ ] 12.7 Accessing Struct Field Tags      (20m)
-     - [ ] 12.8 Displaying the Methods of a Type (5m)
-     - [ ] 12.9 A Word of Caution                (10m)
-**** Chapter 12 Exercises [0/2]
-     :PROPERTIES:
-     :ESTIMATED: 8
-     :ACTUAL:
-     :OWNER:    bhavin192
-     :ID:       DEV.1550682876
-     :TASKID:   DEV.1550682876
+     :LOGBOOK:
+     CLOCK: [2019-02-27 Wed 22:23]--[2019-02-27 Wed 22:28] =>  0:05
+     CLOCK: [2019-02-27 Wed 22:19]--[2019-02-27 Wed 22:23] =>  0:04
+     CLOCK: [2019-02-27 Wed 19:40]--[2019-02-27 Wed 19:57] =>  0:17
      :END:
-     - [ ] 12.6 Part II (5.5h)
-     - [ ] 12.7         (2.5h)
-*** GNU Emacs bug triaging [0/5]
+     - [X] 12.7 Accessing Struct Field Tags      (20m)
+     - [X] 12.8 Displaying the Methods of a Type (5m)
+     - [X] 12.9 A Word of Caution                (10m)
+*** DONE GNU Emacs bug triaging [5/5]
+    CLOSED: [2019-02-28 Thu 23:31]
     :PROPERTIES:
     :ESTIMATED: 0.25
-    :ACTUAL:
+    :ACTUAL:   0.18
     :OWNER:    bhavin192
     :ID:       OPS.1549821237
     :TASKID:   OPS.1549821237
     :END:
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34268][#34268]]: wrong indentation in python mode
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34330][#34330]]: shell auto-complete cannot handle special characters
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34287][#34287]]: dired-do-rename vs. ls -R switch
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34267][#34267]]: Multiple themes in M-x customize-themes
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34397][#34397]]: completion forgets to escape "?"
-*** Write blog post about Emacs
+    :LOGBOOK:
+    CLOCK: [2019-02-28 Thu 23:20]--[2019-02-28 Thu 23:31] =>  0:11
+    :END:
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34268][#34268]]: wrong indentation in python mode
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34330][#34330]]: shell auto-complete cannot handle special characters
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34287][#34287]]: dired-do-rename vs. ls -R switch
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34267][#34267]]: Multiple themes in M-x customize-themes
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34397][#34397]]: completion forgets to escape "?"
+*** DONE Write blog post about Emacs
+    CLOSED: [2019-02-19 Tue 23:32]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   2.57
     :OWNER:    bhavin192
     :ID:       WRITE.1549821271
     :TASKID:   WRITE.1549821271
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-02-19 Tue 22:14]--[2019-02-19 Tue 23:32] =>  1:18
+    CLOCK: [2019-02-19 Tue 19:18]--[2019-02-19 Tue 20:34] =>  1:16
     :END:
 ** jasonbraganza
 *** IN_PROGRESS NIOS Maths Text Book [0/10]
