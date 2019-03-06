@@ -114,11 +114,9 @@ have the notion of time.
 Upcoming Sprints
 ================
 
-* January   7, 2019 - January  20, 2018 (14 days)
-* January  21, 2019 - February  5, 2019 (16 days)
-* February  6, 2019 - February 18, 2019 (13 days)
-* February 19, 2019 - February 28, 2019 (10 days)
 * March     1, 2019 - March     7, 2019 ( 7 days)
+* March     8, 2019 - March    19, 2019 (12 days)
+* March    20, 2019 - April     5, 2019 (17 days)
 
 Contact
 =======
