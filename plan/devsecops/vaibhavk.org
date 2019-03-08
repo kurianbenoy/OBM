@@ -82,5 +82,21 @@
 ** Projects
 *** [[https://github.com/taskcluster][TaskCluster]]
 *** [[https://github.com/kubernetes/][Kubernetes]]
-**** [[https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/][Configuring Redis using a ConfigMap]]
 * PLAN 
+** vaibhavk
+*** [#A] [[https://github.com/deepmind/kapitan/issues/201][Kapitan GSoC task #201]]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER:    vaibhavk
+    :ID:       DEV.1551436242
+    :TASKID:   DEV.1551436242
+    :END:
+*** [#B] [[https://bugzilla.mozilla.org/show_bug.cgi?id=1533591][Adjust auth API]]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: DEV.1552035914
+    :TASKID: DEV.1552035914
+    :END:
