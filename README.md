@@ -114,9 +114,31 @@ have the notion of time.
 Upcoming Sprints
 ================
 
-* March     1, 2019 - March     7, 2019 ( 7 days)
-* March     8, 2019 - March    19, 2019 (12 days)
-* March    20, 2019 - April     5, 2019 (17 days)
+* March      8, 2019 - March     19, 2019 (12 days)
+* March     20, 2019 - April      5, 2019 (17 days)
+* April      6, 2019 - April     18, 2019 (13 days)
+* April     19, 2019 - May        5, 2019 (17 days)
+* May        6, 2019 - May       17, 2019 (12 days)
+* May       18, 2019 - June       3, 2019 (17 days)
+* June       4, 2019 - June      16, 2019 (13 days)
+* June      17, 2019 - July       3, 2019 (17 days)
+* July       4, 2019 - July      15, 2019 (12 days)
+* July      16, 2019 - August     1, 2019 (17 days)
+* August     2, 2019 - August    14, 2019 (13 days)
+* August    15, 2019 - August    30, 2019 (16 days)
+* August    31, 2019 - September 12, 2019 (13 days)
+* September 13, 2019 - September 29, 2019 (17 days)
+* Spetember 30, 2019 - October   12, 2019 (13 days)
+* October   13, 2019 - October   28, 2019 (16 days)
+* October   29, 2019 - November  11, 2019 (14 days)
+* November  12, 2019 - November  27, 2019 (16 days)
+* November  28, 2019 - December  11, 2019 (14 days)
+* December  12, 2019 - December  26, 2019 (15 days)
+* December  27, 2019 - January    9, 2020 (14 days)
+* January   10, 2020 - January   25, 2020 (16 days)
+* January   26, 2020 - February   8, 2020 (14 days)
+* February   9, 2020 - February  24, 2020 (16 days)
+* February  25, 2020 - March      8, 2020 (13 days)
 
 Contact
 =======
