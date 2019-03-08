@@ -25,17 +25,166 @@
   :ID:       TASKS
   :SPRINTLENGTH: 7
   :SPRINTSTART: <2019-03-01 Fri>
+  :wpd-bhavin192: 1
+  :wpd-jasonbraganza: 11.42
   :wpd-sandeepk: 1
   :wpd-vaibhavk: 1.25
   :END:
+** bhavin192
+*** Learning Golang
+**** Chapter 12 Exercises [0/2]
+     :PROPERTIES:
+     :ESTIMATED: 3.5
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       DEV.1550682876
+     :TASKID:   DEV.1550682876
+     :END:
+     - [ ] 12.6 Part II (5.5h)
+     - [ ] 12.7         (2.5h)
+**** Chapter 13. Low-Level Programming [0/4]
+     :PROPERTIES:
+     :ESTIMATED: 2
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       READ.1551715610
+     :TASKID:   READ.1551715610
+     :END:
+     - [ ] 13.1 unsafe.Sizeof, Alignof, and Offsetof (25m)
+     - [ ] 13.2 unsafe.Pointer                       (20m)
+     - [ ] 13.3 Example: Deep Equivalence            (25m)
+     - [ ] 13.4 Calling C Code with cgo              (45m)
+**** Chapter 13 Exercises [0/1]
+     :PROPERTIES:
+     :ESTIMATED: 1
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       DEV.1551715724
+     :TASKID:   DEV.1551715724
+     :END:
+     - [ ] 13.3 (1h)
+** jasonbraganza
+*** IN_PROGRESS NIOS Maths Text Book [0/10]
+    :PROPERTIES:
+    :ESTIMATED: 50.0
+    :ACTUAL:   9.50
+    :OWNER: jasonbraganza
+    :ID: READ.1548140097
+    :TASKID: READ.1548140097
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-05 Tue 08:00]--[2019-03-05 Tue 13:00] =>  5:00
+    CLOCK: [2019-03-04 Mon 10:00]--[2019-03-04 Mon 14:30] =>  4:30
+    :END:
+    - [ ] Module - I [0/2]
+      - [ ] 4 - Trigonometric Functions II
+      - [ ] 5 - Relation between Sides and Angles of a Triangle
+    - [ ] Module - II: Sequences and series [0/2]
+      - [ ] 6 - Sequences and series
+      - [ ] 7 - Some special sequences
+    - [ ] Module - III: Algebra I [0/5]
+      - [ ] 8 - Complex Numbers
+      - [ ] 9 - Quadratic Equations and Linear Inequalities
+      - [ ] 10 - Principle of Mathematical Induction
+      - [ ] 11 - Permutations and Combinations
+      - [ ] 12 - Binomial Theorem
+    - [ ] Module - IV: Co-ordinate Geometry [0/4]
+      - [ ] 13 - Cartesian System of Rectangular Co-ordinates
+      - [ ] 14 - Straight Lines
+      - [ ] 15 - Circles
+      - [ ] 16 - Conic Sections
+    - [ ] Module - V: Statistics and Probability [0/3]
+      - [ ] 17 - Measures of Dispersion
+      - [ ] 18 - Random Experiments and Events
+      - [ ] 19 - Probability
+    - [ ] Module - VI: Algebra II [0/3]
+      - [ ] 20 - Matrices
+      - [ ] 21 - Determinants
+      - [ ] 22 - Inverse of a Matrix and its Applications
+    - [ ] Module - VII: Relations and Functions [0/2]
+      - [ ] 23 - Relations and Functions II
+      - [ ] 24 - Inverse Trigonometric Functions
+    - [ ] Module - VIII: Calculus [0/8]
+      - [ ] 25 -  Limits and Continuity
+      - [ ] 26 - Differentiation
+      - [ ] 27 - Differentiation of Trigonometric Functions
+      - [ ] 28 - Differentiation of Exponential and Logarithmic functions
+      - [ ] 29 - Application of Derivatives
+      - [ ] 30 - Integration
+      - [ ] 31 - Definite Integrals
+      - [ ] 32 - Differential Integrals
+    - [ ] Module - IX: Vectors and Three Dimensional Geometry [0/4]
+      - [ ] 33 - Introduction to Three Dimensional Geometry
+      - [ ] 34 - Vectors
+      - [ ] 35 - Plane
+      - [ ] 36 - Straight Line
+    - [ ] Module - X: Linear Programming and Mathematical Reasoning [0/2]
+      - [ ] 37 - Linear Programming
+      - [ ] 38 - Mathematical Reasoning
+*** NIOS Accounts Text Book [0/10]
+    :PROPERTIES:
+    :ESTIMATED: 30.0
+    :ACTUAL:
+    :OWNER: jasonbraganza
+    :ID: READ.1548140097
+    :TASKID: READ.1548140097
+    :END:
+    - [ ] Module - I: Basic Accounting [0/5]
+      - [ ] 1 - Accounting - An Introduction
+      - [ ] 2 - Accounting Concepts
+      - [ ] 3 - Accounting Conventions and Standards
+      - [ ] 4 - Accounting for Business Transactions
+      - [ ] 5 - Journal
+      - [ ] 6 - Ledger
+      - [ ] 7 - Cash Book
+      - [ ] 8 - Special Purpose Books
+    - [ ] Module - II: Trial Balance and Computers [0/5]
+      - [ ] 9 - Trial Balance
+      - [ ] 10 - Bank Reconciliation Statement
+      - [ ] 11 - Bills of Exchange
+      - [ ] 12 - Errors and their Rectification
+      - [ ] 13 - Computer and Computerised Accounting System
+    - [ ] Module - III: Financial Statements [0/8]
+      - [ ] 14 - Depreciation
+      - [ ] 15 - Provision and Reserves
+      - [ ] 16 - Financial Statements - An Introduction
+      - [ ] 17 - Financial Statements I
+      - [ ] 18 - Financial Statements II
+      - [ ] 19 - Not for Profit Organisations - An Introduction
+      - [ ] 20 - Financial Statements (Not for Profit Organisations)
+      - [ ] 21 - Accounts From Incomplete Records
+    - [ ] Module - IV: Partnership Accounts [0/4]
+      - [ ] 22 - Partnership - An Introduction
+      - [ ] 23 - Admission of a Partner
+      - [ ] 24 - Retirement and Death of a Partner
+      - [ ] 25 - Dissolution of a partnership firm
+    - [ ] Module - V: Company Accounts [0/5]
+      - [ ] 26 - Company - An Introduction
+      - [ ] 27 - Issue of Shares
+      - [ ] 28 - Forfeiture of Shares
+      - [ ] 29 - Reissue of Forfeited Shares
+      - [ ] 30 - Issue of Debentures
+    - [ ] Module - VI : Analysis of Financial Statements [0/4]
+      - [ ] 31 - Financial Statements Analysis-An Introduction
+      - [ ] 32 - Accounting Ratios-I
+      - [ ] 33 - Accounting Ratios-II
+      - [ ] 34 - Cash Flow Statement
+    - [ ] Module - VII: Application of Computers in Financial Accounting [0/4]
+      - [ ] 35 - Electronic Spread Sheet
+      - [ ] 36 - Use of Spread-sheet in Business Application
+      - [ ] 37 - Graphs and Charts for Business
+      - [ ] 38 - Database Management System for Accounting
 ** sandeepk
-*** Project Stacknews [0/2]
+*** IN_PROGRESS Project Stacknews [0/2]
     :PROPERTIES:
     :ESTIMATED: 7
-    :ACTUAL:
+    :ACTUAL:   2.50
     :OWNER: sandeepk
     :ID: DEV.1550765016
     :TASKID: DEV.1550765016
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-03 Sun 15:00]--[2019-03-03 Sun 17:30] =>  2:30
     :END:
     - [ ] Front End User Interaction Page 4h
     - [ ] Landing Page 3h
