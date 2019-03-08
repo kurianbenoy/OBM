@@ -268,7 +268,7 @@
     - [ ] Write blog for Music productivity 1h
     - [ ] Write blog for shell script Notes 2h
 ** nightwarrior-xxx
-*** [#A] Understanding the concept of React [2/13]
+*** [#A] Understanding the concept of React [3/13]
          :PROPERTIES:
          :ESTIMATED: 19
          :ACTUAL:
@@ -277,6 +277,9 @@
          :TASKID: DEV.1550564523
          :END:
          :LOGBOOK:
+         CLOCK: [2019-02-28 Thu 19:23]--[2019-02-28 Thu 19:43] =>  0:20
+         CLOCK: [2019-02-25 Mon 20:51]--[2019-02-25 Mon 21:17] =>  0:26
+         CLOCK: [2019-02-25 Mon 19:59]--[2019-02-25 Mon 20:51] =>  0:52
          CLOCK: [2019-02-21 Thu 08:26]--[2019-02-21 Thu 08:35] =>  0:09
          CLOCK: [2019-02-21 Thu 06:57]--[2019-02-21 Thu 07:06] =>  0:09
          CLOCK: [2019-02-21 Thu 06:03]--[2019-02-21 Thu 06:55] =>  0:52
@@ -284,7 +287,7 @@
          :END:
          - [X] Getting Started
          - [X] Refreshing Next Generation JavaScript (Optional)
-         - [ ] Understanding the Base Features & Syntax
+         - [X] Understanding the Base Features & Syntax
          - [ ] Working with Lists and Conditionals
          - [ ] Styling React Components & Elements
          - [ ] Debugging React Apps
