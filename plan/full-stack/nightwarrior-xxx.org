@@ -437,3 +437,40 @@
 * PLAN:
 ** February 19, 2019 - February 28, 2019 (10 days)
 ** March     1, 2019 - March     7, 2019 ( 7 days)
+** March      8, 2019 - March     19, 2019 (12 days)
+   :PROPERTIES:
+   :wpd-nightwarrior-xxx: 2
+   :END:
+*** Contribute and Learn [/]
+    :PROPERTIES:
+    :ESTIMATED: 15
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: DEV.1552081276
+    :TASKID: DEV.1552081276
+    :END:
+    - [ ] Introduce modern JS features and tools to phpMyAdmin codebase
+           - Webpack
+    - [ ] Ship completion files for shells
+           - bash,zsh 
+
+*** Innovate and Build [/]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: DEV.1552081239
+    :TASKID: DEV.1552081239
+    :END:
+    - [ ] Password Manager in Lua programming lanaguage
+
+*** Learn concepts of Lua [/]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: READ.1552081129
+    :TASKID: READ.1552081129
+    :END:
+    - [ ] treating the arguments
+    - [ ] applying the trie algo on arguments
