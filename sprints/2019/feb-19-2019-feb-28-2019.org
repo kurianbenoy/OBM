@@ -6,66 +6,90 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS                           | WAITING | DONE                                                       | CANCELED |
-|------+------+---------------------------------------+---------+------------------------------------------------------------+----------|
-|      |      | READ.1548140097. NIOS Maths Text Book |         | READ.1550764743. Django Project Optimization (2019-03-26)  |          |
-|      |      |                                       |         | WRITE.1550819723. Blog Writing (2019-03-23)                |          |
-|      |      |                                       |         | OPS.1549821237. GNU Emacs bug triaging (2019-02-28)        |          |
-|      |      |                                       |         | READ.1550682829. Chapter 12. Reflection (2019-02-27)       |          |
-|      |      |                                       |         | WRITE.1549821271. Write blog post about Emacs (2019-02-19) |          |
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                             | CANCELED |
+|------+------+-------------+---------+------------------------------------------------------------------+----------|
+|      |      |             |         | READ.1550764743. Django Project Optimization (2019-03-26)        |          |
+|      |      |             |         | WRITE.1550819723. Blog Writing (2019-03-23)                      |          |
+|      |      |             |         | OPS.1549821237. GNU Emacs bug triaging (2019-02-28)              |          |
+|      |      |             |         | READ.1548140097. NIOS Maths Text Book - Part I (2019-02-28)      |          |
+|      |      |             |         | DEV.1550564523. [#A] Understanding the concept of R (2019-02-28) |          |
+|      |      |             |         | READ.1550682829. Chapter 12. Reflection (2019-02-27)             |          |
+|      |      |             |         | WRITE.1549821271. Write blog post about Emacs (2019-02-19)       |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME             | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |------------------+-----------+--------------------+------+-----------+--------------+------------|
-| Sandeepk         |         8 |                7.2 |    8 |         0 |   2019-03-06 | ########## |
-| Nightwarrior-Xxx |         0 |                  0 |    0 |         0 |   2019-03-06 | ---------- |
-| Jasonbraganza    |      50.0 |              14.33 |    0 |      50.0 |   2019-03-15 | ---------- |
-| Bhavin192        |      2.75 | 3.1799999999999997 | 2.75 |         0 |   2019-03-06 | ########## |
+| Sandeepk         |         8 |                7.2 |    8 |         0 |   2019-03-10 | ########## |
+| Nightwarrior-Xxx |        19 |               2.92 |   19 |         0 |   2019-03-10 | ########## |
+| Jasonbraganza    |      50.0 |              14.33 | 50.0 |         0 |   2019-03-10 | ########## |
+| Bhavin192        |      2.75 | 3.1799999999999997 | 2.75 |         0 |   2019-03-10 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
-
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  80 +---------------------------------------------------------------------+   
+:     |      #########################################################      |   
+:  70 |+     ......                                          ACTUAL #######+|   
+:     |            .                                          IDEAL ....... |   
+:  60 |+            .......                                           #    +|   
+:     |                    ......                                      #    |   
+:     |                          .                                     #    |   
+:  50 |+                          ......                                #  +|   
+:     |                                 .                               #   |   
+:  40 |+                                 ......                          # +|   
+:     |                                        .                         #  |   
+:  30 |+                                        ......                    #+|   
+:     |                                               .                   # |   
+:  20 |+                                               .......             #|   
+:     |                                                       ......       #|   
+:     |                                                             .       |   
+:  10 |+                                                             ......+|   
+:     |                                                                    .|   
+:   0 +---------------------------------------------------------------------+   
+:     0             2             4             6             8             10  
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:10]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED  |
-|-----+------------+--------+-------+------------------|
-|   1 | 2019-02-19 | 108.75 |   100 | WRITE.1549821271 |
-|   2 | 2019-02-20 | 108.75 |    89 |                  |
-|   3 | 2019-02-21 | 108.75 |    78 |                  |
-|   4 | 2019-02-22 | 108.75 |    66 |                  |
-|   5 | 2019-02-23 | 108.75 |    55 |                  |
-|   6 | 2019-02-24 | 108.75 |    44 |                  |
-|   7 | 2019-02-25 | 108.75 |    33 |                  |
-|   8 | 2019-02-26 | 108.75 |    22 |                  |
-|   9 | 2019-02-27 | 108.25 |    11 | READ.1550682829  |
-|  10 | 2019-02-28 |  108.0 |     0 | OPS.1549821237   |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                               |
+|-----+------------+--------+-------+-----------------------------------------------|
+|   1 | 2019-02-19 |  77.75 |    72 | WRITE.1549821271                              |
+|   2 | 2019-02-20 |  77.75 |    64 |                                               |
+|   3 | 2019-02-21 |  77.75 |    56 |                                               |
+|   4 | 2019-02-22 |  77.75 |    48 |                                               |
+|   5 | 2019-02-23 |  77.75 |    40 |                                               |
+|   6 | 2019-02-24 |  77.75 |    32 |                                               |
+|   7 | 2019-02-25 |  77.75 |    24 |                                               |
+|   8 | 2019-02-26 |  77.75 |    16 |                                               |
+|   9 | 2019-02-27 |  77.25 |     8 | READ.1550682829                               |
+|  10 | 2019-02-28 |    8.0 |     0 | DEV.1550564523 READ.1548140097 OPS.1549821237 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                               | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED |             ACTUAL |
-|------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| TASKS                              |                  |                  | B        |             |    110.75 | 24.709999999999997 |
-|------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| bhavin192                          |                  |                  | B        |             |      2.75 | 3.1799999999999997 |
-| Learning Golang                    |                  |                  | B        |             |       0.5 |               0.43 |
-| Chapter 12. Reflection             | READ.1550682829  | bhavin192        | B        | DONE        |       0.5 |               0.43 |
-| GNU Emacs bug triaging             | OPS.1549821237   | bhavin192        | B        | DONE        |      0.25 |               0.18 |
-| Write blog post about Emacs        | WRITE.1549821271 | bhavin192        | B        | DONE        |         2 |               2.57 |
-|------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| jasonbraganza                      |                  |                  | B        |             |      80.0 |              14.33 |
-| NIOS Maths Text Book               | READ.1548140097  | jasonbraganza    | B        | IN_PROGRESS |      50.0 |              14.33 |
-| NIOS Accounts Text Book            | READ.1548140097  | jasonbraganza    | B        |             |      30.0 |                    |
-|------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| sandeepk                           |                  |                  | B        |             |         8 |                7.2 |
-| Django Project Optimization        | READ.1550764743  | sandeepk         | B        | DONE        |         5 |               4.87 |
-| Blog Writing                       | WRITE.1550819723 | sandeepk         | B        | DONE        |         3 |               2.33 |
-|------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| nightwarrior-xxx                   |                  |                  | B        |             |        20 |                    |
-| Understanding the concept of React | DEV.1550564523   | nightwarrior-xxx | A        |             |        19 |                    |
-| Writing your learning              | WRITE.1550564807 | nightwarrior-xxx | B        |             |         1 |                    |
+| ITEM                                        | TASKID           | OWNER            | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|---------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| TASKS                                       |                  |                  | B        |      |     79.75 | 27.629999999999995 |
+|---------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| bhavin192                                   |                  |                  | B        |      |      2.75 | 3.1799999999999997 |
+| Learning Golang                             |                  |                  | B        |      |       0.5 |               0.43 |
+| Chapter 12. Reflection                      | READ.1550682829  | bhavin192        | B        | DONE |       0.5 |               0.43 |
+| GNU Emacs bug triaging                      | OPS.1549821237   | bhavin192        | B        | DONE |      0.25 |               0.18 |
+| Write blog post about Emacs                 | WRITE.1549821271 | bhavin192        | B        | DONE |         2 |               2.57 |
+|---------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| jasonbraganza                               |                  |                  | B        |      |      50.0 |              14.33 |
+| NIOS Maths Text Book - Part I               | READ.1548140097  | jasonbraganza    | B        | DONE |      50.0 |              14.33 |
+|---------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| sandeepk                                    |                  |                  | B        |      |         8 |                7.2 |
+| Django Project Optimization                 | READ.1550764743  | sandeepk         | B        | DONE |         5 |               4.87 |
+| Blog Writing                                | WRITE.1550819723 | sandeepk         | B        | DONE |         3 |               2.33 |
+|---------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| nightwarrior-xxx                            |                  |                  | B        |      |        19 |               2.92 |
+| Understanding the concept of React - Part I | DEV.1550564523   | nightwarrior-xxx | A        | DONE |        19 |               2.92 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -127,7 +151,8 @@
     CLOCK: [2019-02-19 Tue 19:18]--[2019-02-19 Tue 20:34] =>  1:16
     :END:
 ** jasonbraganza
-*** IN_PROGRESS NIOS Maths Text Book [0/10]
+*** DONE NIOS Maths Text Book - Part I
+    CLOSED: [2019-02-28 Thu 23:30]
     :PROPERTIES:
     :ESTIMATED: 50.0
     :ACTUAL:   14.33
@@ -140,106 +165,6 @@
     CLOCK: [2019-02-22 Fri 09:00]--[2019-02-22 Fri 14:30] =>  5:30
     CLOCK: [2019-02-21 Thu 09:00]--[2019-02-21 Thu 15:50] =>  6:50
     :END:
-    - [ ] Module - I [0/2]
-      - [ ] 2019-02-18 - 4 - Trigonometric Functions II
-      - [ ] 2019-02-19 - 5 - Relation between Sides and Angles of a Triangle
-    - [ ] Module - II: Sequences and series [0/2]
-      - [ ] 2019-02-20 - 6 - Sequences and series
-      - [ ] 2019-02-21 - 7 - Some special sequences
-    - [ ] Module - III: Algebra I [0/5]
-      - [ ] 2019-02-22 - 8 - Complex Numbers
-      - [ ] 2019-02-23 - 9 - Quadratic Equations and Linear Inequalities
-      - [ ] 2019-02-24 - 10 - Principle of Mathematical Induction
-      - [ ] 2019-02-27 - 11 - Permutations and Combinations
-      - [ ] 2019-02-28 - 12 - Binomial Theorem
-    - [ ] Module - IV: Co-ordinate Geometry [0/4]
-      - [ ] 2019-03-01 - 13 - Cartesian System of Rectangular Co-ordinates
-      - [ ] 2019-03-02 - 14 - Straight Lines
-      - [ ] 2019-03-03 - 15 - Circles
-      - [ ] 2019-03-04 - 16 - Conic Sections
-    - [ ] Module - V: Statistics and Probability [0/3]
-      - [ ] 2019-03-05 - 17 - Measures of Dispersion
-      - [ ] 2019-03-06 - 18 - Random Experiments and Events
-      - [ ] 2019-03-07 - 19 - Probability
-    - [ ] Module - VI: Algebra II [0/3]
-      - [ ] 2019-03-08 - 20 - Matrices
-      - [ ] 2019-03-09 - 21 - Determinants
-      - [ ] 2019-03-10 - 22 - Inverse of a Matrix and its Applications
-    - [ ] Module - VII: Relations and Functions [0/2]
-      - [ ] 2019-03-11 - 23 - Relations and Functions II
-      - [ ] 2019-03-12 - 24 - Inverse Trigonometric Functions
-    - [ ] Module - VIII: Calculus [0/8]
-      - [ ] 2019-03-13 - 25 -  Limits and Continuity
-      - [ ] 2019-03-14 - 26 - Differentiation
-      - [ ] 2019-03-15 - 27 - Differentiation of Trigonometric Functions
-      - [ ] 2019-03-16 - 28 - Differentiation of Exponential and Logarithmic functions
-      - [ ] 2019-03-17 - 29 - Application of Derivatives
-      - [ ] 2019-03-18 - 30 - Integration
-      - [ ] 2019-03-19 - 31 - Definite Integrals
-      - [ ] 2019-03-20 - 32 - Differential Integrals
-    - [ ] Module - IX: Vectors and Three Dimensional Geometry [0/4]
-      - [ ] 2019-03-21 - 33 - Introduction to Three Dimensional Geometry
-      - [ ] 2019-03-22 - 34 - Vectors
-      - [ ] 2019-03-23 - 35 - Plane
-      - [ ] 2019-03-24 - 36 - Straight Line
-    - [ ] Module - X: Linear Programming and Mathematical Reasoning [0/2]
-      - [ ] 2019-03-25 - 37 - Linear Programming
-      - [ ] 2019-03-26 - 38 - Mathematical Reasoning
-*** NIOS Accounts Text Book [0/10]
-    :PROPERTIES:
-    :ESTIMATED: 30.0
-    :ACTUAL:
-    :OWNER: jasonbraganza
-    :ID: READ.1548140097
-    :TASKID: READ.1548140097
-    :END:
-    :LOGBOOK:
-    :END:
-    - [ ] Module - I: Basic Accounting [0/5]
-      - [ ] 2019-02-18 - 1 - Accounting - An Introduction
-      - [ ] 2019-02-19 - 2 - Accounting Concepts
-      - [ ] 2019-02-20 - 3 - Accounting Conventions and Standards
-      - [ ] 2019-02-21 - 4 - Accounting for Business Transactions
-      - [ ] 2019-02-22 - 5 - Journal
-      - [ ] 2019-02-23 - 6 - Ledger
-      - [ ] 2019-02-24 - 7 - Cash Book
-      - [ ] 2019-02-27 - 8 - Special Purpose Books
-    - [ ] Module - II: Trial Balance and Computers [0/5]
-      - [ ] 2019-02-28 - 9 - Trial Balance
-      - [ ] 2019-03-01 - 10 - Bank Reconciliation Statement
-      - [ ] 2019-03-02 - 11 - Bills of Exchange
-      - [ ] 2019-03-03 - 12 - Errors and their Rectification
-      - [ ] 2019-03-04 - 13 - Computer and Computerised Accounting System
-    - [ ] Module - III: Financial Statements [0/8]
-      - [ ] 2019-03-05 - 14 - Depreciation
-      - [ ] 2019-03-06 - 15 - Provision and Reserves
-      - [ ] 2019-03-07 - 16 - Financial Statements - An Introduction
-      - [ ] 2019-03-08 - 17 - Financial Statements I
-      - [ ] 2019-03-09 - 18 - Financial Statements II
-      - [ ] 2019-03-10 - 19 - Not for Profit Organisations - An Introduction
-      - [ ] 2019-03-11 - 20 - Financial Statements (Not for Profit Organisations)
-      - [ ] 2019-03-12 - 21 - Accounts From Incomplete Records
-    - [ ] Module - IV: Partnership Accounts [0/4]
-      - [ ] 2019-03-13 - 22 - Partnership - An Introduction
-      - [ ] 2019-03-14 - 23 - Admission of a Partner
-      - [ ] 2019-03-15 - 24 - Retirement and Death of a Partner
-      - [ ] 2019-03-16 - 25 - Dissolution of a partnership firm
-    - [ ] Module - V: Company Accounts [0/5]
-      - [ ] 2019-03-17 - 26 - Company - An Introduction
-      - [ ] 2019-03-18 - 27 - Issue of Shares
-      - [ ] 2019-03-19 - 28 - Forfeiture of Shares
-      - [ ] 2019-03-20 - 29 - Reissue of Forfeited Shares
-      - [ ] 2019-03-21 - 30 - Issue of Debentures
-    - [ ] Module - VI : Analysis of Financial Statements [0/4]
-      - [ ] 2019-03-22 - 31 - Financial Statements Analysis-An Introduction
-      - [ ] 2019-03-23 - 32 - Accounting Ratios-I
-      - [ ] 2019-03-24 - 33 - Accounting Ratios-II
-      - [ ] 2019-03-25 - 34 - Cash Flow Statement
-    - [ ] Module - VII: Application of Computers in Financial Accounting [0/4]
-      - [ ] 2019-03-26 - 35 - Electronic Spread Sheet
-      - [ ] 2019-03-27 - 36 - Use of Spread-sheet in Business Application
-      - [ ] 2019-03-28 - 37 - Graphs and Charts for Business
-      - [ ] 2019-03-29 - 38 - Database Management System for Accounting
 ** sandeepk
 *** DONE Django Project Optimization [2/2]
     CLOSED: [2019-03-26 Tue 10:30]
@@ -276,33 +201,25 @@
     - [X] Write blog for Music productivity 1h
     - [X] Write blog for shell script Notes 2h
 ** nightwarrior-xxx
-*** [#A] Understanding the concept of React [0/13]
+*** DONE [#A] Understanding the concept of React - Part I [3/3]
+    CLOSED: [2019-02-28 Thu 23:45]
          :PROPERTIES:
          :ESTIMATED: 19
-         :ACTUAL:
+         :ACTUAL:   2.92
          :OWNER: nightwarrior-xxx
          :ID: DEV.1550564523
          :TASKID: DEV.1550564523
          :END:
-         - [ ] Getting Started
-         - [ ] Refreshing Next Generation JavaScript (Optional)
-         - [ ] Understanding the Base Features & Syntax
-         - [ ] Working with Lists and Conditionals
-         - [ ] Styling React Components & Elements
-         - [ ] Debugging React Apps
-         - [ ] Diving Deeper into Components & React Internals
-         - [ ] A Real App_ The Burger Builder (Basic Version)
-         - [ ] Reaching out to the Web (Http _ Ajax)
-         - [ ] Burger Builder Project_ Accessing a Server
-         - [ ] Multi-Page-Feeling in a Single-Page-App_ Routing 
-         - [ ] Adding Routing to our Burger Project
-         - [ ] Forms and Form Validation
-*** [#B] Writing your learning 
-         :PROPERTIES:
-         :ESTIMATED: 1
-         :ACTUAL:
-         :OWNER: nightwarrior-xxx
-         :ID: WRITE.1550564807
-         :TASKID: WRITE.1550564807
+         :LOGBOOK:
+         CLOCK: [2019-02-28 Thu 19:23]--[2019-02-28 Thu 19:43] =>  0:20
+         CLOCK: [2019-02-25 Mon 20:51]--[2019-02-25 Mon 21:17] =>  0:26
+         CLOCK: [2019-02-25 Mon 19:59]--[2019-02-25 Mon 20:51] =>  0:52
+         CLOCK: [2019-02-21 Thu 08:26]--[2019-02-21 Thu 08:35] =>  0:09
+         CLOCK: [2019-02-21 Thu 06:57]--[2019-02-21 Thu 07:06] =>  0:09
+         CLOCK: [2019-02-21 Thu 06:03]--[2019-02-21 Thu 06:55] =>  0:52
+         CLOCK: [2019-02-21 Thu 00:20]--[2019-02-21 Thu 00:27] =>  0:07
          :END:
-	 
+         - [X] Getting Started
+         - [X] Refreshing Next Generation JavaScript (Optional)
+         - [X] Understanding the Base Features & Syntax
+
