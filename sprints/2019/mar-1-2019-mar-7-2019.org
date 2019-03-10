@@ -73,37 +73,60 @@
   :END:
 ** bhavin192
 *** Learning Golang
-**** Chapter 12 Exercises [0/2]
+**** DONE Chapter 12 Exercises [2/2]
+     CLOSED: [2019-03-05 Tue 21:28]
      :PROPERTIES:
      :ESTIMATED: 3.5
-     :ACTUAL:
+     :ACTUAL:   3.38
      :OWNER:    bhavin192
      :ID:       DEV.1550682876
      :TASKID:   DEV.1550682876
      :END:
-     - [ ] 12.6 Part II (5.5h)
-     - [ ] 12.7         (2.5h)
-**** Chapter 13. Low-Level Programming [0/4]
+     :LOGBOOK:
+     CLOCK: [2019-03-05 Tue 21:18]--[2019-03-05 Tue 21:28] =>  0:10
+     CLOCK: [2019-03-05 Tue 19:14]--[2019-03-05 Tue 19:40] =>  0:26
+     CLOCK: [2019-03-04 Mon 21:02]--[2019-03-04 Mon 21:27] =>  0:25
+     CLOCK: [2019-03-04 Mon 19:17]--[2019-03-04 Mon 20:08] =>  0:51
+     CLOCK: [2019-03-04 Mon 07:24]--[2019-03-04 Mon 07:37] =>  0:13
+     CLOCK: [2019-03-04 Mon 07:00]--[2019-03-04 Mon 07:18] =>  0:18
+     CLOCK: [2019-03-03 Sun 13:59]--[2019-03-03 Sun 14:59] =>  1:00
+     :END:
+     - [X] 12.6 Part II (5.5h)
+     - [X] 12.7         (2.5h)
+**** DONE Chapter 13. Low-Level Programming [4/4]
+     CLOSED: [2019-03-07 Thu 22:52]
      :PROPERTIES:
      :ESTIMATED: 2
-     :ACTUAL:
+     :ACTUAL:   1.20
      :OWNER:    bhavin192
      :ID:       READ.1551715610
      :TASKID:   READ.1551715610
      :END:
-     - [ ] 13.1 unsafe.Sizeof, Alignof, and Offsetof (25m)
-     - [ ] 13.2 unsafe.Pointer                       (20m)
-     - [ ] 13.3 Example: Deep Equivalence            (25m)
-     - [ ] 13.4 Calling C Code with cgo              (45m)
-**** Chapter 13 Exercises [0/1]
+     :LOGBOOK:
+     CLOCK: [2019-03-07 Thu 22:33]--[2019-03-07 Thu 22:52] =>  0:19
+     CLOCK: [2019-03-06 Wed 19:39]--[2019-03-06 Wed 19:51] =>  0:12
+     CLOCK: [2019-03-06 Wed 19:05]--[2019-03-06 Wed 19:29] =>  0:24
+     CLOCK: [2019-03-06 Wed 18:57]--[2019-03-06 Wed 19:05] =>  0:08
+     CLOCK: [2019-03-05 Tue 21:52]--[2019-03-05 Tue 22:01] =>  0:09
+     :END:
+     - [X] 13.1 unsafe.Sizeof, Alignof, and Offsetof (25m)
+     - [X] 13.2 unsafe.Pointer                       (20m)
+     - [X] 13.3 Example: Deep Equivalence            (25m)
+     - [X] 13.4 Calling C Code with cgo              (45m)
+**** DONE Chapter 13 Exercises [1/1]
+     CLOSED: [2019-03-07 Thu 22:23]
      :PROPERTIES:
      :ESTIMATED: 1
-     :ACTUAL:
+     :ACTUAL:   1.55
      :OWNER:    bhavin192
      :ID:       DEV.1551715724
      :TASKID:   DEV.1551715724
      :END:
-     - [ ] 13.3 (1h)
+     :LOGBOOK:
+     CLOCK: [2019-03-07 Thu 21:20]--[2019-03-07 Thu 22:23] =>  1:03
+     CLOCK: [2019-03-07 Thu 19:27]--[2019-03-07 Thu 19:57] =>  0:30
+     :END:
+     - [X] 13.3 (1h)
 ** jasonbraganza
 *** DONE NIOS Maths Text Book - Part II [0/10]
     CLOSED: [2019-03-07 Thu 23:30]
