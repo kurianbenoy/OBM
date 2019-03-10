@@ -84,7 +84,7 @@
 *** [[https://github.com/kubernetes/][Kubernetes]]
 * PLAN 
 ** vaibhavk
-*** [#A] [[https://github.com/deepmind/kapitan/issues/201][Kapitan GSoC task #201]]
+*** [#A] Kapitan: [[https://github.com/deepmind/kapitan/issues/201][GSoC task #201 - II]]
     :PROPERTIES:
     :ESTIMATED: 5
     :ACTUAL:
@@ -92,7 +92,7 @@
     :ID:       DEV.1551436242
     :TASKID:   DEV.1551436242
     :END:
-*** [#B] [[https://bugzilla.mozilla.org/show_bug.cgi?id=1533591][Adjust auth API]]
+*** [#B] Taskcluster: [[https://bugzilla.mozilla.org/show_bug.cgi?id=1533591][Adjust auth API]]
     :PROPERTIES:
     :ESTIMATED: 8
     :ACTUAL:

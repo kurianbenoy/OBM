@@ -189,10 +189,10 @@
     - [ ] Front End User Interaction Page 4h
     - [ ] Landing Page 3h
 ** vaibhavk
-*** TODO [#A] [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517865][Taskcluster Issue]]
+*** DONE [#A] [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517865][Taskcluster Issue]]
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL:   1.23
+    :AsCTUAL:   1.23
     :OWNER: vaibhavk
     :ID: DEV.1551435937
     :TASKID: DEV.1551435937
@@ -202,7 +202,7 @@
     CLOCK: [2019-03-02 Sat 12:58]--[2019-03-02 Sat 13:30] =>  0:32
     CLOCK: [2019-03-01 Fri 23:58]--[2019-03-02 Sat 00:40] =>  0:42
     :END:
-*** TODO [#B] [[https://github.com/deepmind/kapitan/issues/201][Kapitan GSoC task #201]]
+*** DONE [#B] [[https://github.com/deepmind/kapitan/issues/201][Kapitan GSoC task #201 - I]]
     :PROPERTIES:
     :ESTIMATED: 5
     :ACTUAL:   1.15
