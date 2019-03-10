@@ -176,6 +176,7 @@
       - [ ] 38 - Database Management System for Accounting
 ** sandeepk
 *** DONE Project Stacknews [2/2]
+    CLOSED: [2019-03-07 Thu 23:35]
     :PROPERTIES:
     :ESTIMATED: 7
     :ACTUAL:   6.60
