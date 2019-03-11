@@ -190,9 +190,10 @@
     - [ ] Landing Page 3h
 ** vaibhavk
 *** DONE [#A] [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517865][Taskcluster Issue]]
+    CLOSED: [2019-03-07 Thu 23:30]
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL:   3:31
+    :ACTUAL:   3.52
     :OWNER: vaibhavk
     :ID: DEV.1551435937
     :TASKID: DEV.1551435937
@@ -203,9 +204,10 @@
     CLOCK: [2019-03-01 Fri 23:58]--[2019-03-02 Sat 00:40] =>  0:42
     :END:
 *** DONE [#B] [[https://github.com/deepmind/kapitan/issues/201][Kapitan GSoC task #201 - I]]
+    CLOSED: [2019-03-07 Thu 23:30]
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL:   1.52
+    :ACTUAL:   1.87
     :OWNER: vaibhavk
     :ID: DEV.1551436242
     :TASKID: DEV.1551436242
