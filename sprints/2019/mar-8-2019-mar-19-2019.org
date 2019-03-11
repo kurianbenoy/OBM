@@ -25,8 +25,21 @@
   :ID:       TASKS
   :SPRINTLENGTH: 12
   :SPRINTSTART: <2019-03-08 Fri>
+  :wpd-sandeepk: 1
   :wpd-nightwarrior-xxx: 2.5
   :END:
+** sandeepk
+*** Project Stacknews [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 12
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1552226887
+    :TASKID: DEV.1552226887
+    :END:
+    - [] Logic for data fetch and saving new post (4h)
+    - [] Page routing (4h)
+    - [] Implement the logic for sorting, searching for front-end page (4h)
 ** nightwarrior-xxx
 *** Learn React [0/10]
     :PROPERTIES:

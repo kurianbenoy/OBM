@@ -3,20 +3,4 @@
 #+EMAIL: sandeepchoudhary1507@gmail.com
 #+TAGS: read write dev ops task event meeting # Need to be category
 * PLAN
-** March 8,2019-March 19,2019 (12 days)\
-   :PROPERTIES:
-   :wpd-sandeepk: 1
-   :END:
-
-*** Project Stacknews [0/3]
-    :PROPERTIES:
-    :ESTIMATED: 8
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: DEV.1552226887
-    :TASKID: DEV.1552226887
-    :END:
-    - [] Logic for data fetch and saving new post 4h
-    - [] Page routing 4h
-    - [] Implement the logic for sorting, searching for front-end page 4h
 

@@ -6,19 +6,58 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS                           | WAITING | DONE                                           | CANCELED |
+|------+------+---------------------------------------+---------+------------------------------------------------+----------|
+|      |      | READ.1548140097. NIOS Maths Text Book |         | DEV.1550765016. Project Stacknews (2019-03-07) |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME          | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|---------------+-----------+--------+------+-----------+--------------+------------|
+| Vaibhavk      |         0 |      0 |    0 |         0 |   2019-03-11 | ---------- |
+| Sandeepk      |         7 |    6.6 |    7 |         0 |   2019-03-11 | ########## |
+| Jasonbraganza |      50.0 |    9.5 |    0 |      50.0 |   2019-03-18 | ---------- |
+| Bhavin192     |         0 |      0 |    0 |         0 |   2019-03-11 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:7]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2019-03-01 |  103.5 |    89 |                 |
+|   2 | 2019-03-02 |  103.5 |    74 |                 |
+|   3 | 2019-03-03 |  103.5 |    59 |                 |
+|   4 | 2019-03-04 |  103.5 |    44 |                 |
+|   5 | 2019-03-05 |  103.5 |    30 |                 |
+|   6 | 2019-03-06 |  103.5 |    15 |                 |
+|   7 | 2019-03-07 |   96.5 |     0 | DEV.1550765016  |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                              | TASKID          | OWNER         | PRIORITY | TODO        | ESTIMATED | ACTUAL |
+|-----------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| TASKS                             |                 |               | B        |             |     103.5 |   16.1 |
+|-----------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| bhavin192                         |                 |               | B        |             |       6.5 |        |
+| Learning Golang                   |                 |               | B        |             |       6.5 |        |
+| Chapter 12 Exercises              | DEV.1550682876  | bhavin192     | B        |             |       3.5 |        |
+| Chapter 13. Low-Level Programming | READ.1551715610 | bhavin192     | B        |             |         2 |        |
+| Chapter 13 Exercises              | DEV.1551715724  | bhavin192     | B        |             |         1 |        |
+|-----------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| jasonbraganza                     |                 |               | B        |             |      80.0 |    9.5 |
+| NIOS Maths Text Book              | READ.1548140097 | jasonbraganza | B        | IN_PROGRESS |      50.0 |   9.50 |
+| NIOS Accounts Text Book           | READ.1548140097 | jasonbraganza | B        |             |      30.0 |        |
+|-----------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| sandeepk                          |                 |               | B        |             |         7 |    6.6 |
+| Project Stacknews                 | DEV.1550765016  | sandeepk      | B        | DONE        |         7 |   6.60 |
+|-----------------------------------+-----------------+---------------+----------+-------------+-----------+--------|
+| vaibhavk                          |                 |               | B        |             |        10 |        |
+| [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517865][Taskcluster Issue]]                 | DEV.1551435937  | vaibhavk      | A        |             |         5 |        |
+| [[https://github.com/deepmind/kapitan/issues/201][Kapitan GSoC task #201]]            | DEV.1551436242  | vaibhavk      | B        |             |         5 |        |
 #+END:
 * TASKS
   :PROPERTIES:
