@@ -25,103 +25,13 @@
   :ID:       TASKS
   :SPRINTLENGTH: 12
   :SPRINTSTART: <2019-03-08 Fri>
+  :wpd-jasonbraganza: 3.33
+  :wpd-nightwarrior-xxx: 2.5
   :wpd-sandeepk: 1
   :wpd-vaibhavk: 1.36
-  :wpd-nightwarrior-xxx: 2.5
   :END:
-** vaibhavk
-*** [#A] Kapitan: [[https://github.com/deepmind/kapitan/issues/201][GSoC task #201 - II]] [0/4]
-    :PROPERTIES:
-    :ESTIMATED: 10
-    :ACTUAL:
-    :OWNER:    vaibhavk
-    :ID:       DEV.1551436242
-    :TASKID:   DEV.1551436242
-    :END:
-    - [ ] [[https://jsonnet.org/learning/tutorial.html][JSONET Tutorial]] (2h)
-    - [ ] [[http://reclass.pantsfullofunix.net/concepts.html][Reclass]] (45m)
-      - [ ] [[http://gensho.ftp.acc.umu.se/pub/debian-meetings/2013/debconf13/webm-high/1048_Recursive_node_classification_for_system_automation.webm][Overview]] (45m)
-      - [ ] [[http://reclass.pantsfullofunix.net/operations.html][Operations]] (1h 30m)
-      - [ ] [[https://github.com/madduck/reclass/tree/master/examples][Examples & Usage]] (1h 30m)
-    - [ ] [[https://kapitan.dev/#main-concepts][Kapitan Main Concept]] (1h 30m)
-    - [ ] [[https://kapitan.dev/#modes-of-operation][Kapitan Modes of Operation]] (1h)
-*** [#B] Taskcluster: [[https://bugzilla.mozilla.org/show_bug.cgi?id=1533591][Adjust auth API]] [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:
-    :OWNER: vaibhavk
-    :ID: DEV.1552035914
-    :TASKID: DEV.1552035914
-    :END:
-    - [ ] [[https://bugzilla.mozilla.org/show_bug.cgi?id=1533591#c0][Description]] (20m)
-    - [ ] Working Solution
-    - [ ] Tests (2h)
-    - [ ] Pull Request & Reviews
-** sandeepk
-*** Project Stacknews [0/3]
-    :PROPERTIES:
-    :ESTIMATED: 12
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: DEV.1552226887
-    :TASKID: DEV.1552226887
-    :END:
-    - [] Logic for data fetch and saving new post (4h)
-    - [] Page routing (4h)
-    - [] Implement the logic for sorting, searching for front-end page (4h)
-** nightwarrior-xxx
-*** Learn React [0/10]
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: DEV.1552139317
-    :TASKID: DEV.1552139317
-    :END:
-    - [ ] Understanding the Base Features & Syntax
-    - [ ] Working with Lists and Conditionals
-    - [ ] Styling React Components & Elements
-    - [ ] Debugging React Apps
-    - [ ] Diving Deeper into Components & React Internals
-    - [ ] A Real App_ The Burger Builder (Basic Version)
-    - [ ] Reaching out to the Web (Http _ Ajax)
-    - [ ] Burger Builder Project_ Accessing a Server
-    - [ ] Multi-Page-Feeling in a Single-Page-App_ Routing
-    - [ ] Adding Routing to our Burger Project
-*** Contribute and Learn [0/2]
-    :PROPERTIES:
-    :ESTIMATED: 15
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: DEV.1552081276
-    :TASKID: DEV.1552081276
-    :END:
-    - [ ] Introduce modern JS features and tools to phpMyAdmin codebase
-           - Webpack
-    - [ ] Ship completion files for shells
-           - bash,zsh 
-*** Innovate and Build [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: DEV.1552081239
-    :TASKID: DEV.1552081239
-    :END:
-    - [ ] Password Manager in Lua programming lanaguage
-*** Learn concepts of Lua [0/2]
-    :PROPERTIES:
-    :ESTIMATED: 3
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: READ.1552081129
-    :TASKID: READ.1552081129
-    :END:
-    - [ ] treating the arguments
-    - [ ] applying the trie algo on arguments
-
 ** jasonbraganza
-*** NIOS Maths Text Book
+*** NIOS Maths Text Book [0/10]
    :PROPERTIES:
    :ESTIMATED: 24
    :ACTUAL:
@@ -174,7 +84,7 @@
     - [ ] Module - X: Linear Programming and Mathematical Reasoning [0/2]
       - [ ] 37 - Linear Programming
       - [ ] 38 - Mathematical Reasoning
-*** NIOS Accounts Text Book
+*** NIOS Accounts Text Book [0/7]
    :PROPERTIES:
    :ESTIMATED: 16
    :ACTUAL:
@@ -227,3 +137,95 @@
      - [ ] 36 - Use of Spread-sheet in Business Application
      - [ ] 37 - Graphs and Charts for Business
      - [ ] 38 - Database Management System for Accounting
+** nightwarrior-xxx
+*** Learn React [0/10]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: DEV.1552139317
+    :TASKID: DEV.1552139317
+    :END:
+    - [ ] Understanding the Base Features & Syntax
+    - [ ] Working with Lists and Conditionals
+    - [ ] Styling React Components & Elements
+    - [ ] Debugging React Apps
+    - [ ] Diving Deeper into Components & React Internals
+    - [ ] A Real App_ The Burger Builder (Basic Version)
+    - [ ] Reaching out to the Web (Http _ Ajax)
+    - [ ] Burger Builder Project_ Accessing a Server
+    - [ ] Multi-Page-Feeling in a Single-Page-App_ Routing
+    - [ ] Adding Routing to our Burger Project
+*** Contribute and Learn [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 15
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: DEV.1552081276
+    :TASKID: DEV.1552081276
+    :END:
+    - [ ] Introduce modern JS features and tools to phpMyAdmin codebase
+           - Webpack
+    - [ ] Ship completion files for shells
+           - bash,zsh 
+*** Innovate and Build [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: DEV.1552081239
+    :TASKID: DEV.1552081239
+    :END:
+    - [ ] Password Manager in Lua programming lanaguage
+*** Learn concepts of Lua [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: READ.1552081129
+    :TASKID: READ.1552081129
+    :END:
+    - [ ] treating the arguments
+    - [ ] applying the trie algo on arguments
+
+** sandeepk
+*** Project Stacknews [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 12
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1552226887
+    :TASKID: DEV.1552226887
+    :END:
+    - [] Logic for data fetch and saving new post (4h)
+    - [] Page routing (4h)
+    - [] Implement the logic for sorting, searching for front-end page (4h)
+
+** vaibhavk
+*** [#A] Kapitan: [[https://github.com/deepmind/kapitan/issues/201][GSoC task #201 - II]] [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER:    vaibhavk
+    :ID:       DEV.1551436242
+    :TASKID:   DEV.1551436242
+    :END:
+    - [ ] [[https://jsonnet.org/learning/tutorial.html][JSONET Tutorial]] (2h)
+    - [ ] [[http://reclass.pantsfullofunix.net/concepts.html][Reclass]] (45m)
+      - [ ] [[http://gensho.ftp.acc.umu.se/pub/debian-meetings/2013/debconf13/webm-high/1048_Recursive_node_classification_for_system_automation.webm][Overview]] (45m)
+      - [ ] [[http://reclass.pantsfullofunix.net/operations.html][Operations]] (1h 30m)
+      - [ ] [[https://github.com/madduck/reclass/tree/master/examples][Examples & Usage]] (1h 30m)
+    - [ ] [[https://kapitan.dev/#main-concepts][Kapitan Main Concept]] (1h 30m)
+    - [ ] [[https://kapitan.dev/#modes-of-operation][Kapitan Modes of Operation]] (1h)
+*** [#B] Taskcluster: [[https://bugzilla.mozilla.org/show_bug.cgi?id=1533591][Adjust auth API]] [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: DEV.1552035914
+    :TASKID: DEV.1552035914
+    :END:
+    - [ ] [[https://bugzilla.mozilla.org/show_bug.cgi?id=1533591#c0][Description]] (20m)
+    - [ ] Working Solution
+    - [ ] Tests (2h)
+    - [ ] Pull Request & Reviews
