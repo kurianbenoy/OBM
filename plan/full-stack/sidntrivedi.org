@@ -108,31 +108,6 @@
     :TASKID: WRITE.1539072660
     :END:      
 * PLAN
-** March      8, 2019 - March     19, 2019 (12 days)
-   :PROPERTIES:
-   wpd-sidntrivedi : 1
-   :END: 
-*** [#A] Leaflet Environment Layers https://github.com/publiclab/leaflet-environmental-layers
-**** Issues
-    :PROPERTIES:
-   :ESTIMATED: 6 
-   :ACTUAL:
-   :OWNER: sidntrivedi
-   :ID: DEV.1552298348
-   :TASKID: DEV.1552298348
-   :END:
-     - [ ] #116 https://github.com/publiclab/leaflet-environmental-layers/issues/116
-     - [ ] #139  https://github.com/publiclab/leaflet-environmental-layers/issues/139
-     - [ ] Add one new layer.
-*** [#A] Linux for you and me 
-    :PROPERTIES:
-    :ESTIMATED: 2
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: READ.1538996950
-    :TASKID: READ.1538996950
-    :END:
-    - [ ] File Permissions
 ** March     20, 2019 - April      5, 2019 (17 days)
 ** April      6, 2019 - April     18, 2019 (13 days)
 ** April     19, 2019 - May        5, 2019 (17 days)

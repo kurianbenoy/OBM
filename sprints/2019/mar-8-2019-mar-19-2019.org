@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 12
   :SPRINTSTART: <2019-03-08 Fri>
   :wpd-sandeepk: 1
+  :wpd-sidntrivedi: 1
   :wpd-vaibhavk: 1.36
   :wpd-nightwarrior-xxx: 2.5
   :END:
@@ -69,6 +70,27 @@
     - [] Logic for data fetch and saving new post (4h)
     - [] Page routing (4h)
     - [] Implement the logic for sorting, searching for front-end page (4h)
+** sidntrivedi012
+*** [#A] [[https://github.com/publiclab/leaflet-environmental-layers][Leaflet Environment Layers Issues]] [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 6 
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: DEV.1552298348
+    :TASKID: DEV.1552298348
+    :END:
+    - [ ] #116 https://github.com/publiclab/leaflet-environmental-layers/issues/116
+    - [ ] #139  https://github.com/publiclab/leaflet-environmental-layers/issues/139
+    - [ ] Add one new layer.
+*** [#A] Linux for you and me 
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1538996950
+    :TASKID: READ.1538996950
+    :END:
+    - [ ] File Permissions
 ** nightwarrior-xxx
 *** Learn React [0/10]
     :PROPERTIES:
