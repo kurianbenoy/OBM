@@ -28,6 +28,7 @@
   :wpd-jasonbraganza: 3.33
   :wpd-nightwarrior-xxx: 2.5
   :wpd-sandeepk: 1
+  :wpd-sidntrivedi: 1
   :wpd-vaibhavk: 1.36
   :END:
 ** jasonbraganza
@@ -187,7 +188,6 @@
     :END:
     - [ ] treating the arguments
     - [ ] applying the trie algo on arguments
-
 ** sandeepk
 *** Project Stacknews [0/3]
     :PROPERTIES:
@@ -197,10 +197,30 @@
     :ID: DEV.1552226887
     :TASKID: DEV.1552226887
     :END:
-    - [] Logic for data fetch and saving new post (4h)
-    - [] Page routing (4h)
-    - [] Implement the logic for sorting, searching for front-end page (4h)
-
+    - [ ] Logic for data fetch and saving new post (4h)
+    - [ ] Page routing (4h)
+    - [ ] Implement the logic for sorting, searching for front-end page (4h)
+** sidntrivedi
+*** [#A] [[https://github.com/publiclab/leaflet-environmental-layers][Leaflet Environment Layers Issues]] [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 6 
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: DEV.1552298348
+    :TASKID: DEV.1552298348
+    :END:
+    - [ ] #116 https://github.com/publiclab/leaflet-environmental-layers/issues/116
+    - [ ] #139  https://github.com/publiclab/leaflet-environmental-layers/issues/139
+    - [ ] Add one new layer.
+*** [#A] Linux for you and me 
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1538996950
+    :TASKID: READ.1538996950
+    :END:
+    - [ ] File Permissions
 ** vaibhavk
 *** [#A] Kapitan: [[https://github.com/deepmind/kapitan/issues/201][GSoC task #201 - II]] [0/4]
     :PROPERTIES:
