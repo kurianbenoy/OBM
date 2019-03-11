@@ -82,5 +82,35 @@
 ** Projects
 *** [[https://github.com/taskcluster][TaskCluster]]
 *** [[https://github.com/kubernetes/][Kubernetes]]
-**** [[https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/][Configuring Redis using a ConfigMap]]
 * PLAN 
+** vaibhavk
+   :PROPERTIES:
+   :wpd-vaibhavk: 1.36
+   :END:
+*** [#A] Kapitan: [[https://github.com/deepmind/kapitan/issues/201][GSoC task #201 - II]] [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER:    vaibhavk
+    :ID:       DEV.1551436242
+    :TASKID:   DEV.1551436242
+    :END:
+    - [ ] [[https://jsonnet.org/learning/tutorial.html][JSONET Tutorial]] (2h)
+    - [ ] [[http://reclass.pantsfullofunix.net/concepts.html][Reclass]] (45m)
+      - [ ] [[http://gensho.ftp.acc.umu.se/pub/debian-meetings/2013/debconf13/webm-high/1048_Recursive_node_classification_for_system_automation.webm][Overview]] (45m)
+      - [ ] [[http://reclass.pantsfullofunix.net/operations.html][Operations]] (1h 30m)
+      - [ ] [[https://github.com/madduck/reclass/tree/master/examples][Examples & Usage]] (1h 30m)
+    - [ ] [[https://kapitan.dev/#main-concepts][Kapitan Main Concept]] (1h 30m)
+    - [ ] [[https://kapitan.dev/#modes-of-operation][Kapitan Modes of Operation]] (1h)
+*** [#B] Taskcluster: [[https://bugzilla.mozilla.org/show_bug.cgi?id=1533591][Adjust auth API]] [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: vaibhavk
+    :ID: DEV.1552035914
+    :TASKID: DEV.1552035914
+    :END:
+    - [ ] [[https://bugzilla.mozilla.org/show_bug.cgi?id=1533591#c0][Description]] (20m)
+    - [ ] Working Solution
+    - [ ] Tests (2h)
+    - [ ] Pull Request & Reviews
