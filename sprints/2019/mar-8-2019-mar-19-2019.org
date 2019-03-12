@@ -25,12 +25,59 @@
   :ID:       TASKS
   :SPRINTLENGTH: 12
   :SPRINTSTART: <2019-03-08 Fri>
+  :wpd-bhavin192: 1
   :wpd-jasonbraganza: 3.33
   :wpd-nightwarrior-xxx: 2.5
   :wpd-sandeepk: 1
   :wpd-sidntrivedi: 1
   :wpd-vaibhavk: 1.36
   :END:
+** bhavin192
+*** Attend Golang Pune March meetup
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       EVENT.1552217985
+    :TASKID:   EVENT.1552217985
+    :END:
+    https://www.meetup.com/Golang-Pune/events/259292253/
+*** Learning Golang
+**** Chapter 13. Low-Level Programming [0/1]
+     :PROPERTIES:
+     :ESTIMATED: 0.1
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       READ.1552220705
+     :TASKID:   READ.1552220705
+     :END:
+     - [ ] 13.5 Another Word of Caution (5m)
+**** Chapter 13 Exercises [0/1]
+     :PROPERTIES:
+     :ESTIMATED: 2
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       DEV.1552220740
+     :TASKID:   DEV.1552220740
+     :END:
+     - [ ] 13.4 (1.5h)
+*** Write blog post on Presenting with Emacs
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1552224818
+    :TASKID:   WRITE.1552224818
+    :END:
+*** Attend Docker Pune Docker Bday #6
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       EVENT.1552361977
+    :TASKID:   EVENT.1552361977
+    :END:
+    https://www.meetup.com/Docker-Pune/events/259258699/
 ** jasonbraganza
 *** NIOS Maths Text Book [0/10]
    :PROPERTIES:
