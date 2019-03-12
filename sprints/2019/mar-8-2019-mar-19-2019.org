@@ -29,7 +29,7 @@
   :wpd-jasonbraganza: 3.33
   :wpd-nightwarrior-xxx: 2.5
   :wpd-sandeepk: 1
-  :wpd-sidntrivedi: 1
+  :wpd-sidntrivedi: 1.5
   :wpd-vaibhavk: 1.36
   :END:
 ** bhavin192
@@ -248,7 +248,7 @@
     - [ ] Page routing (4h)
     - [ ] Implement the logic for sorting, searching for front-end page (4h)
 ** sidntrivedi
-*** [#A] [[https://github.com/publiclab/leaflet-environmental-layers][Leaflet Environment Layers Issues]] [0/3]
+*** [#A] [[https://github.com/publiclab/leaflet-environmental-layers][Leaflet Environment Layers Issues]] 
     :PROPERTIES:
     :ESTIMATED: 6 
     :ACTUAL:
@@ -261,13 +261,31 @@
     - [ ] Add one new layer.
 *** [#A] Linux for you and me 
     :PROPERTIES:
-    :ESTIMATED: 2
+    :ESTIMATED: 1
     :ACTUAL:
     :OWNER: sidntrivedi
     :ID: READ.1538996950
     :TASKID: READ.1538996950
     :END:
     - [ ] File Permissions
+*** DS/Algo Foundation 
+    :PROPERTIES:
+    :ESTIMATED: 1.5
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: READ.1549883885
+    :TASKID: READ.1549883885
+    :END:
+    - [ ] Greeedy Algorithms
+*** Leaflet Docs
+    :PROPERTIES:
+   :ESTIMATED: 2
+   :ACTUAL:
+   :OWNER: sidntrivedi
+   :ID: READ.1552394357
+   :TASKID: READ.1552394357
+   :END:
+    - [ ] Read leaflet docs and learn how are they being implemented in the Leaflet Environment Layers.
 ** vaibhavk
 *** [#A] Kapitan: [[https://github.com/deepmind/kapitan/issues/201][GSoC task #201 - II]] [0/4]
     :PROPERTIES:

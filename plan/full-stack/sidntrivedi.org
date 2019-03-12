@@ -28,6 +28,15 @@
      - [ ] #116 https://github.com/publiclab/leaflet-environmental-layers/issues/116
      - [ ] #139  https://github.com/publiclab/leaflet-environmental-layers/issues/139
      - [ ] Add one new layer.
+*** Leaflet Docs
+    :PROPERTIES:
+   :ESTIMATED: 
+   :ACTUAL:
+   :OWNER: sidntrivedi
+   :ID: READ.1552394357
+   :TASKID: READ.1552394357
+   :END:
+    - [ ] Read leaflet docs and learn how are they being implemented in the Leaflet Environment Layers.
 ** Web
 *** [#A] NodeJS
 **** Nodeschool LearnyouNode
@@ -90,9 +99,7 @@
      - [ ] Asymptotic analysis (Big-O notation)
      - [ ] Basic math operations.
      - [ ] Sqrt(n) primality testing
-     - [ ] Euclid¡¯s GCD Algorithm
-     - [ ] Basic Recursion
-     - [ ] Greedy Algorithms
+     - [ ] Euclid's GCD Algorithm
      - [ ] Basic Dynamic Programming
      - [ ] Naive string searching
      - [ ] O(n logn) Sorting
