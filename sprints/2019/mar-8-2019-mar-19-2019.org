@@ -33,34 +33,49 @@
   :wpd-vaibhavk: 1.36
   :END:
 ** bhavin192
-*** Attend Golang Pune March meetup
+*** DONE Attend Golang Pune March meetup
+    CLOSED: [2019-03-09 Sat 12:28]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   2.13
     :OWNER:    bhavin192
     :ID:       EVENT.1552217985
     :TASKID:   EVENT.1552217985
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-09 Sat 10:20]--[2019-03-09 Sat 12:28] =>  2:08
+    :END:
     https://www.meetup.com/Golang-Pune/events/259292253/
 *** Learning Golang
-**** Chapter 13. Low-Level Programming [0/1]
+**** DONE Chapter 13. Low-Level Programming [1/1]
+     CLOSED: [2019-03-14 Thu 20:13]
      :PROPERTIES:
      :ESTIMATED: 0.1
-     :ACTUAL:
+     :ACTUAL:   0.05
      :OWNER:    bhavin192
      :ID:       READ.1552220705
      :TASKID:   READ.1552220705
      :END:
-     - [ ] 13.5 Another Word of Caution (5m)
-**** Chapter 13 Exercises [0/1]
+     :LOGBOOK:
+     CLOCK: [2019-03-14 Thu 20:10]--[2019-03-14 Thu 20:13] =>  0:03
+     :END:
+     - [X] 13.5 Another Word of Caution (5m)
+**** DONE Chapter 13 Exercises [1/1]
+     CLOSED: [2019-03-14 Thu 19:57]
      :PROPERTIES:
      :ESTIMATED: 2
-     :ACTUAL:
+     :ACTUAL:   2.30
      :OWNER:    bhavin192
      :ID:       DEV.1552220740
      :TASKID:   DEV.1552220740
      :END:
-     - [ ] 13.4 (1.5h)
+     :LOGBOOK:
+     CLOCK: [2019-03-14 Thu 19:02]--[2019-03-14 Thu 19:57] =>  0:55
+     CLOCK: [2019-03-13 Wed 21:35]--[2019-03-13 Wed 21:49] =>  0:14
+     CLOCK: [2019-03-13 Wed 19:40]--[2019-03-13 Wed 20:03] =>  0:23
+     CLOCK: [2019-03-12 Tue 19:06]--[2019-03-12 Tue 19:52] =>  0:46
+     :END:
+     - [X] 13.4 (1.5h)
 *** Write blog post on Presenting with Emacs
     :PROPERTIES:
     :ESTIMATED: 4
