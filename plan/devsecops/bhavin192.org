@@ -4,10 +4,6 @@
 * GOALS
 ** Programming Languages
 *** Golang
-**** The Go Programming Language
-     by Alan A. A. Donovan and Brian W. Kernighan
-     http://www.gopl.io/
-***** Chapter 13. Low-Level Programming
 ** GNU Emacs
 ** Containers
 *** Namespaces

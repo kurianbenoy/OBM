@@ -15,60 +15,28 @@
      - [ ] Functional Programming				()
      - [ ] Intermediate Algorithm Scripting			()
      - [ ] Javascript Algorithms & Data Structures Projects	()
-** Projects
-*** [#A] Javascript Data Structures Algorithms FCC Projects
+** F/OSS Projects
+*** Leaflet Environment Layers [0/3] https://github.com/publiclab/leaflet-environmental-layers
+**** Issues
+     :PROPERTIES:
+   :ESTIMATED: 
+   :ACTUAL:
+   :OWNER: sidntrivedi
+   :ID: DEV.1552298348
+   :TASKID: DEV.1552298348
+   :END:
+     - [ ] #116 https://github.com/publiclab/leaflet-environmental-layers/issues/116
+     - [ ] #139  https://github.com/publiclab/leaflet-environmental-layers/issues/139
+     - [ ] Add one new layer.
+*** Leaflet Docs
     :PROPERTIES:
-    :ESTIMATED: 
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: DEV.1545413211
-    :TASKID: DEV.1545413211
-    :END:
-     - [ ] Palindrome Checker
-     - [ ] Roman Numeral Converter
-     - [ ] Caesers Cipher
-     - [ ] Telephone Number Validator
-     - [ ] Cash Register
-*** [#A] Node.js Projects
-    :PROPERTIES:
-    :ESTIMATED: 
-    :ACTUAL:   
-    :OWNER: sidntrivedi
-    :ID: DEV.1545413369
-    :TASKID: DEV.1545413369
-    :END:
-     - [ ] Timestamp Microservice
-     - [ ] Request Header Parser Microservice
-     - [ ] URL Shortener Microservice
-     - [ ] Exercise Tracker
-     - [ ] File Metadata Microservice
-*** Data Visualization Projects
-    :PROPERTIES:
-    :ESTIMATED: 
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: DEV.1545413337
-    :TASKID: DEV.1545413337
-    :END:
-     - [ ] Visualize Data with a Bar Chart
-     - [ ] Visualize Data with a Scatterplot Graph
-     - [ ] Visualize Data with a Heat Map
-     - [ ] Visualize Data with a Choropleth Map
-     - [ ] Visualize Data with a Treemap Diagram
-*** Front-End Libraries Projects
-    :PROPERTIES:
-    :ESTIMATED: 
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: DEV.1545413293
-    :TASKID: DEV.1545413293
-    :END:
-    - [ ] Build a Random Quote Machine
-    - [ ] Build a Markdown Previewer
-    - [ ] Build a Drum Machine
-    - [ ] Build a Javascript Calculator
-    - [ ] Build a Pomodore Clock
-*** F/OSS Project
+   :ESTIMATED: 
+   :ACTUAL:
+   :OWNER: sidntrivedi
+   :ID: READ.1552394357
+   :TASKID: READ.1552394357
+   :END:
+    - [ ] Read leaflet docs and learn how are they being implemented in the Leaflet Environment Layers.
 ** Web
 *** [#A] NodeJS
 **** Nodeschool LearnyouNode
@@ -131,9 +99,7 @@
      - [ ] Asymptotic analysis (Big-O notation)
      - [ ] Basic math operations.
      - [ ] Sqrt(n) primality testing
-     - [ ] Euclid¡¯s GCD Algorithm
-     - [ ] Basic Recursion
-     - [ ] Greedy Algorithms
+     - [ ] Euclid's GCD Algorithm
      - [ ] Basic Dynamic Programming
      - [ ] Naive string searching
      - [ ] O(n logn) Sorting
@@ -149,3 +115,28 @@
     :TASKID: WRITE.1539072660
     :END:      
 * PLAN
+** March     20, 2019 - April      5, 2019 (17 days)
+** April      6, 2019 - April     18, 2019 (13 days)
+** April     19, 2019 - May        5, 2019 (17 days)
+** May        6, 2019 - May       17, 2019 (12 days)
+** May       18, 2019 - June       3, 2019 (17 days)
+** June       4, 2019 - June      16, 2019 (13 days)
+** June      17, 2019 - July       3, 2019 (17 days)
+** July       4, 2019 - July      15, 2019 (12 days)
+** July      16, 2019 - August     1, 2019 (17 days)
+** August     2, 2019 - August    14, 2019 (13 days)
+** August    15, 2019 - August    30, 2019 (16 days)
+** August    31, 2019 - September 12, 2019 (13 days)
+** September 13, 2019 - September 29, 2019 (17 days)
+** Spetember 30, 2019 - October   12, 2019 (13 days)
+** October   13, 2019 - October   28, 2019 (16 days)
+** October   29, 2019 - November  11, 2019 (14 days)
+** November  12, 2019 - November  27, 2019 (16 days)
+** November  28, 2019 - December  11, 2019 (14 days)
+** December  12, 2019 - December  26, 2019 (15 days)
+** December  27, 2019 - January    9, 2020 (14 days)
+** January   10, 2020 - January   25, 2020 (16 days)
+** January   26, 2020 - February   8, 2020 (14 days)
+** February   9, 2020 - February  24, 2020 (16 days)
+** February  25, 2020 - March      8, 2020 (13 days)
+   
