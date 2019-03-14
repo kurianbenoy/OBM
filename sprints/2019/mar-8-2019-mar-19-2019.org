@@ -124,7 +124,7 @@
 *** NIOS Maths Text Book
    :PROPERTIES:
    :ESTIMATED: 24
-   :ACTUAL:
+   :ACTUAL:   0.00
    :OWNER: jasonbraganza
    :ID: READ.1552291497
    :TASKID: READ.1552291497
