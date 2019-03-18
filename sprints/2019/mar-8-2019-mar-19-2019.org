@@ -98,11 +98,7 @@
     SCHEDULED: <2019-03-18 Mon>
    :PROPERTIES:
    :ESTIMATED: 24
-<<<<<<< HEAD
    :ACTUAL:   6.57
-=======
-   :ACTUAL:   0.00
->>>>>>> 76771c32d3e5bfe7071960b859f70da180bc1498
    :OWNER: jasonbraganza
    :ID: READ.1552291497
    :TASKID: READ.1552291497
