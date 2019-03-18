@@ -94,17 +94,25 @@
     :END:
     https://www.meetup.com/Docker-Pune/events/259258699/
 ** jasonbraganza
-*** NIOS Maths Text Book [0/10]
+*** TODO NIOS Maths Text Book [1/10]
+    SCHEDULED: <2019-03-18 Mon>
    :PROPERTIES:
    :ESTIMATED: 24
-   :ACTUAL:
+   :ACTUAL:   6.57
    :OWNER: jasonbraganza
    :ID: READ.1552291497
    :TASKID: READ.1552291497
    :END:
-    - [ ] Module - I [0/2]
-      - [ ] 4 - Trigonometric Functions II
-      - [ ] 5 - Relation between Sides and Angles of a Triangle
+   :LOGBOOK:
+   CLOCK: [2019-03-18 Mon 16:52]--[2019-03-18 Mon 17:47] =>  0:55
+   CLOCK: [2019-03-18 Mon 14:47]--[2019-03-18 Mon 16:42] =>  1:55
+   CLOCK: [2019-03-18 Mon 14:38]--[2019-03-18 Mon 14:45] =>  0:07
+   CLOCK: [2019-03-18 Mon 10:01]--[2019-03-18 Mon 13:38] =>  3:37
+   
+   :END:
+    - [X] Module - I [2/2]
+      - [X] 4 - Trigonometric Functions II
+      - [X] 5 - Relation between Sides and Angles of a Triangle
     - [ ] Module - II: Sequences and series [0/2]
       - [ ] 6 - Sequences and series
       - [ ] 7 - Some special sequences
