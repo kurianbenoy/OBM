@@ -6,19 +6,81 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS                           | WAITING | DONE                                                          | CANCELED |
+|------+------+---------------------------------------+---------+---------------------------------------------------------------+----------|
+|      |      | READ.1552291497. NIOS Maths Text Book |         | READ.1552220705. Chapter 13. Low-Level Programm (2019-03-14)  |          |
+|      |      |                                       |         | DEV.1552220740. Chapter 13 Exercises (2019-03-14)             |          |
+|      |      |                                       |         | EVENT.1552217985. Attend Golang Pune March meetu (2019-03-09) |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME             | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+-----------+--------------------+------+-----------+--------------+------------|
+| Vaibhavk         |         0 |                  0 |    0 |         0 |   2019-03-19 | ---------- |
+| Sidntrivedi      |         0 |                  0 |    0 |         0 |   2019-03-19 | ---------- |
+| Sandeepk         |         0 |                  0 |    0 |         0 |   2019-03-19 | ---------- |
+| Nightwarrior-Xxx |         0 |                  0 |    0 |         0 |   2019-03-19 | ---------- |
+| Jasonbraganza    |        24 |               6.57 |    0 |        24 |   2019-03-29 | ---------- |
+| Bhavin192        |       4.1 | 4.4799999999999995 |  4.1 |         0 |   2019-03-19 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:12]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                |
+|-----+------------+--------+-------+--------------------------------|
+|   1 | 2019-03-08 |  120.6 |   111 |                                |
+|   2 | 2019-03-09 |  118.6 |   100 | EVENT.1552217985               |
+|   3 | 2019-03-10 |  118.6 |    90 |                                |
+|   4 | 2019-03-11 |  118.6 |    80 |                                |
+|   5 | 2019-03-12 |  118.6 |    70 |                                |
+|   6 | 2019-03-13 |  118.6 |    60 |                                |
+|   7 | 2019-03-14 |  116.5 |    50 | DEV.1552220740 READ.1552220705 |
+|   8 | 2019-03-15 |  116.5 |    40 |                                |
+|   9 | 2019-03-16 |  116.5 |    30 |                                |
+|  10 | 2019-03-17 |  116.5 |    20 |                                |
+|  11 | 2019-03-18 |  116.5 |    10 |                                |
+|  12 | 2019-03-19 |  116.5 |     0 |                                |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                     | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED |             ACTUAL |
+|------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| TASKS                                    |                  |                  | B        |             |     120.6 |              11.05 |
+|------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| bhavin192                                |                  |                  | B        |             |      12.1 | 4.4799999999999995 |
+| Attend Golang Pune March meetup          | EVENT.1552217985 | bhavin192        | B        | DONE        |         2 |               2.13 |
+| Learning Golang                          |                  |                  | B        |             |       2.1 | 2.3499999999999996 |
+| Chapter 13. Low-Level Programming        | READ.1552220705  | bhavin192        | B        | DONE        |       0.1 |               0.05 |
+| Chapter 13 Exercises                     | DEV.1552220740   | bhavin192        | B        | DONE        |         2 |               2.30 |
+| Write blog post on Presenting with Emacs | WRITE.1552224818 | bhavin192        | B        |             |         4 |                    |
+| Attend Docker Pune Docker Bday #6        | EVENT.1552361977 | bhavin192        | B        |             |         4 |                    |
+|------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| jasonbraganza                            |                  |                  | B        |             |        40 |               6.57 |
+| NIOS Maths Text Book                     | READ.1552291497  | jasonbraganza    | B        | IN_PROGRESS |        24 |               6.57 |
+| NIOS Accounts Text Book                  | READ.1552291636  | jasonbraganza    | B        |             |        16 |                    |
+|------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| nightwarrior-xxx                         |                  |                  | B        |             |        30 |                    |
+| Learn React                              | DEV.1552139317   | nightwarrior-xxx | B        |             |         6 |                    |
+| Contribute and Learn                     | DEV.1552081276   | nightwarrior-xxx | B        |             |        15 |                    |
+| Innovate and Build                       | DEV.1552081239   | nightwarrior-xxx | B        |             |         6 |                    |
+| Learn concepts of Lua                    | READ.1552081129  | nightwarrior-xxx | B        |             |         3 |                    |
+|------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| sandeepk                                 |                  |                  | B        |             |        12 |                    |
+| Project Stacknews                        | DEV.1552226887   | sandeepk         | B        |             |        12 |                    |
+|------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| sidntrivedi                              |                  |                  | B        |             |      10.5 |                    |
+| [[https://github.com/publiclab/leaflet-environmental-layers][Leaflet Environment Layers Issues]]        | DEV.1552298348   | sidntrivedi      | A        |             |         6 |                    |
+| Linux for you and me                     | READ.1538996950  | sidntrivedi      | A        |             |         1 |                    |
+| DS/Algo Foundation                       | READ.1549883885  | sidntrivedi      | B        |             |       1.5 |                    |
+| Leaflet Docs                             | READ.1552394357  | sidntrivedi      | B        |             |         2 |                    |
+|------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| vaibhavk                                 |                  |                  | B        |             |        16 |                    |
+| Kapitan: [[https://github.com/deepmind/kapitan/issues/201][GSoC task #201 - II]]             | DEV.1551436242   | vaibhavk         | A        |             |        10 |                    |
+| Taskcluster: [[https://bugzilla.mozilla.org/show_bug.cgi?id=1533591][Adjust auth API]]             | DEV.1552035914   | vaibhavk         | B        |             |         6 |                    |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -94,7 +156,7 @@
     :END:
     https://www.meetup.com/Docker-Pune/events/259258699/
 ** jasonbraganza
-*** TODO NIOS Maths Text Book [1/10]
+*** IN_PROGRESS NIOS Maths Text Book [1/10]
     SCHEDULED: <2019-03-18 Mon>
    :PROPERTIES:
    :ESTIMATED: 24
