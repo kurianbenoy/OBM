@@ -46,7 +46,8 @@
     - [ ] Burger Builder Project_ Accessing a Server
     - [ ] Multi-Page-Feeling in a Single-Page-App_ Routing
     - [ ] Adding Routing to our Burger Project
-*** Contribute and Learn [0/2]
+*** DONE Contribute and Learn [2/2]
+    CLOSED: [2019-03-19 Tue 11:36]
     :PROPERTIES:
     :ESTIMATED: 15
     :ACTUAL:
@@ -54,10 +55,18 @@
     :ID: DEV.1552081276
     :TASKID: DEV.1552081276
     :END:
-    - [ ] Introduce modern JS features and tools to phpMyAdmin codebase
-           - Webpack
-    - [ ] Ship completion files for shells
-           - bash,zsh 
+    :LOGBOOK:
+    CLOCK: [2019-03-19 Tue 11:36]--[2019-03-19 Tue 11:36] =>  0:00
+    CLOCK: [2019-03-17 Sun 16:48]--[2019-03-17 Sun 16:56] =>  0:08
+    CLOCK: [2019-03-17 Sun 01:05]--[2019-03-17 Sun 02:10] =>  1:05
+    CLOCK: [2019-03-14 Thu 12:15]--[2019-03-14 Thu 12:45] =>  0:30
+    CLOCK: [2019-03-13 Wed 15:15]--[2019-03-13 Wed 16:01] =>  0:46
+    CLOCK: [2019-03-11 Mon 02:30]--[2019-03-11 Mon 03:32] =>  1:02
+    :END:
+    - [X] Introduce modern JS features and tools to phpMyAdmin codebase
+      - Webpack
+    - [X] Ship completion files for shells
+      - bash,zsh 
 *** Innovate and Build [0/1]
     :PROPERTIES:
     :ESTIMATED: 6
@@ -67,7 +76,7 @@
     :TASKID: DEV.1552081239
     :END:
     - [ ] Password Manager in Lua programming lanaguage
-*** Learn concepts of Lua [0/2]
+*** IN_PROGRESS Learn concepts of Lua [0/2]
     :PROPERTIES:
     :ESTIMATED: 3
     :ACTUAL:
