@@ -156,8 +156,7 @@
     :END:
     https://www.meetup.com/Docker-Pune/events/259258699/
 ** jasonbraganza
-*** IN_PROGRESS NIOS Maths Text Book [1/10]
-    SCHEDULED: <2019-03-18 Mon>
+*** IN_PROGRESS NIOS Maths Text Book - Part III [1/10]
    :PROPERTIES:
    :ESTIMATED: 24
    :ACTUAL:   6.57
@@ -217,7 +216,7 @@
     - [ ] Module - X: Linear Programming and Mathematical Reasoning [0/2]
       - [ ] 37 - Linear Programming
       - [ ] 38 - Mathematical Reasoning
-*** NIOS Accounts Text Book [0/7]
+*** NIOS Accounts Text Book - Part I [0/7]
    :PROPERTIES:
    :ESTIMATED: 16
    :ACTUAL:
