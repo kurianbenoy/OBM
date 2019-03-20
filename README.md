@@ -72,6 +72,11 @@ init configuration:
       ":TASKID: " category "." timestamp \n
       ":END:")
 
+A task that spans across multiple sprints should have the same ID and
+TASKID, but, you can add a suffix to the task name as "Part I", "Part
+II", "Part III" etc. across sprints. This helps to track the total
+time spent on a task.
+
 ### When
 
 For each sprint, you list the tasks that you want to work under the
