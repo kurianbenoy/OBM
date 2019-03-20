@@ -1,0 +1,59 @@
+#+AUTHOR: Akshay Gaikwad
+#+EMAIL: akgaikwad001@gmail.com
+#+TAGS: read write dev ops event meeting # Need to be category
+* GOALS
+** Learning
+*** Python
+**** The Hitchhiker's guide to Python [0/9]
+    :PROPERTIES:
+    :ESTIMATED: 32
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1552973293
+    :TASKID: READ.1552973293
+    :END:
+    - [ ] Chapter 1. Picking an Interpreter           (30m)
+    - [ ] Chapter 4. Writing Great Code               ( 2h)
+      - Code Style
+      - Structuring Your Project
+      - Testing your Code
+      - Documentation
+      - Logging
+      - Choosing a License
+    - [ ] Chapter 5. Reading Great Code               ( 6h)
+      - HowDoI
+      - Diamond
+      - Tablib
+      - Requests
+      - Werkzeug
+      - Flask
+    - [ ] Chapter 6. Shipping Great Code              ( 4h)
+      - Useful Vocabulary and Concepts
+      - Packaging Your Code
+      - Freezing Your Code
+      - Packaging for Linux-Built Distributions
+      - Exexutable ZIP Files
+    - [ ] Chapter 7. User Interaction                 (6.5h)
+      - Jupyter Notebooks
+      - Command-Line Application
+      - GUI Application
+      - Web Application
+    - [ ] Chapter 8. Code Management and Improvement  ( 5h)
+      - Continuous Integration
+      - System Administration
+      - Speed
+    - [ ] Chapter 9. Software Interface               ( 3h)
+      - Web clients
+      - Data Serialization
+      - Disributed Systems
+      - Cryptography
+    - [ ] Chapter 10. Data Manipulation               ( 2h)
+      - Scientific Applications
+      - Text Manipulation and Text Mining
+    - [ ] Chapter 11. Data Persistence                ( 3h)
+      - Structured Files
+      - Database Libraries
+*** Automation with Ansible
+** Development
+*** Ansible
+* PLAN
