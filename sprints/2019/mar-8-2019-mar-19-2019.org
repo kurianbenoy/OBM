@@ -321,8 +321,7 @@
     - [ ] treating the arguments
     - [ ] applying the trie algo on arguments
 ** sandeepk
-*** DONE Project Stacknews [2/2]
-    CLOSED: [2019-03-19 Tue 18:40]
+*** IN_PROGRESS Project Stacknews [2/3]
     :PROPERTIES:
     :ESTIMATED: 12
     :ACTUAL:   6.25
@@ -340,6 +339,7 @@
     :END:
     - [X] Logic for data fetch and saving new post (4h)
     - [X] Page routing (4h)
+    - [ ] Implement the logic for sorting, searching for front-end page (4h)
 ** sidntrivedi
 *** [#A] [[https://github.com/publiclab/leaflet-environmental-layers][Leaflet Environment Layers Issues]] 
     :PROPERTIES:
