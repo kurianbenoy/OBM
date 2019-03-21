@@ -8,7 +8,9 @@
 #+BEGIN: block-update-board
 | TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                          | CANCELED |
 |------+------+-------------+---------+---------------------------------------------------------------+----------|
+|      |      |             |         | WRITE.1552224818. Write blog post on Presenting  (2019-03-19) |          |
 |      |      |             |         | READ.1552291497. NIOS Maths Text Book - Part II (2019-03-19)  |          |
+|      |      |             |         | EVENT.1552361977. Attend Docker Pune Docker Bday (2019-03-16) |          |
 |      |      |             |         | READ.1552220705. Chapter 13. Low-Level Programm (2019-03-14)  |          |
 |      |      |             |         | DEV.1552220740. Chapter 13 Exercises (2019-03-14)             |          |
 |      |      |             |         | EVENT.1552217985. Attend Golang Pune March meetu (2019-03-09) |          |
@@ -22,7 +24,7 @@
 | Sandeepk         |         0 |                  0 |    0 |         0 |   2019-03-21 | ---------- |
 | Nightwarrior-Xxx |         0 |                  0 |    0 |         0 |   2019-03-21 | ---------- |
 | Jasonbraganza    |        24 |               6.57 |   24 |         0 |   2019-03-21 | ########## |
-| Bhavin192        |       4.1 | 4.4799999999999995 |  4.1 |         0 |   2019-03-21 | ########## |
+| Bhavin192        |      12.1 | 12.009999999999998 | 12.1 |         0 |   2019-03-21 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -31,34 +33,34 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:12]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                |
-|-----+------------+--------+-------+--------------------------------|
-|   1 | 2019-03-08 |  104.6 |    96 |                                |
-|   2 | 2019-03-09 |  102.6 |    87 | EVENT.1552217985               |
-|   3 | 2019-03-10 |  102.6 |    78 |                                |
-|   4 | 2019-03-11 |  102.6 |    70 |                                |
-|   5 | 2019-03-12 |  102.6 |    61 |                                |
-|   6 | 2019-03-13 |  102.6 |    52 |                                |
-|   7 | 2019-03-14 |  100.5 |    44 | DEV.1552220740 READ.1552220705 |
-|   8 | 2019-03-15 |  100.5 |    35 |                                |
-|   9 | 2019-03-16 |  100.5 |    26 |                                |
-|  10 | 2019-03-17 |  100.5 |    17 |                                |
-|  11 | 2019-03-18 |  100.5 |     9 |                                |
-|  12 | 2019-03-19 |   76.5 |     0 | READ.1552291497                |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                  |
+|-----+------------+--------+-------+----------------------------------|
+|   1 | 2019-03-08 |  104.6 |    96 |                                  |
+|   2 | 2019-03-09 |  102.6 |    87 | EVENT.1552217985                 |
+|   3 | 2019-03-10 |  102.6 |    78 |                                  |
+|   4 | 2019-03-11 |  102.6 |    70 |                                  |
+|   5 | 2019-03-12 |  102.6 |    61 |                                  |
+|   6 | 2019-03-13 |  102.6 |    52 |                                  |
+|   7 | 2019-03-14 |  100.5 |    44 | DEV.1552220740 READ.1552220705   |
+|   8 | 2019-03-15 |  100.5 |    35 |                                  |
+|   9 | 2019-03-16 |   96.5 |    26 | EVENT.1552361977                 |
+|  10 | 2019-03-17 |   96.5 |    17 |                                  |
+|  11 | 2019-03-18 |   96.5 |     9 |                                  |
+|  12 | 2019-03-19 |   68.5 |     0 | READ.1552291497 WRITE.1552224818 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                     | TASKID           | OWNER            | PRIORITY | TODO | ESTIMATED |             ACTUAL |
 |------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
-| TASKS                                    |                  |                  | B        |      |     104.6 |              11.05 |
+| TASKS                                    |                  |                  | B        |      |     104.6 |              18.58 |
 |------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
-| bhavin192                                |                  |                  | B        |      |      12.1 | 4.4799999999999995 |
+| bhavin192                                |                  |                  | B        |      |      12.1 | 12.009999999999998 |
 | Attend Golang Pune March meetup          | EVENT.1552217985 | bhavin192        | B        | DONE |         2 |               2.13 |
 | Learning Golang                          |                  |                  | B        |      |       2.1 | 2.3499999999999996 |
 | Chapter 13. Low-Level Programming        | READ.1552220705  | bhavin192        | B        | DONE |       0.1 |               0.05 |
 | Chapter 13 Exercises                     | DEV.1552220740   | bhavin192        | B        | DONE |         2 |               2.30 |
-| Write blog post on Presenting with Emacs | WRITE.1552224818 | bhavin192        | B        |      |         4 |                    |
-| Attend Docker Pune Docker Bday #6        | EVENT.1552361977 | bhavin192        | B        |      |         4 |                    |
+| Write blog post on Presenting with Emacs | WRITE.1552224818 | bhavin192        | B        | DONE |         4 |               3.58 |
+| Attend Docker Pune Docker Bday #6        | EVENT.1552361977 | bhavin192        | B        | DONE |         4 |               3.95 |
 |------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
 | jasonbraganza                            |                  |                  | B        |      |        24 |               6.57 |
 | NIOS Maths Text Book - Part III          | READ.1552291497  | jasonbraganza    | B        | DONE |        24 |               6.57 |
