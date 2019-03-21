@@ -435,3 +435,59 @@
      - [ ] Telephone Number Validator
      - [ ] Cash Register 
 * PLAN:
+** March 20, 2019 - April 5, 2019 (17 days)
+*** [#B] Learn React [0/10]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: DEV.1552139317
+    :TASKID: DEV.1552139317
+    :END:
+    - [ ] Understanding the Base Features & Syntax
+    - [ ] Working with Lists and Conditionals
+    - [ ] Styling React Components & Elements
+    - [ ] Debugging React Apps
+    - [ ] Diving Deeper into Components & React Internals
+    - [ ] A Real App_ The Burger Builder (Basic Version)
+    - [ ] Reaching out to the Web (Http _ Ajax)
+    - [ ] Burger Builder Project_ Accessing a Server
+    - [ ] Multi-Page-Feeling in a Single-Page-App_ Routing
+    - [ ] Adding Routing to our Burger Project
+*** [#A] Innovate and Build [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: DEV.1552081239
+    :TASKID: DEV.1552081239
+    :END:
+    - [ ] Password Manager in Lua programming lanaguage
+    - [ ] Making life easy in lua programming langugage
+*** [#A] Learn concepts of Lua [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: READ.1552081129
+    :TASKID: READ.1552081129
+    :END:
+    - [ ] treating the arguments
+    - [ ] applying the trie algo on arguments
+*** [#B] JavaScript 30 [0/9] 
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: nightwarrior-xxx
+    :ID: DEV.1553024585
+    :TASKID: DEV.1553024585
+    :END:
+    - [ ] Javascript Drum Kit
+    - [ ] CSS + JS clock
+    - [ ] Playing with JS variable and CSS
+    - [ ] Array Cardio day
+    - [ ] Flex panel image gallery
+    - [ ] Ajax type ahead
+    - [ ] Fun with canvas
+    - [ ] Array Cardio day 2
+    - [ ] 14 must know dev tools tricks
