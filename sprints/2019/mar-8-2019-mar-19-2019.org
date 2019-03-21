@@ -321,17 +321,25 @@
     - [ ] treating the arguments
     - [ ] applying the trie algo on arguments
 ** sandeepk
-*** Project Stacknews [0/3]
+*** DONE Project Stacknews [2/3]
+    CLOSED: [2019-03-19 Tue 18:40]
     :PROPERTIES:
     :ESTIMATED: 12
-    :ACTUAL:
+    :ACTUAL:   6.25
     :OWNER: sandeepk
     :ID: DEV.1552226887
     :TASKID: DEV.1552226887
     :END:
-    - [ ] Logic for data fetch and saving new post (4h)
-    - [ ] Page routing (4h)
-    - [ ] Implement the logic for sorting, searching for front-end page (4h)
+    :LOGBOOK:
+    CLOCK: [2019-03-19 Tue 18:00]--[2019-03-19 Tue 18:40] =>  0:40
+    CLOCK: [2019-03-18 Mon 20:30]--[2019-03-18 Mon 21:40] =>  1:10
+    CLOCK: [2019-03-17 Sun 19:10]--[2019-03-17 Sun 19:55] =>  0:45
+    CLOCK: [2019-03-16 Sat 15:00]--[2019-03-16 Sat 16:10] =>  1:10
+    CLOCK: [2019-03-14 Thu 23:00]--[2019-03-15 Fri 00:05] =>  1:05
+    CLOCK: [2019-03-10 Sun 18:00]--[2019-03-10 Sun 19:25] =>  1:25
+    :END:
+    - [X] Logic for data fetch and saving new post (4h)
+    - [X] Page routing (4h)
 ** sidntrivedi
 *** [#A] [[https://github.com/publiclab/leaflet-environmental-layers][Leaflet Environment Layers Issues]] 
     :PROPERTIES:
