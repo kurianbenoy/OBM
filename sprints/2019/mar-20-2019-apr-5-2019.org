@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 17
   :SPRINTSTART: <2019-03-20 Wed>
   :wpd-akshay196:      1
+  :wpd-jasonbraganza:      4
   :END:
 ** akshay196
 *** The Hitchhiker's guide to Python [0/5]
@@ -116,55 +117,55 @@
       - [ ] 37 - Linear Programming
       - [ ] 38 - Mathematical Reasoning
 *** NIOS Accounts Text Book - Part II [0/7]
-   :PROPERTIES:
-   :ESTIMATED: 16
-   :ACTUAL:
-   :OWNER: jasonbraganza
-   :ID: READ.1552291636
-   :TASKID: READ.1552291636
-   :END:
-   - [ ] Module - I: Basic Accounting [0/8]
-     - [ ] 1 - Accounting - An Introduction
-     - [ ] 2 - Accounting Concepts
-     - [ ] 3 - Accounting Conventions and Standards
-     - [ ] 4 - Accounting for Business Transactions
-     - [ ] 5 - Journal
-     - [ ] 6 - Ledger
-     - [ ] 7 - Cash Book
-     - [ ] 8 - Special Purpose Books
-   - [ ] Module - II: Trial Balance and Computers [0/5]
-     - [ ] 9 - Trial Balance
-     - [ ] 10 - Bank Reconciliation Statement
-     - [ ] 11 - Bills of Exchange
-     - [ ] 12 - Errors and their Rectification
-     - [ ] 13 - Computer and Computerised Accounting System
-   - [ ] Module - III: Financial Statements [0/8]
-     - [ ] 14 - Depreciation
-     - [ ] 15 - Provision and Reserves
-     - [ ] 16 - Financial Statements - An Introduction
-     - [ ] 17 - Financial Statements I
-     - [ ] 18 - Financial Statements II
-     - [ ] 19 - Not for Profit Organisations - An Introduction
-     - [ ] 20 - Financial Statements (Not for Profit Organisations)
-     - [ ] 21 - Accounts From Incomplete Records
-   - [ ] Module - IV: Partnership Accounts [0/4]
-     - [ ] 22 - Partnership - An Introduction
-     - [ ] 23 - Admission of a Partner
-     - [ ] 24 - Retirement and Death of a Partner
-     - [ ] 25 - Dissolution of a partnership firm
-   - [ ] Module - V: Company Accounts [0/5]
-     - [ ] 26 - Company - An Introduction
-     - [ ] 27 - Issue of Shares
-     - [ ] 28 - Forfeiture of Shares
-     - [ ] 29 - Reissue of Forfeited Shares
-     - [ ] 30 - Issue of Debentures
-   - [ ] Module - VI : Analysis of Financial Statements [0/4]
-     - [ ] 31 - Financial Statements Analysis-An Introduction
-     - [ ] 32 - Accounting Ratios-I
-     - [ ] 33 - Accounting Ratios-II
-     - [ ] 34 - Cash Flow Statement
-   - [ ] Module - VII: Application of Computers in Financial Accounting [0/4]
-     - [ ] 35 - Electronic Spread Sheet
-     - [ ] 36 - Use of Spread-sheet in Business Application
-     - [ ] 37 - Graphs and Charts for Business
-     - [ ] 38 - Database Management System for Accounting
+    :PROPERTIES:
+    :ESTIMATED: 16
+    :ACTUAL:
+    :OWNER: jasonbraganza
+    :ID: READ.1552291636
+    :TASKID: READ.1552291636
+    :END:
+    - [ ] Module - I: Basic Accounting [0/8]
+      - [ ] 1 - Accounting - An Introduction
+      - [ ] 2 - Accounting Concepts
+      - [ ] 3 - Accounting Conventions and Standards
+      - [ ] 4 - Accounting for Business Transactions
+      - [ ] 5 - Journal
+      - [ ] 6 - Ledger
+      - [ ] 7 - Cash Book
+      - [ ] 8 - Special Purpose Books
+    - [ ] Module - II: Trial Balance and Computers [0/5]
+      - [ ] 9 - Trial Balance
+      - [ ] 10 - Bank Reconciliation Statement
+      - [ ] 11 - Bills of Exchange
+      - [ ] 12 - Errors and their Rectification
+      - [ ] 13 - Computer and Computerised Accounting System
+    - [ ] Module - III: Financial Statements [0/8]
+      - [ ] 14 - Depreciation
+      - [ ] 15 - Provision and Reserves
+      - [ ] 16 - Financial Statements - An Introduction
+      - [ ] 17 - Financial Statements I
+      - [ ] 18 - Financial Statements II
+      - [ ] 19 - Not for Profit Organisations - An Introduction
+      - [ ] 20 - Financial Statements (Not for Profit Organisations)
+      - [ ] 21 - Accounts From Incomplete Records
+    - [ ] Module - IV: Partnership Accounts [0/4]
+      - [ ] 22 - Partnership - An Introduction
+      - [ ] 23 - Admission of a Partner
+      - [ ] 24 - Retirement and Death of a Partner
+      - [ ] 25 - Dissolution of a partnership firm
+    - [ ] Module - V: Company Accounts [0/5]
+      - [ ] 26 - Company - An Introduction
+      - [ ] 27 - Issue of Shares
+      - [ ] 28 - Forfeiture of Shares
+      - [ ] 29 - Reissue of Forfeited Shares
+      - [ ] 30 - Issue of Debentures
+    - [ ] Module - VI : Analysis of Financial Statements [0/4]
+      - [ ] 31 - Financial Statements Analysis-An Introduction
+      - [ ] 32 - Accounting Ratios-I
+      - [ ] 33 - Accounting Ratios-II
+      - [ ] 34 - Cash Flow Statement
+    - [ ] Module - VII: Application of Computers in Financial Accounting [0/4]
+      - [ ] 35 - Electronic Spread Sheet
+      - [ ] 36 - Use of Spread-sheet in Business Application
+      - [ ] 37 - Graphs and Charts for Business
+      - [ ] 38 - Database Management System for Accounting
