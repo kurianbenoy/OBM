@@ -138,21 +138,34 @@
      CLOCK: [2019-03-12 Tue 19:06]--[2019-03-12 Tue 19:52] =>  0:46
      :END:
      - [X] 13.4 (1.5h)
-*** Write blog post on Presenting with Emacs
+*** DONE Write blog post on Presenting with Emacs
+    CLOSED: [2019-03-19 Tue 20:48]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   3.58
     :OWNER:    bhavin192
     :ID:       WRITE.1552224818
     :TASKID:   WRITE.1552224818
     :END:
-*** Attend Docker Pune Docker Bday #6
+    :LOGBOOK:
+    CLOCK: [2019-03-19 Tue 20:40]--[2019-03-19 Tue 20:48] =>  0:08
+    CLOCK: [2019-03-19 Tue 19:03]--[2019-03-19 Tue 20:37] =>  1:34
+    CLOCK: [2019-03-18 Mon 21:55]--[2019-03-18 Mon 22:04] =>  0:09
+    CLOCK: [2019-03-18 Mon 18:57]--[2019-03-18 Mon 19:20] =>  0:23
+    CLOCK: [2019-03-17 Sun 20:29]--[2019-03-17 Sun 21:33] =>  1:04
+    CLOCK: [2019-03-17 Sun 19:45]--[2019-03-17 Sun 20:02] =>  0:17
+    :END:
+*** DONE Attend Docker Pune Docker Bday #6
+    CLOSED: [2019-03-16 Sat 14:17]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   3.95
     :OWNER:    bhavin192
     :ID:       EVENT.1552361977
     :TASKID:   EVENT.1552361977
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-16 Sat 10:20]--[2019-03-16 Sat 14:17] =>  3:57
     :END:
     https://www.meetup.com/Docker-Pune/events/259258699/
 ** jasonbraganza
