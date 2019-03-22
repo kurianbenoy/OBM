@@ -4,7 +4,7 @@
 * GOALS
 ** Learning
 *** Python
-**** The Hitchhiker's guide to Python [0/9]
+**** The Hitchhiker's guide to Python [0/4]
     :PROPERTIES:
     :ESTIMATED: 32
     :ACTUAL:
@@ -12,32 +12,6 @@
     :ID: READ.1552973293
     :TASKID: READ.1552973293
     :END:
-    - [ ] Chapter 1. Picking an Interpreter           (30m)
-    - [ ] Chapter 4. Writing Great Code               ( 2h)
-      - Code Style
-      - Structuring Your Project
-      - Testing your Code
-      - Documentation
-      - Logging
-      - Choosing a License
-    - [ ] Chapter 5. Reading Great Code               ( 6h)
-      - HowDoI
-      - Diamond
-      - Tablib
-      - Requests
-      - Werkzeug
-      - Flask
-    - [ ] Chapter 6. Shipping Great Code              ( 4h)
-      - Useful Vocabulary and Concepts
-      - Packaging Your Code
-      - Freezing Your Code
-      - Packaging for Linux-Built Distributions
-      - Exexutable ZIP Files
-    - [ ] Chapter 7. User Interaction                 (6.5h)
-      - Jupyter Notebooks
-      - Command-Line Application
-      - GUI Application
-      - Web Application
     - [ ] Chapter 8. Code Management and Improvement  ( 5h)
       - Continuous Integration
       - System Administration
