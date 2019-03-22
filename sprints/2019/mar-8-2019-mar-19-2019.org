@@ -190,55 +190,27 @@
       - [X] 4 - Trigonometric Functions II
       - [X] 5 - Relation between Sides and Angles of a Triangle
 ** nightwarrior-xxx
-*** Learn React [0/10]
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: DEV.1552139317
-    :TASKID: DEV.1552139317
-    :END:
-    - [ ] Understanding the Base Features & Syntax
-    - [ ] Working with Lists and Conditionals
-    - [ ] Styling React Components & Elements
-    - [ ] Debugging React Apps
-    - [ ] Diving Deeper into Components & React Internals
-    - [ ] A Real App_ The Burger Builder (Basic Version)
-    - [ ] Reaching out to the Web (Http _ Ajax)
-    - [ ] Burger Builder Project_ Accessing a Server
-    - [ ] Multi-Page-Feeling in a Single-Page-App_ Routing
-    - [ ] Adding Routing to our Burger Project
-*** Contribute and Learn [0/2]
+*** DONE Contribute and Learn [2/2]
+    CLOSED: [2019-03-19 Tue 11:36]
     :PROPERTIES:
     :ESTIMATED: 15
-    :ACTUAL:
+    :ACTUAL:   3.52
     :OWNER: nightwarrior-xxx
     :ID: DEV.1552081276
     :TASKID: DEV.1552081276
     :END:
-    - [ ] Introduce modern JS features and tools to phpMyAdmin codebase
-           - Webpack
-    - [ ] Ship completion files for shells
-           - bash,zsh 
-*** Innovate and Build [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: DEV.1552081239
-    :TASKID: DEV.1552081239
+    :LOGBOOK:
+    CLOCK: [2019-03-19 Tue 11:36]--[2019-03-19 Tue 11:36] =>  0:00
+    CLOCK: [2019-03-17 Sun 16:48]--[2019-03-17 Sun 16:56] =>  0:08
+    CLOCK: [2019-03-17 Sun 01:05]--[2019-03-17 Sun 02:10] =>  1:05
+    CLOCK: [2019-03-14 Thu 12:15]--[2019-03-14 Thu 12:45] =>  0:30
+    CLOCK: [2019-03-13 Wed 15:15]--[2019-03-13 Wed 16:01] =>  0:46
+    CLOCK: [2019-03-11 Mon 02:30]--[2019-03-11 Mon 03:32] =>  1:02
     :END:
-    - [ ] Password Manager in Lua programming lanaguage
-*** Learn concepts of Lua [0/2]
-    :PROPERTIES:
-    :ESTIMATED: 3
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: READ.1552081129
-    :TASKID: READ.1552081129
-    :END:
-    - [ ] treating the arguments
-    - [ ] applying the trie algo on arguments
+    - [X] Introduce modern JS features and tools to phpMyAdmin codebase
+      - Webpack
+    - [X] Ship completion files for shells
+      - bash,zsh
 ** sandeepk
 *** Project Stacknews [0/3]
     :PROPERTIES:
