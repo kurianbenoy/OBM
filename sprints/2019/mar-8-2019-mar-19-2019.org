@@ -28,29 +28,11 @@
   :wpd-nightwarrior-xxx: 2.5
   :END:
 ** nightwarrior-xxx
-*** Learn React [0/10]
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: DEV.1552139317
-    :TASKID: DEV.1552139317
-    :END:
-    - [ ] Understanding the Base Features & Syntax
-    - [ ] Working with Lists and Conditionals
-    - [ ] Styling React Components & Elements
-    - [ ] Debugging React Apps
-    - [ ] Diving Deeper into Components & React Internals
-    - [ ] A Real App_ The Burger Builder (Basic Version)
-    - [ ] Reaching out to the Web (Http _ Ajax)
-    - [ ] Burger Builder Project_ Accessing a Server
-    - [ ] Multi-Page-Feeling in a Single-Page-App_ Routing
-    - [ ] Adding Routing to our Burger Project
 *** DONE Contribute and Learn [2/2]
     CLOSED: [2019-03-19 Tue 11:36]
     :PROPERTIES:
     :ESTIMATED: 15
-    :ACTUAL:
+    :ACTUAL:   3.52
     :OWNER: nightwarrior-xxx
     :ID: DEV.1552081276
     :TASKID: DEV.1552081276
@@ -67,22 +49,3 @@
       - Webpack
     - [X] Ship completion files for shells
       - bash,zsh 
-*** Innovate and Build [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: DEV.1552081239
-    :TASKID: DEV.1552081239
-    :END:
-    - [ ] Password Manager in Lua programming lanaguage
-*** IN_PROGRESS Learn concepts of Lua [0/2]
-    :PROPERTIES:
-    :ESTIMATED: 3
-    :ACTUAL:
-    :OWNER: nightwarrior-xxx
-    :ID: READ.1552081129
-    :TASKID: READ.1552081129
-    :END:
-    - [ ] treating the arguments
-    - [ ] applying the trie algo on arguments
