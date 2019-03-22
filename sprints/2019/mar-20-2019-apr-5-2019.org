@@ -30,22 +30,27 @@
   :wpd-nightwarrior-xxx: 1.5
   :END:
 ** akshay196
-*** The Hitchhiker's guide to Python [0/5]
+*** The Hitchhiker's guide to Python - Part I [2/5]
     :PROPERTIES:
     :ESTIMATED: 17
-    :ACTUAL:
+    :ACTUAL:   2.45
     :OWNER: akshay196
     :ID: READ.1553004553
     :TASKID: READ.1553004553
     :END:
-    - [ ] Chapter 1. Picking an Interpreter           (30m)
-    - [ ] Chapter 4. Writing Great Code [0/6]         ( 2h)
-      - [ ] Code Style
-      - [ ] Structuring Your Project
-      - [ ] Testing your Code
-      - [ ] Documentation
-      - [ ] Logging
-      - [ ] Choosing a License
+    :LOGBOOK:
+    CLOCK: [2019-03-22 Fri 17:42]--[2019-03-22 Fri 18:46] =>  1:04
+    CLOCK: [2019-03-21 Thu 16:55]--[2019-03-21 Thu 17:56] =>  1:01
+    CLOCK: [2019-03-20 Wed 18:56]--[2019-03-20 Wed 19:18] =>  0:22
+    :END:
+    - [X] Chapter 1. Picking an Interpreter           (30m)
+    - [X] Chapter 4. Writing Great Code [6/6]         ( 2h)
+      - [X] Code Style
+      - [X] Structuring Your Project
+      - [X] Testing your Code
+      - [X] Documentation
+      - [X] Logging
+      - [X] Choosing a License
     - [ ] Chapter 5. Reading Great Code [0/6]         ( 6h)
       - [ ] HowDoI
       - [ ] Diamond
