@@ -120,13 +120,13 @@
 *** IN_PROGRESS NIOS Accounts Text Book - Part II [2/7]
     :PROPERTIES:
     :ESTIMATED: 16
-    :ACTUAL:
+    :ACTUAL:   8.00
     :OWNER: jasonbraganza
     :ID: READ.1552291636
     :TASKID: READ.1552291636
     :END:
     :LOGBOOK:
-    CLOCK: [2019-03-24 Sun 10:50]
+    CLOCK: [2019-03-24 Sun 10:50]--[2019-03-24 Sun 14:06] =>  3:16
     CLOCK: [2019-03-23 Sat 10:00]--[2019-03-23 Sat 14:44] =>  4:44
     :END:
     - [X] Module - I: Basic Accounting [8/8]
