@@ -2,5 +2,144 @@
 #+AUTHOR: Sandeep Kumar Choudhary
 #+EMAIL: sandeepchoudhary1507@gmail.com
 #+TAGS: read write dev ops task event meeting # Need to be category
+* GOALS
+
+** Programming Languages
+*** CSS [/]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1553502889
+    :TASKID: DEV.1553502889
+    :END:
+    - [ ] Introduction to the CSS Flex Challenges 4h
+    - [ ] Introduction to the CSS Grid Challenges 4h
+    - [ ] Build a Survey Form
+    - [ ] Build a Product Landing Page
+    - [ ] Build a Technical Documentation
+*** JavaScript [/]
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1553503448
+    :TASKID: DEV.1553503448
+    :END:
+    - [ ] Introduction to the ES6 Challenges
+    - [ ] Introduction to the Regular Expression Challenges
+    - [ ] Introduction to the Debugging Challenges
+    - [ ] Introduction to the Basic Data Structure Challenges
+    - [ ] Roman Numeral Converter
+    - [ ] Telephone Number Validator
+    - [ ] Cash Register
+*** Python Tricks: A Buffet of Awesome Python Features [/]
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1553503719
+    :TASKID: READ.1553503719
+    :END:
+
+** Books
+*** Books to read [/]
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1553504274
+    :TASKID: READ.1553504274
+    :END:
+    - [ ] Sapiens A Breif History of HumanKind.
+    - [ ] Start with Why: How great Leaders Inspires Everyone To Take Action
+    - [ ] The Personal MBA:A World-Class Busniess Education in a Single Volume
+    - [ ] Atomic Habits
+
+** Writing
+*** Blog post to write [/]
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: WRITE.1553503784
+    :TASKID: WRITE.1553503784
+    :END:
+    - [ ] Quaterly Review of year 2019.
+    - [ ] Using Scrapy to scrap website.
+    - [ ] Using Apache Kafka to build communication pipeline.
+    - [ ] Write about the experience for handling continuse deployment.
+
+** Database
+*** MongoDB
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1553504661
+    :TASKID: READ.1553504661
+    :END:
+
+** FrameWork
+*** Django
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1553504708
+    :TASKID: READ.1553504708
+    :END:
+*** Vue.js
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1553504723
+    :TASKID: READ.1553504723
+    :END:
+*** Node
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1553504753
+    :TASKID: READ.1553504753
+    :END:
+
+** Projects
+*** Stacknews [/]
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1553504808
+    :TASKID: DEV.1553504808
+    :END:
+
+
 * PLAN
+** April      6, 2019 - April     18, 2019 (13 days)
+** April     19, 2019 - May        5, 2019 (17 days)
+** May        6, 2019 - May       17, 2019 (12 days)
+** May       18, 2019 - June       3, 2019 (17 days)
+** June       4, 2019 - June      16, 2019 (13 days)
+** June      17, 2019 - July       3, 2019 (17 days)
+** July       4, 2019 - July      15, 2019 (12 days)
+** July      16, 2019 - August     1, 2019 (17 days)
+** August     2, 2019 - August    14, 2019 (13 days)
+** August    15, 2019 - August    30, 2019 (16 days)
+** August    31, 2019 - September 12, 2019 (13 days)
+** September 13, 2019 - September 29, 2019 (17 days)
+** Spetember 30, 2019 - October   12, 2019 (13 days)
+** October   13, 2019 - October   28, 2019 (16 days)
+** October   29, 2019 - November  11, 2019 (14 days)
+** November  12, 2019 - November  27, 2019 (16 days)
+** November  28, 2019 - December  11, 2019 (14 days)
+** December  12, 2019 - December  26, 2019 (15 days)
+** December  27, 2019 - January    9, 2020 (14 days)
+** January   10, 2020 - January   25, 2020 (16 days)
+** January   26, 2020 - February   8, 2020 (14 days)
+** February   9, 2020 - February  24, 2020 (16 days)
+** February  25, 2020 - March      8, 2020 (13 days)
+
 
