@@ -30,7 +30,7 @@
   :wpd-nightwarrior-xxx: 1.5
   :END:
 ** akshay196
-*** The Hitchhiker's guide to Python - Part I [2/5]
+*** IN_PROGRESS The Hitchhiker's guide to Python - Part I [2/5]
     :PROPERTIES:
     :ESTIMATED: 17
     :ACTUAL:   2.45
