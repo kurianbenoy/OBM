@@ -227,23 +227,34 @@
     :END:
     - [ ] Password Manager in Lua programming lanaguage
     - [ ] Making life easy in lua programming langugage
-*** [#A] Learn concepts of Lua [0/2]
+*** IN_PROGRESS [#A] Learn concepts of Lua [1/2]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   1.95
     :OWNER: nightwarrior-xxx
     :ID: READ.1552081129
     :TASKID: READ.1552081129
     :END:
-    - [ ] Treating the arguments
+    :LOGBOOK:
+    CLOCK: [2019-03-25 Mon 12:59]--[2019-03-25 Mon 12:59] =>  0:00
+    CLOCK: [2019-03-22 Fri 20:53]--[2019-03-22 Fri 21:40] =>  0:47
+    CLOCK: [2019-03-22 Fri 18:20]--[2019-03-22 Fri 18:48] =>  0:28
+    CLOCK: [2019-03-22 Fri 16:53]--[2019-03-22 Fri 17:35] =>  0:42
+    :END:
+    - [X] Treating the arguments
     - [ ] Applying the trie algo on arguments
-*** [#B] JavaScript 30 [0/9] 
+*** IN_PROGRESS [#B] JavaScript 30 [0/9]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:
+    :ACTUAL:   1.52
     :OWNER: nightwarrior-xxx
     :ID: DEV.1553024585
     :TASKID: DEV.1553024585
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-25 Mon 21:18]--[2019-03-25 Mon 22:03] =>  0:45
+    CLOCK: [2019-03-25 Mon 14:21]--[2019-03-25 Mon 14:51] =>  0:30
+    CLOCK: [2019-03-25 Mon 13:01]--[2019-03-25 Mon 13:17] =>  0:16
     :END:
     - [ ] Javascript Drum Kit
     - [ ] CSS + JS clock
