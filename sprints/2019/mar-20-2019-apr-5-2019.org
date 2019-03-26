@@ -184,7 +184,7 @@
 *** IN_PROGRESS [#A] Learn concepts of Lua [1/2]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   1.95
     :OWNER: nightwarrior-xxx
     :ID: READ.1552081129
     :TASKID: READ.1552081129
@@ -197,10 +197,10 @@
     :END:
     - [X] Treating the arguments
     - [ ] Applying the trie algo on arguments
-*** [#B] JavaScript 30 [0/9] 
+*** IN_PROGRESS [#B] JavaScript 30 [0/9]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:
+    :ACTUAL:   1.52
     :OWNER: nightwarrior-xxx
     :ID: DEV.1553024585
     :TASKID: DEV.1553024585
