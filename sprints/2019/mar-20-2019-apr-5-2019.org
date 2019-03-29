@@ -31,15 +31,21 @@
   :wpd-nightwarrior-xxx: 1.5
   :END:
 ** akshay196
-*** IN_PROGRESS The Hitchhiker's guide to Python - Part I [2/5]
+*** IN_PROGRESS The Hitchhiker's guide to Python - Part I [3/5]
     :PROPERTIES:
     :ESTIMATED: 17
-    :ACTUAL:   2.45
+    :ACTUAL:   7.75
     :OWNER: akshay196
     :ID: READ.1553004553
     :TASKID: READ.1553004553
     :END:
     :LOGBOOK:
+    CLOCK: [2019-03-28 Thu 21:12]--[2019-03-28 Thu 21:51] =>  0:39
+    CLOCK: [2019-03-28 Thu 19:34]--[2019-03-28 Thu 20:39] =>  1:05
+    CLOCK: [2019-03-27 Wed 21:24]--[2019-03-27 Wed 22:24] =>  1:00
+    CLOCK: [2019-03-26 Tue 20:40]--[2019-03-26 Tue 21:47] =>  1:07
+    CLOCK: [2019-03-25 Mon 18:55]--[2019-03-25 Mon 19:34] =>  0:39
+    CLOCK: [2019-03-23 Sat 20:42]--[2019-03-23 Sat 21:30] =>  0:48
     CLOCK: [2019-03-22 Fri 17:42]--[2019-03-22 Fri 18:46] =>  1:04
     CLOCK: [2019-03-21 Thu 16:55]--[2019-03-21 Thu 17:56] =>  1:01
     CLOCK: [2019-03-20 Wed 18:56]--[2019-03-20 Wed 19:18] =>  0:22
@@ -52,13 +58,13 @@
       - [X] Documentation
       - [X] Logging
       - [X] Choosing a License
-    - [ ] Chapter 5. Reading Great Code [0/6]         ( 6h)
-      - [ ] HowDoI
-      - [ ] Diamond
-      - [ ] Tablib
-      - [ ] Requests
-      - [ ] Werkzeug
-      - [ ] Flask
+    - [X] Chapter 5. Reading Great Code [6/6]         ( 6h)
+      - [X] HowDoI
+      - [X] Diamond
+      - [X] Tablib
+      - [X] Requests
+      - [X] Werkzeug
+      - [X] Flask
     - [ ] Chapter 6. Shipping Great Code [0/5]        ( 4h)
       - [ ] Useful Vocabulary and Concepts
       - [ ] Packaging Your Code
