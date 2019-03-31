@@ -22,7 +22,7 @@
    - [ ] Cluster Administration                   ( 3h)
    - [ ] Extending Kubernetes                     ( 5h)
 ** Python
-*** Data Structure and Algorithmic Thinking with Python (By narsimha karumanchi)
+*** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
     :PROPERTIES:
     :ESTIMATED: 30
     :ACTUAL:
@@ -52,7 +52,7 @@
     - [ ] 20. Complexity Classes               ( 1h)
 *** Contributing to Open Source Python project
 ** Learn Emacs
-*** Dgplug Emacs logs
+*** dgplug Emacs logs
    :PROPERTIES:
    :ESTIMATED: 20
    :ACTUAL:
