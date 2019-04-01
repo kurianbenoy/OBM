@@ -6,20 +6,19 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS                                     | WAITING | DONE | CANCELED |
-|------+------+-------------------------------------------------+---------+------+----------|
-|      |      | READ.1552081129. [#A] Learn concepts of Lua     |         |      |          |
-|      |      | DEV.1553024585. [#B] JavaScript 30              |         |      |          |
-|      |      | READ.1553004553. The Hitchhiker's guide to Pyth |         |      |          |
-|      |      | READ.1552291497. NIOS Maths Text Book - Part IV |         |      |          |
-|      |      | READ.1552291636. NIOS Accounts Text Book - Part |         |      |          |
+| TODO | NEXT | IN_PROGRESS                                     | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------------------------------------------+---------+--------------------------------------------------------------+----------|
+|      |      | READ.1552081129. [#A] Learn concepts of Lua     |         | READ.1552291636. NIOS Accounts Text Book - Part (2019-03-26) |          |
+|      |      | DEV.1553024585. [#B] JavaScript 30              |         |                                                              |          |
+|      |      | READ.1553004553. The Hitchhiker's guide to Pyth |         |                                                              |          |
+|      |      | READ.1552291497. NIOS Maths Text Book - Part IV |         |                                                              |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME             | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |------------------+-----------+--------------------+------+-----------+--------------+------------|
 | Nightwarrior-Xxx |        13 | 3.4699999999999998 |    0 |        13 |   2019-04-12 | ---------- |
-| Jasonbraganza    |        67 | 17.869999999999997 |    0 |        67 |   2019-04-24 | ---------- |
+| Jasonbraganza    |        67 |              23.57 |   16 |        51 |   2019-04-18 | ##-------- |
 | Bhavin192        |         0 |                  0 |    0 |         0 |   2019-04-01 | ---------- |
 | Akshay196        |        17 |               7.75 |    0 |        17 |   2019-04-24 | ---------- |
 #+END:
@@ -38,13 +37,13 @@
 |   4 | 2019-03-23 |    126 |    96 |                 |
 |   5 | 2019-03-24 |    126 |    89 |                 |
 |   6 | 2019-03-25 |    126 |    82 |                 |
-|   7 | 2019-03-26 |    126 |    74 |                 |
-|   8 | 2019-03-27 |    126 |    67 |                 |
-|   9 | 2019-03-28 |    126 |    59 |                 |
-|  10 | 2019-03-29 |    126 |    52 |                 |
-|  11 | 2019-03-30 |    126 |    44 |                 |
-|  12 | 2019-03-31 |    126 |    37 |                 |
-|  13 | 2019-04-01 |    126 |    30 |                 |
+|   7 | 2019-03-26 |    110 |    74 | READ.1552291636 |
+|   8 | 2019-03-27 |    110 |    67 |                 |
+|   9 | 2019-03-28 |    110 |    59 |                 |
+|  10 | 2019-03-29 |    110 |    52 |                 |
+|  11 | 2019-03-30 |    110 |    44 |                 |
+|  12 | 2019-03-31 |    110 |    37 |                 |
+|  13 | 2019-04-01 |    110 |    30 |                 |
 |  14 | 2019-04-02 |        |    22 |                 |
 |  15 | 2019-04-03 |        |    15 |                 |
 |  16 | 2019-04-04 |        |     7 |                 |
@@ -54,7 +53,7 @@
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                          | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED |             ACTUAL |
 |-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| TASKS                                         |                  |                  | B        |             |       126 | 29.089999999999996 |
+| TASKS                                         |                  |                  | B        |             |       126 |              34.79 |
 |-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
 | akshay196                                     |                  |                  | B        |             |        17 |               7.75 |
 | The Hitchhiker's guide to Python - Part I     | READ.1553004553  | akshay196        | B        | IN_PROGRESS |        17 |               7.75 |
@@ -64,9 +63,9 @@
 | Write blog post on Gadgetbridge and openScale | WRITE.1553529991 | bhavin192        | B        |             |         6 |                    |
 | Attend COEP FOSSMeet                          | EVENT.1553530038 | bhavin192        | B        |             |         8 |                    |
 |-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| jasonbraganza                                 |                  |                  | B        |             |        67 | 17.869999999999997 |
-| NIOS Maths Text Book - Part IV                | READ.1552291497  | jasonbraganza    | B        | IN_PROGRESS |        51 |               4.50 |
-| NIOS Accounts Text Book - Part II             | READ.1552291636  | jasonbraganza    | B        | IN_PROGRESS |        16 |              13.37 |
+| jasonbraganza                                 |                  |                  | B        |             |        67 |              23.57 |
+| NIOS Maths Text Book - Part IV                | READ.1552291497  | jasonbraganza    | B        | IN_PROGRESS |        51 |               8.90 |
+| NIOS Accounts Text Book - Part II             | READ.1552291636  | jasonbraganza    | B        | DONE        |        16 |              14.67 |
 |-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
 | nightwarrior-xxx                              |                  |                  | B        |             |        25 | 3.4699999999999998 |
 | Innovate and Build                            | DEV.1552081239   | nightwarrior-xxx | A        |             |         6 |                    |
@@ -220,6 +219,7 @@
       - [ ] 37 - Linear Programming
       - [ ] 38 - Mathematical Reasoning
 *** DONE NIOS Accounts Text Book - Part II [7/7]
+    CLOSED: [2019-03-26 Tue 10:15]
     :PROPERTIES:
     :ESTIMATED: 16
     :ACTUAL:   14.67
