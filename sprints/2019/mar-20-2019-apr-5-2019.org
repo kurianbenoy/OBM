@@ -145,21 +145,34 @@
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34448][#34448]]: --no-build-details means system-name is nil
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34336][#34336]]: In eww-mode, when point is in the hyperlink position, the
       hotkey r is occupied by the image-mode hotkey.
-*** Write blog post on Gadgetbridge and openScale
+*** IN_PROGRESS Write blog post on Gadgetbridge and openScale
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:
+    :ACTUAL:   2.38
     :OWNER:    bhavin192
     :ID:       WRITE.1553529991
     :TASKID:   WRITE.1553529991
     :END:
-*** Attend COEP FOSSMeet
+    :LOGBOOK:
+    CLOCK: [2019-03-28 Thu 19:27]--[2019-03-28 Thu 19:48] =>  0:21
+    CLOCK: [2019-03-27 Wed 20:39]--[2019-03-27 Wed 20:55] =>  0:16
+    CLOCK: [2019-03-27 Wed 19:17]--[2019-03-27 Wed 20:05] =>  0:48
+    CLOCK: [2019-03-26 Tue 19:13]--[2019-03-26 Tue 20:11] =>  0:58
+    :END:
+*** DONE Attend COEP FOSSMeet
+    CLOSED: [2019-03-31 Sun 18:10]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:
+    :ACTUAL:   8.28
     :OWNER:    bhavin192
     :ID:       EVENT.1553530038
     :TASKID:   EVENT.1553530038
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-31 Sun 15:04]--[2019-03-31 Sun 18:10] =>  3:06
+    CLOCK: [2019-03-31 Sun 10:56]--[2019-03-31 Sun 11:55] =>  0:59
+    CLOCK: [2019-03-30 Sat 14:22]--[2019-03-30 Sat 16:45] =>  2:23
+    CLOCK: [2019-03-30 Sat 11:07]--[2019-03-30 Sat 12:56] =>  1:49
     :END:
     https://foss.coep.org.in/fossmeet/
 ** jasonbraganza
