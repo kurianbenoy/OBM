@@ -6,19 +6,72 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS                                     | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------------------------------------------+---------+--------------------------------------------------------------+----------|
+|      |      | READ.1552081129. [#A] Learn concepts of Lua     |         | READ.1552291636. NIOS Accounts Text Book - Part (2019-03-26) |          |
+|      |      | DEV.1553024585. [#B] JavaScript 30              |         |                                                              |          |
+|      |      | READ.1553004553. The Hitchhiker's guide to Pyth |         |                                                              |          |
+|      |      | READ.1552291497. NIOS Maths Text Book - Part IV |         |                                                              |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME             | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+-----------+--------------------+------+-----------+--------------+------------|
+| Nightwarrior-Xxx |        13 | 3.4699999999999998 |    0 |        13 |   2019-04-12 | ---------- |
+| Jasonbraganza    |        67 |              23.57 |   16 |        51 |   2019-04-18 | ##-------- |
+| Bhavin192        |         0 |                  0 |    0 |         0 |   2019-04-01 | ---------- |
+| Akshay196        |        17 |               7.75 |    0 |        17 |   2019-04-24 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+
 #+END:
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2019-03-20 |    126 |   119 |                 |
+|   2 | 2019-03-21 |    126 |   111 |                 |
+|   3 | 2019-03-22 |    126 |   104 |                 |
+|   4 | 2019-03-23 |    126 |    96 |                 |
+|   5 | 2019-03-24 |    126 |    89 |                 |
+|   6 | 2019-03-25 |    126 |    82 |                 |
+|   7 | 2019-03-26 |    110 |    74 | READ.1552291636 |
+|   8 | 2019-03-27 |    110 |    67 |                 |
+|   9 | 2019-03-28 |    110 |    59 |                 |
+|  10 | 2019-03-29 |    110 |    52 |                 |
+|  11 | 2019-03-30 |    110 |    44 |                 |
+|  12 | 2019-03-31 |    110 |    37 |                 |
+|  13 | 2019-04-01 |    110 |    30 |                 |
+|  14 | 2019-04-02 |        |    22 |                 |
+|  15 | 2019-04-03 |        |    15 |                 |
+|  16 | 2019-04-04 |        |     7 |                 |
+|  17 | 2019-04-05 |        |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                          | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED |             ACTUAL |
+|-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| TASKS                                         |                  |                  | B        |             |       126 |              34.79 |
+|-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| akshay196                                     |                  |                  | B        |             |        17 |               7.75 |
+| The Hitchhiker's guide to Python - Part I     | READ.1553004553  | akshay196        | B        | IN_PROGRESS |        17 |               7.75 |
+|-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| bhavin192                                     |                  |                  | B        |             |        17 |                    |
+| GNU Emacs bug triaging                        | OPS.1553529907   | bhavin192        | B        |             |         3 |                    |
+| Write blog post on Gadgetbridge and openScale | WRITE.1553529991 | bhavin192        | B        |             |         6 |                    |
+| Attend COEP FOSSMeet                          | EVENT.1553530038 | bhavin192        | B        |             |         8 |                    |
+|-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| jasonbraganza                                 |                  |                  | B        |             |        67 |              23.57 |
+| NIOS Maths Text Book - Part IV                | READ.1552291497  | jasonbraganza    | B        | IN_PROGRESS |        51 |               8.90 |
+| NIOS Accounts Text Book - Part II             | READ.1552291636  | jasonbraganza    | B        | DONE        |        16 |              14.67 |
+|-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
+| nightwarrior-xxx                              |                  |                  | B        |             |        25 | 3.4699999999999998 |
+| Innovate and Build                            | DEV.1552081239   | nightwarrior-xxx | A        |             |         6 |                    |
+| Learn concepts of Lua                         | READ.1552081129  | nightwarrior-xxx | A        | IN_PROGRESS |         3 |               1.95 |
+| JavaScript 30                                 | DEV.1553024585   | nightwarrior-xxx | B        | IN_PROGRESS |        10 |               1.52 |
+| Learn React                                   | DEV.1552139317   | nightwarrior-xxx | B        |             |         6 |                    |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -31,15 +84,21 @@
   :wpd-nightwarrior-xxx: 1.5
   :END:
 ** akshay196
-*** IN_PROGRESS The Hitchhiker's guide to Python - Part I [2/5]
+*** IN_PROGRESS The Hitchhiker's guide to Python - Part I [3/5]
     :PROPERTIES:
     :ESTIMATED: 17
-    :ACTUAL:   2.45
+    :ACTUAL:   7.75
     :OWNER: akshay196
     :ID: READ.1553004553
     :TASKID: READ.1553004553
     :END:
     :LOGBOOK:
+    CLOCK: [2019-03-28 Thu 21:12]--[2019-03-28 Thu 21:51] =>  0:39
+    CLOCK: [2019-03-28 Thu 19:34]--[2019-03-28 Thu 20:39] =>  1:05
+    CLOCK: [2019-03-27 Wed 21:24]--[2019-03-27 Wed 22:24] =>  1:00
+    CLOCK: [2019-03-26 Tue 20:40]--[2019-03-26 Tue 21:47] =>  1:07
+    CLOCK: [2019-03-25 Mon 18:55]--[2019-03-25 Mon 19:34] =>  0:39
+    CLOCK: [2019-03-23 Sat 20:42]--[2019-03-23 Sat 21:30] =>  0:48
     CLOCK: [2019-03-22 Fri 17:42]--[2019-03-22 Fri 18:46] =>  1:04
     CLOCK: [2019-03-21 Thu 16:55]--[2019-03-21 Thu 17:56] =>  1:01
     CLOCK: [2019-03-20 Wed 18:56]--[2019-03-20 Wed 19:18] =>  0:22
@@ -52,13 +111,13 @@
       - [X] Documentation
       - [X] Logging
       - [X] Choosing a License
-    - [ ] Chapter 5. Reading Great Code [0/6]         ( 6h)
-      - [ ] HowDoI
-      - [ ] Diamond
-      - [ ] Tablib
-      - [ ] Requests
-      - [ ] Werkzeug
-      - [ ] Flask
+    - [X] Chapter 5. Reading Great Code [6/6]         ( 6h)
+      - [X] HowDoI
+      - [X] Diamond
+      - [X] Tablib
+      - [X] Requests
+      - [X] Werkzeug
+      - [X] Flask
     - [ ] Chapter 6. Shipping Great Code [0/5]        ( 4h)
       - [ ] Useful Vocabulary and Concepts
       - [ ] Packaging Your Code
@@ -162,6 +221,7 @@
       - [ ] 37 - Linear Programming
       - [ ] 38 - Mathematical Reasoning
 *** DONE NIOS Accounts Text Book - Part II [7/7]
+    CLOSED: [2019-03-26 Tue 10:15]
     :PROPERTIES:
     :ESTIMATED: 16
     :ACTUAL:   14.67
