@@ -6,21 +6,25 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS                                     | WAITING | DONE                                                         | CANCELED |
-|------+------+-------------------------------------------------+---------+--------------------------------------------------------------+----------|
-|      |      | READ.1552081129. [#A] Learn concepts of Lua     |         | READ.1552291636. NIOS Accounts Text Book - Part (2019-03-26) |          |
-|      |      | DEV.1553024585. [#B] JavaScript 30              |         |                                                              |          |
-|      |      | READ.1553004553. The Hitchhiker's guide to Pyth |         |                                                              |          |
-|      |      | READ.1552291497. NIOS Maths Text Book - Part IV |         |                                                              |          |
+| TODO | NEXT | IN_PROGRESS                                      | WAITING | DONE                                                         | CANCELED |
+|------+------+--------------------------------------------------+---------+--------------------------------------------------------------+----------|
+|      |      | READ.1552081129. [#A] Learn concepts of Lua      |         | EVENT.1553530038. Attend COEP FOSSMeet (2019-03-31)          |          |
+|      |      | DEV.1553024585. [#B] JavaScript 30               |         | READ.1552291636. NIOS Accounts Text Book - Part (2019-03-26) |          |
+|      |      | READ.1553004553. The Hitchhiker's guide to Pyth  |         |                                                              |          |
+|      |      | WRITE.1553529991. Write blog post on Gadgetbridg |         |                                                              |          |
+|      |      | READ.1552291497. NIOS Maths Text Book - Part IV  |         |                                                              |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME             | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |------------------+-----------+--------------------+------+-----------+--------------+------------|
-| Nightwarrior-Xxx |        13 | 3.4699999999999998 |    0 |        13 |   2019-04-12 | ---------- |
-| Jasonbraganza    |        67 |              23.57 |   16 |        51 |   2019-04-18 | ##-------- |
-| Bhavin192        |         0 |                  0 |    0 |         0 |   2019-04-01 | ---------- |
-| Akshay196        |        17 |               7.75 |    0 |        17 |   2019-04-24 | ---------- |
+| Nightwarrior-Xxx |        13 |               7.15 |    0 |        13 |   2019-04-16 | ---------- |
+| Jasonbraganza    |        67 | 31.119999999999997 |   16 |        51 |   2019-04-22 | ##-------- |
+| Bhavin192        |        14 |              10.66 |    8 |         6 |   2019-04-11 | ######---- |
+| Akshay196        |        17 |               7.75 |    0 |        17 |   2019-04-26 | ---------- |
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -29,48 +33,48 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
-|-----+------------+--------+-------+-----------------|
-|   1 | 2019-03-20 |    126 |   119 |                 |
-|   2 | 2019-03-21 |    126 |   111 |                 |
-|   3 | 2019-03-22 |    126 |   104 |                 |
-|   4 | 2019-03-23 |    126 |    96 |                 |
-|   5 | 2019-03-24 |    126 |    89 |                 |
-|   6 | 2019-03-25 |    126 |    82 |                 |
-|   7 | 2019-03-26 |    110 |    74 | READ.1552291636 |
-|   8 | 2019-03-27 |    110 |    67 |                 |
-|   9 | 2019-03-28 |    110 |    59 |                 |
-|  10 | 2019-03-29 |    110 |    52 |                 |
-|  11 | 2019-03-30 |    110 |    44 |                 |
-|  12 | 2019-03-31 |    110 |    37 |                 |
-|  13 | 2019-04-01 |    110 |    30 |                 |
-|  14 | 2019-04-02 |        |    22 |                 |
-|  15 | 2019-04-03 |        |    15 |                 |
-|  16 | 2019-04-04 |        |     7 |                 |
-|  17 | 2019-04-05 |        |     0 |                 |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED  |
+|-----+------------+--------+-------+------------------|
+|   1 | 2019-03-20 |    126 |   119 |                  |
+|   2 | 2019-03-21 |    126 |   111 |                  |
+|   3 | 2019-03-22 |    126 |   104 |                  |
+|   4 | 2019-03-23 |    126 |    96 |                  |
+|   5 | 2019-03-24 |    126 |    89 |                  |
+|   6 | 2019-03-25 |    126 |    82 |                  |
+|   7 | 2019-03-26 |    110 |    74 | READ.1552291636  |
+|   8 | 2019-03-27 |    110 |    67 |                  |
+|   9 | 2019-03-28 |    110 |    59 |                  |
+|  10 | 2019-03-29 |    110 |    52 |                  |
+|  11 | 2019-03-30 |    110 |    44 |                  |
+|  12 | 2019-03-31 |    102 |    37 | EVENT.1553530038 |
+|  13 | 2019-04-01 |    102 |    30 |                  |
+|  14 | 2019-04-02 |    102 |    22 |                  |
+|  15 | 2019-04-03 |    102 |    15 |                  |
+|  16 | 2019-04-04 |        |     7 |                  |
+|  17 | 2019-04-05 |        |     0 |                  |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                          | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED |             ACTUAL |
 |-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| TASKS                                         |                  |                  | B        |             |       126 |              34.79 |
+| TASKS                                         |                  |                  | B        |             |       126 |              56.68 |
 |-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
 | akshay196                                     |                  |                  | B        |             |        17 |               7.75 |
 | The Hitchhiker's guide to Python - Part I     | READ.1553004553  | akshay196        | B        | IN_PROGRESS |        17 |               7.75 |
 |-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| bhavin192                                     |                  |                  | B        |             |        17 |                    |
+| bhavin192                                     |                  |                  | B        |             |        17 |              10.66 |
 | GNU Emacs bug triaging                        | OPS.1553529907   | bhavin192        | B        |             |         3 |                    |
-| Write blog post on Gadgetbridge and openScale | WRITE.1553529991 | bhavin192        | B        |             |         6 |                    |
-| Attend COEP FOSSMeet                          | EVENT.1553530038 | bhavin192        | B        |             |         8 |                    |
+| Write blog post on Gadgetbridge and openScale | WRITE.1553529991 | bhavin192        | B        | IN_PROGRESS |         6 |               2.38 |
+| Attend COEP FOSSMeet                          | EVENT.1553530038 | bhavin192        | B        | DONE        |         8 |               8.28 |
 |-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| jasonbraganza                                 |                  |                  | B        |             |        67 |              23.57 |
-| NIOS Maths Text Book - Part IV                | READ.1552291497  | jasonbraganza    | B        | IN_PROGRESS |        51 |               8.90 |
+| jasonbraganza                                 |                  |                  | B        |             |        67 | 31.119999999999997 |
+| NIOS Maths Text Book - Part IV                | READ.1552291497  | jasonbraganza    | B        | IN_PROGRESS |        51 |              16.45 |
 | NIOS Accounts Text Book - Part II             | READ.1552291636  | jasonbraganza    | B        | DONE        |        16 |              14.67 |
 |-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| nightwarrior-xxx                              |                  |                  | B        |             |        25 | 3.4699999999999998 |
+| nightwarrior-xxx                              |                  |                  | B        |             |        25 |               7.15 |
 | Innovate and Build                            | DEV.1552081239   | nightwarrior-xxx | A        |             |         6 |                    |
 | Learn concepts of Lua                         | READ.1552081129  | nightwarrior-xxx | A        | IN_PROGRESS |         3 |               1.95 |
-| JavaScript 30                                 | DEV.1553024585   | nightwarrior-xxx | B        | IN_PROGRESS |        10 |               1.52 |
+| JavaScript 30                                 | DEV.1553024585   | nightwarrior-xxx | B        | IN_PROGRESS |        10 |               5.20 |
 | Learn React                                   | DEV.1552139317   | nightwarrior-xxx | B        |             |         6 |                    |
 #+END:
 * TASKS
@@ -326,21 +330,25 @@
     :END:
     - [X] Treating the arguments
     - [ ] Applying the trie algo on arguments
-*** IN_PROGRESS [#B] JavaScript 30 [0/9]
+*** IN_PROGRESS [#B] JavaScript 30 [2/9]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:   1.52
+    :ACTUAL:   5.20
     :OWNER: nightwarrior-xxx
     :ID: DEV.1553024585
     :TASKID: DEV.1553024585
     :END:
     :LOGBOOK:
+    CLOCK: [2019-03-27 Wed 02:39]--[2019-03-27 Wed 03:35] =>  0:56
+    CLOCK: [2019-03-27 Wed 01:51]--[2019-03-27 Wed 02:17] =>  0:26
+    CLOCK: [2019-03-27 Wed 01:06]--[2019-03-27 Wed 01:23] =>  0:17
+    CLOCK: [2019-03-25 Mon 23:23]--[2019-03-26 Tue 01:25] =>  2:02
     CLOCK: [2019-03-25 Mon 21:18]--[2019-03-25 Mon 22:03] =>  0:45
     CLOCK: [2019-03-25 Mon 14:21]--[2019-03-25 Mon 14:51] =>  0:30
     CLOCK: [2019-03-25 Mon 13:01]--[2019-03-25 Mon 13:17] =>  0:16
     :END:
-    - [ ] Javascript Drum Kit
-    - [ ] CSS + JS clock
+    - [X] Javascript Drum Kit
+    - [X] CSS + JS clock
     - [ ] Playing with JS variable and CSS
     - [ ] Array Cardio day
     - [ ] Flex panel image gallery
