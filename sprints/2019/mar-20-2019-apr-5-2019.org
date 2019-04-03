@@ -197,7 +197,7 @@
     :END:
     - [X] Treating the arguments
     - [ ] Applying the trie algo on arguments
-*** [#B] JavaScript 30 [0/9] 
+*** [#B] JavaScript 30 [2/9] 
     :PROPERTIES:
     :ESTIMATED: 10
     :ACTUAL:
@@ -206,12 +206,16 @@
     :TASKID: DEV.1553024585
     :END:
     :LOGBOOK:
+    CLOCK: [2019-03-27 Wed 02:39]--[2019-03-27 Wed 03:35] =>  0:56
+    CLOCK: [2019-03-27 Wed 01:51]--[2019-03-27 Wed 02:17] =>  0:26
+    CLOCK: [2019-03-27 Wed 01:06]--[2019-03-27 Wed 01:23] =>  0:17
+    CLOCK: [2019-03-25 Mon 23:23]--[2019-03-26 Tue 01:25] =>  2:02
     CLOCK: [2019-03-25 Mon 21:18]--[2019-03-25 Mon 22:03] =>  0:45
     CLOCK: [2019-03-25 Mon 14:21]--[2019-03-25 Mon 14:51] =>  0:30
     CLOCK: [2019-03-25 Mon 13:01]--[2019-03-25 Mon 13:17] =>  0:16
     :END:
-    - [ ] Javascript Drum Kit
-    - [ ] CSS + JS clock
+    - [X] Javascript Drum Kit
+    - [X] CSS + JS clock
     - [ ] Playing with JS variable and CSS
     - [ ] Array Cardio day
     - [ ] Flex panel image gallery
