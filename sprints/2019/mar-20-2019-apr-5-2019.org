@@ -6,19 +6,65 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS                                     | WAITING | DONE | CANCELED |
+|------+------+-------------------------------------------------+---------+------+----------|
+|      |      | READ.1552081129. [#A] Learn concepts of Lua     |         |      |          |
+|      |      | DEV.1553024585. [#B] JavaScript 30              |         |      |          |
+|      |      | READ.1552291497. NIOS Maths Text Book - Part IV |         |      |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME             | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+-----------+--------+------+-----------+--------------+------------|
+| Nightwarrior-Xxx |        13 |   7.15 |    0 |        13 |   2019-04-16 | ---------- |
+| Jasonbraganza    |        51 |    4.5 |    0 |        51 |   2019-04-22 | ---------- |
+| Akshay196        |         0 |      0 |    0 |         0 |   2019-04-03 | ---------- |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+
 #+END:
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2019-03-20 |    109 |   103 |                 |
+|   2 | 2019-03-21 |    109 |    96 |                 |
+|   3 | 2019-03-22 |    109 |    90 |                 |
+|   4 | 2019-03-23 |    109 |    83 |                 |
+|   5 | 2019-03-24 |    109 |    77 |                 |
+|   6 | 2019-03-25 |    109 |    71 |                 |
+|   7 | 2019-03-26 |    109 |    64 |                 |
+|   8 | 2019-03-27 |    109 |    58 |                 |
+|   9 | 2019-03-28 |    109 |    51 |                 |
+|  10 | 2019-03-29 |    109 |    45 |                 |
+|  11 | 2019-03-30 |    109 |    38 |                 |
+|  12 | 2019-03-31 |    109 |    32 |                 |
+|  13 | 2019-04-01 |    109 |    26 |                 |
+|  14 | 2019-04-02 |    109 |    19 |                 |
+|  15 | 2019-04-03 |    109 |    13 |                 |
+|  16 | 2019-04-04 |        |     6 |                 |
+|  17 | 2019-04-05 |        |     0 |                 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                              | TASKID          | OWNER            | PRIORITY | TODO        | ESTIMATED | ACTUAL |
+|-----------------------------------+-----------------+------------------+----------+-------------+-----------+--------|
+| TASKS                             |                 |                  | B        |             |       109 |  11.65 |
+|-----------------------------------+-----------------+------------------+----------+-------------+-----------+--------|
+| akshay196                         |                 |                  | B        |             |        17 |        |
+| The Hitchhiker's guide to Python  | READ.1553004553 | akshay196        | B        |             |        17 |        |
+|-----------------------------------+-----------------+------------------+----------+-------------+-----------+--------|
+| jasonbraganza                     |                 |                  | B        |             |        67 |    4.5 |
+| NIOS Maths Text Book - Part IV    | READ.1552291497 | jasonbraganza    | B        | IN_PROGRESS |        51 |   4.50 |
+| NIOS Accounts Text Book - Part II | READ.1552291636 | jasonbraganza    | B        |             |        16 |        |
+|-----------------------------------+-----------------+------------------+----------+-------------+-----------+--------|
+| nightwarrior-xxx                  |                 |                  | B        |             |        25 |   7.15 |
+| Innovate and Build                | DEV.1552081239  | nightwarrior-xxx | A        |             |         6 |        |
+| Learn concepts of Lua             | READ.1552081129 | nightwarrior-xxx | A        | IN_PROGRESS |         3 |   1.95 |
+| JavaScript 30                     | DEV.1553024585  | nightwarrior-xxx | B        | IN_PROGRESS |        10 |   5.20 |
+| Learn React                       | DEV.1552139317  | nightwarrior-xxx | B        |             |         6 |        |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -184,7 +230,7 @@
 *** IN_PROGRESS [#A] Learn concepts of Lua [1/2]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   1.95
     :OWNER: nightwarrior-xxx
     :ID: READ.1552081129
     :TASKID: READ.1552081129
@@ -197,10 +243,10 @@
     :END:
     - [X] Treating the arguments
     - [ ] Applying the trie algo on arguments
-*** [#B] JavaScript 30 [2/9] 
+*** IN_PROGRESS [#B] JavaScript 30 [2/9]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:
+    :ACTUAL:   5.20
     :OWNER: nightwarrior-xxx
     :ID: DEV.1553024585
     :TASKID: DEV.1553024585
