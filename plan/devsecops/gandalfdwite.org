@@ -1,0 +1,97 @@
+#+AUTHOR: gandalfdwite
+#+EMAIL: pravarag@gmail.com
+#+TAGS: dev ops read meeting
+* GOALS
+** DevOps
+*** Read Kubernetes Docs
+   :PROPERTIES:
+   :ESTIMATED: 28
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1553531073
+   :TASKID: READ.1553531073
+   :END:
+   - [ ] Kubernetes Overview                      ( 2h)
+   - [ ] Kubernetes Architecture                  ( 2h)
+   - [ ] Containers                               ( 2h)
+   - [ ] Workloads                                ( 1h)
+   - [ ] Services, Load Balancing, Networking     ( 3h)
+   - [ ] Storage                                  ( 5h)
+   - [ ] Configuration                            ( 3h)
+   - [ ] Policies                                 ( 2h)
+   - [ ] Cluster Administration                   ( 3h)
+   - [ ] Extending Kubernetes                     ( 5h)
+** Python
+*** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
+    :PROPERTIES:
+    :ESTIMATED: 30
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1553531542
+    :TASKID: READ.1553531542
+    :END:
+    - [ ] 1. Introduction                      ( 2h)
+    - [ ] 2. Recursion & Backtracking          ( 1h)
+    - [ ] 3. Linked Lists                      ( 1h)
+    - [ ] 4. Stacks                            ( 1h)
+    - [ ] 5. Queues                            ( 1h)
+    - [ ] 6. Trees                             ( 4h)
+    - [ ] 7. Priority Queues & Heaps           ( 1h)
+    - [ ] 8. Disjoint Sets ADT                 ( 1h)
+    - [ ] 9. Graph Algorithms                  ( 2h)
+    - [ ] 10. Sorting                          ( 2h)
+    - [ ] 11. Searching                        ( 2h)
+    - [ ] 12. Selection Algorithms (Medians)   ( 1h)
+    - [ ] 13. Symbol Tables                    ( 1h)
+    - [ ] 14. Hashing                          ( 2h)
+    - [ ] 15. String Algorithms                ( 2h)
+    - [ ] 16. Algorithms Design Techniques     ( 1h)
+    - [ ] 17. Greedy Algorithms                ( 2h)
+    - [ ] 18. Divide and Conquer Algorithms    ( 1h)
+    - [ ] 19. Dynamic Programming              ( 1h)
+    - [ ] 20. Complexity Classes               ( 1h)
+*** Contributing to Open Source Python project
+** Learn Emacs
+*** dgplug Emacs logs
+   :PROPERTIES:
+   :ESTIMATED: 20
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1553605019
+   :TASKID: READ.1553605019
+   :END:
+     - [ ] Part 3. Search Functions      ( 1h)
+     - [ ] Part 4. Shell mode commands   ( 1h)
+     - [ ] Part 5. Dired mode            ( 1h)
+     - [ ] Part 6. Info Commands         ( 1h)
+     - [ ] Part 7. Calculator in emacs   ( 1h)
+     - [ ] Part 8. Org mode in emacs     ( 2h)
+     - [ ] Part 9. Magit in emacs        ( 1h)
+** Unix
+*** Unix Concepts & Applications by Sumitabha Das
+   :PROPERTIES:
+   :ESTIMATED: 35
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1553532278
+   :TASKID: READ.1553532278
+   :END:
+   - [ ] 1. Introduction                         ( 1h)
+   - [ ] 2. Unix architecture and command usage  ( 2h)
+   - [ ] 3. General Purpose Utilities            ( 1h)
+   - [ ] 4. File system                          ( 2h)
+   - [ ] 5. Handling Ordinary files              ( 2h)
+   - [ ] 6. Basic file attributes                ( 1h)
+   - [ ] 7. Vi editor                            ( 3h)
+   - [ ] 8. The SHELL                            ( 2h)
+   - [ ] 9. The Process                          ( 1h)
+   - [ ] 10. Customizing environment             ( 1h)
+   - [ ] 11. More File attributes                ( 1h)
+   - [ ] 12. Simple filters                      ( 2h)
+   - [ ] 13. Regular expressions                 ( 3h)
+   - [ ] 14. Essential shell programming         ( 3h)
+   - [ ] 15. Essential System Administration     ( 3h)
+   - [ ] 16. X Window System                     ( 2h)
+   - [ ] 17. Networking tools                    ( 3h)
+   - [ ] 18. awk                                 ( 2h)
+* PLAN
