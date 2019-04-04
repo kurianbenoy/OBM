@@ -119,6 +119,30 @@
 
 * PLAN
 ** April      6, 2019 - April     18, 2019 (13 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1.2
+   :END:
+*** Stacknews [/3]
+    :PROPERTIES:
+    :ESTIMATED: 9
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1552226887
+    :TASKID: DEV.1552226887
+    :END:
+    - [ ] Design/CSS work for the landing page, Login page, Post submit page 5h
+    - [ ] Logic for comment on post and tab 2h 
+    - [ ] Logic for thread post linkage 2h
+*** Sapiens Book Reading [/1]
+    :PROPERTIES:
+    :ESTIMATED: 6.5
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1554403369
+    :TASKID: READ.1554403369
+    :END:
+    - [ ]  Everyday 1/2 hour reading 6.5h
+
 ** April     19, 2019 - May        5, 2019 (17 days)
 ** May        6, 2019 - May       17, 2019 (12 days)
 ** May       18, 2019 - June       3, 2019 (17 days)
