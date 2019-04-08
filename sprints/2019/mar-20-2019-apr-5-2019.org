@@ -180,7 +180,8 @@
     :END:
     https://foss.coep.org.in/fossmeet/
 ** jasonbraganza
-*** IN_PROGRESS NIOS Maths Text Book - Part IV [2/9]
+*** DONE NIOS Maths Text Book - Part IV [2/2]
+    CLOSED: [2019-04-05 Fri 23:00]
    :PROPERTIES:
    :ESTIMATED: 51
    :ACTUAL:   16.45
