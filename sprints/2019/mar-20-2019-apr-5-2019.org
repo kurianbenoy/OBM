@@ -141,31 +141,38 @@
       - [X] Command-Line Application
       - [X] GUI Application
 ** bhavin192
-*** GNU Emacs bug triaging [0/7]
+*** DONE GNU Emacs bug triaging [7/7]
+    CLOSED: [2019-04-05 Fri 23:54]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   1.58
     :OWNER:    bhavin192
     :ID:       OPS.1553529907
     :TASKID:   OPS.1553529907
     :END:
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34791][#34791]]: 27.0.50; Raw C++ strings are not font-locked correctly
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34949][#34949]]: 27.0.50; Docstring of `vc-deduce-fileset' incomplete
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34665][#34665]]: M-x shell expansion fooled by "\|"
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34661][#34661]]: Info-hide-note-references confused by "built-ins"
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34594][#34594]]: cc-mode needs to support "final" in C++ classes
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34448][#34448]]: --no-build-details means system-name is nil
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34336][#34336]]: In eww-mode, when point is in the hyperlink position, the
+    :LOGBOOK:
+    CLOCK: [2019-04-05 Fri 22:19]--[2019-04-05 Fri 23:54] =>  1:35
+    :END:
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34791][#34791]]: 27.0.50; Raw C++ strings are not font-locked correctly
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34949][#34949]]: 27.0.50; Docstring of `vc-deduce-fileset' incomplete
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34665][#34665]]: M-x shell expansion fooled by "\|"
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34661][#34661]]: Info-hide-note-references confused by "built-ins"
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34594][#34594]]: cc-mode needs to support "final" in C++ classes
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34448][#34448]]: --no-build-details means system-name is nil
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34336][#34336]]: In eww-mode, when point is in the hyperlink position, the
       hotkey r is occupied by the image-mode hotkey.
-*** IN_PROGRESS Write blog post on Gadgetbridge and openScale
+*** DONE Write blog post on Gadgetbridge and openScale
+    CLOSED: [2019-04-05 Fri 21:33]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:   6.72
+    :ACTUAL:   8.08
     :OWNER:    bhavin192
     :ID:       WRITE.1553529991
     :TASKID:   WRITE.1553529991
     :END:
     :LOGBOOK:
+    CLOCK: [2019-04-05 Fri 21:07]--[2019-04-05 Fri 21:33] =>  0:26
+    CLOCK: [2019-04-04 Thu 22:16]--[2019-04-04 Thu 23:12] =>  0:56
     CLOCK: [2019-04-03 Wed 21:03]--[2019-04-03 Wed 21:19] =>  0:16
     CLOCK: [2019-04-03 Wed 18:55]--[2019-04-03 Wed 20:03] =>  1:08
     CLOCK: [2019-04-02 Tue 19:17]--[2019-04-02 Tue 20:33] =>  1:16
