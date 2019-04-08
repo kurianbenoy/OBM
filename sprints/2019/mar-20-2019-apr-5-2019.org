@@ -193,7 +193,8 @@
     :END:
     https://foss.coep.org.in/fossmeet/
 ** jasonbraganza
-*** IN_PROGRESS NIOS Maths Text Book - Part IV [2/9]
+*** DONE NIOS Maths Text Book - Part IV [2/2]
+    CLOSED: [2019-04-05 Fri 23:00]
    :PROPERTIES:
    :ESTIMATED: 51
    :ACTUAL:   16.45
@@ -220,39 +221,6 @@
       - [X] 10 - Principle of Mathematical Induction
       - [X] 11 - Permutations and Combinations
       - [X] 12 - Binomial Theorem
-    - [ ] Module - IV: Co-ordinate Geometry [0/4]
-      - [ ] 13 - Cartesian System of Rectangular Co-ordinates
-      - [ ] 14 - Straight Lines
-      - [ ] 15 - Circles
-      - [ ] 16 - Conic Sections
-    - [ ] Module - V: Statistics and Probability [0/3]
-      - [ ] 17 - Measures of Dispersion
-      - [ ] 18 - Random Experiments and Events
-      - [ ] 19 - Probability
-    - [ ] Module - VI: Algebra II [0/3]
-      - [ ] 20 - Matrices
-      - [ ] 21 - Determinants
-      - [ ] 22 - Inverse of a Matrix and its Applications
-    - [ ] Module - VII: Relations and Functions [0/2]
-      - [ ] 23 - Relations and Functions II
-      - [ ] 24 - Inverse Trigonometric Functions
-    - [ ] Module - VIII: Calculus [0/8]
-      - [ ] 25 -  Limits and Continuity
-      - [ ] 26 - Differentiation
-      - [ ] 27 - Differentiation of Trigonometric Functions
-      - [ ] 28 - Differentiation of Exponential and Logarithmic functions
-      - [ ] 29 - Application of Derivatives
-      - [ ] 30 - Integration
-      - [ ] 31 - Definite Integrals
-      - [ ] 32 - Differential Integrals
-    - [ ] Module - IX: Vectors and Three Dimensional Geometry [0/4]
-      - [ ] 33 - Introduction to Three Dimensional Geometry
-      - [ ] 34 - Vectors
-      - [ ] 35 - Plane
-      - [ ] 36 - Straight Line
-    - [ ] Module - X: Linear Programming and Mathematical Reasoning [0/2]
-      - [ ] 37 - Linear Programming
-      - [ ] 38 - Mathematical Reasoning
 *** DONE NIOS Accounts Text Book - Part II [7/7]
     CLOSED: [2019-03-26 Tue 10:15]
     :PROPERTIES:
