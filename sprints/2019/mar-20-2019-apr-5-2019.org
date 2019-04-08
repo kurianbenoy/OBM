@@ -88,15 +88,23 @@
   :wpd-nightwarrior-xxx: 1.5
   :END:
 ** akshay196
-*** IN_PROGRESS The Hitchhiker's guide to Python - Part I [3/5]
+*** DONE The Hitchhiker's guide to Python - Part I [5/5]
+    CLOSED: [2019-04-05 Fri 09:51]
     :PROPERTIES:
     :ESTIMATED: 17
-    :ACTUAL:   7.75
+    :ACTUAL:   14.42
     :OWNER: akshay196
     :ID: READ.1553004553
     :TASKID: READ.1553004553
     :END:
     :LOGBOOK:
+    CLOCK: [2019-04-05 Fri 08:59]--[2019-04-05 Fri 09:50] =>  0:51
+    CLOCK: [2019-04-04 Thu 18:35]--[2019-04-04 Thu 19:28] =>  0:53
+    CLOCK: [2019-04-03 Wed 22:51]--[2019-04-03 Wed 23:39] =>  0:48
+    CLOCK: [2019-04-02 Tue 19:53]--[2019-04-02 Tue 21:00] =>  1:07
+    CLOCK: [2019-04-01 Mon 18:09]--[2019-04-01 Mon 19:27] =>  1:18
+    CLOCK: [2019-03-30 Sat 20:55]--[2019-03-30 Sat 21:52] =>  0:57
+    CLOCK: [2019-03-29 Fri 21:32]--[2019-03-29 Fri 22:18] =>  0:46
     CLOCK: [2019-03-28 Thu 21:12]--[2019-03-28 Thu 21:51] =>  0:39
     CLOCK: [2019-03-28 Thu 19:34]--[2019-03-28 Thu 20:39] =>  1:05
     CLOCK: [2019-03-27 Wed 21:24]--[2019-03-27 Wed 22:24] =>  1:00
@@ -122,16 +130,16 @@
       - [X] Requests
       - [X] Werkzeug
       - [X] Flask
-    - [ ] Chapter 6. Shipping Great Code [0/5]        ( 4h)
-      - [ ] Useful Vocabulary and Concepts
-      - [ ] Packaging Your Code
-      - [ ] Freezing Your Code
-      - [ ] Packaging for Linux-Built Distributions
-      - [ ] Exexutable ZIP Files
-    - [ ] Chapter 7. User Interaction [0/3]          (4.5h)
-      - [ ] Jupyter Notebooks
-      - [ ] Command-Line Application
-      - [ ] GUI Application
+    - [X] Chapter 6. Shipping Great Code [5/5]        ( 4h)
+      - [X] Useful Vocabulary and Concepts
+      - [X] Packaging Your Code
+      - [X] Freezing Your Code
+      - [X] Packaging for Linux-Built Distributions
+      - [X] Exexutable ZIP Files
+    - [X] Chapter 7. User Interaction [3/3]          (4.5h)
+      - [X] Jupyter Notebooks
+      - [X] Command-Line Application
+      - [X] GUI Application
 ** bhavin192
 *** GNU Emacs bug triaging [0/7]
     :PROPERTIES:
@@ -152,12 +160,17 @@
 *** IN_PROGRESS Write blog post on Gadgetbridge and openScale
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:   2.38
+    :ACTUAL:   6.72
     :OWNER:    bhavin192
     :ID:       WRITE.1553529991
     :TASKID:   WRITE.1553529991
     :END:
     :LOGBOOK:
+    CLOCK: [2019-04-03 Wed 21:03]--[2019-04-03 Wed 21:19] =>  0:16
+    CLOCK: [2019-04-03 Wed 18:55]--[2019-04-03 Wed 20:03] =>  1:08
+    CLOCK: [2019-04-02 Tue 19:17]--[2019-04-02 Tue 20:33] =>  1:16
+    CLOCK: [2019-04-01 Mon 21:15]--[2019-04-01 Mon 22:23] =>  1:08
+    CLOCK: [2019-04-01 Mon 19:47]--[2019-04-01 Mon 20:19] =>  0:32
     CLOCK: [2019-03-28 Thu 19:27]--[2019-03-28 Thu 19:48] =>  0:21
     CLOCK: [2019-03-27 Wed 20:39]--[2019-03-27 Wed 20:55] =>  0:16
     CLOCK: [2019-03-27 Wed 19:17]--[2019-03-27 Wed 20:05] =>  0:48
@@ -180,7 +193,8 @@
     :END:
     https://foss.coep.org.in/fossmeet/
 ** jasonbraganza
-*** IN_PROGRESS NIOS Maths Text Book - Part IV [2/9]
+*** DONE NIOS Maths Text Book - Part IV [2/2]
+    CLOSED: [2019-04-05 Fri 23:00]
    :PROPERTIES:
    :ESTIMATED: 51
    :ACTUAL:   16.45
@@ -207,39 +221,6 @@
       - [X] 10 - Principle of Mathematical Induction
       - [X] 11 - Permutations and Combinations
       - [X] 12 - Binomial Theorem
-    - [ ] Module - IV: Co-ordinate Geometry [0/4]
-      - [ ] 13 - Cartesian System of Rectangular Co-ordinates
-      - [ ] 14 - Straight Lines
-      - [ ] 15 - Circles
-      - [ ] 16 - Conic Sections
-    - [ ] Module - V: Statistics and Probability [0/3]
-      - [ ] 17 - Measures of Dispersion
-      - [ ] 18 - Random Experiments and Events
-      - [ ] 19 - Probability
-    - [ ] Module - VI: Algebra II [0/3]
-      - [ ] 20 - Matrices
-      - [ ] 21 - Determinants
-      - [ ] 22 - Inverse of a Matrix and its Applications
-    - [ ] Module - VII: Relations and Functions [0/2]
-      - [ ] 23 - Relations and Functions II
-      - [ ] 24 - Inverse Trigonometric Functions
-    - [ ] Module - VIII: Calculus [0/8]
-      - [ ] 25 -  Limits and Continuity
-      - [ ] 26 - Differentiation
-      - [ ] 27 - Differentiation of Trigonometric Functions
-      - [ ] 28 - Differentiation of Exponential and Logarithmic functions
-      - [ ] 29 - Application of Derivatives
-      - [ ] 30 - Integration
-      - [ ] 31 - Definite Integrals
-      - [ ] 32 - Differential Integrals
-    - [ ] Module - IX: Vectors and Three Dimensional Geometry [0/4]
-      - [ ] 33 - Introduction to Three Dimensional Geometry
-      - [ ] 34 - Vectors
-      - [ ] 35 - Plane
-      - [ ] 36 - Straight Line
-    - [ ] Module - X: Linear Programming and Mathematical Reasoning [0/2]
-      - [ ] 37 - Linear Programming
-      - [ ] 38 - Mathematical Reasoning
 *** DONE NIOS Accounts Text Book - Part II [7/7]
     CLOSED: [2019-03-26 Tue 10:15]
     :PROPERTIES:

@@ -2,111 +2,59 @@
 #+EMAIL: sidntrivedi012@gmail.com
 #+TAGS: READ WRITE DEV MEETING EVENT
 * GOALS
-** Programming Languages
-*** [#A] Javascript
-**** Freecodecamp Javascript Algorithms and Data Structures [7/10]
-     :PROPERTIES:
-     :ESTIMATED: 300
-     :ACTUAL:
-     :OWNER:    sidntrivedi
-     :ID:       DEV.1538995712
-     :TASKID:   DEV.1538995712
-     :END:
-     - [ ] Functional Programming				()
-     - [ ] Intermediate Algorithm Scripting			()
-     - [ ] Javascript Algorithms & Data Structures Projects	()
-** F/OSS Projects
-*** Leaflet Environment Layers [0/3] https://github.com/publiclab/leaflet-environmental-layers
-**** Issues
+** Learning
+*** Programming Language
+**** Learn Javascript
      :PROPERTIES:
    :ESTIMATED: 
    :ACTUAL:
    :OWNER: sidntrivedi
-   :ID: DEV.1552298348
-   :TASKID: DEV.1552298348
+   :ID: READ.1554709767
+   :TASKID: READ.1554709767
+   :END: 
+*** Systems
+**** Read Linux for you and me
+     :PROPERTIES:
+   :ESTIMATED: 
+   :ACTUAL:
+   :OWNER: sidntrivedi
+   :ID: READ.1554709804
+   :TASKID: READ.1554709804
    :END:
-     - [ ] #116 https://github.com/publiclab/leaflet-environmental-layers/issues/116
-     - [ ] #139  https://github.com/publiclab/leaflet-environmental-layers/issues/139
-     - [ ] Add one new layer.
-*** Leaflet Docs
+** Development
+*** Wesbos JS30
+*** Freecodecamp Javascript Projects
+** Contribute to F/OSS Projects
+*** Spectral-workbench.js https://github.com/publiclab/spectral-workbench.js/issues
+*** Spectral-workbench https://github.com/publiclab/spectral-workbench/issue
+*** Leaflet-Environment-Layers https://github.com/publiclab/leaflet-environmental-layers/issues
+** Attend Meetups
+*** Mozilla Delhi/NCR
     :PROPERTIES:
    :ESTIMATED: 
    :ACTUAL:
    :OWNER: sidntrivedi
-   :ID: READ.1552394357
-   :TASKID: READ.1552394357
+   :ID: EVENT.1554616642
+   :TASKID: EVENT.1554616642
    :END:
-    - [ ] Read leaflet docs and learn how are they being implemented in the Leaflet Environment Layers.
-** Web
-*** [#A] NodeJS
-**** Nodeschool LearnyouNode
-     :PROPERTIES:
-     :ESTIMATED: 
-     :ACTUAL:
-     :OWNER: sidntrivedi
-     :ID: READ.1549886048
-     :TASKID: READ.1549886048
-     :END:
-**** [[https://github.com/maxogden/art-of-node/#learn-node-interactively][Art of node]]
-     :PROPERTIES:
-     :ESTIMATED: 
-     :ACTUAL:
-     :OWNER: sidntrivedi
-     :ID: READ.1545566270
-     :TASKID: READ.1545566270
-     :END:
-**** ExpressJS
-***** Nodeschool Expressworks
-      :PROPERTIES:
-      :ESTIMATED: 
-      :ACTUAL:
-      :OWNER: sidntrivedi
-      :ID: READ.1549886209
-      :TASKID: READ.1549886209
-      :END:
-***** Express Docs
-*** [#B] FCC Data Visualization on Web
-*** [#C] HTTP and REST
-**** [[https://developer.mozilla.org/en-US/docs/Web/HTTP][MDN HTTP Tutorials]]
-*** [#C] Application Architecture
-**** [[https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Modern_web_app_architecture][MDN Web Architecture]]  
-** Systems
-*** [#A] Linux for you and me [2/11]
+*** ILUG-D
     :PROPERTIES:
-    :ESTIMATED: 12
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: READ.1538996950
-    :TASKID: READ.1538996950
-    :END:
-    - [ ] File Permissions	()
-    - [ ] Processes in Linux	()
-    - [ ] Linux Services	()
-    - [ ] Package Management	()
-    - [ ] File System Mounting	()
-    - [ ] Networking Commands	()
-    - [ ] Random Things		(
-** Data Structures & Algorithms
-*** DS/Algo Foundation [0/11]
+   :ESTIMATED: 
+   :ACTUAL:
+   :OWNER: sidntrivedi
+   :ID: EVENT.1554616564
+   :TASKID: EVENT.1554616564
+   :END:
+*** JS-Lovers
     :PROPERTIES:
-    :ESTIMATED: 
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: READ.1549883885
-    :TASKID: READ.1549883885
-    :END:
-     - [ ] Basic Data Structures: Arrays, Strings, Stacks, Queues
-     - [ ] Asymptotic analysis (Big-O notation)
-     - [ ] Basic math operations.
-     - [ ] Sqrt(n) primality testing
-     - [ ] Euclid's GCD Algorithm
-     - [ ] Basic Dynamic Programming
-     - [ ] Naive string searching
-     - [ ] O(n logn) Sorting
-     - [ ] Binary Searching
+   :ESTIMATED: 
+   :ACTUAL:
+   :OWNER: sidntrivedi
+   :ID: EVENT.1554616586
+   :TASKID: EVENT.1554616586
+   :END:
 ** Weekly Blog Writing
 *** Blog
-    [[www.sidntrivedi012.github.io]]
     :PROPERTIES:
     :ESTIMATED: 
     :ACTUAL:
@@ -115,8 +63,6 @@
     :TASKID: WRITE.1539072660
     :END:      
 * PLAN
-** March     20, 2019 - April      5, 2019 (17 days)
-** April      6, 2019 - April     18, 2019 (13 days)
 ** April     19, 2019 - May        5, 2019 (17 days)
 ** May        6, 2019 - May       17, 2019 (12 days)
 ** May       18, 2019 - June       3, 2019 (17 days)
