@@ -27,6 +27,7 @@
   :SPRINTSTART: <2019-04-06 Sat>
   :wpd-gandalfdwite: 2
   :wpd-sandeepk: 1.2
+  :wpd-sidntrivedi: 1
   :END:
 ** gandalfdwite
 *** Read Kubernetes Docs
@@ -91,4 +92,38 @@
     :END:
     - [ ] Everyday 1/2 hour reading 6.5h
 
-
+** sidntrivedi
+*** TODO Learn Javascript [0/5]
+   :PROPERTIES:
+   :ESTIMATED: 6
+   :ACTUAL:
+   :OWNER: sidntrivedi
+   :ID: READ.1554709767
+   :TASKID: READ.1554709767
+   :END:
+   - [ ] ES6
+   - [ ] Regular Expressions
+   - [ ] Debugging
+   - [ ] Basic Data Structures
+   - [ ] Basic ALgorithm Scripting
+*** TODO Read Linux for you and me [0/4]
+   :PROPERTIES:
+   :ESTIMATED: 5
+   :ACTUAL:
+   :OWNER: sidntrivedi
+   :ID: READ.1554709804
+   :TASKID: READ.1554709804
+   :END:
+   - [ ] File Permissions
+   - [ ] Processes in Linux
+   - [ ] Linux Services
+   - [ ] Package Management
+*** TODO Blog [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER: sidntrivedi
+    :ID: WRITE.1539072660
+    :TASKID: WRITE.1539072660
+    :END:      
+    - [ ] Write one blog on ES6 features.

@@ -63,44 +63,6 @@
     :TASKID: WRITE.1539072660
     :END:      
 * PLAN
-** April      6, 2019 - April     18, 2019 (13 days)
-   :PROPERTIES:
-    wpd-sidntrivedi: 1 hour
-   :END:
-*** TODO Learn Javascript [0/5]
-   :PROPERTIES:
-   :ESTIMATED: 6
-   :ACTUAL:
-   :OWNER: sidntrivedi
-   :ID: READ.1554709767
-   :TASKID: READ.1554709767
-   :END:
-   - [ ] ES6
-   - [ ] Regular Expressions
-   - [ ] Debugging
-   - [ ] Basic Data Structures
-   - [ ] Basic ALgorithm Scripting
-*** TODO Read Linux for you and me [0/4]
-   :PROPERTIES:
-   :ESTIMATED: 5
-   :ACTUAL:
-   :OWNER: sidntrivedi
-   :ID: READ.1554709804
-   :TASKID: READ.1554709804
-   :END:
-   - [ ] File Permissions
-   - [ ] Processes in Linux
-   - [ ] Linux Services
-   - [ ] Package Management
-*** TODO Blog [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 2
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: WRITE.1539072660
-    :TASKID: WRITE.1539072660
-    :END:      
-    - [ ] Write one blog on ES6 features.
 ** April     19, 2019 - May        5, 2019 (17 days)
 ** May        6, 2019 - May       17, 2019 (12 days)
 ** May       18, 2019 - June       3, 2019 (17 days)
