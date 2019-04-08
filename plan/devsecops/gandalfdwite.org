@@ -95,3 +95,46 @@
    - [ ] 17. Networking tools                    ( 3h)
    - [ ] 18. awk                                 ( 2h)
 * PLAN
+** April 6, 2019 - April 18, 2019 (13 days)
+   :PROPERTIES:
+   :wpd-gandalfdwite: 2
+   :END:
+*** Read Kubernetes Docs
+   :PROPERTIES:
+   :ESTIMATED: 10
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1554610265
+   :TASKID: READ.1554610265
+   :END:
+   - [ ] Kubernetes Overview                      ( 2h)
+   - [ ] Kubernetes Architecture                  ( 2h)
+   - [ ] Containers                               ( 2h)
+   - [ ] Workloads                                ( 1h)
+   - [ ] Services, Load Balancing, Networking     ( 3h)
+*** Learn dgplug logs
+   :PROPERTIES:
+   :ESTIMATED: 7
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1554610334
+   :TASKID: READ.1554610334
+   :END:
+     - [ ] Part 3. Search Functions      ( 1h)
+     - [ ] Part 4. Shell mode commands   ( 1h)
+     - [ ] Part 5. Dired mode            ( 1h)
+     - [ ] Part 6. Info Commands         ( 1h)
+     - [ ] Part 7. Calculator in emacs   ( 1h)
+     - [ ] Part 8. Org mode in emacs     ( 2h)
+*** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
+   :PROPERTIES:
+   :ESTIMATED: 5
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1554610422
+   :TASKID: READ.1554610422
+   :END:
+    - [ ] 1. Introduction                      ( 2h)
+    - [ ] 2. Recursion & Backtracking          ( 1h)
+    - [ ] 3. Linked Lists                      ( 1h)
+    - [ ] 4. Stacks                            ( 1h)
