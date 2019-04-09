@@ -6,22 +6,23 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS                                      | WAITING | DONE                                                         | CANCELED |
-|------+------+--------------------------------------------------+---------+--------------------------------------------------------------+----------|
-|      |      | READ.1552081129. [#A] Learn concepts of Lua      |         | EVENT.1553530038. Attend COEP FOSSMeet (2019-03-31)          |          |
-|      |      | DEV.1553024585. [#B] JavaScript 30               |         | READ.1552291636. NIOS Accounts Text Book - Part (2019-03-26) |          |
-|      |      | READ.1553004553. The Hitchhiker's guide to Pyth  |         |                                                              |          |
-|      |      | WRITE.1553529991. Write blog post on Gadgetbridg |         |                                                              |          |
-|      |      | READ.1552291497. NIOS Maths Text Book - Part IV  |         |                                                              |          |
+| TODO | NEXT | IN_PROGRESS                                 | WAITING | DONE                                                          | CANCELED |
+|------+------+---------------------------------------------+---------+---------------------------------------------------------------+----------|
+|      |      | READ.1552081129. [#A] Learn concepts of Lua |         | READ.1553004553. The Hitchhiker's guide to Pyth (2019-04-05)  |          |
+|      |      | DEV.1553024585. [#B] JavaScript 30          |         | OPS.1553529907. GNU Emacs bug triaging (2019-04-05)           |          |
+|      |      |                                             |         | WRITE.1553529991. Write blog post on Gadgetbridg (2019-04-05) |          |
+|      |      |                                             |         | READ.1552291497. NIOS Maths Text Book - Part IV (2019-04-05)  |          |
+|      |      |                                             |         | EVENT.1553530038. Attend COEP FOSSMeet (2019-03-31)           |          |
+|      |      |                                             |         | READ.1552291636. NIOS Accounts Text Book - Part (2019-03-26)  |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
 | NAME             | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |------------------+-----------+--------------------+------+-----------+--------------+------------|
-| Nightwarrior-Xxx |        13 |               7.15 |    0 |        13 |   2019-04-16 | ---------- |
-| Jasonbraganza    |        67 | 31.119999999999997 |   16 |        51 |   2019-04-22 | ##-------- |
-| Bhavin192        |        14 |              10.66 |    8 |         6 |   2019-04-11 | ######---- |
-| Akshay196        |        17 |               7.75 |    0 |        17 |   2019-04-26 | ---------- |
+| Nightwarrior-Xxx |        13 |               7.15 |    0 |        13 |   2019-04-22 | ---------- |
+| Jasonbraganza    |        67 | 31.119999999999997 |   67 |         0 |   2019-04-09 | ########## |
+| Bhavin192        |        17 | 17.939999999999998 |   17 |         0 |   2019-04-09 | ########## |
+| Akshay196        |        17 |              14.42 |   17 |         0 |   2019-04-09 | ########## |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
@@ -33,42 +34,42 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED  |
-|-----+------------+--------+-------+------------------|
-|   1 | 2019-03-20 |    126 |   119 |                  |
-|   2 | 2019-03-21 |    126 |   111 |                  |
-|   3 | 2019-03-22 |    126 |   104 |                  |
-|   4 | 2019-03-23 |    126 |    96 |                  |
-|   5 | 2019-03-24 |    126 |    89 |                  |
-|   6 | 2019-03-25 |    126 |    82 |                  |
-|   7 | 2019-03-26 |    110 |    74 | READ.1552291636  |
-|   8 | 2019-03-27 |    110 |    67 |                  |
-|   9 | 2019-03-28 |    110 |    59 |                  |
-|  10 | 2019-03-29 |    110 |    52 |                  |
-|  11 | 2019-03-30 |    110 |    44 |                  |
-|  12 | 2019-03-31 |    102 |    37 | EVENT.1553530038 |
-|  13 | 2019-04-01 |    102 |    30 |                  |
-|  14 | 2019-04-02 |    102 |    22 |                  |
-|  15 | 2019-04-03 |    102 |    15 |                  |
-|  16 | 2019-04-04 |        |     7 |                  |
-|  17 | 2019-04-05 |        |     0 |                  |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                                 |
+|-----+------------+--------+-------+-----------------------------------------------------------------|
+|   1 | 2019-03-20 |    126 |   119 |                                                                 |
+|   2 | 2019-03-21 |    126 |   111 |                                                                 |
+|   3 | 2019-03-22 |    126 |   104 |                                                                 |
+|   4 | 2019-03-23 |    126 |    96 |                                                                 |
+|   5 | 2019-03-24 |    126 |    89 |                                                                 |
+|   6 | 2019-03-25 |    126 |    82 |                                                                 |
+|   7 | 2019-03-26 |    110 |    74 | READ.1552291636                                                 |
+|   8 | 2019-03-27 |    110 |    67 |                                                                 |
+|   9 | 2019-03-28 |    110 |    59 |                                                                 |
+|  10 | 2019-03-29 |    110 |    52 |                                                                 |
+|  11 | 2019-03-30 |    110 |    44 |                                                                 |
+|  12 | 2019-03-31 |    102 |    37 | EVENT.1553530038                                                |
+|  13 | 2019-04-01 |    102 |    30 |                                                                 |
+|  14 | 2019-04-02 |    102 |    22 |                                                                 |
+|  15 | 2019-04-03 |    102 |    15 |                                                                 |
+|  16 | 2019-04-04 |    102 |     7 |                                                                 |
+|  17 | 2019-04-05 |     25 |     0 | READ.1552291497 WRITE.1553529991 OPS.1553529907 READ.1553004553 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
 | ITEM                                          | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED |             ACTUAL |
 |-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| TASKS                                         |                  |                  | B        |             |       126 |              56.68 |
+| TASKS                                         |                  |                  | B        |             |       126 |              70.63 |
 |-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| akshay196                                     |                  |                  | B        |             |        17 |               7.75 |
-| The Hitchhiker's guide to Python - Part I     | READ.1553004553  | akshay196        | B        | IN_PROGRESS |        17 |               7.75 |
+| akshay196                                     |                  |                  | B        |             |        17 |              14.42 |
+| The Hitchhiker's guide to Python - Part I     | READ.1553004553  | akshay196        | B        | DONE        |        17 |              14.42 |
 |-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
-| bhavin192                                     |                  |                  | B        |             |        17 |              10.66 |
-| GNU Emacs bug triaging                        | OPS.1553529907   | bhavin192        | B        |             |         3 |                    |
-| Write blog post on Gadgetbridge and openScale | WRITE.1553529991 | bhavin192        | B        | IN_PROGRESS |         6 |               2.38 |
+| bhavin192                                     |                  |                  | B        |             |        17 | 17.939999999999998 |
+| GNU Emacs bug triaging                        | OPS.1553529907   | bhavin192        | B        | DONE        |         3 |               1.58 |
+| Write blog post on Gadgetbridge and openScale | WRITE.1553529991 | bhavin192        | B        | DONE        |         6 |               8.08 |
 | Attend COEP FOSSMeet                          | EVENT.1553530038 | bhavin192        | B        | DONE        |         8 |               8.28 |
 |-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
 | jasonbraganza                                 |                  |                  | B        |             |        67 | 31.119999999999997 |
-| NIOS Maths Text Book - Part IV                | READ.1552291497  | jasonbraganza    | B        | IN_PROGRESS |        51 |              16.45 |
+| NIOS Maths Text Book - Part IV                | READ.1552291497  | jasonbraganza    | B        | DONE        |        51 |              16.45 |
 | NIOS Accounts Text Book - Part II             | READ.1552291636  | jasonbraganza    | B        | DONE        |        16 |              14.67 |
 |-----------------------------------------------+------------------+------------------+----------+-------------+-----------+--------------------|
 | nightwarrior-xxx                              |                  |                  | B        |             |        25 |               7.15 |
@@ -141,31 +142,38 @@
       - [X] Command-Line Application
       - [X] GUI Application
 ** bhavin192
-*** GNU Emacs bug triaging [0/7]
+*** DONE GNU Emacs bug triaging [7/7]
+    CLOSED: [2019-04-05 Fri 23:54]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   1.58
     :OWNER:    bhavin192
     :ID:       OPS.1553529907
     :TASKID:   OPS.1553529907
     :END:
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34791][#34791]]: 27.0.50; Raw C++ strings are not font-locked correctly
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34949][#34949]]: 27.0.50; Docstring of `vc-deduce-fileset' incomplete
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34665][#34665]]: M-x shell expansion fooled by "\|"
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34661][#34661]]: Info-hide-note-references confused by "built-ins"
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34594][#34594]]: cc-mode needs to support "final" in C++ classes
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34448][#34448]]: --no-build-details means system-name is nil
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34336][#34336]]: In eww-mode, when point is in the hyperlink position, the
+    :LOGBOOK:
+    CLOCK: [2019-04-05 Fri 22:19]--[2019-04-05 Fri 23:54] =>  1:35
+    :END:
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34791][#34791]]: 27.0.50; Raw C++ strings are not font-locked correctly
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34949][#34949]]: 27.0.50; Docstring of `vc-deduce-fileset' incomplete
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34665][#34665]]: M-x shell expansion fooled by "\|"
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34661][#34661]]: Info-hide-note-references confused by "built-ins"
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34594][#34594]]: cc-mode needs to support "final" in C++ classes
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34448][#34448]]: --no-build-details means system-name is nil
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34336][#34336]]: In eww-mode, when point is in the hyperlink position, the
       hotkey r is occupied by the image-mode hotkey.
-*** IN_PROGRESS Write blog post on Gadgetbridge and openScale
+*** DONE Write blog post on Gadgetbridge and openScale
+    CLOSED: [2019-04-05 Fri 21:33]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:   6.72
+    :ACTUAL:   8.08
     :OWNER:    bhavin192
     :ID:       WRITE.1553529991
     :TASKID:   WRITE.1553529991
     :END:
     :LOGBOOK:
+    CLOCK: [2019-04-05 Fri 21:07]--[2019-04-05 Fri 21:33] =>  0:26
+    CLOCK: [2019-04-04 Thu 22:16]--[2019-04-04 Thu 23:12] =>  0:56
     CLOCK: [2019-04-03 Wed 21:03]--[2019-04-03 Wed 21:19] =>  0:16
     CLOCK: [2019-04-03 Wed 18:55]--[2019-04-03 Wed 20:03] =>  1:08
     CLOCK: [2019-04-02 Tue 19:17]--[2019-04-02 Tue 20:33] =>  1:16
