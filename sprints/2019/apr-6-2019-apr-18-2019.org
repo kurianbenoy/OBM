@@ -60,10 +60,13 @@
 *** Read Kubernetes Docs
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:
+   :ACTUAL:   0.63
    :OWNER: gandalfdwite
    :ID: READ.1554610265
    :TASKID: READ.1554610265
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-04-08 Mon 20:04]--[2019-04-08 Mon 20:42] =>  0:38
    :END:
    - [ ] Kubernetes Overview                      ( 2h)
    - [ ] Kubernetes Architecture                  ( 2h)
