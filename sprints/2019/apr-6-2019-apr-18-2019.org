@@ -60,12 +60,13 @@
 *** Read Kubernetes Docs
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:   1.20
+   :ACTUAL:   1.90
    :OWNER: gandalfdwite
    :ID: READ.1554610265
    :TASKID: READ.1554610265
    :END:
    :LOGBOOK:
+   CLOCK: [2019-04-09 Tue 22:08]--[2019-04-09 Tue 22:50] =>  0:42
    CLOCK: [2019-04-09 Tue 09:57]--[2019-04-09 Tue 10:31] =>  0:34
    CLOCK: [2019-04-08 Mon 20:04]--[2019-04-08 Mon 20:42] =>  0:38
    :END:
@@ -77,15 +78,18 @@
 *** Learn dgplug logs
    :PROPERTIES:
    :ESTIMATED: 7
-   :ACTUAL:
+   :ACTUAL:   0.68
    :OWNER: gandalfdwite
    :ID: READ.1554610334
    :TASKID: READ.1554610334
    :END:
+   :LOGBOOK:
+   CLOCK: [2019-04-09 Tue 18:50]--[2019-04-09 Tue 19:31] =>  0:41
+   :END:
      - [ ] Part 3. Search Functions      ( 1h)
      - [ ] Part 4. Shell mode commands   ( 1h)
      - [ ] Part 5. Dired mode            ( 1h)
-     - [ ] Part 6. Info Commands         ( 1h)
+     - [X] Part 6. Info Commands         ( 1h)
      - [ ] Part 7. Calculator in emacs   ( 1h)
      - [ ] Part 8. Org mode in emacs     ( 2h)
 *** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
