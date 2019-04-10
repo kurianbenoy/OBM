@@ -145,26 +145,49 @@
       - [ ] 37 - Linear Programming
       - [ ] 38 - Mathematical Reasoning
 ** sandeepk
-*** Stacknews [0/3]
+*** IN_PROGRESS Stacknews [0/3]
     :PROPERTIES:
     :ESTIMATED: 9
-    :ACTUAL:
+    :ACTUAL:   1.58
     :OWNER: sandeepk
     :ID: DEV.1552226887
     :TASKID: DEV.1552226887
     :END:
-    - [ ] Design/CSS work for the landing page, Login page, Post submit page 5h
-    - [ ] Logic for comment on post and tab 2h 
-    - [ ] Logic for thread post linkage 2h
-*** Sapiens Book Reading [0/1]
+    :LOGBOOK:
+    CLOCK: [2019-04-09 Tue 23:00]--[2019-04-09 Tue 23:40] =>  0:40
+    CLOCK: [2019-04-08 Mon 22:10]--[2019-04-08 Mon 23:05] =>  0:55
+    :END:
+    - [ ] Design/CSS work for the landing page, Login page, Post submit page (5h)
+    - [ ] Logic for comment on post and tab (2h) 
+    - [ ] Logic for thread post linkage (2h)
+*** IN_PROGRESS Sapiens Book Reading [1/14]
     :PROPERTIES:
     :ESTIMATED: 6.5
-    :ACTUAL:
+    :ACTUAL:   1.33
     :OWNER: sandeepk
     :ID: READ.1554403369
     :TASKID: READ.1554403369
     :END:
-    - [ ] Everyday 1/2 hour reading 6.5h
+    :LOGBOOK:
+    CLOCK: [2019-04-11 Thu 00:15]--[2019-04-11 Thu 00:55] =>  0:40
+    CLOCK: [2019-04-08 Mon 23:15]--[2019-04-08 Mon 23:30] =>  0:15
+    CLOCK: [2019-04-07 Sun 22:10]--[2019-04-07 Sun 22:25] =>  0:15
+    CLOCK: [2019-04-06 Sat 17:10]--[2019-04-06 Sat 17:20] =>  0:10
+    :END:
+    - [X] History's Biggest Fraud (30m)
+    - [ ] Building Pyraminds (25m)
+    - [ ] Memory Overload (20m)
+    - [ ] There is No Justice in History (35m)
+    - [ ] The Arrow of History (15m)
+    - [ ] The Scent of Money (20m)
+    - [ ] Imperial Vision (25m)
+    - [ ] The Law of Religion (35m)
+    - [ ] The Secret of Success (15m)
+    - [ ] The Discovery of Ignorance (35m)
+    - [ ] The Marraige of Science and Empire (40m)
+    - [ ] The Capitalist Creed (35m)
+    - [ ] The Wheels of Industry (30m)
+    - [ ] A Permanent Revolution (30m)
 
 ** sidntrivedi
 *** TODO Learn Javascript [0/5]
