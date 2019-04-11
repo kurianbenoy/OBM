@@ -33,17 +33,19 @@
 *** Read Kubernetes Docs
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:   1.90
+   :ACTUAL:   3.75
    :OWNER: gandalfdwite
    :ID: READ.1554610265
    :TASKID: READ.1554610265
    :END:
    :LOGBOOK:
+   CLOCK: [2019-04-11 Thu 21:12]--[2019-04-11 Thu 22:36] =>  1:24
+   CLOCK: [2019-04-10 Wed 22:16]--[2019-04-10 Wed 22:43] =>  0:27
    CLOCK: [2019-04-09 Tue 22:08]--[2019-04-09 Tue 22:50] =>  0:42
    CLOCK: [2019-04-09 Tue 09:57]--[2019-04-09 Tue 10:31] =>  0:34
    CLOCK: [2019-04-08 Mon 20:04]--[2019-04-08 Mon 20:42] =>  0:38
    :END:
-   - [ ] Kubernetes Overview                      ( 2h)
+   - [X] Kubernetes Overview                      ( 2h)
    - [ ] Kubernetes Architecture                  ( 2h)
    - [ ] Containers                               ( 2h)
    - [ ] Workloads                                ( 1h)
@@ -51,12 +53,13 @@
 *** Learn dgplug logs
    :PROPERTIES:
    :ESTIMATED: 7
-   :ACTUAL:   0.68
+   :ACTUAL:   2.68
    :OWNER: gandalfdwite
    :ID: READ.1554610334
    :TASKID: READ.1554610334
    :END:
    :LOGBOOK:
+   CLOCK: [2019-04-11 Thu 18:22]--[2019-04-11 Thu 20:22] =>  2:00
    CLOCK: [2019-04-09 Tue 18:50]--[2019-04-09 Tue 19:31] =>  0:41
    :END:
      - [ ] Part 3. Search Functions      ( 1h)
@@ -64,7 +67,7 @@
      - [ ] Part 5. Dired mode            ( 1h)
      - [X] Part 6. Info Commands         ( 1h)
      - [ ] Part 7. Calculator in emacs   ( 1h)
-     - [ ] Part 8. Org mode in emacs     ( 2h)
+     - [X] Part 8. Org mode in emacs     ( 2h)
 *** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
    :PROPERTIES:
    :ESTIMATED: 5
