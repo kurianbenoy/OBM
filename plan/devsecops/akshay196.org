@@ -4,29 +4,6 @@
 * GOALS
 ** Learning
 *** Python
-**** The Hitchhiker's guide to Python [0/4]
-    :PROPERTIES:
-    :ESTIMATED: 32
-    :ACTUAL:
-    :OWNER: akshay196
-    :ID: READ.1552973293
-    :TASKID: READ.1552973293
-    :END:
-    - [ ] Chapter 8. Code Management and Improvement  ( 5h)
-      - Continuous Integration
-      - System Administration
-      - Speed
-    - [ ] Chapter 9. Software Interface               ( 3h)
-      - Web clients
-      - Data Serialization
-      - Disributed Systems
-      - Cryptography
-    - [ ] Chapter 10. Data Manipulation               ( 2h)
-      - Scientific Applications
-      - Text Manipulation and Text Mining
-    - [ ] Chapter 11. Data Persistence                ( 3h)
-      - Structured Files
-      - Database Libraries
 *** Automation with Ansible
 ** Development
 *** Ansible

@@ -119,7 +119,6 @@ have the notion of time.
 Upcoming Sprints
 ================
 
-* April      6, 2019 - April     18, 2019 (13 days)
 * April     19, 2019 - May        5, 2019 (17 days)
 * May        6, 2019 - May       17, 2019 (12 days)
 * May       18, 2019 - June       3, 2019 (17 days)
