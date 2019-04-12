@@ -32,19 +32,26 @@
   :wpd-sidntrivedi: 1
   :END:
 ** akshay196
-*** The Hitchhiker's guide to Python - Part II [0/4]
+*** IN_PROGRESS The Hitchhiker's guide to Python - Part II [2/4]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:
+    :ACTUAL:   5.23
     :OWNER: akshay196
     :ID: READ.1553004553
     :TASKID: READ.1553004553
     :END:
-     - [ ] Chapter 8. Code Management and Improvement  ( 5h)
+    :LOGBOOK:
+    CLOCK: [2019-04-12 Fri 20:25]--[2019-04-12 Fri 21:30] =>  1:05
+    CLOCK: [2019-04-12 Fri 15:24]--[2019-04-12 Fri 16:32] =>  1:08
+    CLOCK: [2019-04-10 Wed 20:25]--[2019-04-10 Wed 21:30] =>  1:05
+    CLOCK: [2019-04-09 Tue 19:42]--[2019-04-09 Tue 20:54] =>  1:12
+    CLOCK: [2019-04-08 Mon 20:58]--[2019-04-08 Mon 21:42] =>  0:44
+    :END:
+     - [X] Chapter 8. Code Management and Improvement  ( 5h)
        - Continuous Integration
        - System Administration
        - Speed
-     - [ ] Chapter 9. Software Interface               ( 3h)
+     - [X] Chapter 9. Software Interface               ( 3h)
        - Web clients
        - Data Serialization
        - Disributed Systems
