@@ -190,7 +190,7 @@
     - [ ] A Permanent Revolution (30m)
 
 ** sidntrivedi
-*** TODO Learn Javascript [0/5]
+*** TODO Learn Javascript [1/5]
    :PROPERTIES:
    :ESTIMATED: 6
    :ACTUAL:
@@ -200,8 +200,10 @@
    :END:
    :LOGBOOK:
    CLOCK: [2019-04-09 Tue 10:02]--[2019-04-09 Tue 10:21] =>  0:19
+   CLOCK: [2019-04-10 Wed 12:45]--[2019-04-10 Wed 13:21] =>  0:36
+   CLOCK: [2019-04-11 Thu 16:20]--[2019-04-11 Thu 16:35] =>  0:15
    :END:
-   - [ ] ES6
+   - [X] ES6
    - [ ] Regular Expressions
    - [ ] Debugging
    - [ ] Basic Data Structures
