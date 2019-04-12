@@ -101,6 +101,9 @@
    :ID: READ.1554709767
    :TASKID: READ.1554709767
    :END:
+   :LOGBOOK:
+   CLOCK: [2019-04-09 Tue 10:02]--[2019-04-09 Tue 10:21] =>  0:19
+   :END:
    - [ ] ES6
    - [ ] Regular Expressions
    - [ ] Debugging
