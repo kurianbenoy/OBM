@@ -57,7 +57,7 @@
        - Database Libraries
 
 ** gandalfdwite
-*** Read Kubernetes Docs
+*** Read Kubernetes Docs [1/5]
    :PROPERTIES:
    :ESTIMATED: 10
    :ACTUAL:   3.75
@@ -77,7 +77,7 @@
    - [ ] Containers                               ( 2h)
    - [ ] Workloads                                ( 1h)
    - [ ] Services, Load Balancing, Networking     ( 3h)
-*** Learn dgplug logs
+*** Learn dgplug logs [2/6]
    :PROPERTIES:
    :ESTIMATED: 7
    :ACTUAL:   2.68
@@ -95,7 +95,7 @@
      - [X] Part 6. Info Commands         ( 1h)
      - [ ] Part 7. Calculator in emacs   ( 1h)
      - [X] Part 8. Org mode in emacs     ( 2h)
-*** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
+*** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/4]
    :PROPERTIES:
    :ESTIMATED: 5
    :ACTUAL:
