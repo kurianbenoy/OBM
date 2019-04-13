@@ -60,12 +60,13 @@
 *** Read Kubernetes Docs [2/5]
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:   3.75
+   :ACTUAL:   5.80
    :OWNER: gandalfdwite
    :ID: READ.1554610265
    :TASKID: READ.1554610265
    :END:
    :LOGBOOK:
+   CLOCK: [2019-04-12 Fri 19:42]--[2019-04-12 Fri 20:35] =>  0:53
    CLOCK: [2019-04-12 Fri 15:37]--[2019-04-12 Fri 16:47] =>  1:10
    CLOCK: [2019-04-11 Thu 21:12]--[2019-04-11 Thu 22:36] =>  1:24
    CLOCK: [2019-04-10 Wed 22:16]--[2019-04-10 Wed 22:43] =>  0:27
@@ -78,19 +79,20 @@
    - [ ] Containers                               ( 2h)
    - [ ] Workloads                                ( 1h)
    - [ ] Services, Load Balancing, Networking     ( 3h)
-*** Learn dgplug logs [2/6]
+*** Learn dgplug logs [3/6]
    :PROPERTIES:
    :ESTIMATED: 7
-   :ACTUAL:   2.68
+   :ACTUAL:   3.68
    :OWNER: gandalfdwite
    :ID: READ.1554610334
    :TASKID: READ.1554610334
    :END:
    :LOGBOOK:
+   CLOCK: [2019-04-12 Fri 21:23]--[2019-04-12 Fri 22:23] =>  1:00
    CLOCK: [2019-04-11 Thu 18:22]--[2019-04-11 Thu 20:22] =>  2:00
    CLOCK: [2019-04-09 Tue 18:50]--[2019-04-09 Tue 19:31] =>  0:41
    :END:
-     - [ ] Part 3. Search Functions      ( 1h)
+     - [X] Part 3. Search Functions      ( 1h)
      - [ ] Part 4. Shell mode commands   ( 1h)
      - [ ] Part 5. Dired mode            ( 1h)
      - [X] Part 6. Info Commands         ( 1h)
