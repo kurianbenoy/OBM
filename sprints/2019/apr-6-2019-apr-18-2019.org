@@ -57,7 +57,7 @@
        - Database Libraries
 
 ** gandalfdwite
-*** Read Kubernetes Docs [3/5]
+*** IN_PROGRESS Read Kubernetes Docs [3/5]
    :PROPERTIES:
    :ESTIMATED: 10
    :ACTUAL:   6.87
@@ -80,7 +80,7 @@
    - [X] Containers                               ( 2h)
    - [ ] Workloads                                ( 1h)
    - [ ] Services, Load Balancing, Networking     ( 3h)
-*** Learn dgplug logs [4/6]
+*** IN_PROGRESS Learn dgplug logs [4/6]
    :PROPERTIES:
    :ESTIMATED: 7
    :ACTUAL:   6.13
@@ -101,7 +101,7 @@
      - [X] Part 6. Info Commands         ( 1h)
      - [ ] Part 7. Calculator in emacs   ( 1h)
      - [X] Part 8. Org mode in emacs     ( 2h)
-*** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/4]
+*** IN_PROGRESS Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/4]
    :PROPERTIES:
    :ESTIMATED: 5
    :ACTUAL:   1.82
@@ -116,7 +116,6 @@
     - [ ] 2. Recursion & Backtracking          ( 1h)
     - [ ] 3. Linked Lists                      ( 1h)
     - [ ] 4. Stacks                            ( 1h)
-
 ** jasonbraganza
 *** IN_PROGRESS NIOS Maths Text Book - Part V [0/7]
    :PROPERTIES:
