@@ -190,10 +190,10 @@
     - [ ] A Permanent Revolution (30m)
 
 ** sidntrivedi
-*** TODO Learn Javascript [1/5]
+*** IN_PROGRESS Learn Javascript [1/5]
    :PROPERTIES:
    :ESTIMATED: 6
-   :ACTUAL:
+   :ACTUAL:   1.17
    :OWNER: sidntrivedi
    :ID: READ.1554709767
    :TASKID: READ.1554709767
