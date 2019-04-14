@@ -83,12 +83,13 @@
 *** Learn dgplug logs [4/6]
    :PROPERTIES:
    :ESTIMATED: 7
-   :ACTUAL:   4.65
+   :ACTUAL:   6.13
    :OWNER: gandalfdwite
    :ID: READ.1554610334
    :TASKID: READ.1554610334
    :END:
    :LOGBOOK:
+   CLOCK: [2019-04-14 Sun 09:44]--[2019-04-14 Sun 11:13] =>  1:29
    CLOCK: [2019-04-13 Sat 22:31]--[2019-04-13 Sat 23:29] =>  0:58
    CLOCK: [2019-04-12 Fri 21:23]--[2019-04-12 Fri 22:23] =>  1:00
    CLOCK: [2019-04-11 Thu 18:22]--[2019-04-11 Thu 20:22] =>  2:00
