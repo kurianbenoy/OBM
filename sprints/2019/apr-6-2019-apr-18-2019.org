@@ -57,15 +57,16 @@
        - Database Libraries
 
 ** gandalfdwite
-*** Read Kubernetes Docs [2/5]
+*** Read Kubernetes Docs [3/5]
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:   5.80
+   :ACTUAL:   6.87
    :OWNER: gandalfdwite
    :ID: READ.1554610265
    :TASKID: READ.1554610265
    :END:
    :LOGBOOK:
+   CLOCK: [2019-04-13 Sat 11:39]--[2019-04-13 Sat 12:43] =>  1:04
    CLOCK: [2019-04-12 Fri 19:42]--[2019-04-12 Fri 20:35] =>  0:53
    CLOCK: [2019-04-12 Fri 15:37]--[2019-04-12 Fri 16:47] =>  1:10
    CLOCK: [2019-04-11 Thu 21:12]--[2019-04-11 Thu 22:36] =>  1:24
@@ -76,24 +77,25 @@
    :END:
    - [X] Kubernetes Overview                      ( 2h)
    - [X] Kubernetes Architecture                  ( 2h)
-   - [ ] Containers                               ( 2h)
+   - [X] Containers                               ( 2h)
    - [ ] Workloads                                ( 1h)
    - [ ] Services, Load Balancing, Networking     ( 3h)
-*** Learn dgplug logs [3/6]
+*** Learn dgplug logs [4/6]
    :PROPERTIES:
    :ESTIMATED: 7
-   :ACTUAL:   3.68
+   :ACTUAL:   4.65
    :OWNER: gandalfdwite
    :ID: READ.1554610334
    :TASKID: READ.1554610334
    :END:
    :LOGBOOK:
+   CLOCK: [2019-04-13 Sat 22:31]--[2019-04-13 Sat 23:29] =>  0:58
    CLOCK: [2019-04-12 Fri 21:23]--[2019-04-12 Fri 22:23] =>  1:00
    CLOCK: [2019-04-11 Thu 18:22]--[2019-04-11 Thu 20:22] =>  2:00
    CLOCK: [2019-04-09 Tue 18:50]--[2019-04-09 Tue 19:31] =>  0:41
    :END:
      - [X] Part 3. Search Functions      ( 1h)
-     - [ ] Part 4. Shell mode commands   ( 1h)
+     - [X] Part 4. Shell mode commands   ( 1h)
      - [ ] Part 5. Dired mode            ( 1h)
      - [X] Part 6. Info Commands         ( 1h)
      - [ ] Part 7. Calculator in emacs   ( 1h)
@@ -101,10 +103,13 @@
 *** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/4]
    :PROPERTIES:
    :ESTIMATED: 5
-   :ACTUAL:
+   :ACTUAL:   1.82
    :OWNER: gandalfdwite
    :ID: READ.1554610422
    :TASKID: READ.1554610422
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-04-13 Sat 09:25]--[2019-04-13 Sat 11:14] =>  1:49
    :END:
     - [ ] 1. Introduction                      ( 2h)
     - [ ] 2. Recursion & Backtracking          ( 1h)
