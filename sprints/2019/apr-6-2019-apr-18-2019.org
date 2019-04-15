@@ -26,25 +26,33 @@
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2019-04-06 Sat>
   :wpd-akshay196: 1
+  :wpd-bhavin192: 1
   :wpd-gandalfdwite: 2
   :wpd-jasonbraganza: 3
   :wpd-sandeepk: 1.2
   :wpd-sidntrivedi: 1
   :END:
 ** akshay196
-*** The Hitchhiker's guide to Python - Part II [0/4]
+*** IN_PROGRESS The Hitchhiker's guide to Python - Part II [2/4]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:
+    :ACTUAL:   5.23
     :OWNER: akshay196
     :ID: READ.1553004553
     :TASKID: READ.1553004553
     :END:
-     - [ ] Chapter 8. Code Management and Improvement  ( 5h)
+    :LOGBOOK:
+    CLOCK: [2019-04-12 Fri 20:25]--[2019-04-12 Fri 21:30] =>  1:05
+    CLOCK: [2019-04-12 Fri 15:24]--[2019-04-12 Fri 16:32] =>  1:08
+    CLOCK: [2019-04-10 Wed 20:25]--[2019-04-10 Wed 21:30] =>  1:05
+    CLOCK: [2019-04-09 Tue 19:42]--[2019-04-09 Tue 20:54] =>  1:12
+    CLOCK: [2019-04-08 Mon 20:58]--[2019-04-08 Mon 21:42] =>  0:44
+    :END:
+     - [X] Chapter 8. Code Management and Improvement  ( 5h)
        - Continuous Integration
        - System Administration
        - Speed
-     - [ ] Chapter 9. Software Interface               ( 3h)
+     - [X] Chapter 9. Software Interface               ( 3h)
        - Web clients
        - Data Serialization
        - Disributed Systems
@@ -56,8 +64,103 @@
        - Structured Files
        - Database Libraries
 
+** bhavin192
+*** Cloud Native DevOps with Kubernetes - Part I [0/11]
+    :PROPERTIES:
+    :ESTIMATED: 13
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1555009355
+    :TASKID:   READ.1555009355
+    :END:
+    - [ ] Chapter 1. Revolution in the Cloud               (70m)
+      - The Creation of the Cloud
+      - The Dawn of DevOps
+      - The Coming of Containers
+      - Conducting the Container Orchestra
+      - Kubernetes
+      - Cloud Native
+      - The Future of Operations
+      - Summary
+    - [ ] Chapter 2. First Steps with Kubernetes           (40m)
+      - Running Your First Container
+      - The Demo Application
+      - Building a Container
+      - Container Registries
+      - Hello, Kubernetes
+      - Minikube
+      - Summary
+    - [ ] Chapter 3. Getting Kubernetes                    (70m)
+      - Cluster Architecture
+      - The Costs of Self-Hosting Kubernetes
+      - Managed Kubernetes Services
+      - Turnkey Kubernetes Solutions
+      - Kubernetes Installers
+      - Buy or Build: Our Recommendations
+      - Clusterless Container Services
+      - Summary
+    - [ ] Chapter 4. Working with Kubernetes Objects       (60m)
+      - Deployments
+      - Pods
+      - ReplicaSets
+      - Maintaining Desired State
+      - The Kubernetes Scheduler
+      - Resource Manifests in YAML Format
+      - Helm: A Kubernetes Package Manager
+      - Summary
+    - [ ] Chapter 5. Managing Resources                    (90m)
+      - Understanding Resources
+      - Managing the Container Life Cycle
+      - Using Namespaces
+      - Optimizing Cluster Costs
+      - Summary
+    - [ ] Chapter 6. Operating Clusters                    (60m)
+      - Cluster Sizing and Scaling
+      - Conformance Checking
+      - Validation and Auditing
+      - Chaos Testing
+      - Summary
+    - [ ] Chapter 7. Kubernetes Power Tools                (80m)
+      - Mastering kubectl
+      - Working with Resources
+      - Working with Containers
+      - Contexts and Namespaces
+      - Kubernetes Shells and Tools
+      - Building Your Own Kubernetes Tools
+      - Summary
+    - [ ] Chapter 8. Running Containers                    (70m)
+      - Containers and Pods
+      - Container Manifests
+      - Container Security
+      - Volumes
+      - Restart Policies
+      - Image Pull Secrets
+      - Summary
+    - [ ] Chapter 9. Managing Pods                         (90m)
+      - Labels
+      - Node Affinities
+      - Pod Affinities and Anti-Affinities
+      - Taints and Tolerations
+      - Pod Controllers
+      - Ingress Resources
+      - Istio
+      - Envoy
+      - Summary
+    - [ ] Chapter 10. Configuration and Secrets            (70m)
+      - ConfigMaps
+      - Kubernetes Secrets
+      - Secrets Management Strategies
+      - Encrypting Secrets with Sops
+      - Summary
+    - [ ] Chapter 11. Security and Backups                 (70m)
+      - Access Control and Permissions
+      - Security Scanning
+      - Backups
+      - Monitoring Cluster Status
+      - Further Reading
+      - Summary
 ** gandalfdwite
-*** Read Kubernetes Docs [3/5]
+*** IN_PROGRESS Read Kubernetes Docs [3/5]
    :PROPERTIES:
    :ESTIMATED: 10
    :ACTUAL:   6.87
@@ -80,7 +183,11 @@
    - [X] Containers                               ( 2h)
    - [ ] Workloads                                ( 1h)
    - [ ] Services, Load Balancing, Networking     ( 3h)
+<<<<<<< HEAD
 *** Learn dgplug logs [5/6]
+=======
+*** IN_PROGRESS Learn dgplug logs [4/6]
+>>>>>>> dbc92faa1b85fce9ab167096216cf290e49ad560
    :PROPERTIES:
    :ESTIMATED: 7
    :ACTUAL:   6.53
@@ -102,7 +209,7 @@
      - [X] Part 6. Info Commands         ( 1h)
      - [ ] Part 7. Calculator in emacs   ( 1h)
      - [X] Part 8. Org mode in emacs     ( 2h)
-*** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/4]
+*** IN_PROGRESS Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/4]
    :PROPERTIES:
    :ESTIMATED: 5
    :ACTUAL:   1.82
@@ -117,7 +224,6 @@
     - [ ] 2. Recursion & Backtracking          ( 1h)
     - [ ] 3. Linked Lists                      ( 1h)
     - [ ] 4. Stacks                            ( 1h)
-
 ** jasonbraganza
 *** IN_PROGRESS NIOS Maths Text Book - Part V [0/7]
    :PROPERTIES:
@@ -211,15 +317,20 @@
     - [ ] A Permanent Revolution (30m)
 
 ** sidntrivedi
-*** TODO Learn Javascript [0/5]
+*** IN_PROGRESS Learn Javascript [1/5]
    :PROPERTIES:
    :ESTIMATED: 6
-   :ACTUAL:
+   :ACTUAL:   1.17
    :OWNER: sidntrivedi
    :ID: READ.1554709767
    :TASKID: READ.1554709767
    :END:
-   - [ ] ES6
+   :LOGBOOK:
+   CLOCK: [2019-04-09 Tue 10:02]--[2019-04-09 Tue 10:21] =>  0:19
+   CLOCK: [2019-04-10 Wed 12:45]--[2019-04-10 Wed 13:21] =>  0:36
+   CLOCK: [2019-04-11 Thu 16:20]--[2019-04-11 Thu 16:35] =>  0:15
+   :END:
+   - [X] ES6
    - [ ] Regular Expressions
    - [ ] Debugging
    - [ ] Basic Data Structures

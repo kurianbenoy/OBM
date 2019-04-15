@@ -3,7 +3,7 @@
 #+TAGS: read write dev ops event meeting # Need to be category
 * GOALS
 ** Programming Languages
-*** Golang
+*** Go
 ** GNU Emacs
 ** Containers
 *** Namespaces
@@ -14,6 +14,46 @@
 **** Set Cgroup values for a service
 *** Container run times
 **** Read about existing run times
+*** Kubernetes
+**** Cloud Native DevOps with Kubernetes [0/5]
+     :PROPERTIES:
+     :ESTIMATED: 18
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       READ.1555009355
+     :TASKID:   READ.1555009355
+     :END:
+     https://www.oreilly.com/library/view/cloud-native-devops/9781492040750/
+     - [ ] Chapter 12. Deploying Kubernetes Applications    (65m)
+       - Building Manifests with Helm
+       - Deploying Helm Charts
+       - Managing Multiple Charts with Helmfile
+       - Advanced Manifest Management Tools
+       - Summary
+     - [ ] Chapter 13. Development Workflow                 (35m)
+       - Development Tools
+       - Deployment Strategies
+       - Handling Migrations with Helm
+       - Summary
+     - [ ] Chapter 14. Continuous Deployment in Kubernetes  (60m)
+       - What Is Continuous Deployment?
+       - Which CD Tool Should I Use?
+       - CD Components
+       - A CD Pipeline with Cloud Build
+       - Summary
+     - [ ] Chapter 15. Observability and Monitoring         (50m)
+       - What Is Observability?
+       - The Observability Pipeline
+       - Monitoring in Kubernetes
+       - Summary
+     - [ ] Chapter 16. Metrics in Kubernetes                (100m)
+       - What Are Metrics, Really?
+       - Choosing Good Metrics
+       - Analyzing Metrics
+       - Graphing Metrics with Dashboards
+       - Alerting on Metrics
+       - Metrics Tools and Services
+       - Summary
 ** Attend meetups
 ** Write blog posts
 * PLAN
