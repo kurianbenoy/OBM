@@ -163,12 +163,13 @@
 *** IN_PROGRESS Read Kubernetes Docs [3/5]
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:   8.87
+   :ACTUAL:   10.77
    :OWNER: gandalfdwite
    :ID: READ.1554610265
    :TASKID: READ.1554610265
    :END:
    :LOGBOOK:
+   CLOCK: [2019-04-16 Tue 18:26]--[2019-04-16 Tue 20:20] =>  1:54
    CLOCK: [2019-04-15 Mon 19:11]--[2019-04-15 Mon 21:11] =>  2:00
    CLOCK: [2019-04-13 Sat 11:39]--[2019-04-13 Sat 12:43] =>  1:04
    CLOCK: [2019-04-12 Fri 19:42]--[2019-04-12 Fri 20:35] =>  0:53
@@ -184,7 +185,7 @@
    - [X] Containers                               ( 2h)
    - [ ] Workloads                                ( 1h)
    - [ ] Services, Load Balancing, Networking     ( 3h)
-*** IN_PROGRESS Learn dgplug logs [4/6]
+*** IN_PROGRESS Learn dgplug logs [5/6]
    :PROPERTIES:
    :ESTIMATED: 7
    :ACTUAL:   6.53
