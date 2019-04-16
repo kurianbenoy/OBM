@@ -3,8 +3,310 @@
 #+TAGS: read write dev ops event meeting # Need to be category
 * GOALS
 ** Learning
+*** Linux
+**** UNIX and Linux System Administration Handbook
+:PROPERTIES:
+:ESTIMATED:
+:ACTUAL:
+:OWNER: akshay196
+:ID: READ.1555428478
+:TASKID: READ.1555428478
+:END:
+Fifth Edition.
+Dan Mackin, Ben Whaley, Trent R. Hein, Garth Snyder, Evi Nemeth.
+- [ ] Chapter  9. Cloud Computing                       ( 2h)
+  - The cloud in context
+  - Cloud platform choices
+  - Cloud service fundamentals
+  - Clouds: VPS quick start by platform
+  - Cost control
+- [ ] Chapter 10. Logging                               ( 2h)
+  - Log locations
+  - The systemd journal
+  - Syslog
+  - Kernel and boot-time logging
+  - Management and rotation of log files
+  - Management of logs at scale
+  - Logging policies
+- [ ] Chapter 11. Drivers and The Kernel                ( 2h)
+  - Kernel chores for system administrators
+  - Kernel version numbering
+  - Devices and their drivers
+  - Linux kernel configuration
+  - FreeBSD kernel configuration
+  - Loadable kernel modules
+  - Booting
+  - Booting alternate kernels in the cloud
+  - Kernel errors
+- [ ] Chapter 12. Printing                              ( 1h)
+  - CUPS printing
+  - CUPS server administration
+  - Troubleshooting tips
+- [ ] Chapter 13. TCP/IP Networking                     ( 3h)
+  - TCP/IP and its relationship to the Internet
+  - Networking basics
+  - Packet addressing
+  - IP addresses: the gory details
+  - Routing
+  - IPv4 ARP and IPv6 neighbor discovery
+  - DHCP: the Dynamic Host Configuration Protocol
+  - Security issues
+  - Basic network configuration
+  - Linux networking
+  - FreeBSD networking
+  - Network troubleshooting
+  - Network monitoring
+  - Firewalls and NAT
+  - Cloud networking
+- [ ] Chapter 14. Physical Networking                   ( 2h)
+  - Ethernet: the Swiss Army knife of networking
+  - Wireless: Ethernet for nomads
+  - SDN: software-defined networking
+  - Network testing and debugging
+  - Building wiring
+  - Network design issues
+  - Management issues
+  - Recommended vendors
+- [ ] Chapter 15. IP Routing                            ( 2h)
+  - Packet forwarding: a closer look
+  - Routing daemons and routing protocols
+  - Protocols on parade
+  - Routing protocol multicast coordination
+  - Routing strategy selection criteria
+  - Routing daemons
+  - Cisco routers
+- [ ] Chapter 16. DNS: Domain Name System               ( 2h)
+  - DNS architecture
+  - DNS for lookups
+  - The DNS namespace
+  - How DNS works
+  - The DNS database
+  - The BIND software
+  - Split DNS and the view statement
+  - BIND configuration examples
+  - Zone file updating
+  - DNS security issues
+  - BIND debugging
+- [ ] Chapter 17. Single Sign-On                        ( 2h)
+  - Core SSO elements
+  - LDAP: “lightweight” directory services
+  - Using directory services for login
+  - Alternative approaches
+- [ ] Chapter 18. Electronic Mail                       ( 2h)
+  - Mail system architecture
+  - Anatomy of a mail message
+  - The SMTP protocol
+  - Spam and malware
+  - Message privacy and encryption
+  - Mail aliases
+  - Email configuration
+  - sendmail
+  - Exim
+  - Postfix
+- [ ] Chapter 19. Web Hosting                           ( 2h)
+  - HTTP: the Hypertext Transfer Protocol
+  - Web software basics
+  - Web hosting in the cloud
+  - Apache httpd
+  - NGINX
+  - HAProxy
+- [ ] Chapter 20. Storage                               ( 3h)
+  - I just want to add a disk!
+  - Storage hardware
+  - Storage hardware interfaces
+  - Attachment and low-level management of drives
+  - The software side of storage: peeling the onion
+  - Disk partitioning
+  - Logical volume management
+  - RAID: redundant arrays of inexpensive disks
+  - Filesystems
+  - Traditional filesystems: UFS, ext4, and XFS
+  - Next-generation filesystems: ZFS and Btrfs
+  - ZFS: all your storage problems solved
+  - Btrfs: “ZFS lite” for Linux
+  - Data backup strategy
+- [ ] Chapter 21. The Network File System               ( 2h)
+  - Meet network file services
+  - The NFS approach
+  - Server-side NFS
+  - Client-side NFS
+  - Identity mapping for NFS version 4
+  - nfsstat: dump NFS statistics
+  - Dedicated NFS file servers
+  - Automatic mounting
+- [ ] Chapter 22. SMB                                   ( 2h)
+  - Samba: SMB server for UNIX
+  - Installing and configuring Samba
+  - Mounting SMB file shares
+  - Browsing SMB file shares
+  - Ensuring Samba security
+  - Debugging Samba
+- [ ] Chapter 23. Configuration Management              ( 2h)
+  - Configuration management in a nutshell
+  - Dangers of configuration management
+  - Elements of configuration management
+  - Popular CM systems compared
+  - Introduction to Ansible
+  - Introduction to Salt
+  - Ansible and Salt compared
+  - Best practices
+- [ ] Chapter 24. Virtualization                        ( 2h)
+  - Virtual vernacular
+  - Virtualization with Linux
+  - FreeBSD bhyve
+  - VMware
+  - VirtualBox
+  - Packer
+  - Vagrant
+- [ ] Chapter 25. Containers                            ( 2h)
+  - Background and core concepts
+  - Docker: the open source container engine
+  - Containers in practice
+  - Container clustering and management
+- [ ] Chapter 26. Continuous Integration and Delivery   ( 2h)
+  - CI/CD essentials
+  - Pipelines
+  - Jenkins: the open source automation server
+  - CI/CD in practice
+  - Containers and CI/CD
+- [ ] Chapter 27. Security                              ( 3h)
+  - Elements of security
+  - How security is compromised
+  - Basic security measures
+  - Passwords and user accounts
+  - Security power tools
+  - Cryptography primer
+  - SSH, the Secure SHell
+  - Firewalls
+  - Virtual private networks (VPNs)
+  - Certifications and standards
+  - Sources of security information
+  - When your site has been attacked
+- [ ] Chpater 28. Monitoring                            ( 3h)
+  - An overview of monitoring
+  - The monitoring culture
+  - The monitoring platforms
+  - Data collection
+  - Network monitoring
+  - Systems monitoring
+  - Application monitoring
+  - Security monitoring
+  - SNMP: the Simple Network Management Protocol
+  - Tips and tricks for monitoring
+- [ ] Chapter 29. Performance Analysis                  ( 2h)
+  - Performance tuning philosophy
+  - Ways to improve performance
+  - Factors that affect performance
+  - Stolen CPU cycles
+  - Analysis of performance problems
+  - System performance checkup
+  - Help! My server just got really slow!
+- [ ] Chapter 30. Data Center Basics                    ( 2h)
+  - Racks
+  - Power
+  - Cooling and environment
+  - Data center reliability tiers
+  - Data center security
+  - Tools
+- [ ] Chapter 31. Methodology, Policy and Politics      ( 3h)
+  - The grand unified theory: DevOps
+  - Ticketing and task management systems
+  - Local documentation maintenance
+  - Environment separation
+  - Disaster management
+  - IT policies and procedures
+  - Service level agreements
+  - Compliance: regulations and standards
+  - Legal issues
+  - Organizations, conferences, and other resources
 *** Python
 *** Automation with Ansible
 ** Development
 *** Ansible
 * PLAN
+** April     19, 2019 - May        5, 2019 (17 days)
+:PROPERTIES:
+:wpd-akshay196: 1
+:END:
+*** UNIX and Linux System Administration Handbook - Part I [0/8]
+:PROPERTIES:
+:ESTIMATED: 17
+:ACTUAL:
+:OWNER: akshay196
+:ID: READ.1555438527
+:TASKID: READ.1555438527
+:END:
+- [ ] Chapter  1. Where to Start                        ( 2h)
+  - Essential duties of a system administrator
+  - Suggested background
+  - Linux distributions
+  - Example systems used in this book
+  - Notation and typographical conventions
+  - Units
+  - Man pages and other on-line documentation
+  - Other authoritative documentation
+  - Other sources of information
+  - Ways to find and install software
+  - Where to host
+  - Specialization and adjacent disciplines
+- [ ] Chapter  2. Booting and System Management Daemons ( 2h)
+  - Boot process overview
+  - System firmware
+  - Boot loaders
+  - GRUB: the GRand Unified Boot loader
+  - The FreeBSD boot process
+  - System management daemons
+  - systemd in detail
+  - FreeBSD init and startup scripts
+  - Reboot and shutdown procedures
+  - Stratagems for a nonbooting system
+- [ ] Chapter  3. Access Control and Rootly Powers      ( 2h)
+  - Standard UNIX access control
+  - Management of the root account
+  - Extensions to the standard access control model
+  - Modern access control
+- [ ] Chapter  4. Process Control                       ( 2h)
+  - Components of a process
+  - The life cycle of a process
+  - ps: monitor processes
+  - Interactive monitoring with top
+  - nice and renice: influence scheduling priority
+  - The /proc filesystem
+  - strace and truss: trace signals and system calls
+  - Runaway processes
+  - Periodic processes
+- [ ] Chapter  5. The Filesystem                        ( 2h)
+  - Pathnames
+  - Filesystem mounting and unmounting
+  - Organization of the file tree
+  - File types
+  - File attributes
+  - Access control lists
+- [ ] Chapter  6. Software Installation and Management  ( 2h)
+  - Operating system installation
+  - Managing packages
+  - Linux package management systems
+  - High-level Linux package management systems
+  - FreeBSD software management
+  - Software localization and configuration
+- [ ] Chapter  7. Scripting and The Shell               ( 3h)
+  - Scripting philosophy
+  - Shell basics
+  - sh scripting
+  - Regular expressions
+  - Python programming
+  - Ruby programming
+  - Library and environment management for Python and Ruby
+  - Revision control with Git
+- [ ] Chapter  8. User Management                       ( 2h)
+  - Account mechanics
+  - The /etc/passwd file
+  - The Linux /etc/shadow file
+  - FreeBSD's /etc/master.passwd and /etc/login.conf files
+  - The /etc/group file
+  - Manual steps for adding users
+  - Scripts for adding users: useradd, adduser, and newusers
+  - Safe removal of a user’s account and files
+  - User login lockout
+  - Risk reduction with PAM
+  - Centralized account management
