@@ -160,15 +160,16 @@
       - Further Reading
       - Summary
 ** gandalfdwite
-*** IN_PROGRESS Read Kubernetes Docs [3/5]
+*** IN_PROGRESS Read Kubernetes Docs [4/5]
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:   10.77
+   :ACTUAL:   12.62
    :OWNER: gandalfdwite
    :ID: READ.1554610265
    :TASKID: READ.1554610265
    :END:
    :LOGBOOK:
+   CLOCK: [2019-04-17 Wed 22:35]--[2019-04-18 Thu 00:26] =>  1:51
    CLOCK: [2019-04-16 Tue 18:26]--[2019-04-16 Tue 20:20] =>  1:54
    CLOCK: [2019-04-15 Mon 19:11]--[2019-04-15 Mon 21:11] =>  2:00
    CLOCK: [2019-04-13 Sat 11:39]--[2019-04-13 Sat 12:43] =>  1:04
@@ -183,17 +184,18 @@
    - [X] Kubernetes Overview                      ( 2h)
    - [X] Kubernetes Architecture                  ( 2h)
    - [X] Containers                               ( 2h)
-   - [ ] Workloads                                ( 1h)
+   - [X] Workloads                                ( 1h)
    - [ ] Services, Load Balancing, Networking     ( 3h)
-*** IN_PROGRESS Learn dgplug logs [5/6]
+*** IN_PROGRESS Learn dgplug logs [6/6]
    :PROPERTIES:
    :ESTIMATED: 7
-   :ACTUAL:   6.53
+   :ACTUAL:   7.60
    :OWNER: gandalfdwite
    :ID: READ.1554610334
    :TASKID: READ.1554610334
    :END:
    :LOGBOOK:
+   CLOCK: [2019-04-17 Wed 19:17]--[2019-04-17 Wed 20:21] =>  1:04
    CLOCK: [2019-04-14 Sun 17:58]--[2019-04-14 Sun 18:22] =>  0:24
    CLOCK: [2019-04-14 Sun 09:44]--[2019-04-14 Sun 11:13] =>  1:29
    CLOCK: [2019-04-13 Sat 22:31]--[2019-04-13 Sat 23:29] =>  0:58
@@ -205,7 +207,7 @@
      - [X] Part 4. Shell mode commands   ( 1h)
      - [X] Part 5. Dired mode            ( 1h)
      - [X] Part 6. Info Commands         ( 1h)
-     - [ ] Part 7. Calculator in emacs   ( 1h)
+     - [X] Part 7. Calculator in emacs   ( 1h)
      - [X] Part 8. Org mode in emacs     ( 2h)
 *** IN_PROGRESS Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/4]
    :PROPERTIES:
