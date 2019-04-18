@@ -6,19 +6,76 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO                                       | NEXT | IN_PROGRESS                                     | WAITING | DONE                                                         | CANCELED |
+|--------------------------------------------+------+-------------------------------------------------+---------+--------------------------------------------------------------+----------|
+| READ.1554709804. Read Linux for you and me |      | READ.1553531542. Data Structure and Algorithmic |         | READ.1553004553. The Hitchhiker's guide to Pyth (2019-04-18) |          |
+| WRITE.1539072660. Blog                     |      | READ.1552291497. NIOS Maths Text Book - Part V  |         | READ.1555009355. Cloud Native DevOps with Kuber (2019-04-18) |          |
+|                                            |      | DEV.1552226887. Stacknews                       |         | READ.1553531073. Read Kubernetes Docs (2019-04-18)           |          |
+|                                            |      | READ.1554403369. Sapiens Book Reading           |         | READ.1553605019. Learn dgplug logs (2019-04-17)              |          |
+|                                            |      | READ.1554709767. Learn Javascript               |         |                                                              |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME          | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|---------------+-----------+--------------------+------+-----------+--------------+------------|
+| Sidntrivedi   |        13 |               1.17 |    0 |        13 |   2019-05-07 | ---------- |
+| Sandeepk      |      15.5 | 11.129999999999999 |    0 |      15.5 |   2019-05-07 | ---------- |
+| Jasonbraganza |        39 |               5.95 |    0 |        39 |   2019-05-07 | ---------- |
+| Gandalfdwite  |        22 |              23.72 |   17 |         5 |   2019-04-23 | ########-- |
+| Bhavin192     |        13 |              10.67 |   13 |         0 |   2019-04-18 | ########## |
+| Akshay196     |        13 |              10.78 |   13 |         0 |   2019-04-18 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:13]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                 |
+|-----+------------+--------+-------+-------------------------------------------------|
+|   1 | 2019-04-06 |  115.5 |   107 |                                                 |
+|   2 | 2019-04-07 |  115.5 |    98 |                                                 |
+|   3 | 2019-04-08 |  115.5 |    89 |                                                 |
+|   4 | 2019-04-09 |  115.5 |    80 |                                                 |
+|   5 | 2019-04-10 |  115.5 |    71 |                                                 |
+|   6 | 2019-04-11 |  115.5 |    62 |                                                 |
+|   7 | 2019-04-12 |  115.5 |    53 |                                                 |
+|   8 | 2019-04-13 |  115.5 |    44 |                                                 |
+|   9 | 2019-04-14 |  115.5 |    36 |                                                 |
+|  10 | 2019-04-15 |  115.5 |    27 |                                                 |
+|  11 | 2019-04-16 |  115.5 |    18 |                                                 |
+|  12 | 2019-04-17 |  108.5 |     9 | READ.1553605019                                 |
+|  13 | 2019-04-18 |   72.5 |     0 | READ.1553531073 READ.1555009355 READ.1553004553 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                                                         | TASKID           | OWNER         | PRIORITY | TODO        | ESTIMATED |             ACTUAL |
+|------------------------------------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------------------|
+| TASKS                                                                        |                  |               | B        |             |     115.5 |              63.42 |
+|------------------------------------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------------------|
+| akshay196                                                                    |                  |               | B        |             |        13 |              10.78 |
+| The Hitchhiker's guide to Python - Part II                                   | READ.1553004553  | akshay196     | B        | DONE        |        13 |              10.78 |
+|------------------------------------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------------------|
+| bhavin192                                                                    |                  |               | B        |             |        13 |              10.67 |
+| Cloud Native DevOps with Kubernetes - Part I                                 | READ.1555009355  | bhavin192     | B        | DONE        |        13 |              10.67 |
+|------------------------------------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------------------|
+| gandalfdwite                                                                 |                  |               | B        |             |        22 |              23.72 |
+| Read Kubernetes Docs                                                         | READ.1553531073  | gandalfdwite  | B        | DONE        |        10 |              14.30 |
+| Learn dgplug logs                                                            | READ.1553605019  | gandalfdwite  | B        | DONE        |         7 |               7.60 |
+| Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) | READ.1553531542  | gandalfdwite  | B        | IN_PROGRESS |         5 |               1.82 |
+|------------------------------------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------------------|
+| jasonbraganza                                                                |                  |               | B        |             |        39 |               5.95 |
+| NIOS Maths Text Book - Part V                                                | READ.1552291497  | jasonbraganza | B        | IN_PROGRESS |        39 |               5.95 |
+|------------------------------------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------------------|
+| sandeepk                                                                     |                  |               | B        |             |      15.5 | 11.129999999999999 |
+| Stacknews                                                                    | DEV.1552226887   | sandeepk      | B        | IN_PROGRESS |         9 |               6.63 |
+| Sapiens Book Reading                                                         | READ.1554403369  | sandeepk      | B        | IN_PROGRESS |       6.5 |               4.50 |
+|------------------------------------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------------------|
+| sidntrivedi                                                                  |                  |               | B        |             |        13 |               1.17 |
+| Learn Javascript                                                             | READ.1554709767  | sidntrivedi   | B        | IN_PROGRESS |         6 |               1.17 |
+| Read Linux for you and me                                                    | READ.1554709804  | sidntrivedi   | B        | TODO        |         5 |                    |
+| Blog                                                                         | WRITE.1539072660 | sidntrivedi   | B        | TODO        |         2 |                    |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -33,15 +90,21 @@
   :wpd-sidntrivedi: 1
   :END:
 ** akshay196
-*** IN_PROGRESS The Hitchhiker's guide to Python - Part II [2/4]
+*** DONE The Hitchhiker's guide to Python - Part II [4/4]
+    CLOSED: [2019-04-18 Thu 20:03]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:   5.23
+    :ACTUAL:   10.78
     :OWNER: akshay196
     :ID: READ.1553004553
     :TASKID: READ.1553004553
     :END:
     :LOGBOOK:
+    CLOCK: [2019-04-18 Thu 19:10]--[2019-04-18 Thu 20:02] =>  0:52
+    CLOCK: [2019-04-17 Wed 19:14]--[2019-04-17 Wed 20:15] =>  1:01
+    CLOCK: [2019-04-16 Tue 18:39]--[2019-04-16 Tue 19:35] =>  0:56
+    CLOCK: [2019-04-15 Mon 18:52]--[2019-04-15 Mon 20:08] =>  1:16
+    CLOCK: [2019-04-14 Sun 18:16]--[2019-04-14 Sun 19:44] =>  1:28
     CLOCK: [2019-04-12 Fri 20:25]--[2019-04-12 Fri 21:30] =>  1:05
     CLOCK: [2019-04-12 Fri 15:24]--[2019-04-12 Fri 16:32] =>  1:08
     CLOCK: [2019-04-10 Wed 20:25]--[2019-04-10 Wed 21:30] =>  1:05
@@ -57,23 +120,46 @@
        - Data Serialization
        - Disributed Systems
        - Cryptography
-     - [ ] Chapter 10. Data Manipulation               ( 2h)
+     - [X] Chapter 10. Data Manipulation               ( 2h)
        - Scientific Applications
        - Text Manipulation and Text Mining
-     - [ ] Chapter 11. Data Persistence                ( 3h)
+     - [X] Chapter 11. Data Persistence                ( 3h)
        - Structured Files
        - Database Libraries
 
 ** bhavin192
-*** Cloud Native DevOps with Kubernetes - Part I [0/11]
+*** DONE Cloud Native DevOps with Kubernetes - Part I [11/11]
+    CLOSED: [2019-04-18 Thu 22:57]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:
+    :ACTUAL:   10.67
     :OWNER:    bhavin192
     :ID:       READ.1555009355
     :TASKID:   READ.1555009355
     :END:
-    - [ ] Chapter 1. Revolution in the Cloud               (70m)
+    :LOGBOOK:
+    CLOCK: [2019-04-18 Thu 22:00]--[2019-04-18 Thu 22:57] =>  0:57
+    CLOCK: [2019-04-18 Thu 21:07]--[2019-04-18 Thu 21:52] =>  0:45
+    CLOCK: [2019-04-18 Thu 18:35]--[2019-04-18 Thu 19:37] =>  1:02
+    CLOCK: [2019-04-17 Wed 21:34]--[2019-04-17 Wed 21:50] =>  0:16
+    CLOCK: [2019-04-17 Wed 21:06]--[2019-04-17 Wed 21:30] =>  0:24
+    CLOCK: [2019-04-17 Wed 19:31]--[2019-04-17 Wed 20:08] =>  0:37
+    CLOCK: [2019-04-17 Wed 18:19]--[2019-04-17 Wed 19:07] =>  0:48
+    CLOCK: [2019-04-16 Tue 22:39]--[2019-04-16 Tue 22:50] =>  0:11
+    CLOCK: [2019-04-16 Tue 21:31]--[2019-04-16 Tue 22:14] =>  0:43
+    CLOCK: [2019-04-16 Tue 21:01]--[2019-04-16 Tue 21:22] =>  0:21
+    CLOCK: [2019-04-16 Tue 18:51]--[2019-04-16 Tue 19:57] =>  1:06
+    CLOCK: [2019-04-15 Mon 21:27]--[2019-04-15 Mon 22:24] =>  0:57
+    CLOCK: [2019-04-15 Mon 21:04]--[2019-04-15 Mon 21:26] =>  0:22
+    CLOCK: [2019-04-14 Sun 21:57]--[2019-04-14 Sun 22:37] =>  0:40
+    CLOCK: [2019-04-14 Sun 18:51]--[2019-04-14 Sun 19:16] =>  0:25
+    CLOCK: [2019-04-14 Sun 18:31]--[2019-04-14 Sun 18:50] =>  0:19
+    CLOCK: [2019-04-11 Thu 21:47]--[2019-04-11 Thu 21:59] =>  0:12
+    CLOCK: [2019-04-11 Thu 21:17]--[2019-04-11 Thu 21:31] =>  0:14
+    CLOCK: [2019-04-11 Thu 19:32]--[2019-04-11 Thu 19:53] =>  0:21
+    :END:
+    https://www.oreilly.com/library/view/cloud-native-devops/9781492040750/
+    - [X] Chapter 1. Revolution in the Cloud               (70m)
       - The Creation of the Cloud
       - The Dawn of DevOps
       - The Coming of Containers
@@ -82,7 +168,7 @@
       - Cloud Native
       - The Future of Operations
       - Summary
-    - [ ] Chapter 2. First Steps with Kubernetes           (40m)
+    - [X] Chapter 2. First Steps with Kubernetes           (40m)
       - Running Your First Container
       - The Demo Application
       - Building a Container
@@ -90,7 +176,7 @@
       - Hello, Kubernetes
       - Minikube
       - Summary
-    - [ ] Chapter 3. Getting Kubernetes                    (70m)
+    - [X] Chapter 3. Getting Kubernetes                    (70m)
       - Cluster Architecture
       - The Costs of Self-Hosting Kubernetes
       - Managed Kubernetes Services
@@ -99,7 +185,7 @@
       - Buy or Build: Our Recommendations
       - Clusterless Container Services
       - Summary
-    - [ ] Chapter 4. Working with Kubernetes Objects       (60m)
+    - [X] Chapter 4. Working with Kubernetes Objects       (60m)
       - Deployments
       - Pods
       - ReplicaSets
@@ -108,19 +194,19 @@
       - Resource Manifests in YAML Format
       - Helm: A Kubernetes Package Manager
       - Summary
-    - [ ] Chapter 5. Managing Resources                    (90m)
+    - [X] Chapter 5. Managing Resources                    (90m)
       - Understanding Resources
       - Managing the Container Life Cycle
       - Using Namespaces
       - Optimizing Cluster Costs
       - Summary
-    - [ ] Chapter 6. Operating Clusters                    (60m)
+    - [X] Chapter 6. Operating Clusters                    (60m)
       - Cluster Sizing and Scaling
       - Conformance Checking
       - Validation and Auditing
       - Chaos Testing
       - Summary
-    - [ ] Chapter 7. Kubernetes Power Tools                (80m)
+    - [X] Chapter 7. Kubernetes Power Tools                (80m)
       - Mastering kubectl
       - Working with Resources
       - Working with Containers
@@ -128,7 +214,7 @@
       - Kubernetes Shells and Tools
       - Building Your Own Kubernetes Tools
       - Summary
-    - [ ] Chapter 8. Running Containers                    (70m)
+    - [X] Chapter 8. Running Containers                    (70m)
       - Containers and Pods
       - Container Manifests
       - Container Security
@@ -136,7 +222,7 @@
       - Restart Policies
       - Image Pull Secrets
       - Summary
-    - [ ] Chapter 9. Managing Pods                         (90m)
+    - [X] Chapter 9. Managing Pods                         (90m)
       - Labels
       - Node Affinities
       - Pod Affinities and Anti-Affinities
@@ -146,13 +232,13 @@
       - Istio
       - Envoy
       - Summary
-    - [ ] Chapter 10. Configuration and Secrets            (70m)
+    - [X] Chapter 10. Configuration and Secrets            (70m)
       - ConfigMaps
       - Kubernetes Secrets
       - Secrets Management Strategies
       - Encrypting Secrets with Sops
       - Summary
-    - [ ] Chapter 11. Security and Backups                 (70m)
+    - [X] Chapter 11. Security and Backups                 (70m)
       - Access Control and Permissions
       - Security Scanning
       - Backups
@@ -160,15 +246,20 @@
       - Further Reading
       - Summary
 ** gandalfdwite
-*** IN_PROGRESS Read Kubernetes Docs [3/5]
+*** DONE Read Kubernetes Docs [5/5]
+    CLOSED: [2019-04-18 Thu 19:59]
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:   6.87
+   :ACTUAL:   14.30
    :OWNER: gandalfdwite
-   :ID: READ.1554610265
-   :TASKID: READ.1554610265
+   :ID: READ.1553531073
+   :TASKID: READ.1553531073
    :END:
    :LOGBOOK:
+   CLOCK: [2019-04-18 Thu 18:15]--[2019-04-18 Thu 19:56] =>  1:41
+   CLOCK: [2019-04-17 Wed 22:35]--[2019-04-18 Thu 00:26] =>  1:51
+   CLOCK: [2019-04-16 Tue 18:26]--[2019-04-16 Tue 20:20] =>  1:54
+   CLOCK: [2019-04-15 Mon 19:11]--[2019-04-15 Mon 21:11] =>  2:00
    CLOCK: [2019-04-13 Sat 11:39]--[2019-04-13 Sat 12:43] =>  1:04
    CLOCK: [2019-04-12 Fri 19:42]--[2019-04-12 Fri 20:35] =>  0:53
    CLOCK: [2019-04-12 Fri 15:37]--[2019-04-12 Fri 16:47] =>  1:10
@@ -181,17 +272,20 @@
    - [X] Kubernetes Overview                      ( 2h)
    - [X] Kubernetes Architecture                  ( 2h)
    - [X] Containers                               ( 2h)
-   - [ ] Workloads                                ( 1h)
-   - [ ] Services, Load Balancing, Networking     ( 3h)
-*** IN_PROGRESS Learn dgplug logs [4/6]
+   - [X] Workloads                                ( 1h)
+   - [X] Services, Load Balancing, Networking     ( 3h)
+*** DONE Learn dgplug logs [6/6]
+    CLOSED: [2019-04-17 Wed 20:21]
    :PROPERTIES:
    :ESTIMATED: 7
-   :ACTUAL:   6.13
+   :ACTUAL:   7.60
    :OWNER: gandalfdwite
-   :ID: READ.1554610334
-   :TASKID: READ.1554610334
+   :ID: READ.1553605019
+   :TASKID: READ.1553605019
    :END:
    :LOGBOOK:
+   CLOCK: [2019-04-17 Wed 19:17]--[2019-04-17 Wed 20:21] =>  1:04
+   CLOCK: [2019-04-14 Sun 17:58]--[2019-04-14 Sun 18:22] =>  0:24
    CLOCK: [2019-04-14 Sun 09:44]--[2019-04-14 Sun 11:13] =>  1:29
    CLOCK: [2019-04-13 Sat 22:31]--[2019-04-13 Sat 23:29] =>  0:58
    CLOCK: [2019-04-12 Fri 21:23]--[2019-04-12 Fri 22:23] =>  1:00
@@ -200,17 +294,17 @@
    :END:
      - [X] Part 3. Search Functions      ( 1h)
      - [X] Part 4. Shell mode commands   ( 1h)
-     - [ ] Part 5. Dired mode            ( 1h)
+     - [X] Part 5. Dired mode            ( 1h)
      - [X] Part 6. Info Commands         ( 1h)
-     - [ ] Part 7. Calculator in emacs   ( 1h)
+     - [X] Part 7. Calculator in emacs   ( 1h)
      - [X] Part 8. Org mode in emacs     ( 2h)
 *** IN_PROGRESS Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/4]
    :PROPERTIES:
    :ESTIMATED: 5
    :ACTUAL:   1.82
    :OWNER: gandalfdwite
-   :ID: READ.1554610422
-   :TASKID: READ.1554610422
+   :ID: READ.1553531542
+   :TASKID: READ.1553531542
    :END:
    :LOGBOOK:
    CLOCK: [2019-04-13 Sat 09:25]--[2019-04-13 Sat 11:14] =>  1:49
