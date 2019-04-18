@@ -267,15 +267,17 @@
       - [ ] 37 - Linear Programming
       - [ ] 38 - Mathematical Reasoning
 ** sandeepk
-*** IN_PROGRESS Stacknews [2/3]
+*** DONE Stacknews [3/3]
+    CLOSED: [2019-04-18 Thu 23:00]
     :PROPERTIES:
     :ESTIMATED: 9
-    :ACTUAL:   6.63
+    :ACTUAL:   7.13
     :OWNER: sandeepk
     :ID: DEV.1552226887
     :TASKID: DEV.1552226887
     :END:
     :LOGBOOK:
+    CLOCK: [2019-04-18 Thu 22:30]--[2019-04-18 Thu 23:00] =>  0:30
     CLOCK: [2019-04-17 Wed 23:15]--[2019-04-18 Thu 00:10] =>  0:55
     CLOCK: [2019-04-17 Wed 08:05]--[2019-04-17 Wed 08:35] =>  0:30
     CLOCK: [2019-04-16 Tue 23:10]--[2019-04-16 Tue 23:50] =>  0:40
@@ -288,16 +290,19 @@
     :END:
     - [X] Design/CSS work for the landing page, Login page, Post submit page (5h)
     - [X] Logic for comment on post and tab (2h) 
-    - [ ] Logic for thread post linkage (2h)
-*** IN_PROGRESS Sapiens Book Reading [4/14]
+    - [X] Logic for thread post linkage (2h)
+*** DONE Sapiens Book Reading [5/14]
+    CLOSED: [2019-04-18 Thu 23:45]
     :PROPERTIES:
     :ESTIMATED: 6.5
-    :ACTUAL:   4.50
+    :ACTUAL:   5.33
     :OWNER: sandeepk
     :ID: READ.1554403369
     :TASKID: READ.1554403369
     :END:
     :LOGBOOK:
+    CLOCK: [2019-04-18 Thu 23:20]--[2019-04-18 Thu 23:45] =>  0:25
+    CLOCK: [2019-04-17 Wed 23:50]--[2019-04-18 Thu 00:15] =>  0:25
     CLOCK: [2019-04-17 Wed 09:00]--[2019-04-17 Wed 09:15] =>  0:15
     CLOCK: [2019-04-16 Tue 08:00]--[2019-04-16 Tue 08:30] =>  0:30
     CLOCK: [2019-04-15 Mon 23:00]--[2019-04-15 Mon 23:30] =>  0:30
@@ -313,17 +318,7 @@
     - [X] Building Pyramids (25m)
     - [X] Memory Overload (20m)
     - [X] There is No Justice in History (35m)
-    - [ ] The Arrow of History (15m)
-    - [ ] The Scent of Money (20m)
-    - [ ] Imperial Visions (25m)
-    - [ ] The Law of Religion (35m)
-    - [ ] The Secret of Success (15m)
-    - [ ] The Discovery of Ignorance (35m)
-    - [ ] The Marriage of Science and Empire (40m)
-    - [ ] The Capitalist Creed (35m)
-    - [ ] The Wheels of Industry (30m)
-    - [ ] A Permanent Revolution (30m)
-
+    - [X] The Arrow of History (15m)
 ** sidntrivedi
 *** IN_PROGRESS Learn Javascript [1/5]
    :PROPERTIES:
