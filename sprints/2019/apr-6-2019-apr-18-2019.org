@@ -33,15 +33,21 @@
   :wpd-sidntrivedi: 1
   :END:
 ** akshay196
-*** IN_PROGRESS The Hitchhiker's guide to Python - Part II [2/4]
+*** DONE The Hitchhiker's guide to Python - Part II [4/4]
+    CLOSED: [2019-04-18 Thu 20:03]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:   5.23
+    :ACTUAL:   10.78
     :OWNER: akshay196
     :ID: READ.1553004553
     :TASKID: READ.1553004553
     :END:
     :LOGBOOK:
+    CLOCK: [2019-04-18 Thu 19:10]--[2019-04-18 Thu 20:02] =>  0:52
+    CLOCK: [2019-04-17 Wed 19:14]--[2019-04-17 Wed 20:15] =>  1:01
+    CLOCK: [2019-04-16 Tue 18:39]--[2019-04-16 Tue 19:35] =>  0:56
+    CLOCK: [2019-04-15 Mon 18:52]--[2019-04-15 Mon 20:08] =>  1:16
+    CLOCK: [2019-04-14 Sun 18:16]--[2019-04-14 Sun 19:44] =>  1:28
     CLOCK: [2019-04-12 Fri 20:25]--[2019-04-12 Fri 21:30] =>  1:05
     CLOCK: [2019-04-12 Fri 15:24]--[2019-04-12 Fri 16:32] =>  1:08
     CLOCK: [2019-04-10 Wed 20:25]--[2019-04-10 Wed 21:30] =>  1:05
@@ -57,10 +63,10 @@
        - Data Serialization
        - Disributed Systems
        - Cryptography
-     - [ ] Chapter 10. Data Manipulation               ( 2h)
+     - [X] Chapter 10. Data Manipulation               ( 2h)
        - Scientific Applications
        - Text Manipulation and Text Mining
-     - [ ] Chapter 11. Data Persistence                ( 3h)
+     - [X] Chapter 11. Data Persistence                ( 3h)
        - Structured Files
        - Database Libraries
 
