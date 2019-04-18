@@ -165,8 +165,8 @@
    :ESTIMATED: 10
    :ACTUAL:   12.62
    :OWNER: gandalfdwite
-   :ID: READ.1554610265
-   :TASKID: READ.1554610265
+   :ID: READ.1553531073
+   :TASKID: READ.1553531073
    :END:
    :LOGBOOK:
    CLOCK: [2019-04-17 Wed 22:35]--[2019-04-18 Thu 00:26] =>  1:51
@@ -186,13 +186,14 @@
    - [X] Containers                               ( 2h)
    - [X] Workloads                                ( 1h)
    - [ ] Services, Load Balancing, Networking     ( 3h)
-*** IN_PROGRESS Learn dgplug logs [6/6]
+*** DONE Learn dgplug logs [6/6]
+    CLOSED: [2019-04-17 Wed 20:21]
    :PROPERTIES:
    :ESTIMATED: 7
    :ACTUAL:   7.60
    :OWNER: gandalfdwite
-   :ID: READ.1554610334
-   :TASKID: READ.1554610334
+   :ID: READ.1553605019
+   :TASKID: READ.1553605019
    :END:
    :LOGBOOK:
    CLOCK: [2019-04-17 Wed 19:17]--[2019-04-17 Wed 20:21] =>  1:04
@@ -214,8 +215,7 @@
    :ESTIMATED: 5
    :ACTUAL:   1.82
    :OWNER: gandalfdwite
-   :ID: READ.1554610422
-   :TASKID: READ.1554610422
+   
    :END:
    :LOGBOOK:
    CLOCK: [2019-04-13 Sat 09:25]--[2019-04-13 Sat 11:14] =>  1:49
