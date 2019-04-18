@@ -6,19 +6,76 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO                                       | NEXT | IN_PROGRESS                                     | WAITING | DONE                                                         | CANCELED |
+|--------------------------------------------+------+-------------------------------------------------+---------+--------------------------------------------------------------+----------|
+| READ.1554709804. Read Linux for you and me |      | READ.1553531542. Data Structure and Algorithmic |         | READ.1553004553. The Hitchhiker's guide to Pyth (2019-04-18) |          |
+| WRITE.1539072660. Blog                     |      | READ.1552291497. NIOS Maths Text Book - Part V  |         | READ.1555009355. Cloud Native DevOps with Kuber (2019-04-18) |          |
+|                                            |      | DEV.1552226887. Stacknews                       |         | READ.1553531073. Read Kubernetes Docs (2019-04-18)           |          |
+|                                            |      | READ.1554403369. Sapiens Book Reading           |         | READ.1553605019. Learn dgplug logs (2019-04-17)              |          |
+|                                            |      | READ.1554709767. Learn Javascript               |         |                                                              |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME          | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|---------------+-----------+--------------------+------+-----------+--------------+------------|
+| Sidntrivedi   |        13 |               1.17 |    0 |        13 |   2019-05-07 | ---------- |
+| Sandeepk      |      15.5 | 11.129999999999999 |    0 |      15.5 |   2019-05-07 | ---------- |
+| Jasonbraganza |        39 |               5.95 |    0 |        39 |   2019-05-07 | ---------- |
+| Gandalfdwite  |        22 |              23.72 |   17 |         5 |   2019-04-23 | ########-- |
+| Bhavin192     |        13 |              10.67 |   13 |         0 |   2019-04-18 | ########## |
+| Akshay196     |        13 |              10.78 |   13 |         0 |   2019-04-18 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:13]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                 |
+|-----+------------+--------+-------+-------------------------------------------------|
+|   1 | 2019-04-06 |  115.5 |   107 |                                                 |
+|   2 | 2019-04-07 |  115.5 |    98 |                                                 |
+|   3 | 2019-04-08 |  115.5 |    89 |                                                 |
+|   4 | 2019-04-09 |  115.5 |    80 |                                                 |
+|   5 | 2019-04-10 |  115.5 |    71 |                                                 |
+|   6 | 2019-04-11 |  115.5 |    62 |                                                 |
+|   7 | 2019-04-12 |  115.5 |    53 |                                                 |
+|   8 | 2019-04-13 |  115.5 |    44 |                                                 |
+|   9 | 2019-04-14 |  115.5 |    36 |                                                 |
+|  10 | 2019-04-15 |  115.5 |    27 |                                                 |
+|  11 | 2019-04-16 |  115.5 |    18 |                                                 |
+|  12 | 2019-04-17 |  108.5 |     9 | READ.1553605019                                 |
+|  13 | 2019-04-18 |   72.5 |     0 | READ.1553531073 READ.1555009355 READ.1553004553 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                                                         | TASKID           | OWNER         | PRIORITY | TODO        | ESTIMATED |             ACTUAL |
+|------------------------------------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------------------|
+| TASKS                                                                        |                  |               | B        |             |     115.5 |              63.42 |
+|------------------------------------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------------------|
+| akshay196                                                                    |                  |               | B        |             |        13 |              10.78 |
+| The Hitchhiker's guide to Python - Part II                                   | READ.1553004553  | akshay196     | B        | DONE        |        13 |              10.78 |
+|------------------------------------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------------------|
+| bhavin192                                                                    |                  |               | B        |             |        13 |              10.67 |
+| Cloud Native DevOps with Kubernetes - Part I                                 | READ.1555009355  | bhavin192     | B        | DONE        |        13 |              10.67 |
+|------------------------------------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------------------|
+| gandalfdwite                                                                 |                  |               | B        |             |        22 |              23.72 |
+| Read Kubernetes Docs                                                         | READ.1553531073  | gandalfdwite  | B        | DONE        |        10 |              14.30 |
+| Learn dgplug logs                                                            | READ.1553605019  | gandalfdwite  | B        | DONE        |         7 |               7.60 |
+| Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) | READ.1553531542  | gandalfdwite  | B        | IN_PROGRESS |         5 |               1.82 |
+|------------------------------------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------------------|
+| jasonbraganza                                                                |                  |               | B        |             |        39 |               5.95 |
+| NIOS Maths Text Book - Part V                                                | READ.1552291497  | jasonbraganza | B        | IN_PROGRESS |        39 |               5.95 |
+|------------------------------------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------------------|
+| sandeepk                                                                     |                  |               | B        |             |      15.5 | 11.129999999999999 |
+| Stacknews                                                                    | DEV.1552226887   | sandeepk      | B        | IN_PROGRESS |         9 |               6.63 |
+| Sapiens Book Reading                                                         | READ.1554403369  | sandeepk      | B        | IN_PROGRESS |       6.5 |               4.50 |
+|------------------------------------------------------------------------------+------------------+---------------+----------+-------------+-----------+--------------------|
+| sidntrivedi                                                                  |                  |               | B        |             |        13 |               1.17 |
+| Learn Javascript                                                             | READ.1554709767  | sidntrivedi   | B        | IN_PROGRESS |         6 |               1.17 |
+| Read Linux for you and me                                                    | READ.1554709804  | sidntrivedi   | B        | TODO        |         5 |                    |
+| Blog                                                                         | WRITE.1539072660 | sidntrivedi   | B        | TODO        |         2 |                    |
 #+END:
 * TASKS
   :PROPERTIES:
