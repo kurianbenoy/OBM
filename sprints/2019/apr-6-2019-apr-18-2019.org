@@ -385,7 +385,7 @@
     - [X] Design/CSS work for the landing page, Login page, Post submit page (5h)
     - [X] Logic for comment on post and tab (2h) 
     - [X] Logic for thread post linkage (2h)
-*** DONE Sapiens Book Reading [5/14]
+*** DONE Sapiens Book Reading [5/5]
     CLOSED: [2019-04-18 Thu 23:45]
     :PROPERTIES:
     :ESTIMATED: 6.5
