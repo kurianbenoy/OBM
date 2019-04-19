@@ -82,7 +82,6 @@
    - [ ] Storage                                  ( 5h)
    - [ ] Configuration                            ( 3h)
    - [ ] Policies                                 ( 2h)
-
 *** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) Part I [0/3]
     :PROPERTIES:
     :ESTIMATED: 4
