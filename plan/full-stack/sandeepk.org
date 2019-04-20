@@ -117,47 +117,6 @@
     :END:
 
 * PLAN
-** April     19, 2019 - May        5, 2019 (17 days)
-   :PROPERTIES:
-   :wpd-sandeepk: 1.3
-   :END:
-
-*** Project Stack NEWS
-    :PROPERTIES:
-    :ESTIMATED: 15
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: DEV.1552226887
-    :TASKID: DEV.1552226887
-    :END:
-    - [ ] Pagination on all pages (2h)
-    - [ ] Search functionality for posts and other pages (1h)
-    - [ ] Past post landing page (1h)
-    - [ ] CSS/Design of Ask page (1h)
-    - [ ] CSS/Design Show page (1h)
-    - [ ] Validation on submit page form (1.5h)
-    - [ ] Validation for Log-In and Sign_In form (1.5h)
-    - [ ] Implementation of Karma points on all pages (3h)
-    - [ ] Overall Improving the design of App[Final Touch Up] (3h)
- 
-*** Homo Sapiens Book Reading
-    :PROPERTIES:
-    :ESTIMATED: 7
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: READ.1554403369
-    :TASKID: READ.1554403369
-    :END:
-    - [ ] The Scent of Money (30m)
-    - [ ] Imperial Visions (40m)
-    - [ ] The Law of Religion (50m)
-    - [ ] The Secret of Success (30m)
-    - [ ] The Discovery of Ignorance (50m)
-    - [ ] The Marriage of Science and Empire (1h)
-    - [ ] The Capitalist Creed (1h)
-    - [ ] The Wheels of Industry (50m)
-    - [ ] A Permanent Revolution (50m)
-
 ** May        6, 2019 - May       17, 2019 (12 days)
 ** May       18, 2019 - June       3, 2019 (17 days)
 ** June       4, 2019 - June      16, 2019 (13 days)
