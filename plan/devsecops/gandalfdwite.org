@@ -11,14 +11,6 @@
    :ID: READ.1553531073
    :TASKID: READ.1553531073
    :END:
-   - [ ] Kubernetes Overview                      ( 2h)
-   - [ ] Kubernetes Architecture                  ( 2h)
-   - [ ] Containers                               ( 2h)
-   - [ ] Workloads                                ( 1h)
-   - [ ] Services, Load Balancing, Networking     ( 3h)
-   - [ ] Storage                                  ( 5h)
-   - [ ] Configuration                            ( 3h)
-   - [ ] Policies                                 ( 2h)
    - [ ] Cluster Administration                   ( 3h)
    - [ ] Extending Kubernetes                     ( 5h)
 ** Python
@@ -30,9 +22,6 @@
     :ID: READ.1553531542
     :TASKID: READ.1553531542
     :END:
-    - [ ] 1. Introduction                      ( 2h)
-    - [ ] 2. Recursion & Backtracking          ( 1h)
-    - [ ] 3. Linked Lists                      ( 1h)
     - [ ] 4. Stacks                            ( 1h)
     - [ ] 5. Queues                            ( 1h)
     - [ ] 6. Trees                             ( 4h)
@@ -52,21 +41,6 @@
     - [ ] 20. Complexity Classes               ( 1h)
 *** Contributing to Open Source Python project
 ** Learn Emacs
-*** dgplug Emacs logs
-   :PROPERTIES:
-   :ESTIMATED: 20
-   :ACTUAL:
-   :OWNER: gandalfdwite
-   :ID: READ.1553605019
-   :TASKID: READ.1553605019
-   :END:
-     - [ ] Part 3. Search Functions      ( 1h)
-     - [ ] Part 4. Shell mode commands   ( 1h)
-     - [ ] Part 5. Dired mode            ( 1h)
-     - [ ] Part 6. Info Commands         ( 1h)
-     - [ ] Part 7. Calculator in emacs   ( 1h)
-     - [ ] Part 8. Org mode in emacs     ( 2h)
-     - [ ] Part 9. Magit in emacs        ( 1h)
 ** Unix
 *** Unix Concepts & Applications by Sumitabha Das
    :PROPERTIES:
@@ -76,8 +50,6 @@
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
-   - [ ] 1. Introduction                         ( 1h)
-   - [ ] 2. Unix architecture and command usage  ( 2h)
    - [ ] 3. General Purpose Utilities            ( 1h)
    - [ ] 4. File system                          ( 2h)
    - [ ] 5. Handling Ordinary files              ( 2h)

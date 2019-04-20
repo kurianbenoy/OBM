@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 17
   :SPRINTSTART: <2019-04-19 Fri>
   :wpd-akshay196: 1
+  :wpd-gandalfdwite: 1
   :END:
 ** akshay196
 *** UNIX and Linux System Administration Handbook - Part I [0/8]
@@ -110,3 +111,37 @@
       - User login lockout
       - Risk reduction with PAM
       - Centralized account management
+** gandalfdwite
+*** Read Kubernetes Docs Part II [0/3]
+   :PROPERTIES:
+   :ESTIMATED: 10
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1553531073
+   :TASKID: READ.1553531073
+   :END:
+   - [ ] Storage                                  ( 5h)
+   - [ ] Configuration                            ( 3h)
+   - [ ] Policies                                 ( 2h)
+*** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) Part I [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1553531542
+    :TASKID: READ.1553531542
+    :END:
+    - [ ] 1. Introduction                      ( 2h)
+    - [ ] 2. Recursion & Backtracking          ( 1h)
+    - [ ] 3. Linked Lists                      ( 1h)
+*** Unix Concepts & Applications by Sumitabha Das Part I [0/2]
+   :PROPERTIES:
+   :ESTIMATED: 3
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1553532278
+   :TASKID: READ.1553532278
+   :END:
+   - [ ] 1. Introduction                         ( 1h)
+   - [ ] 2. Unix architecture and command usage  ( 2h)
+

@@ -246,7 +246,7 @@
       - Further Reading
       - Summary
 ** gandalfdwite
-*** DONE Read Kubernetes Docs [5/5]
+*** DONE Read Kubernetes Docs Part-I [5/5]
     CLOSED: [2019-04-18 Thu 19:59]
    :PROPERTIES:
    :ESTIMATED: 10
