@@ -314,7 +314,7 @@
     - [ ] 3. Linked Lists                      ( 1h)
     - [ ] 4. Stacks                            ( 1h)
 ** jasonbraganza
-*** DONE NIOS Maths Text Book - Part V [1/7]
+*** DONE NIOS Maths Text Book - Part V [1/1]
    :PROPERTIES:
    :ESTIMATED: 39
    :ACTUAL:   6.50
