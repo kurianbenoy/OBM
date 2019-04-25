@@ -1,0 +1,254 @@
+#+TITLE: April 19, 2019 - May 5, 2019 (17 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 17
+  :SPRINTSTART: <2019-04-19 Fri>
+  :wpd-akshay196: 1
+  :wpd-bhavin192: 7
+  :wpd-gandalfdwite: 1
+  :wpd-sandeepk: 1.3
+  :END:
+** akshay196
+*** UNIX and Linux System Administration Handbook - Part I [0/8]
+    :PROPERTIES:
+    :ESTIMATED: 17
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1555438527
+    :TASKID: READ.1555438527
+    :END:
+    - [ ] Chapter  1. Where to Start                        (2h)
+      - Essential duties of a system administrator
+      - Suggested background
+      - Linux distributions
+      - Example systems used in this book
+      - Notation and typographical conventions
+      - Units
+      - Man pages and other on-line documentation
+      - Other authoritative documentation
+      - Other sources of information
+      - Ways to find and install software
+      - Where to host
+      - Specialization and adjacent disciplines
+    - [ ] Chapter  2. Booting and System Management Daemons (2h)
+      - Boot process overview
+      - System firmware
+      - Boot loaders
+      - GRUB: the GRand Unified Boot loader
+      - The FreeBSD boot process
+      - System management daemons
+      - systemd in detail
+      - FreeBSD init and startup scripts
+      - Reboot and shutdown procedures
+      - Stratagems for a nonbooting system
+    - [ ] Chapter  3. Access Control and Rootly Powers      (2h)
+      - Standard UNIX access control
+      - Management of the root account
+      - Extensions to the standard access control model
+      - Modern access control
+    - [ ] Chapter  4. Process Control                       (2h)
+      - Components of a process
+      - The life cycle of a process
+      - ps: monitor processes
+      - Interactive monitoring with top
+      - nice and renice: influence scheduling priority
+      - The /proc filesystem
+      - strace and truss: trace signals and system calls
+      - Runaway processes
+      - Periodic processes
+    - [ ] Chapter  5. The Filesystem                        (2h)
+      - Pathnames
+      - Filesystem mounting and unmounting
+      - Organization of the file tree
+      - File types
+      - File attributes
+      - Access control lists
+    - [ ] Chapter  6. Software Installation and Management  (2h)
+      - Operating system installation
+      - Managing packages
+      - Linux package management systems
+      - High-level Linux package management systems
+      - FreeBSD software management
+      - Software localization and configuration
+    - [ ] Chapter  7. Scripting and The Shell               (3h)
+      - Scripting philosophy
+      - Shell basics
+      - sh scripting
+      - Regular expressions
+      - Python programming
+      - Ruby programming
+      - Library and environment management for Python and Ruby
+      - Revision control with Git
+    - [ ] Chapter  8. User Management                       (2h)
+      - Account mechanics
+      - The /etc/passwd file
+      - The Linux /etc/shadow file
+      - FreeBSD's /etc/master.passwd and /etc/login.conf files
+      - The /etc/group file
+      - Manual steps for adding users
+      - Scripts for adding users: useradd, adduser, and newusers
+      - Safe removal of a user’s account and files
+      - User login lockout
+      - Risk reduction with PAM
+      - Centralized account management
+** bhavin192
+*** Cloud Native DevOps with Kubernetes - Part II [0/5]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1555009355
+    :TASKID:   READ.1555009355
+    :END:
+    https://www.oreilly.com/library/view/cloud-native-devops/9781492040750/
+    - [ ] Chapter 12. Deploying Kubernetes Applications		(65m)
+      - Building Manifests with Helm
+      - Deploying Helm Charts
+      - Managing Multiple Charts with Helmfile
+      - Advanced Manifest Management Tools
+      - Summary
+    - [ ] Chapter 13. Development Workflow			(35m)
+      - Development Tools
+      - Deployment Strategies
+      - Handling Migrations with Helm
+      - Summary
+    - [ ] Chapter 14. Continuous Deployment in Kubernetes	(60m)
+      - What Is Continuous Deployment?
+      - Which CD Tool Should I Use?
+      - CD Components
+      - A CD Pipeline with Cloud Build
+      - Summary
+    - [ ] Chapter 15. Observability and Monitoring		(50m)
+      - What Is Observability?
+      - The Observability Pipeline
+      - Monitoring in Kubernetes
+      - Summary
+    - [ ] Chapter 16. Metrics in Kubernetes			(100m)
+      - What Are Metrics, Really?
+      - Choosing Good Metrics
+      - Analyzing Metrics
+      - Graphing Metrics with Dashboards
+      - Alerting on Metrics
+      - Metrics Tools and Services
+      - Summary
+*** Read about namespaces and control groups [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1556025974
+    :TASKID:   READ.1556025974
+    :END:
+    - [ ] Read man pages					(30m)
+    - [ ] Read [[http://www.haifux.org/lectures/299/][Resource Management in Linux - Rami Rosen]]	(60m)
+    - [ ] Try unshare command					(15m)
+    - [ ] Set Cgroup values for a service			(15m)
+*** Linux Under the Hood
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1555957032
+    :TASKID:   READ.1555957032
+    :END:
+    https://learning.oreilly.com/live-training/courses/linux-under-the-hood/0636920257462/
+*** Write blog post on building Emacs from source
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1556025699
+    :TASKID:   WRITE.1556025699
+    :END:
+** gandalfdwite
+*** Read Kubernetes Docs Part II [0/3]
+   :PROPERTIES:
+   :ESTIMATED: 10
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1553531073
+   :TASKID: READ.1553531073
+   :END:
+   - [ ] Storage                                  ( 5h)
+   - [ ] Configuration                            ( 3h)
+   - [ ] Policies                                 ( 2h)
+*** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) Part I [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1553531542
+    :TASKID: READ.1553531542
+    :END:
+    - [ ] 1. Introduction                      ( 2h)
+    - [ ] 2. Recursion & Backtracking          ( 1h)
+    - [ ] 3. Linked Lists                      ( 1h)
+*** Unix Concepts & Applications by Sumitabha Das Part I [0/2]
+   :PROPERTIES:
+   :ESTIMATED: 3
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1553532278
+   :TASKID: READ.1553532278
+   :END:
+   - [ ] 1. Introduction                         ( 1h)
+   - [ ] 2. Unix architecture and command usage  ( 2h)
+** sandeepk
+*** Project Stack NEWS - Part II
+    :PROPERTIES:
+    :ESTIMATED: 15
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1552226887
+    :TASKID: DEV.1552226887
+    :END:
+    - [ ] Pagination on all pages (2h)
+    - [ ] Search functionality for posts and other pages (1h)
+    - [ ] Past post landing page (1h)
+    - [ ] CSS/Design of Ask page (1h)
+    - [ ] CSS/Design Show page (1h)
+    - [ ] Validation on submit page form (1.5h)
+    - [ ] Validation for Log-In and Sign_In form (1.5h)
+    - [ ] Implementation of Karma points on all pages (3h)
+    - [ ] Overall Improving the design of App[Final Touch Up] (3h)
+*** Homo Sapiens Book Reading - Part II
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1554403369
+    :TASKID: READ.1554403369
+    :END:
+    - [ ] The Scent of Money (30m)
+    - [ ] Imperial Visions (40m)
+    - [ ] The Law of Religion (50m)
+    - [ ] The Secret of Success (30m)
+    - [ ] The Discovery of Ignorance (50m)
+    - [ ] The Marriage of Science and Empire (1h)
+    - [ ] The Capitalist Creed (1h)
+    - [ ] The Wheels of Industry (50m)
+    - [ ] A Permanent Revolution (50m)
+
+
