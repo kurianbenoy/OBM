@@ -114,38 +114,49 @@
       - Risk reduction with PAM
       - Centralized account management
 ** bhavin192
-*** Cloud Native DevOps with Kubernetes - Part II [0/5]
+*** DONE Cloud Native DevOps with Kubernetes - Part II [5/5]
+    CLOSED: [2019-04-24 Wed 22:13]
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL:
+    :ACTUAL:   4.90
     :OWNER:    bhavin192
     :ID:       READ.1555009355
     :TASKID:   READ.1555009355
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-04-24 Wed 21:29]--[2019-04-24 Wed 22:13] =>  0:44
+    CLOCK: [2019-04-23 Tue 19:13]--[2019-04-23 Tue 20:07] =>  0:54
+    CLOCK: [2019-04-22 Mon 23:06]--[2019-04-22 Mon 23:38] =>  0:32
+    CLOCK: [2019-04-22 Mon 21:29]--[2019-04-22 Mon 22:24] =>  0:55
+    CLOCK: [2019-04-22 Mon 20:24]--[2019-04-22 Mon 20:51] =>  0:27
+    CLOCK: [2019-04-21 Sun 20:53]--[2019-04-21 Sun 21:07] =>  0:14
+    CLOCK: [2019-04-21 Sun 18:16]--[2019-04-21 Sun 18:39] =>  0:23
+    CLOCK: [2019-04-21 Sun 16:57]--[2019-04-21 Sun 17:42] =>  0:45
+    :END:
     https://www.oreilly.com/library/view/cloud-native-devops/9781492040750/
-    - [ ] Chapter 12. Deploying Kubernetes Applications		(65m)
+    - [X] Chapter 12. Deploying Kubernetes Applications		(65m)
       - Building Manifests with Helm
       - Deploying Helm Charts
       - Managing Multiple Charts with Helmfile
       - Advanced Manifest Management Tools
       - Summary
-    - [ ] Chapter 13. Development Workflow			(35m)
+    - [X] Chapter 13. Development Workflow			(35m)
       - Development Tools
       - Deployment Strategies
       - Handling Migrations with Helm
       - Summary
-    - [ ] Chapter 14. Continuous Deployment in Kubernetes	(60m)
+    - [X] Chapter 14. Continuous Deployment in Kubernetes	(60m)
       - What Is Continuous Deployment?
       - Which CD Tool Should I Use?
       - CD Components
       - A CD Pipeline with Cloud Build
       - Summary
-    - [ ] Chapter 15. Observability and Monitoring		(50m)
+    - [X] Chapter 15. Observability and Monitoring		(50m)
       - What Is Observability?
       - The Observability Pipeline
       - Monitoring in Kubernetes
       - Summary
-    - [ ] Chapter 16. Metrics in Kubernetes			(100m)
+    - [X] Chapter 16. Metrics in Kubernetes			(100m)
       - What Are Metrics, Really?
       - Choosing Good Metrics
       - Analyzing Metrics
@@ -153,13 +164,16 @@
       - Alerting on Metrics
       - Metrics Tools and Services
       - Summary
-*** Read about namespaces and control groups [0/4]
+*** IN_PROGRESS Read about namespaces and control groups [0/4]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   0.18
     :OWNER:    bhavin192
     :ID:       READ.1556025974
     :TASKID:   READ.1556025974
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-04-25 Thu 19:21]--[2019-04-25 Thu 19:32] =>  0:11
     :END:
     - [ ] Read man pages					(30m)
     - [ ] Read [[http://www.haifux.org/lectures/299/][Resource Management in Linux - Rami Rosen]]	(60m)
