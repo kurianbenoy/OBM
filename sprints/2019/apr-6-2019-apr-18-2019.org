@@ -386,7 +386,7 @@
     - [X] There is No Justice in History (35m)
     - [X] The Arrow of History (15m)
 ** sidntrivedi
-*** IN_PROGRESS Learn Javascript [1/5]
+*** TODO IN_PROGRESS Learn Javascript [1/5]
    :PROPERTIES:
    :ESTIMATED: 6
    :ACTUAL:   1.17
@@ -404,16 +404,23 @@
    - [ ] Debugging
    - [ ] Basic Data Structures
    - [ ] Basic ALgorithm Scripting
-*** TODO Read Linux for you and me [0/4]
+*** TODO Read Linux for you and me [2/4]
    :PROPERTIES:
    :ESTIMATED: 5
-   :ACTUAL:
+   :ACTUAL:   3.68
    :OWNER: sidntrivedi
    :ID: READ.1554709804
    :TASKID: READ.1554709804
    :END:
-   - [ ] File Permissions
-   - [ ] Processes in Linux
+   :LOGBOOK:
+   CLOCK: [2019-04-12 Fri 09:55]--[2019-04-12 Fri 10:50] =>  0:55
+   CLOCK: [2019-04-13 Sat 14:05]--[2019-04-13 Sat 14:30] =>  0:25
+   CLOCK: [2019-04-13 Sat 17:50]--[2019-04-13 Sat 18:13] =>  0:23
+   CLOCK: [2019-04-14 Sun 08:45]--[2019-04-14 Sun 09:21] =>  0:36
+   CLOCK: [2019-04-14 Sun 21:32]--[2019-04-14 Sun 22:54] =>  1:22
+   :END:
+   - [X] File Permissions
+   - [X] Processes in Linux
    - [ ] Linux Services
    - [ ] Package Management
 *** TODO Blog [0/1]
