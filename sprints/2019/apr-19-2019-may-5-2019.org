@@ -31,15 +31,37 @@
   :wpd-sandeepk: 1.3
   :END:
 ** akshay196
-*** UNIX and Linux System Administration Handbook - Part I [0/8]
+*** DONE UNIX and Linux System Administration Handbook - Part I [8/8]
+    CLOSED: [2019-05-05 Sun 18:43]
     :PROPERTIES:
     :ESTIMATED: 17
-    :ACTUAL:
+    :ACTUAL:   16.57
     :OWNER: akshay196
     :ID: READ.1555438527
     :TASKID: READ.1555438527
     :END:
-    - [ ] Chapter  1. Where to Start                        (2h)
+    :LOGBOOK:
+    CLOCK: [2019-05-05 Sun 17:35]--[2019-05-05 Sun 18:43] =>  1:08
+    CLOCK: [2019-05-05 Sun 10:05]--[2019-05-05 Sun 11:19] =>  1:14
+    CLOCK: [2019-05-03 Fri 19:14]--[2019-05-03 Fri 20:10] =>  0:56
+    CLOCK: [2019-05-03 Fri 10:59]--[2019-05-03 Fri 11:18] =>  0:19
+    CLOCK: [2019-05-03 Fri 09:44]--[2019-05-03 Fri 10:20] =>  0:36
+    CLOCK: [2019-05-01 Wed 22:09]--[2019-05-01 Wed 22:59] =>  0:50
+    CLOCK: [2019-05-01 Wed 20:23]--[2019-05-01 Wed 21:23] =>  1:00
+    CLOCK: [2019-05-01 Wed 08:00]--[2019-05-01 Wed 08:36] =>  0:36
+    CLOCK: [2019-04-30 Tue 18:51]--[2019-04-30 Tue 19:18] =>  0:27
+    CLOCK: [2019-04-29 Mon 22:22]--[2019-04-29 Mon 23:02] =>  0:40
+    CLOCK: [2019-04-29 Mon 18:06]--[2019-04-29 Mon 18:44] =>  0:38
+    CLOCK: [2019-04-27 Sat 20:02]--[2019-04-27 Sat 21:06] =>  1:04
+    CLOCK: [2019-04-25 Thu 19:20]--[2019-04-25 Thu 20:22] =>  1:02
+    CLOCK: [2019-04-24 Wed 18:14]--[2019-04-24 Wed 19:10] =>  0:56
+    CLOCK: [2019-04-23 Tue 21:34]--[2019-04-23 Tue 22:25] =>  0:51
+    CLOCK: [2019-04-22 Mon 20:52]--[2019-04-22 Mon 21:58] =>  1:06
+    CLOCK: [2019-04-21 Sun 18:55]--[2019-04-21 Sun 19:51] =>  0:56
+    CLOCK: [2019-04-20 Sat 18:29]--[2019-04-20 Sat 19:31] =>  1:02
+    CLOCK: [2019-04-19 Fri 19:57]--[2019-04-19 Fri 21:10] =>  1:13
+    :END:
+    - [X] Chapter  1. Where to Start                        (2h)
       - Essential duties of a system administrator
       - Suggested background
       - Linux distributions
@@ -52,7 +74,7 @@
       - Ways to find and install software
       - Where to host
       - Specialization and adjacent disciplines
-    - [ ] Chapter  2. Booting and System Management Daemons (2h)
+    - [X] Chapter  2. Booting and System Management Daemons (2h)
       - Boot process overview
       - System firmware
       - Boot loaders
@@ -63,12 +85,12 @@
       - FreeBSD init and startup scripts
       - Reboot and shutdown procedures
       - Stratagems for a nonbooting system
-    - [ ] Chapter  3. Access Control and Rootly Powers      (2h)
+    - [X] Chapter  3. Access Control and Rootly Powers      (2h)
       - Standard UNIX access control
       - Management of the root account
       - Extensions to the standard access control model
       - Modern access control
-    - [ ] Chapter  4. Process Control                       (2h)
+    - [X] Chapter  4. Process Control                       (2h)
       - Components of a process
       - The life cycle of a process
       - ps: monitor processes
@@ -78,21 +100,21 @@
       - strace and truss: trace signals and system calls
       - Runaway processes
       - Periodic processes
-    - [ ] Chapter  5. The Filesystem                        (2h)
+    - [X] Chapter  5. The Filesystem                        (2h)
       - Pathnames
       - Filesystem mounting and unmounting
       - Organization of the file tree
       - File types
       - File attributes
       - Access control lists
-    - [ ] Chapter  6. Software Installation and Management  (2h)
+    - [X] Chapter  6. Software Installation and Management  (2h)
       - Operating system installation
       - Managing packages
       - Linux package management systems
       - High-level Linux package management systems
       - FreeBSD software management
       - Software localization and configuration
-    - [ ] Chapter  7. Scripting and The Shell               (3h)
+    - [X] Chapter  7. Scripting and The Shell               (3h)
       - Scripting philosophy
       - Shell basics
       - sh scripting
@@ -101,7 +123,7 @@
       - Ruby programming
       - Library and environment management for Python and Ruby
       - Revision control with Git
-    - [ ] Chapter  8. User Management                       (2h)
+    - [X] Chapter  8. User Management                       (2h)
       - Account mechanics
       - The /etc/passwd file
       - The Linux /etc/shadow file
@@ -250,5 +272,3 @@
     - [ ] The Capitalist Creed (1h)
     - [ ] The Wheels of Industry (50m)
     - [ ] A Permanent Revolution (50m)
-
-
