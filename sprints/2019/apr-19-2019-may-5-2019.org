@@ -183,7 +183,8 @@
     :TASKID:   WRITE.1556025699
     :END:
 ** gandalfdwite
-*** IN_PROGRESS Read Kubernetes Docs Part II [3/3]
+*** DONE Read Kubernetes Docs Part II [3/3]
+    CLOSED: [2019-04-29 Mon 20:38]
    :PROPERTIES:
    :ESTIMATED: 10
    :ACTUAL:   10.43
@@ -206,27 +207,39 @@
    - [X] Storage                                  ( 5h)
    - [X] Configuration                            ( 3h)
    - [X] Policies                                 ( 2h)
-*** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) Part I [0/3]
+*** DONE Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) Part I [3/3]
+    CLOSED: [2019-05-05 Sun 06:32]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   6.87
     :OWNER: gandalfdwite
     :ID: READ.1553531542
     :TASKID: READ.1553531542
     :END:
-    - [ ] 1. Introduction                      ( 2h)
-    - [ ] 2. Recursion & Backtracking          ( 1h)
-    - [ ] 3. Linked Lists                      ( 1h)
-*** Unix Concepts & Applications by Sumitabha Das Part I [0/2]
+    :LOGBOOK:
+    CLOCK: [2019-05-04 Sat 22:29]--[2019-05-05 Sun 00:45] =>  2:16
+    CLOCK: [2019-05-03 Fri 23:17]--[2019-05-03 Fri 23:54] =>  0:37
+    CLOCK: [2019-05-02 Thu 22:25]--[2019-05-03 Fri 00:10] =>  1:45
+    CLOCK: [2019-05-01 Wed 21:58]--[2019-05-01 Wed 23:11] =>  1:13
+    CLOCK: [2019-04-30 Tue 21:00]--[2019-04-30 Tue 22:01] =>  1:01
+    :END:
+    - [X] 1. Introduction                      ( 2h)
+    - [X] 2. Recursion & Backtracking          ( 1h)
+    - [X] 3. Linked Lists                      ( 1h)
+*** IN_PROGRESS Unix Concepts & Applications by Sumitabha Das Part I [2/2]
    :PROPERTIES:
    :ESTIMATED: 3
-   :ACTUAL:
+   :ACTUAL:   2.98
    :OWNER: gandalfdwite
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
-   - [ ] 1. Introduction                         ( 1h)
-   - [ ] 2. Unix architecture and command usage  ( 2h)
+   :LOGBOOK:
+   CLOCK: [2019-05-05 Sun 23:27]--[2019-05-06 Mon 00:36] =>  1:09
+   CLOCK: [2019-05-05 Sun 07:45]--[2019-05-05 Sun 09:35] =>  1:50
+   :END:
+   - [X] 1. Introduction                         ( 1h)
+   - [X] 2. Unix architecture and command usage  ( 2h)
 ** sandeepk
 *** Project Stack NEWS - Part II
     :PROPERTIES:
