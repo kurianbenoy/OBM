@@ -216,33 +216,25 @@
    - [ ] 1. Introduction                         ( 1h)
    - [ ] 2. Unix architecture and command usage  ( 2h)
 ** sandeepk
-*** Project Stack NEWS - Part II [1/9]
+*** DONE Project Stack NEWS - Part II [1/1]
     CLOSED: [2019-05-05 Sun 00:00]
     :PROPERTIES:
     :ESTIMATED: 15
-    :ACTUAL:
+    :ACTUAL:   2.33
     :OWNER: sandeepk
     :ID: DEV.1552226887
     :TASKID: DEV.1552226887
     :END:
     :LOGBOOK:
-    CLOCK: [2019-04-25 Thu 22:30]--[2019-04-25 Thu 23:55] =>  1:25
+    CLOCK: [2019-04-25 Thu 22:30]--[2019-04-25 Thu 23:30] =>  1:00
     CLOCK: [2019-04-20 Sat 20:30]--[2019-04-20 Sat 21:50] =>  1:20
     :END:
     - [X] Pagination on all pages (2h)
-    - [ ] Search functionality for posts and other pages (1h)
-    - [ ] Past post landing page (1h)
-    - [ ] CSS/Design of Ask page (1h)
-    - [ ] CSS/Design Show page (1h)
-    - [ ] Validation on submit page form (1.5h)
-    - [ ] Validation for Log-In and Sign_In form (1.5h)
-    - [ ] Implementation of Karma points on all pages (3h)
-    - [ ] Overall Improving the design of App[Final Touch Up] (3h)
-*** DONE Homo Sapiens Book Reading - Part II [5/9]
+*** DONE Homo Sapiens Book Reading - Part II [5/5]
     CLOSED: [2019-05-05 Sun 00:00]
     :PROPERTIES:
     :ESTIMATED: 7
-    :ACTUAL:
+    :ACTUAL:   3.00
     :OWNER: sandeepk
     :ID: READ.1554403369
     :TASKID: READ.1554403369
@@ -264,9 +256,6 @@
     - [X] The Law of Religion (50m)
     - [X] The Secret of Success (30m)
     - [X] The Discovery of Ignorance (50m)
-    - [ ] The Marriage of Science and Empire (1h)
-    - [ ] The Capitalist Creed (1h)
-    - [ ] The Wheels of Industry (50m)
-    - [ ] A Permanent Revolution (50m)
+
 
 
