@@ -11,7 +11,6 @@
 ** Basic calligraphy (https://www.thehappyevercrafter.com)
 ** music theory and guitar (Learn and Master Guitar, https://gx169.infusionsoft.com/app/storeFront/showProductDetail?productId=5)
 ** Dance to jive
-** Learn French (fluent forever)    
 ** Personal Work Miscellenea
 *** go access for my nginx.  
 *** server rebuild. Debian with kvm and Gui. Then vms in there  (https://debian-handbook.info/browse/stable/sect.virtualization.html - pay if it works) - ask Kushal what he does   
@@ -43,14 +42,41 @@
    - [ ] The Theory of Editing   (5h)
    - [ ] The Practicals of Emacs (5h)
 
+** Learn French (fluent forever)    
+*** Read Fluent Forever and take notes [0/9]
+   :PROPERTIES:
+   :ESTIMATED: 20
+   :ACTUAL:
+   :OWNER: jasonbraganza
+   :ID: READ.1557162821
+   :TASKID: READ.1557162821
+   :END:
+   - [ ] Introduction                                   (02h)
+   - [ ] Upload - The five principles to end forgetting (02h)
+   - [ ] Sound Play                                     (02h)
+   - [ ] Word Play                                      (02h)
+   - [ ] Sentence Play                                  (02h)
+   - [ ] The Language Game                              (02h)
+   - [ ] Epilogue                                       (02h)
+   - [ ] The Toolbox                                    (02h)
+   - [ ] Appendices                                     (02h)
+*** Take Notes from Fluent Forever and formulate further actions [0/1]
+   :PROPERTIES:
+   :ESTIMATED: 5
+   :ACTUAL:
+   :OWNER: jasonbraganza
+   :ID: WRITE.1557163395
+   :TASKID: WRITE.1557163395
+   :END:
+   - [ ] Make Plan of action (05h)
 
 
 * PLAN
 ** May        6, 2019 - May       17, 2019 (12 days)
    :PROPERTIES:
-   :wpd-jasonbraganza: 1
+   :wpd-jasonbraganza: 1.5
    :END:
-** TODO Read and Practice alongside the Mastering Emacs book - Part I [0/2]
+*** TODO Read and Practice alongside the Mastering Emacs book - Part I [0/2]
    :PROPERTIES:
    :ESTIMATED: 30
    :ACTUAL:
@@ -60,6 +86,17 @@
    :END:
    - [ ] Introduction            (5h)
    - [ ] The Way of Emacs        (5h)
+*** TODO Read Fluent Forever and take notes - Part I [0/3]
+   :PROPERTIES:
+   :ESTIMATED: 20
+   :ACTUAL:
+   :OWNER: jasonbraganza
+   :ID: READ.1557162821
+   :TASKID: READ.1557162821
+   :END:
+   - [ ] Introduction                                   (02h)
+   - [ ] Upload - The five principles to end forgetting (02h)
+   - [ ] Sound Play                                     (02h)
 
 ** May       18, 2019 - June       3, 2019 (17 days)
 ** June       4, 2019 - June      16, 2019 (13 days)
