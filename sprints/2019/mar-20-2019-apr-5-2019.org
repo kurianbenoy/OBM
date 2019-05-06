@@ -1,0 +1,286 @@
+#+TITLE: March 20, 2019 - April 5, 2019 (17 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                          | CANCELED |
+|------+------+-------------+---------+---------------------------------------------------------------+----------|
+|      |      |             |         | READ.1553004553. The Hitchhiker's guide to Pyth (2019-04-05)  |          |
+|      |      |             |         | OPS.1553529907. GNU Emacs bug triaging (2019-04-05)           |          |
+|      |      |             |         | WRITE.1553529991. Write blog post on Gadgetbridg (2019-04-05) |          |
+|      |      |             |         | READ.1552291497. NIOS Maths Text Book - Part IV (2019-04-05)  |          |
+|      |      |             |         | EVENT.1553530038. Attend COEP FOSSMeet (2019-03-31)           |          |
+|      |      |             |         | READ.1552291636. NIOS Accounts Text Book - Part (2019-03-26)  |          |
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+| NAME          | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|---------------+-----------+--------------------+------+-----------+--------------+------------|
+| Jasonbraganza |        67 | 31.119999999999997 |   67 |         0 |   2019-04-09 | ########## |
+| Bhavin192     |        17 | 17.939999999999998 |   17 |         0 |   2019-04-09 | ########## |
+| Akshay196     |        17 |              14.42 |   17 |         0 |   2019-04-09 | ########## |
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                                 |
+|-----+------------+--------+-------+-----------------------------------------------------------------|
+|   1 | 2019-03-20 |    101 |    95 |                                                                 |
+|   2 | 2019-03-21 |    101 |    89 |                                                                 |
+|   3 | 2019-03-22 |    101 |    83 |                                                                 |
+|   4 | 2019-03-23 |    101 |    77 |                                                                 |
+|   5 | 2019-03-24 |    101 |    71 |                                                                 |
+|   6 | 2019-03-25 |    101 |    65 |                                                                 |
+|   7 | 2019-03-26 |     85 |    59 | READ.1552291636                                                 |
+|   8 | 2019-03-27 |     85 |    53 |                                                                 |
+|   9 | 2019-03-28 |     85 |    48 |                                                                 |
+|  10 | 2019-03-29 |     85 |    42 |                                                                 |
+|  11 | 2019-03-30 |     85 |    36 |                                                                 |
+|  12 | 2019-03-31 |     77 |    30 | EVENT.1553530038                                                |
+|  13 | 2019-04-01 |     77 |    24 |                                                                 |
+|  14 | 2019-04-02 |     77 |    18 |                                                                 |
+|  15 | 2019-04-03 |     77 |    12 |                                                                 |
+|  16 | 2019-04-04 |     77 |     6 |                                                                 |
+|  17 | 2019-04-05 |      0 |     0 | READ.1552291497 WRITE.1553529991 OPS.1553529907 READ.1553004553 |
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                          | TASKID           | OWNER         | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|-----------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| TASKS                                         |                  |               | B        |      |       101 |              63.48 |
+|-----------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| akshay196                                     |                  |               | B        |      |        17 |              14.42 |
+| The Hitchhiker's guide to Python - Part I     | READ.1553004553  | akshay196     | B        | DONE |        17 |              14.42 |
+|-----------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| bhavin192                                     |                  |               | B        |      |        17 | 17.939999999999998 |
+| GNU Emacs bug triaging                        | OPS.1553529907   | bhavin192     | B        | DONE |         3 |               1.58 |
+| Write blog post on Gadgetbridge and openScale | WRITE.1553529991 | bhavin192     | B        | DONE |         6 |               8.08 |
+| Attend COEP FOSSMeet                          | EVENT.1553530038 | bhavin192     | B        | DONE |         8 |               8.28 |
+|-----------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| jasonbraganza                                 |                  |               | B        |      |        67 | 31.119999999999997 |
+| NIOS Maths Text Book - Part IV                | READ.1552291497  | jasonbraganza | B        | DONE |        51 |              16.45 |
+| NIOS Accounts Text Book - Part II             | READ.1552291636  | jasonbraganza | B        | DONE |        16 |              14.67 |
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 17
+  :SPRINTSTART: <2019-03-20 Wed>
+  :wpd-akshay196: 1
+  :wpd-bhavin192: 1
+  :wpd-jasonbraganza: 4
+  :END:
+** akshay196
+*** DONE The Hitchhiker's guide to Python - Part I [5/5]
+    CLOSED: [2019-04-05 Fri 09:51]
+    :PROPERTIES:
+    :ESTIMATED: 17
+    :ACTUAL:   14.42
+    :OWNER: akshay196
+    :ID: READ.1553004553
+    :TASKID: READ.1553004553
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-04-05 Fri 08:59]--[2019-04-05 Fri 09:50] =>  0:51
+    CLOCK: [2019-04-04 Thu 18:35]--[2019-04-04 Thu 19:28] =>  0:53
+    CLOCK: [2019-04-03 Wed 22:51]--[2019-04-03 Wed 23:39] =>  0:48
+    CLOCK: [2019-04-02 Tue 19:53]--[2019-04-02 Tue 21:00] =>  1:07
+    CLOCK: [2019-04-01 Mon 18:09]--[2019-04-01 Mon 19:27] =>  1:18
+    CLOCK: [2019-03-30 Sat 20:55]--[2019-03-30 Sat 21:52] =>  0:57
+    CLOCK: [2019-03-29 Fri 21:32]--[2019-03-29 Fri 22:18] =>  0:46
+    CLOCK: [2019-03-28 Thu 21:12]--[2019-03-28 Thu 21:51] =>  0:39
+    CLOCK: [2019-03-28 Thu 19:34]--[2019-03-28 Thu 20:39] =>  1:05
+    CLOCK: [2019-03-27 Wed 21:24]--[2019-03-27 Wed 22:24] =>  1:00
+    CLOCK: [2019-03-26 Tue 20:40]--[2019-03-26 Tue 21:47] =>  1:07
+    CLOCK: [2019-03-25 Mon 18:55]--[2019-03-25 Mon 19:34] =>  0:39
+    CLOCK: [2019-03-23 Sat 20:42]--[2019-03-23 Sat 21:30] =>  0:48
+    CLOCK: [2019-03-22 Fri 17:42]--[2019-03-22 Fri 18:46] =>  1:04
+    CLOCK: [2019-03-21 Thu 16:55]--[2019-03-21 Thu 17:56] =>  1:01
+    CLOCK: [2019-03-20 Wed 18:56]--[2019-03-20 Wed 19:18] =>  0:22
+    :END:
+    - [X] Chapter 1. Picking an Interpreter           (30m)
+    - [X] Chapter 4. Writing Great Code [6/6]         ( 2h)
+      - [X] Code Style
+      - [X] Structuring Your Project
+      - [X] Testing your Code
+      - [X] Documentation
+      - [X] Logging
+      - [X] Choosing a License
+    - [X] Chapter 5. Reading Great Code [6/6]         ( 6h)
+      - [X] HowDoI
+      - [X] Diamond
+      - [X] Tablib
+      - [X] Requests
+      - [X] Werkzeug
+      - [X] Flask
+    - [X] Chapter 6. Shipping Great Code [5/5]        ( 4h)
+      - [X] Useful Vocabulary and Concepts
+      - [X] Packaging Your Code
+      - [X] Freezing Your Code
+      - [X] Packaging for Linux-Built Distributions
+      - [X] Exexutable ZIP Files
+    - [X] Chapter 7. User Interaction [3/3]          (4.5h)
+      - [X] Jupyter Notebooks
+      - [X] Command-Line Application
+      - [X] GUI Application
+** bhavin192
+*** DONE GNU Emacs bug triaging [7/7]
+    CLOSED: [2019-04-05 Fri 23:54]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:   1.58
+    :OWNER:    bhavin192
+    :ID:       OPS.1553529907
+    :TASKID:   OPS.1553529907
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-04-05 Fri 22:19]--[2019-04-05 Fri 23:54] =>  1:35
+    :END:
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34791][#34791]]: 27.0.50; Raw C++ strings are not font-locked correctly
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34949][#34949]]: 27.0.50; Docstring of `vc-deduce-fileset' incomplete
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34665][#34665]]: M-x shell expansion fooled by "\|"
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34661][#34661]]: Info-hide-note-references confused by "built-ins"
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34594][#34594]]: cc-mode needs to support "final" in C++ classes
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34448][#34448]]: --no-build-details means system-name is nil
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=34336][#34336]]: In eww-mode, when point is in the hyperlink position, the
+      hotkey r is occupied by the image-mode hotkey.
+*** DONE Write blog post on Gadgetbridge and openScale
+    CLOSED: [2019-04-05 Fri 21:33]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:   8.08
+    :OWNER:    bhavin192
+    :ID:       WRITE.1553529991
+    :TASKID:   WRITE.1553529991
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-04-05 Fri 21:07]--[2019-04-05 Fri 21:33] =>  0:26
+    CLOCK: [2019-04-04 Thu 22:16]--[2019-04-04 Thu 23:12] =>  0:56
+    CLOCK: [2019-04-03 Wed 21:03]--[2019-04-03 Wed 21:19] =>  0:16
+    CLOCK: [2019-04-03 Wed 18:55]--[2019-04-03 Wed 20:03] =>  1:08
+    CLOCK: [2019-04-02 Tue 19:17]--[2019-04-02 Tue 20:33] =>  1:16
+    CLOCK: [2019-04-01 Mon 21:15]--[2019-04-01 Mon 22:23] =>  1:08
+    CLOCK: [2019-04-01 Mon 19:47]--[2019-04-01 Mon 20:19] =>  0:32
+    CLOCK: [2019-03-28 Thu 19:27]--[2019-03-28 Thu 19:48] =>  0:21
+    CLOCK: [2019-03-27 Wed 20:39]--[2019-03-27 Wed 20:55] =>  0:16
+    CLOCK: [2019-03-27 Wed 19:17]--[2019-03-27 Wed 20:05] =>  0:48
+    CLOCK: [2019-03-26 Tue 19:13]--[2019-03-26 Tue 20:11] =>  0:58
+    :END:
+*** DONE Attend COEP FOSSMeet
+    CLOSED: [2019-03-31 Sun 18:10]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:   8.28
+    :OWNER:    bhavin192
+    :ID:       EVENT.1553530038
+    :TASKID:   EVENT.1553530038
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-31 Sun 15:04]--[2019-03-31 Sun 18:10] =>  3:06
+    CLOCK: [2019-03-31 Sun 10:56]--[2019-03-31 Sun 11:55] =>  0:59
+    CLOCK: [2019-03-30 Sat 14:22]--[2019-03-30 Sat 16:45] =>  2:23
+    CLOCK: [2019-03-30 Sat 11:07]--[2019-03-30 Sat 12:56] =>  1:49
+    :END:
+    https://foss.coep.org.in/fossmeet/
+** jasonbraganza
+*** DONE NIOS Maths Text Book - Part IV [2/2]
+    CLOSED: [2019-04-05 Fri 23:00]
+   :PROPERTIES:
+   :ESTIMATED: 51
+   :ACTUAL:   16.45
+   :OWNER: jasonbraganza
+   :ID: READ.1552291497
+   :TASKID: READ.1552291497
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-04-02 Tue 11:20]--[2019-04-02 Tue 12:55] =>  1:35
+   CLOCK: [2019-04-02 Tue 09:00]--[2019-04-02 Tue 10:58] =>  1:58
+   CLOCK: [2019-04-02 Tue 07:55]--[2019-04-02 Tue 08:38] =>  0:43
+   CLOCK: [2019-04-01 Mon 12:12]--[2019-04-01 Mon 12:46] =>  0:34
+   CLOCK: [2019-04-01 Mon 09:22]--[2019-04-01 Mon 12:05] =>  2:43
+   CLOCK: [2019-03-30 Sat 14:14]--[2019-03-30 Sat 15:48] =>  1:34
+   CLOCK: [2019-03-30 Sat 11:10]--[2019-03-30 Sat 14:00] =>  2:50
+   CLOCK: [2019-03-20 Wed 08:24]--[2019-03-20 Wed 12:54] =>  4:30
+   :END:
+    - [X] Module - II: Sequences and series [2/2]
+      - [X] 6 - Sequences and series
+      - [X] 7 - Some special sequences
+    - [X] Module - III: Algebra I [5/5]
+      - [X] 8 - Complex Numbers
+      - [X] 9 - Quadratic Equations and Linear Inequalities
+      - [X] 10 - Principle of Mathematical Induction
+      - [X] 11 - Permutations and Combinations
+      - [X] 12 - Binomial Theorem
+*** DONE NIOS Accounts Text Book - Part II [7/7]
+    CLOSED: [2019-03-26 Tue 10:15]
+    :PROPERTIES:
+    :ESTIMATED: 16
+    :ACTUAL:   14.67
+    :OWNER: jasonbraganza
+    :ID: READ.1552291636
+    :TASKID: READ.1552291636
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-26 Tue 09:58]--[2019-03-26 Tue 10:11] =>  0:13
+    CLOCK: [2019-03-26 Tue 09:41]--[2019-03-26 Tue 09:58] =>  0:17
+    CLOCK: [2019-03-26 Tue 08:51]--[2019-03-26 Tue 09:39] =>  0:48
+    CLOCK: [2019-03-25 Mon 14:11]--[2019-03-25 Mon 16:33] =>  2:22
+    CLOCK: [2019-03-25 Mon 11:00]--[2019-03-25 Mon 14:00] =>  3:00
+    CLOCK: [2019-03-24 Sun 10:50]--[2019-03-24 Sun 14:06] =>  3:16
+    CLOCK: [2019-03-23 Sat 10:00]--[2019-03-23 Sat 14:44] =>  4:44
+    :END:
+    - [X] Module - I: Basic Accounting [8/8]
+      - [X] 1 - Accounting - An Introduction
+      - [X] 2 - Accounting Concepts
+      - [X] 3 - Accounting Conventions and Standards
+      - [X] 4 - Accounting for Business Transactions
+      - [X] 5 - Journal
+      - [X] 6 - Ledger
+      - [X] 7 - Cash Book
+      - [X] 8 - Special Purpose Books
+    - [X] Module - II: Trial Balance and Computers [5/5]
+      - [X] 9 - Trial Balance
+      - [X] 10 - Bank Reconciliation Statement
+      - [X] 11 - Bills of Exchange
+      - [X] 12 - Errors and their Rectification
+      - [X] 13 - Computer and Computerised Accounting System
+    - [X] Module - III: Financial Statements [8/8]
+      - [X] 14 - Depreciation
+      - [X] 15 - Provision and Reserves
+      - [X] 16 - Financial Statements - An Introduction
+      - [X] 17 - Financial Statements I
+      - [X] 18 - Financial Statements II
+      - [X] 19 - Not for Profit Organisations - An Introduction
+      - [X] 20 - Financial Statements (Not for Profit Organisations)
+      - [X] 21 - Accounts From Incomplete Records
+    - [X] Module - IV: Partnership Accounts [4/4]
+      - [X] 22 - Partnership - An Introduction
+      - [X] 23 - Admission of a Partner
+      - [X] 24 - Retirement and Death of a Partner
+      - [X] 25 - Dissolution of a partnership firm
+    - [X] Module - V: Company Accounts [5/5]
+      - [X] 26 - Company - An Introduction
+      - [X] 27 - Issue of Shares
+      - [X] 28 - Forfeiture of Shares
+      - [X] 29 - Reissue of Forfeited Shares
+      - [X] 30 - Issue of Debentures
+    - [X] Module - VI : Analysis of Financial Statements [4/4]
+      - [X] 31 - Financial Statements Analysis-An Introduction
+      - [X] 32 - Accounting Ratios-I
+      - [X] 33 - Accounting Ratios-II
+      - [X] 34 - Cash Flow Statement
+    - [X] Module - VII: Application of Computers in Financial Accounting [4/4]
+      - [X] 35 - Electronic Spread Sheet
+      - [X] 36 - Use of Spread-sheet in Business Application
+      - [X] 37 - Graphs and Charts for Business
+      - [X] 38 - Database Management System for Accounting

@@ -19,10 +19,9 @@
 #+BEGIN: block-update-summary
 | NAME          | ESTIMATED |            ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
 |---------------+-----------+-------------------+------+-----------+--------------+------------|
-| Vaibhavk      |         0 |                 0 |    0 |         0 |   2019-02-21 | ---------- |
-| Sandeepk      |        24 |             14.58 |   24 |         0 |   2019-02-21 | ########## |
-| Jasonbraganza |         0 |                 0 |    0 |         0 |   2019-02-21 | ---------- |
-| Bhavin192     |      7.85 | 5.640000000000001 | 7.85 |         0 |   2019-02-21 | ########## |
+| Sandeepk      |        24 |             14.58 |   24 |         0 |   2019-03-01 | ########## |
+| Jasonbraganza |         0 |                 0 |    0 |         0 |   2019-03-01 | ---------- |
+| Bhavin192     |      7.85 | 5.640000000000001 | 7.85 |         0 |   2019-03-01 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -77,7 +76,6 @@
   :wpd-bhavin192: 0.5
   :wpd-jasonbraganza: 5
   :wpd-sandeepk: 1.5
-  :wpd-vaibhavk: 1.5
   :END:
 ** bhavin192
 *** Learning Golang
@@ -195,20 +193,6 @@
     :ID:       DEV.1548171355
     :TASKID:   DEV.1548171355
     :END:
-    :LOGBOOK:
-    CLOCK: [2019-02-05 Tue 20:20]--[2019-02-05 Tue 21:15] =>  0:55
-    CLOCK: [2019-02-04 Mon 20:30]--[2019-02-04 Mon 21:15] =>  0:45
-    CLOCK: [2019-02-03 Sun 16:00]--[2019-02-03 Sun 17:00] =>  1:00
-    CLOCK: [2019-02-02 Sat 20:00]--[2019-02-02 Sat 21:00] =>  1:00
-    CLOCK: [2019-01-30 Wed 21:00]--[2019-01-30 Wed 22:00] =>  1:00
-    CLOCK: [2019-01-30 Wed 14:00]--[2019-01-30 Wed 14:40] =>  0:40
-    CLOCK: [2019-01-27 Sun 17:00]--[2019-01-27 Sun 18:00] =>  1:00
-    CLOCK: [2019-01-27 Sun 14:00]--[2019-01-27 Sun 14:35] =>  0:35
-    CLOCK: [2019-01-26 Sat 21:00]--[2019-01-26 Sat 21:30] =>  0:30
-    CLOCK: [2019-01-26 Sat 19:00]--[2019-01-26 Sat 19:40] =>  0:40
-    CLOCK: [2019-01-21 Mon 23:00]--[2019-01-22 Tue 00:00] =>  1:00
-    CLOCK: [2019-01-21 Mon 21:35]--[2019-01-21 Mon 22:30] =>  0:55
-    :END:
-    - [X] Features Break Down (3h)
-    - [X] Env SetUp (6h)
-    - [X] Model Layout (6h)
+    - [ ] Features Break Down (3h)
+    - [ ] Env SetUp (6h)
+    - [ ] Model Layout (6h)

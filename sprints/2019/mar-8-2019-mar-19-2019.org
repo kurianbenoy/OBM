@@ -1,0 +1,231 @@
+#+TITLE: March 8-19, 2019 (12 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                          | CANCELED |
+|------+------+-------------+---------+---------------------------------------------------------------+----------|
+|      |      |             |         | WRITE.1552224818. Write blog post on Presenting  (2019-03-19) |          |
+|      |      |             |         | READ.1552291497. NIOS Maths Text Book - Part II (2019-03-19)  |          |
+|      |      |             |         | EVENT.1552361977. Attend Docker Pune Docker Bday (2019-03-16) |          |
+|      |      |             |         | READ.1552220705. Chapter 13. Low-Level Programm (2019-03-14)  |          |
+|      |      |             |         | DEV.1552220740. Chapter 13 Exercises (2019-03-14)             |          |
+|      |      |             |         | EVENT.1552217985. Attend Golang Pune March meetu (2019-03-09) |          |
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+| NAME             | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+-----------+--------------------+------+-----------+--------------+------------|
+| Vaibhavk         |         0 |                  0 |    0 |         0 |   2019-03-21 | ---------- |
+| Sidntrivedi      |         0 |                  0 |    0 |         0 |   2019-03-21 | ---------- |
+| Sandeepk         |         0 |                  0 |    0 |         0 |   2019-03-21 | ---------- |
+| Nightwarrior-Xxx |         0 |                  0 |    0 |         0 |   2019-03-21 | ---------- |
+| Jasonbraganza    |        24 |               6.57 |   24 |         0 |   2019-03-21 | ########## |
+| Bhavin192        |      12.1 | 12.009999999999998 | 12.1 |         0 |   2019-03-21 | ########## |
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:12]"
+#+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                  |
+|-----+------------+--------+-------+----------------------------------|
+|   1 | 2019-03-08 |  104.6 |    96 |                                  |
+|   2 | 2019-03-09 |  102.6 |    87 | EVENT.1552217985                 |
+|   3 | 2019-03-10 |  102.6 |    78 |                                  |
+|   4 | 2019-03-11 |  102.6 |    70 |                                  |
+|   5 | 2019-03-12 |  102.6 |    61 |                                  |
+|   6 | 2019-03-13 |  102.6 |    52 |                                  |
+|   7 | 2019-03-14 |  100.5 |    44 | DEV.1552220740 READ.1552220705   |
+|   8 | 2019-03-15 |  100.5 |    35 |                                  |
+|   9 | 2019-03-16 |   96.5 |    26 | EVENT.1552361977                 |
+|  10 | 2019-03-17 |   96.5 |    17 |                                  |
+|  11 | 2019-03-18 |   96.5 |     9 |                                  |
+|  12 | 2019-03-19 |   68.5 |     0 | READ.1552291497 WRITE.1552224818 |
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                     | TASKID           | OWNER            | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| TASKS                                    |                  |                  | B        |      |     104.6 |              18.58 |
+|------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| bhavin192                                |                  |                  | B        |      |      12.1 | 12.009999999999998 |
+| Attend Golang Pune March meetup          | EVENT.1552217985 | bhavin192        | B        | DONE |         2 |               2.13 |
+| Learning Golang                          |                  |                  | B        |      |       2.1 | 2.3499999999999996 |
+| Chapter 13. Low-Level Programming        | READ.1552220705  | bhavin192        | B        | DONE |       0.1 |               0.05 |
+| Chapter 13 Exercises                     | DEV.1552220740   | bhavin192        | B        | DONE |         2 |               2.30 |
+| Write blog post on Presenting with Emacs | WRITE.1552224818 | bhavin192        | B        | DONE |         4 |               3.58 |
+| Attend Docker Pune Docker Bday #6        | EVENT.1552361977 | bhavin192        | B        | DONE |         4 |               3.95 |
+|------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| jasonbraganza                            |                  |                  | B        |      |        24 |               6.57 |
+| NIOS Maths Text Book - Part III          | READ.1552291497  | jasonbraganza    | B        | DONE |        24 |               6.57 |
+|------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| nightwarrior-xxx                         |                  |                  | B        |      |        30 |                    |
+| Learn React                              | DEV.1552139317   | nightwarrior-xxx | B        |      |         6 |                    |
+| Contribute and Learn                     | DEV.1552081276   | nightwarrior-xxx | B        |      |        15 |                    |
+| Innovate and Build                       | DEV.1552081239   | nightwarrior-xxx | B        |      |         6 |                    |
+| Learn concepts of Lua                    | READ.1552081129  | nightwarrior-xxx | B        |      |         3 |                    |
+|------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| sandeepk                                 |                  |                  | B        |      |        12 |                    |
+| Project Stacknews                        | DEV.1552226887   | sandeepk         | B        |      |        12 |                    |
+|------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| sidntrivedi                              |                  |                  | B        |      |      10.5 |                    |
+| [[https://github.com/publiclab/leaflet-environmental-layers][Leaflet Environment Layers Issues]]        | DEV.1552298348   | sidntrivedi      | A        |      |         6 |                    |
+| Linux for you and me                     | READ.1538996950  | sidntrivedi      | A        |      |         1 |                    |
+| DS/Algo Foundation                       | READ.1549883885  | sidntrivedi      | B        |      |       1.5 |                    |
+| Leaflet Docs                             | READ.1552394357  | sidntrivedi      | B        |      |         2 |                    |
+|------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| vaibhavk                                 |                  |                  | B        |      |        16 |                    |
+| Kapitan: [[https://github.com/deepmind/kapitan/issues/201][GSoC task #201 - II]]             | DEV.1551436242   | vaibhavk         | A        |      |        10 |                    |
+| Taskcluster: [[https://bugzilla.mozilla.org/show_bug.cgi?id=1533591][Adjust auth API]]             | DEV.1552035914   | vaibhavk         | B        |      |         6 |                    |
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 12
+  :SPRINTSTART: <2019-03-08 Fri>
+  :wpd-bhavin192: 1
+  :wpd-jasonbraganza: 3.33
+  :wpd-nightwarrior-xxx: 2.5
+  :wpd-sandeepk: 1
+  :END:
+** bhavin192
+*** DONE Attend Golang Pune March meetup
+    CLOSED: [2019-03-09 Sat 12:28]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:   2.13
+    :OWNER:    bhavin192
+    :ID:       EVENT.1552217985
+    :TASKID:   EVENT.1552217985
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-09 Sat 10:20]--[2019-03-09 Sat 12:28] =>  2:08
+    :END:
+    https://www.meetup.com/Golang-Pune/events/259292253/
+*** Learning Golang
+**** DONE Chapter 13. Low-Level Programming [1/1]
+     CLOSED: [2019-03-14 Thu 20:13]
+     :PROPERTIES:
+     :ESTIMATED: 0.1
+     :ACTUAL:   0.05
+     :OWNER:    bhavin192
+     :ID:       READ.1552220705
+     :TASKID:   READ.1552220705
+     :END:
+     :LOGBOOK:
+     CLOCK: [2019-03-14 Thu 20:10]--[2019-03-14 Thu 20:13] =>  0:03
+     :END:
+     - [X] 13.5 Another Word of Caution (5m)
+**** DONE Chapter 13 Exercises [1/1]
+     CLOSED: [2019-03-14 Thu 19:57]
+     :PROPERTIES:
+     :ESTIMATED: 2
+     :ACTUAL:   2.30
+     :OWNER:    bhavin192
+     :ID:       DEV.1552220740
+     :TASKID:   DEV.1552220740
+     :END:
+     :LOGBOOK:
+     CLOCK: [2019-03-14 Thu 19:02]--[2019-03-14 Thu 19:57] =>  0:55
+     CLOCK: [2019-03-13 Wed 21:35]--[2019-03-13 Wed 21:49] =>  0:14
+     CLOCK: [2019-03-13 Wed 19:40]--[2019-03-13 Wed 20:03] =>  0:23
+     CLOCK: [2019-03-12 Tue 19:06]--[2019-03-12 Tue 19:52] =>  0:46
+     :END:
+     - [X] 13.4 (1.5h)
+*** DONE Write blog post on Presenting with Emacs
+    CLOSED: [2019-03-19 Tue 20:48]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:   3.58
+    :OWNER:    bhavin192
+    :ID:       WRITE.1552224818
+    :TASKID:   WRITE.1552224818
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-19 Tue 20:40]--[2019-03-19 Tue 20:48] =>  0:08
+    CLOCK: [2019-03-19 Tue 19:03]--[2019-03-19 Tue 20:37] =>  1:34
+    CLOCK: [2019-03-18 Mon 21:55]--[2019-03-18 Mon 22:04] =>  0:09
+    CLOCK: [2019-03-18 Mon 18:57]--[2019-03-18 Mon 19:20] =>  0:23
+    CLOCK: [2019-03-17 Sun 20:29]--[2019-03-17 Sun 21:33] =>  1:04
+    CLOCK: [2019-03-17 Sun 19:45]--[2019-03-17 Sun 20:02] =>  0:17
+    :END:
+*** DONE Attend Docker Pune Docker Bday #6
+    CLOSED: [2019-03-16 Sat 14:17]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:   3.95
+    :OWNER:    bhavin192
+    :ID:       EVENT.1552361977
+    :TASKID:   EVENT.1552361977
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-16 Sat 10:20]--[2019-03-16 Sat 14:17] =>  3:57
+    :END:
+    https://www.meetup.com/Docker-Pune/events/259258699/
+** jasonbraganza
+*** DONE NIOS Maths Text Book - Part III [1/10]
+    CLOSED: [2019-03-19 Tue 23:00]
+   :PROPERTIES:
+   :ESTIMATED: 24
+   :ACTUAL:   6.57
+   :OWNER: jasonbraganza
+   :ID: READ.1552291497
+   :TASKID: READ.1552291497
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-03-18 Mon 16:52]--[2019-03-18 Mon 17:47] =>  0:55
+   CLOCK: [2019-03-18 Mon 14:47]--[2019-03-18 Mon 16:42] =>  1:55
+   CLOCK: [2019-03-18 Mon 14:38]--[2019-03-18 Mon 14:45] =>  0:07
+   CLOCK: [2019-03-18 Mon 10:01]--[2019-03-18 Mon 13:38] =>  3:37
+   :END:
+    - [X] Module - I [2/2]
+      - [X] 4 - Trigonometric Functions II
+      - [X] 5 - Relation between Sides and Angles of a Triangle
+** nightwarrior-xxx
+*** DONE Contribute and Learn [2/2]
+    CLOSED: [2019-03-19 Tue 11:36]
+    :PROPERTIES:
+    :ESTIMATED: 15
+    :ACTUAL:   3.52
+    :OWNER: nightwarrior-xxx
+    :ID: DEV.1552081276
+    :TASKID: DEV.1552081276
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-19 Tue 11:36]--[2019-03-19 Tue 11:36] =>  0:00
+    CLOCK: [2019-03-17 Sun 16:48]--[2019-03-17 Sun 16:56] =>  0:08
+    CLOCK: [2019-03-17 Sun 01:05]--[2019-03-17 Sun 02:10] =>  1:05
+    CLOCK: [2019-03-14 Thu 12:15]--[2019-03-14 Thu 12:45] =>  0:30
+    CLOCK: [2019-03-13 Wed 15:15]--[2019-03-13 Wed 16:01] =>  0:46
+    CLOCK: [2019-03-11 Mon 02:30]--[2019-03-11 Mon 03:32] =>  1:02
+    :END:
+    - [X] Introduce modern JS features and tools to phpMyAdmin codebase
+      - Webpack
+    - [X] Ship completion files for shells
+      - bash,zsh
+** sandeepk
+*** DONE Project Stacknews [2/2]
+    CLOSED: [2019-03-19 Tue 23:30]
+    :PROPERTIES:
+    :ESTIMATED: 12
+    :ACTUAL:   6.25
+    :OWNER: sandeepk
+    :ID: DEV.1552226887
+    :TASKID: DEV.1552226887
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-19 Tue 18:00]--[2019-03-19 Tue 18:40] =>  0:40
+    CLOCK: [2019-03-18 Mon 20:30]--[2019-03-18 Mon 21:40] =>  1:10
+    CLOCK: [2019-03-17 Sun 19:10]--[2019-03-17 Sun 19:55] =>  0:45
+    CLOCK: [2019-03-16 Sat 15:00]--[2019-03-16 Sat 16:10] =>  1:10
+    CLOCK: [2019-03-14 Thu 23:00]--[2019-03-15 Fri 00:05] =>  1:05
+    CLOCK: [2019-03-10 Sun 18:00]--[2019-03-10 Sun 19:25] =>  1:25
+    :END:
+    - [X] Logic for data fetch and saving new post (4h)
+    - [X] Page routing (4h)

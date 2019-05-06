@@ -3,21 +3,15 @@
 #+TAGS: read write dev ops event meeting # Need to be category
 * GOALS
 ** Programming Languages
-*** Golang
-**** The Go Programming Language
-     by Alan A. A. Donovan and Brian W. Kernighan
-     http://www.gopl.io/
-***** Chapter 13. Low-Level Programming
+*** Go
 ** GNU Emacs
 ** Containers
 *** Namespaces
-**** Read about namespaces
-**** Try the unshare command
 *** Control Groups
-**** Read about Control Groups
-**** Set Cgroup values for a service
 *** Container run times
 **** Read about existing run times
+*** Kubernetes
 ** Attend meetups
 ** Write blog posts
 * PLAN
+

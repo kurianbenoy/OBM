@@ -1,0 +1,192 @@
+#+TITLE: March 1-7, 2019 (7 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS                           | WAITING | DONE                                                             | CANCELED |
+|------+------+---------------------------------------+---------+------------------------------------------------------------------+----------|
+|      |      | READ.1548140097. NIOS Maths Text Book |         | DEV.1550765016. Project Stacknews (2019-03-07)                   |          |
+|      |      |                                       |         | DEV.1551435937. [#A] [[https://bugzilla.mozilla.org (2019-03-07) |          |
+|      |      |                                       |         | DEV.1551436242. [#B] [[https://github.com/deepmind/ (2019-03-07) |          |
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+| NAME          | ESTIMATED |            ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|---------------+-----------+-------------------+------+-----------+--------------+------------|
+| Vaibhavk      |        10 | 5.390000000000001 |   10 |         0 |   2019-03-11 | ########## |
+| Sandeepk      |         7 |               6.6 |    7 |         0 |   2019-03-11 | ########## |
+| Jasonbraganza |      50.0 |               9.5 |    0 |      50.0 |   2019-03-18 | ---------- |
+| Bhavin192     |         0 |                 0 |    0 |         0 |   2019-03-11 | ---------- |
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:7]"
+#+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                              |
+|-----+------------+--------+-------+----------------------------------------------|
+|   1 | 2019-03-01 |  103.5 |    89 |                                              |
+|   2 | 2019-03-02 |  103.5 |    74 |                                              |
+|   3 | 2019-03-03 |  103.5 |    59 |                                              |
+|   4 | 2019-03-04 |  103.5 |    44 |                                              |
+|   5 | 2019-03-05 |  103.5 |    30 |                                              |
+|   6 | 2019-03-06 |  103.5 |    15 |                                              |
+|   7 | 2019-03-07 |   86.5 |     0 | DEV.1551436242 DEV.1551435937 DEV.1550765016 |
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                              | TASKID          | OWNER         | PRIORITY | TODO        | ESTIMATED |             ACTUAL |
+|-----------------------------------+-----------------+---------------+----------+-------------+-----------+--------------------|
+| TASKS                             |                 |               | B        |             |     103.5 | 21.490000000000002 |
+|-----------------------------------+-----------------+---------------+----------+-------------+-----------+--------------------|
+| bhavin192                         |                 |               | B        |             |       6.5 |                    |
+| Learning Golang                   |                 |               | B        |             |       6.5 |                    |
+| Chapter 12 Exercises              | DEV.1550682876  | bhavin192     | B        |             |       3.5 |                    |
+| Chapter 13. Low-Level Programming | READ.1551715610 | bhavin192     | B        |             |         2 |                    |
+| Chapter 13 Exercises              | DEV.1551715724  | bhavin192     | B        |             |         1 |                    |
+|-----------------------------------+-----------------+---------------+----------+-------------+-----------+--------------------|
+| jasonbraganza                     |                 |               | B        |             |      80.0 |                9.5 |
+| NIOS Maths Text Book              | READ.1548140097 | jasonbraganza | B        | IN_PROGRESS |      50.0 |               9.50 |
+| NIOS Accounts Text Book           | READ.1548140097 | jasonbraganza | B        |             |      30.0 |                    |
+|-----------------------------------+-----------------+---------------+----------+-------------+-----------+--------------------|
+| sandeepk                          |                 |               | B        |             |         7 |                6.6 |
+| Project Stacknews                 | DEV.1550765016  | sandeepk      | B        | DONE        |         7 |               6.60 |
+|-----------------------------------+-----------------+---------------+----------+-------------+-----------+--------------------|
+| vaibhavk                          |                 |               | B        |             |        10 |  5.390000000000001 |
+| [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517865][Taskcluster Issue]]                 | DEV.1551435937  | vaibhavk      | A        | DONE        |         5 |               3.52 |
+| [[https://github.com/deepmind/kapitan/issues/201][Kapitan GSoC task #201 - I]]        | DEV.1551436242  | vaibhavk      | B        | DONE        |         5 |               1.87 |
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 7
+  :SPRINTSTART: <2019-03-01 Fri>
+  :wpd-bhavin192: 1
+  :wpd-jasonbraganza: 11.42
+  :wpd-sandeepk: 1
+  :wpd-vaibhavk: 1.25
+  :END:
+** bhavin192
+*** Learning Golang
+**** DONE Chapter 12 Exercises [2/2]
+     CLOSED: [2019-03-05 Tue 21:28]
+     :PROPERTIES:
+     :ESTIMATED: 3.5
+     :ACTUAL:   3.38
+     :OWNER:    bhavin192
+     :ID:       DEV.1550682876
+     :TASKID:   DEV.1550682876
+     :END:
+     :LOGBOOK:
+     CLOCK: [2019-03-05 Tue 21:18]--[2019-03-05 Tue 21:28] =>  0:10
+     CLOCK: [2019-03-05 Tue 19:14]--[2019-03-05 Tue 19:40] =>  0:26
+     CLOCK: [2019-03-04 Mon 21:02]--[2019-03-04 Mon 21:27] =>  0:25
+     CLOCK: [2019-03-04 Mon 19:17]--[2019-03-04 Mon 20:08] =>  0:51
+     CLOCK: [2019-03-04 Mon 07:24]--[2019-03-04 Mon 07:37] =>  0:13
+     CLOCK: [2019-03-04 Mon 07:00]--[2019-03-04 Mon 07:18] =>  0:18
+     CLOCK: [2019-03-03 Sun 13:59]--[2019-03-03 Sun 14:59] =>  1:00
+     :END:
+     - [X] 12.6 Part II (5.5h)
+     - [X] 12.7         (2.5h)
+**** DONE Chapter 13. Low-Level Programming [4/4]
+     CLOSED: [2019-03-07 Thu 22:52]
+     :PROPERTIES:
+     :ESTIMATED: 2
+     :ACTUAL:   1.20
+     :OWNER:    bhavin192
+     :ID:       READ.1551715610
+     :TASKID:   READ.1551715610
+     :END:
+     :LOGBOOK:
+     CLOCK: [2019-03-07 Thu 22:33]--[2019-03-07 Thu 22:52] =>  0:19
+     CLOCK: [2019-03-06 Wed 19:39]--[2019-03-06 Wed 19:51] =>  0:12
+     CLOCK: [2019-03-06 Wed 19:05]--[2019-03-06 Wed 19:29] =>  0:24
+     CLOCK: [2019-03-06 Wed 18:57]--[2019-03-06 Wed 19:05] =>  0:08
+     CLOCK: [2019-03-05 Tue 21:52]--[2019-03-05 Tue 22:01] =>  0:09
+     :END:
+     - [X] 13.1 unsafe.Sizeof, Alignof, and Offsetof (25m)
+     - [X] 13.2 unsafe.Pointer                       (20m)
+     - [X] 13.3 Example: Deep Equivalence            (25m)
+     - [X] 13.4 Calling C Code with cgo              (45m)
+**** DONE Chapter 13 Exercises [1/1]
+     CLOSED: [2019-03-07 Thu 22:23]
+     :PROPERTIES:
+     :ESTIMATED: 1
+     :ACTUAL:   1.55
+     :OWNER:    bhavin192
+     :ID:       DEV.1551715724
+     :TASKID:   DEV.1551715724
+     :END:
+     :LOGBOOK:
+     CLOCK: [2019-03-07 Thu 21:20]--[2019-03-07 Thu 22:23] =>  1:03
+     CLOCK: [2019-03-07 Thu 19:27]--[2019-03-07 Thu 19:57] =>  0:30
+     :END:
+     - [X] 13.3 (1h)
+** jasonbraganza
+*** DONE NIOS Maths Text Book - Part II [0/10]
+    CLOSED: [2019-03-07 Thu 23:30]
+    :PROPERTIES:
+    :ESTIMATED: 50.0
+    :ACTUAL:   9.50
+    :OWNER: jasonbraganza
+    :ID: READ.1548140097
+    :TASKID: READ.1548140097
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-05 Tue 08:00]--[2019-03-05 Tue 13:00] =>  5:00
+    CLOCK: [2019-03-04 Mon 10:00]--[2019-03-04 Mon 14:30] =>  4:30
+    :END:
+** sandeepk
+*** DONE Project Stacknews [2/2]
+    CLOSED: [2019-03-07 Thu 23:35]
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:   6.60
+    :OWNER: sandeepk
+    :ID: DEV.1550765016
+    :TASKID: DEV.1550765016
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-07 Thu 22:10]--[2019-03-07 Thu 23:35] =>  1:25
+    CLOCK: [2019-03-07 Thu 13:30]--[2019-03-07 Thu 14:30] =>  1:00
+    CLOCK: [2019-03-06 Wed 21:30]--[2019-03-06 Wed 22:31] =>  1:01
+    CLOCK: [2019-03-04 Mon 23:00]--[2019-03-04 Mon 23:40] =>  0:40
+    CLOCK: [2019-03-03 Sun 15:00]--[2019-03-03 Sun 17:30] =>  2:30
+    :END:
+    - [X] Front End User Interaction Page 4h
+    - [X] Landing Page 3h
+** vaibhavk
+*** DONE [#A] [[https://bugzilla.mozilla.org/show_bug.cgi?id=1517865][Taskcluster Issue]]
+    CLOSED: [2019-03-07 Thu 23:30]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:   3.52
+    :OWNER: vaibhavk
+    :ID: DEV.1551435937
+    :TASKID: DEV.1551435937
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-03 Sun 12:14]--[2019-03-03 Sun 14:31] =>  2:17
+    CLOCK: [2019-03-02 Sat 12:58]--[2019-03-02 Sat 13:30] =>  0:32
+    CLOCK: [2019-03-01 Fri 23:58]--[2019-03-02 Sat 00:40] =>  0:42
+    :END:
+*** DONE [#B] [[https://github.com/deepmind/kapitan/issues/201][Kapitan GSoC task #201 - I]]
+    CLOSED: [2019-03-07 Thu 23:30]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:   1.87
+    :OWNER: vaibhavk
+    :ID: DEV.1551436242
+    :TASKID: DEV.1551436242
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-03-05 Tue 18:15]--[2019-03-05 Tue 18:58] =>  0:43
+    CLOCK: [2019-03-01 Fri 23:07]--[2019-03-01 Fri 23:48] =>  0:41
+    CLOCK: [2019-03-01 Fri 22:07]--[2019-03-01 Fri 22:35] =>  0:28
+    :END:
+    
