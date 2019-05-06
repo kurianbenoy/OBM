@@ -29,156 +29,54 @@
 
 
 * GOALS
-** Master GNU Emacs
-*** Learning GNU Emacs [0/14]
+** Learn Emacs
+*** Read and Practice alongside the Mastering Emacs book [0/6]
    :PROPERTIES:
-   :ESTIMATED: 13.0
-   :ACTUAL:   
-   :OWNER: mbuf 
-   :ID: READ.1536571485
-   :TASKID: READ.1536571485
-   :END:
-    Third edition.
-    Debra Cameron, James Elliott, Marc Loy et. al.
-   - [ ] Chapter  1. Emacs Basics                                   (30m)
-   - [ ] Chapter  2. Editing                                        ( 1h)
-   - [ ] Chapter  3. Search and Replace                             ( 1h)
-   - [ ] Chapter  4. Using Buffers, Windows, and Frames             ( 1h)
-   - [ ] Chapter  5. Emacs as a Work Environment                    ( 1h)
-   - [ ] Chapter  6. Writing Macros                                 ( 1h)
-   - [ ] Chapter  7. Simple Text Formatting and Specialized Editing ( 1h)
-   - [ ] Chapter  8. Markup Language Support                        ( 1h)
-   - [ ] Chapter  9. Computer Language Support                      ( 1h)
-   - [ ] Chapter 10. Customizing Emacs                              ( 1h)
-   - [ ] Chapter 11. Emacs Lisp Programming                         ( 1h)
-   - [ ] Chapter 12. Version Control                                ( 1h)
-   - [ ] Chapter 13. Platform-specific considerations               ( 1h)
-   - [ ] Chapter 14. The Help System                                (30m)
-*** watch "Getting Started with Org Mode" (~ 57m)
-    Harry Schwartz.
-   :PROPERTIES:
-   :ESTIMATED: 1.0
+   :ESTIMATED: 30
    :ACTUAL:
-   :OWNER: mbuf
-   :ID: READ.1537806234
-   :TASKID: READ.1537806234
+   :OWNER: jasonbraganza
+   :ID: READ.1557143830
+   :TASKID: READ.1557143830
    :END:
-    https://www.youtube.com/watch?v=SzA2YODtgK4
-*** watch "An Introduction to Emacs Lisp"
-    :PROPERTIES:
-    :ESTIMATED: 1.0
-    :ACTUAL:
-    :OWNER:    mbuf
-    :ID:       READ.1537807752
-    :TASKID:   READ.1537807752
-    :END:
-    https://www.youtube.com/watch?v=2z-YBsd5snY
-** Improve writing
-*** Installation of Parabola GNU/Linux-libre [0/4]
-    :PROPERTIES:
-    :ESTIMATED: 3.0
-    :ACTUAL:
-    :OWNER:    mbuf
-    :ID:       WRITE.1537806377
-    :TASKID:   WRITE.1537806377
-    :END:
-    - [ ] Create draft       ( 2h)
-    - [ ] Insert screenshots (15m)
-    - [ ] Review post        (30m)
-    - [ ] Publish document   (15m)
-** Development
-*** SICP book exercises [0/5]
-    :PROPERTIES:
-    :ESTIMATED: 24.0
-    :ACTUAL:
-    :OWNER:    mbuf
-    :ID:       DEV.1537806718
-    :TASKID:   DEV.1537806718
-    :END:
-    - [ ] Chapter 1. Building Abstractions with Procedures (4h)
-    - [ ] Chapter 2. Building Abstractions with Data       (5h)
-    - [ ] Chapter 3. Modularity, Objects, and State        (5h)
-    - [ ] Chapter 4. Metalinguistic Abstraction            (5h)
-    - [ ] Chapter 5. Computing with Register Machines      (5h)
-** Operations
-*** Databases
-**** Postgresql
-***** Read PostgreSQL 9.0 High Performance [0/16]
-      :PROPERTIES:
-      :ESTIMATED: 10.0
-      :ACTUAL:
-      :OWNER:    mbuf
-      :ID:       READ.1537808006
-      :TASKID:   READ.1537808006
-      :END:
-      - [ ] Chapter  1. PostgreSQL Versions              (15m)
-      - [ ] Chapter  2. Database Hardware                (15m)
-      - [ ] Chapter  3. Database Hardware Benchmarking   (30m)
-      - [ ] Chapter  4. Disk Setup                       (30m)
-      - [ ] Chapter  5. Memory for Database Caching      (30m)
-      - [ ] Chapter  6. Server Configuration Tuning      ( 1h)
-      - [ ] Chapter  7. Routine Maintenance              (45m)
-      - [ ] Chapter  8. Database Benchmarking            (45m)
-      - [ ] Chapter  9. Database Indexing                ( 1h)
-      - [ ] Chapter 10. Query Optimization               ( 1h)
-      - [ ] Chapter 11. Database Activity and Statistics (45m)
-      - [ ] Chapter 12. Monitoring and Trending          (45m)
-      - [ ] Chapter 13. Pooling and Caching              (30m)
-      - [ ] Chapter 14. Scaling with Replication         (30m)
-      - [ ] Chapter 15. Partitioning Data                (30m)
-      - [ ] Chapter 16. Avoiding Common Problems         (30m)
+   - [ ] Introduction            (5h)
+   - [ ] The Way of Emacs        (5h)
+   - [ ] First Steps             (5h)
+   - [ ] The Theory of Movement  (5h)
+   - [ ] The Theory of Editing   (5h)
+   - [ ] The Practicals of Emacs (5h)
 
-** Attend meetups
-*** dgplug GNU Emacs IRC meeting
-    :PROPERTIES:
-    :ESTIMATED: 2.0
-    :ACTUAL:
-    :OWNER:    mbuf
-    :ID:       EVENT.1537807431
-    :TASKID:   EVENT.1537807431
-    :END:
-*** linux.conf.au, January 21-25, 2019
-    :PROPERTIES:
-    :ESTIMATED: 30.0
-    :ACTUAL:
-    :OWNER:    mbuf
-    :ID:       EVENT.1537808409
-    :TASKID:   EVENT.1537808409
-    :END:
-    https://linux.conf.au/
 
 
 * PLAN
-** October   10, 2018 - October  23, 2018 (14 days)
+** May        6, 2019 - May       17, 2019 (12 days)
    :PROPERTIES:
-   :wpd-mbuf: 2
+   :wpd-jasonbraganza: 1
    :END:
-*** Provisioning of Parabola VM [0/2]
-    :PROPERTIES:
-    :ESTIMATED: 3.0
-    :ACTUAL:
-    :OWNER:    mbuf
-    :ID:       OPS.1537806791
-    :TASKID:   OPS.1537806791
-    :END:
-    - [ ] Launch test VM              (2.5h)
-    - [ ] Test ssh connectivity to VM ( 30m)
-** October   24, 2018 - November  8, 2018 (16 days)
+** Read and Practice alongside the Mastering Emacs book - Part I
    :PROPERTIES:
-   :wpd-mbuf: 3
+   :ESTIMATED: 30
+   :ACTUAL:
+   :OWNER: jasonbraganza
+   :ID: READ.1557143830
+   :TASKID: READ.1557143830
    :END:
-*** Ansible connectivity test to Parabola VM [0/3]
-    :PROPERTIES:
-    :ESTIMATED: 1.0
-    :ACTUAL:
-    :OWNER:    mbuf
-    :ID:       OPS.1537806847
-    :TASKID:   OPS.1537806847
-    :END:
-    - [ ] Create Ansible directory structure (30m)
-    - [ ] Setup inventory                    (15m)
-    - [ ] Test connectivity                  (15m)
-** November   9, 2018 - November 22, 2018 (14 days)
-   :PROPERTIES:
-   :wpd-mbuf: 4
-   :END:
+** May       18, 2019 - June       3, 2019 (17 days)
+** June       4, 2019 - June      16, 2019 (13 days)
+** June      17, 2019 - July       3, 2019 (17 days)
+** July       4, 2019 - July      15, 2019 (12 days)
+** July      16, 2019 - August     1, 2019 (17 days)
+** August     2, 2019 - August    14, 2019 (13 days)
+** August    15, 2019 - August    30, 2019 (16 days)
+** August    31, 2019 - September 12, 2019 (13 days)
+** September 13, 2019 - September 29, 2019 (17 days)
+** Spetember 30, 2019 - October   12, 2019 (13 days)
+** October   13, 2019 - October   28, 2019 (16 days)
+** October   29, 2019 - November  11, 2019 (14 days)
+** November  12, 2019 - November  27, 2019 (16 days)
+** November  28, 2019 - December  11, 2019 (14 days)
+** December  12, 2019 - December  26, 2019 (15 days)
+** December  27, 2019 - January    9, 2020 (14 days)
+** January   10, 2020 - January   25, 2020 (16 days)
+** January   26, 2020 - February   8, 2020 (14 days)
+** February   9, 2020 - February  24, 2020 (16 days)
+** February  25, 2020 - March      8, 2020 (13 days)
