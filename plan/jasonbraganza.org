@@ -50,7 +50,7 @@
    :PROPERTIES:
    :wpd-jasonbraganza: 1
    :END:
-** Read and Practice alongside the Mastering Emacs book - Part I
+** TODO Read and Practice alongside the Mastering Emacs book - Part I [0/2]
    :PROPERTIES:
    :ESTIMATED: 30
    :ACTUAL:
