@@ -4,7 +4,9 @@
 
 * The Slush Pile (Someday / Maybe)
 ** Python (tbd with kd)
-** NIOS 12th std flunked subjects (tbd with Abby post results in July)
+** NIOS 12th std flunked subjects (tbd with Abby post results in July) 
+** start and finish the OSSU CS track (https://github.com/ossu/computer-science)
+** Learn enough Maths to do calculus equations with multiple variables (use khan academy as primary resource, add others as needed)
 ** Emacs (Mastering Emacs)
 ** Basic calligraphy (https://www.thehappyevercrafter.com)
 ** music theory and guitar (Learn and Master Guitar, https://gx169.infusionsoft.com/app/storeFront/showProductDetail?productId=5)
