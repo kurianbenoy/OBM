@@ -216,7 +216,8 @@
    - [ ] 1. Introduction                         ( 1h)
    - [ ] 2. Unix architecture and command usage  ( 2h)
 ** sandeepk
-*** Project Stack NEWS - Part II
+*** Project Stack NEWS - Part II [1/9]
+    CLOSED: [2019-05-05 Sun 00:00]
     :PROPERTIES:
     :ESTIMATED: 15
     :ACTUAL:
@@ -224,7 +225,11 @@
     :ID: DEV.1552226887
     :TASKID: DEV.1552226887
     :END:
-    - [ ] Pagination on all pages (2h)
+    :LOGBOOK:
+    CLOCK: [2019-04-25 Thu 22:30]--[2019-04-25 Thu 23:55] =>  1:25
+    CLOCK: [2019-04-20 Sat 20:30]--[2019-04-20 Sat 21:50] =>  1:20
+    :END:
+    - [X] Pagination on all pages (2h)
     - [ ] Search functionality for posts and other pages (1h)
     - [ ] Past post landing page (1h)
     - [ ] CSS/Design of Ask page (1h)
@@ -233,7 +238,8 @@
     - [ ] Validation for Log-In and Sign_In form (1.5h)
     - [ ] Implementation of Karma points on all pages (3h)
     - [ ] Overall Improving the design of App[Final Touch Up] (3h)
-*** Homo Sapiens Book Reading - Part II
+*** DONE Homo Sapiens Book Reading - Part II [5/9]
+    CLOSED: [2019-05-05 Sun 00:00]
     :PROPERTIES:
     :ESTIMATED: 7
     :ACTUAL:
@@ -241,11 +247,23 @@
     :ID: READ.1554403369
     :TASKID: READ.1554403369
     :END:
-    - [ ] The Scent of Money (30m)
-    - [ ] Imperial Visions (40m)
-    - [ ] The Law of Religion (50m)
-    - [ ] The Secret of Success (30m)
-    - [ ] The Discovery of Ignorance (50m)
+    :LOGBOOK:
+    CLOCK: [2019-05-05 Sun 23:45]--[2019-05-06 Mon 00:00] =>  0:15
+    CLOCK: [2019-05-02 Thu 21:30]--[2019-05-02 Thu 21:45] =>  0:15
+    CLOCK: [2019-04-30 Tue 21:00]--[2019-04-30 Tue 21:25] =>  0:25
+    CLOCK: [2019-04-29 Mon 08:35]--[2019-04-29 Mon 08:50] =>  0:15
+    CLOCK: [2019-04-28 Sun 21:40]--[2019-04-28 Sun 22:00] =>  0:20
+    CLOCK: [2019-04-26 Fri 21:30]--[2019-04-26 Fri 21:45] =>  0:15
+    CLOCK: [2019-04-25 Thu 08:40]--[2019-04-25 Thu 08:55] =>  0:15
+    CLOCK: [2019-04-22 Mon 08:30]--[2019-04-22 Mon 08:50] =>  0:20
+    CLOCK: [2019-04-20 Sat 22:30]--[2019-04-20 Sat 22:45] =>  0:15
+    CLOCK: [2019-04-19 Fri 22:30]--[2019-04-19 Fri 22:55] =>  0:25
+    :END:
+    - [X] The Scent of Money (30m)
+    - [X] Imperial Visions (40m)
+    - [X] The Law of Religion (50m)
+    - [X] The Secret of Success (30m)
+    - [X] The Discovery of Ignorance (50m)
     - [ ] The Marriage of Science and Empire (1h)
     - [ ] The Capitalist Creed (1h)
     - [ ] The Wheels of Industry (50m)
