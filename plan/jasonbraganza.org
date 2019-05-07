@@ -2,31 +2,6 @@
 #+EMAIL: jason@janusworx.com
 #+TAGS: read write dev ops event meeting # Need to be category
 
-* The Slush Pile (Someday / Maybe)
-** Python (tbd with kd)
-** NIOS 12th std flunked subjects (tbd with Abby post results in July) 
-** start and finish the OSSU CS track (https://github.com/ossu/computer-science)
-** Learn enough Maths to do calculus equations with multiple variables (use khan academy as primary resource, add others as needed)
-** Emacs (Mastering Emacs)
-** Basic calligraphy (https://www.thehappyevercrafter.com)
-** music theory and guitar (Learn and Master Guitar, https://gx169.infusionsoft.com/app/storeFront/showProductDetail?productId=5)
-** Dance to jive
-** Personal Work Miscellenea
-*** go access for my nginx.  
-*** server rebuild. Debian with kvm and Gui. Then vms in there  (https://debian-handbook.info/browse/stable/sect.virtualization.html - pay if it works) - ask Kushal what he does   
-*** Tufte CSS fonts on one blog?   
-*** mjb - something to read and manage the logs at pro bono place   
-*** ansible playbook for the system   
-*** speak to dgplug core about taking over newsletter editing duties
-   
-** Personal Media Miscellenea
-*** Download Scotts quantum mechanics YouTube videos   
-*** Download the entire akimbo   
-*** Download the entire history of English
-*** Download the entire Tim ferriss    
-*** Download the entire How I built this 
-
-
 * GOALS
 ** Learn Emacs
 *** Read and Practice alongside the Mastering Emacs book [0/6]
