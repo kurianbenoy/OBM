@@ -53,7 +53,7 @@
    :END:
 *** TODO Read and Practice alongside the Mastering Emacs book - Part I [0/2]
    :PROPERTIES:
-   :ESTIMATED: 30
+   :ESTIMATED: 10
    :ACTUAL:
    :OWNER: jasonbraganza
    :ID: READ.1557143830
@@ -63,7 +63,7 @@
    - [ ] The Way of Emacs        (05h)
 *** TODO Read Fluent Forever and take notes - Part I [0/3]
    :PROPERTIES:
-   :ESTIMATED: 20
+   :ESTIMATED: 06
    :ACTUAL:
    :OWNER: jasonbraganza
    :ID: READ.1557162821
