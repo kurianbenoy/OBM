@@ -12,10 +12,10 @@
    :ID: READ.1557143830
    :TASKID: READ.1557143830
    :END:
-   - [ ] First Steps             (5h)
-   - [ ] The Theory of Movement  (5h)
-   - [ ] The Theory of Editing   (5h)
-   - [ ] The Practicals of Emacs (5h)
+   - [ ] First Steps             (05h)
+   - [ ] The Theory of Movement  (05h)
+   - [ ] The Theory of Editing   (05h)
+   - [ ] The Practicals of Emacs (05h)
 
 ** Learn French (fluent forever)    
 *** Read Fluent Forever and take notes [0/9]
@@ -59,8 +59,8 @@
    :ID: READ.1557143830
    :TASKID: READ.1557143830
    :END:
-   - [ ] Introduction            (5h)
-   - [ ] The Way of Emacs        (5h)
+   - [ ] Introduction            (05h)
+   - [ ] The Way of Emacs        (05h)
 *** TODO Read Fluent Forever and take notes - Part I [0/3]
    :PROPERTIES:
    :ESTIMATED: 20
