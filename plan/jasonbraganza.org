@@ -51,7 +51,7 @@
    :PROPERTIES:
    :wpd-jasonbraganza: 1.5
    :END:
-*** TODO Read and Practice alongside the Mastering Emacs book - Part I [0/2]
+*** TODO Read and Practice alongside the Mastering Emacs book - Part I [2/2]
    :PROPERTIES:
    :ESTIMATED: 10
    :ACTUAL:
@@ -59,17 +59,18 @@
    :ID: READ.1557143830
    :TASKID: READ.1557143830
    :END:
-   - [ ] Introduction            (05h)
-   - [ ] The Way of Emacs        (05h)
-*** TODO Read Fluent Forever and take notes - Part I [0/3]
+   - [X] Introduction            (05h)
+   - [X] The Way of Emacs        (05h)
+*** TODO Read Fluent Forever and take notes - Part I [1/3]
    :PROPERTIES:
    :ESTIMATED: 06
-   :ACTUAL:
+   :ACTUAL:   0.52
    :OWNER: jasonbraganza
    :ID: READ.1557162821
    :TASKID: READ.1557162821
+   :ORDERED:  t
    :END:
-   - [ ] Introduction                                   (02h)
+   - [X] Introduction                                   (02h)
    - [ ] Upload - The five principles to end forgetting (02h)
    - [ ] Sound Play                                     (02h)
 
