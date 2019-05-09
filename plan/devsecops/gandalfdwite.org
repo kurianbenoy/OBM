@@ -11,8 +11,7 @@
    :ID: READ.1553531073
    :TASKID: READ.1553531073
    :END:
-   - [ ] Cluster Administration                   ( 3h)
-   - [ ] Extending Kubernetes                     ( 5h)
+
 ** Python
 *** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
     :PROPERTIES:
@@ -22,8 +21,6 @@
     :ID: READ.1553531542
     :TASKID: READ.1553531542
     :END:
-    - [ ] 4. Stacks                            ( 1h)
-    - [ ] 5. Queues                            ( 1h)
     - [ ] 6. Trees                             ( 4h)
     - [ ] 7. Priority Queues & Heaps           ( 1h)
     - [ ] 8. Disjoint Sets ADT                 ( 1h)
@@ -50,8 +47,6 @@
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
-   - [ ] 3. General Purpose Utilities            ( 1h)
-   - [ ] 4. File system                          ( 2h)
    - [ ] 5. Handling Ordinary files              ( 2h)
    - [ ] 6. Basic file attributes                ( 1h)
    - [ ] 7. Vi editor                            ( 3h)
@@ -67,4 +62,37 @@
    - [ ] 17. Networking tools                    ( 3h)
    - [ ] 18. awk                                 ( 2h)
 * PLAN
-
+** May        6, 2019 - May       17, 2019 (12 days)
+   :PROPERTIES:
+   :wpd-gandalfdwite: 1
+   :END:
+*** Read Kubernetes Docs - Part III
+   :PROPERTIES:
+   :ESTIMATED: 8
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1553531073
+   :TASKID: READ.1553531073
+   :END:
+   - [ ] Cluster Administration                   ( 3h)
+   - [ ] Extending Kubernetes                     ( 5h)
+*** Data Structure and Algorithmic Thinking with Python - Part II
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1553531542
+    :TASKID: READ.1553531542
+    :END:
+    - [ ] 4. Stacks                            ( 1h)
+    - [ ] 5. Queues                            ( 1h)
+*** Unix Concepts & Applications - Part II
+   :PROPERTIES:
+   :ESTIMATED: 3
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1553532278
+   :TASKID: READ.1553532278
+   :END:
+   - [ ] 3. General Purpose Utilities            ( 1h)
+   - [ ] 4. File system                          ( 2h)

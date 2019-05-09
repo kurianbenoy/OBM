@@ -297,21 +297,6 @@
      - [X] Part 6. Info Commands         ( 1h)
      - [X] Part 7. Calculator in emacs   ( 1h)
      - [X] Part 8. Org mode in emacs     ( 2h)
-*** IN_PROGRESS Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/4]
-   :PROPERTIES:
-   :ESTIMATED: 5
-   :ACTUAL:   1.82
-   :OWNER: gandalfdwite
-   :ID: READ.1553531542
-   :TASKID: READ.1553531542
-   :END:
-   :LOGBOOK:
-   CLOCK: [2019-04-13 Sat 09:25]--[2019-04-13 Sat 11:14] =>  1:49
-   :END:
-    - [ ] 1. Introduction                      ( 2h)
-    - [ ] 2. Recursion & Backtracking          ( 1h)
-    - [ ] 3. Linked Lists                      ( 1h)
-    - [ ] 4. Stacks                            ( 1h)
 ** jasonbraganza
 *** DONE NIOS Maths Text Book - Part V [1/1]
    :PROPERTIES:
