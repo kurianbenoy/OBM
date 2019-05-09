@@ -226,7 +226,8 @@
     - [X] 1. Introduction                      ( 2h)
     - [X] 2. Recursion & Backtracking          ( 1h)
     - [X] 3. Linked Lists                      ( 1h)
-*** IN_PROGRESS Unix Concepts & Applications by Sumitabha Das Part I [2/2]
+*** DONE Unix Concepts & Applications by Sumitabha Das Part I [2/2]
+    CLOSED: [2019-05-09 Thu 07:33]
    :PROPERTIES:
    :ESTIMATED: 3
    :ACTUAL:   2.98
