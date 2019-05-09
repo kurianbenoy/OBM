@@ -137,38 +137,49 @@
       - Risk reduction with PAM
       - Centralized account management
 ** bhavin192
-*** Cloud Native DevOps with Kubernetes - Part II [0/5]
+*** DONE Cloud Native DevOps with Kubernetes - Part II [5/5]
+    CLOSED: [2019-04-24 Wed 22:13]
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL:
+    :ACTUAL:   4.90
     :OWNER:    bhavin192
     :ID:       READ.1555009355
     :TASKID:   READ.1555009355
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-04-24 Wed 21:29]--[2019-04-24 Wed 22:13] =>  0:44
+    CLOCK: [2019-04-23 Tue 19:13]--[2019-04-23 Tue 20:07] =>  0:54
+    CLOCK: [2019-04-22 Mon 23:06]--[2019-04-22 Mon 23:38] =>  0:32
+    CLOCK: [2019-04-22 Mon 21:29]--[2019-04-22 Mon 22:24] =>  0:55
+    CLOCK: [2019-04-22 Mon 20:24]--[2019-04-22 Mon 20:51] =>  0:27
+    CLOCK: [2019-04-21 Sun 20:53]--[2019-04-21 Sun 21:07] =>  0:14
+    CLOCK: [2019-04-21 Sun 18:16]--[2019-04-21 Sun 18:39] =>  0:23
+    CLOCK: [2019-04-21 Sun 16:57]--[2019-04-21 Sun 17:42] =>  0:45
+    :END:
     https://www.oreilly.com/library/view/cloud-native-devops/9781492040750/
-    - [ ] Chapter 12. Deploying Kubernetes Applications		(65m)
+    - [X] Chapter 12. Deploying Kubernetes Applications		(65m)
       - Building Manifests with Helm
       - Deploying Helm Charts
       - Managing Multiple Charts with Helmfile
       - Advanced Manifest Management Tools
       - Summary
-    - [ ] Chapter 13. Development Workflow			(35m)
+    - [X] Chapter 13. Development Workflow			(35m)
       - Development Tools
       - Deployment Strategies
       - Handling Migrations with Helm
       - Summary
-    - [ ] Chapter 14. Continuous Deployment in Kubernetes	(60m)
+    - [X] Chapter 14. Continuous Deployment in Kubernetes	(60m)
       - What Is Continuous Deployment?
       - Which CD Tool Should I Use?
       - CD Components
       - A CD Pipeline with Cloud Build
       - Summary
-    - [ ] Chapter 15. Observability and Monitoring		(50m)
+    - [X] Chapter 15. Observability and Monitoring		(50m)
       - What Is Observability?
       - The Observability Pipeline
       - Monitoring in Kubernetes
       - Summary
-    - [ ] Chapter 16. Metrics in Kubernetes			(100m)
+    - [X] Chapter 16. Metrics in Kubernetes			(100m)
       - What Are Metrics, Really?
       - Choosing Good Metrics
       - Analyzing Metrics
@@ -176,35 +187,44 @@
       - Alerting on Metrics
       - Metrics Tools and Services
       - Summary
-*** Read about namespaces and control groups [0/4]
+*** DONE Read about namespaces and control groups [4/4]
+    CLOSED: [2019-05-05 Sun 16:38]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   5.98
     :OWNER:    bhavin192
     :ID:       READ.1556025974
     :TASKID:   READ.1556025974
     :END:
-    - [ ] Read man pages					(30m)
-    - [ ] Read [[http://www.haifux.org/lectures/299/][Resource Management in Linux - Rami Rosen]]	(60m)
-    - [ ] Try unshare command					(15m)
-    - [ ] Set Cgroup values for a service			(15m)
-*** Linux Under the Hood
+    :LOGBOOK:
+    CLOCK: [2019-05-05 Sun 15:42]--[2019-05-05 Sun 16:38] =>  0:56
+    CLOCK: [2019-05-05 Sun 14:53]--[2019-05-05 Sun 15:36] =>  0:43
+    CLOCK: [2019-05-01 Wed 19:47]--[2019-05-01 Wed 19:53] =>  0:06
+    CLOCK: [2019-05-01 Wed 17:35]--[2019-05-01 Wed 18:04] =>  0:29
+    CLOCK: [2019-05-01 Wed 15:50]--[2019-05-01 Wed 16:47] =>  0:57
+    CLOCK: [2019-04-29 Mon 18:45]--[2019-04-29 Mon 19:50] =>  1:05
+    CLOCK: [2019-04-27 Sat 20:12]--[2019-04-27 Sat 21:05] =>  0:53
+    CLOCK: [2019-04-27 Sat 17:54]--[2019-04-27 Sat 18:08] =>  0:14
+    CLOCK: [2019-04-26 Fri 19:30]--[2019-04-26 Fri 19:55] =>  0:25
+    CLOCK: [2019-04-25 Thu 19:21]--[2019-04-25 Thu 19:32] =>  0:11
+    :END:
+    - [X] Read man pages					(30m)
+    - [X] Read [[http://www.haifux.org/lectures/299/][Resource Management in Linux - Rami Rosen]]	(60m)
+    - [X] Try unshare command					(15m)
+    - [X] Set Cgroup values for a service			(15m)
+*** DONE Linux Under the Hood
+    CLOSED: [2019-05-02 Thu 22:33]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   3.08
     :OWNER:    bhavin192
     :ID:       READ.1555957032
     :TASKID:   READ.1555957032
     :END:
-    https://learning.oreilly.com/live-training/courses/linux-under-the-hood/0636920257462/
-*** Write blog post on building Emacs from source
-    :PROPERTIES:
-    :ESTIMATED: 7
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       WRITE.1556025699
-    :TASKID:   WRITE.1556025699
+    :LOGBOOK:
+    CLOCK: [2019-05-02 Thu 19:28]--[2019-05-02 Thu 22:33] =>  3:05
     :END:
+    https://learning.oreilly.com/live-training/courses/linux-under-the-hood/0636920257462/
 ** gandalfdwite
 *** DONE Read Kubernetes Docs Part II [3/3]
     CLOSED: [2019-04-29 Mon 20:38]
