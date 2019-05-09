@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 12
   :SPRINTSTART: <2019-05-06 Mon>
   :wpd-gandalfdwite: 1
+  :wpd-manishkakoti: 1.8
   :END:
 ** gandalfdwite
 *** Read Kubernetes Docs - Part III
@@ -58,3 +59,24 @@
    :END:
    - [ ] 3. General Purpose Utilities            ( 1h)
    - [ ] 4. File system                          ( 2h)
+** manishkakoti
+*** Learn Django [0/12]
+    :PROPERTIES:
+    :ESTIMATED: 22
+    :ACTUAL:
+    :OWNER: manishkakoti
+    :ID: READ.1557396756
+    :TASKID: READ.1557396756
+    :END:
+    - [ ] Start with Django from official Documentation                            (2h)
+    - [ ] Follow along other contents and explore Django                           (1h)
+    - [ ] Start building demo applications in Django                               (1h)
+    - [ ] Run a three-hour personal hackathon to build a miniscule application E2E (3h)
+    - [ ] Watch talks on Django topics                                             (1h)
+    - [ ] Revisit Django concepts and build application                            (2h)
+    - [ ] Build advanced demo Django apps for practice - Part-I                    (2h)
+    - [ ] Build advanced demo Django apps for practice - Part-II                   (2h)
+    - [ ] Build a full-scale personal application to learn more on advanced Django (2h)
+    - [ ] Build a full-scale personal application to learn more on advanced Django (2h)
+    - [ ] Build a full-scale personal application to learn more on advanced Django (2h)
+    - [ ] Revisit everything and closing on Django                                 (2h)
