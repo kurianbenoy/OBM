@@ -223,23 +223,16 @@
     - [ ] Use Array.filter() to Dynamically Filter an Array()
     - [ ] Render React on the Server with renderToString() [[https://docs.djangoproject.com/en/2.1/intro/]]
 *** Backend FrameWorks  [/]
-**** Node [/]
-     - [ ] Node.js
-     - [ ] Npm
-     - [ ] Asynchronous programming
-     - [ ] ES6/ES7
-     - [ ] MongoDB
-     - [ ] Express
-     - [ ] Socket.IO
-     - [ ] Jwt Authentication
-     - [ ] Mongoose
-     - [ ] Application deployment with Heroku
-     - [ ] Version control with Git
-     - [ ] GitHub
-     - [ ] REST API Design
-     - [ ] Code testing
-     - [ ] Debugging
-     - [ ] Mocha
+**** Django [/]
+     - [ ] Basic Website building concepts (Views, URL, migrations, template)
+     - [ ] Authentication and Security
+     - [ ] Authentication via 3rd party applications
+     - [ ] Performance Optimisation
+     - [ ] Deploying your Application
+     - [ ] Basics of VCS
+     - [ ] Deploying a simple application
+     - [ ] Managing Static Files
+     - [ ] Working with Django Rest Framework
 ** Databases
 *** SQL [0/4] 
      - [ ] Basic SQL
@@ -374,6 +367,35 @@
      :ID: READ.1539882909
      :TASKID: READ.1539882909
      :END:
+** Machine Learning
+*** Statistics
+    - [ ] Basic Probability Models and Rules
+    - [ ] Bayes’ rules, Conditional probability, Chain rule
+    - [ ] Discrete Random Variables
+    - [ ] Continuous Random Variables
+*** Data Manipulation & Visualisa...
+    - [ ] Practical Tutorial on Data Manipulation with Numpy and Pandas in Python
+*** Machine Learning Algorithms
+    - [ ] Beginners Guide to Regression Analysis and Plot Interpretations
+    - [ ] Practical Guide to Logistic Regression Analysis in R
+    - [ ] Practical Tutorial on Random Forest and Parameter Tuning in R
+    - [ ] Practical Guide to Clustering Algorithms & Evaluation in R
+    - [ ] Beginners Tutorial on XGBoost and Parameter Tuning in R
+    - [ ] Deep Learning & Parameter Tuning with MXnet, H2o Package in R
+    - [ ] Decision Tree
+*** Advanced Techniques
+    - [ ] Simple Tutorial on Regular Expressions and String Manipulations in R
+    - [ ] Practical Guide to Text Mining and Feature Engineering in R
+    - [ ] Winning Tips on Machine Learning Competitions by Kazanova, Current Kaggle #3
+*** Machine Learning Projects
+    - [ ] Practical Machine Learning Project in Python on House Prices Data
+*** Challenges Winning Approach
+    - [ ] Challenge #1 - Machine Learning
+    - [ ] Challenge #3 - Machine Learning
+    - [ ] Challenge #2 - Deep Learning
+*** Transfer Learning
+    - [ ] Transfer Learning Introduction
+
 ** Meetups
 *** Csaw IIT-Kanpur
     :PROPERTIES:
@@ -416,10 +438,8 @@
     :TASKID: EVENT.1539494482
     :END:
 ** Projects
-*** Mozilla  Firefox
+*** LuaRocks
 *** Secure Drop (Top Prority)
-*** Blog
-*** Banking System
 *** E-commerce site
 *** CSS Projects
 **** Responsive Web Design Projects [/]

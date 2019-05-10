@@ -28,18 +28,41 @@
   :wpd-akshay196: 1
   :wpd-bhavin192: 1
   :wpd-gandalfdwite: 1
+  :wpd-nightwarrior-xxx: 1
   :wpd-sandeepk: 1.3
   :END:
 ** akshay196
-*** UNIX and Linux System Administration Handbook - Part I [0/8]
+*** DONE UNIX and Linux System Administration Handbook - Part I [8/8]
+    CLOSED: [2019-05-05 Sun 18:43]
     :PROPERTIES:
     :ESTIMATED: 17
-    :ACTUAL:
+    :ACTUAL:   16.57
     :OWNER: akshay196
     :ID: READ.1555438527
     :TASKID: READ.1555438527
     :END:
-    - [ ] Chapter  1. Where to Start                        (2h)
+    :LOGBOOK:
+    CLOCK: [2019-05-05 Sun 17:35]--[2019-05-05 Sun 18:43] =>  1:08
+    CLOCK: [2019-05-05 Sun 10:05]--[2019-05-05 Sun 11:19] =>  1:14
+    CLOCK: [2019-05-03 Fri 19:14]--[2019-05-03 Fri 20:10] =>  0:56
+    CLOCK: [2019-05-03 Fri 10:59]--[2019-05-03 Fri 11:18] =>  0:19
+    CLOCK: [2019-05-03 Fri 09:44]--[2019-05-03 Fri 10:20] =>  0:36
+    CLOCK: [2019-05-01 Wed 22:09]--[2019-05-01 Wed 22:59] =>  0:50
+    CLOCK: [2019-05-01 Wed 20:23]--[2019-05-01 Wed 21:23] =>  1:00
+    CLOCK: [2019-05-01 Wed 08:00]--[2019-05-01 Wed 08:36] =>  0:36
+    CLOCK: [2019-04-30 Tue 18:51]--[2019-04-30 Tue 19:18] =>  0:27
+    CLOCK: [2019-04-29 Mon 22:22]--[2019-04-29 Mon 23:02] =>  0:40
+    CLOCK: [2019-04-29 Mon 18:06]--[2019-04-29 Mon 18:44] =>  0:38
+    CLOCK: [2019-04-27 Sat 20:02]--[2019-04-27 Sat 21:06] =>  1:04
+    CLOCK: [2019-04-25 Thu 19:20]--[2019-04-25 Thu 20:22] =>  1:02
+    CLOCK: [2019-04-24 Wed 18:14]--[2019-04-24 Wed 19:10] =>  0:56
+    CLOCK: [2019-04-23 Tue 21:34]--[2019-04-23 Tue 22:25] =>  0:51
+    CLOCK: [2019-04-22 Mon 20:52]--[2019-04-22 Mon 21:58] =>  1:06
+    CLOCK: [2019-04-21 Sun 18:55]--[2019-04-21 Sun 19:51] =>  0:56
+    CLOCK: [2019-04-20 Sat 18:29]--[2019-04-20 Sat 19:31] =>  1:02
+    CLOCK: [2019-04-19 Fri 19:57]--[2019-04-19 Fri 21:10] =>  1:13
+    :END:
+    - [X] Chapter  1. Where to Start                        (2h)
       - Essential duties of a system administrator
       - Suggested background
       - Linux distributions
@@ -52,7 +75,7 @@
       - Ways to find and install software
       - Where to host
       - Specialization and adjacent disciplines
-    - [ ] Chapter  2. Booting and System Management Daemons (2h)
+    - [X] Chapter  2. Booting and System Management Daemons (2h)
       - Boot process overview
       - System firmware
       - Boot loaders
@@ -63,12 +86,12 @@
       - FreeBSD init and startup scripts
       - Reboot and shutdown procedures
       - Stratagems for a nonbooting system
-    - [ ] Chapter  3. Access Control and Rootly Powers      (2h)
+    - [X] Chapter  3. Access Control and Rootly Powers      (2h)
       - Standard UNIX access control
       - Management of the root account
       - Extensions to the standard access control model
       - Modern access control
-    - [ ] Chapter  4. Process Control                       (2h)
+    - [X] Chapter  4. Process Control                       (2h)
       - Components of a process
       - The life cycle of a process
       - ps: monitor processes
@@ -78,21 +101,21 @@
       - strace and truss: trace signals and system calls
       - Runaway processes
       - Periodic processes
-    - [ ] Chapter  5. The Filesystem                        (2h)
+    - [X] Chapter  5. The Filesystem                        (2h)
       - Pathnames
       - Filesystem mounting and unmounting
       - Organization of the file tree
       - File types
       - File attributes
       - Access control lists
-    - [ ] Chapter  6. Software Installation and Management  (2h)
+    - [X] Chapter  6. Software Installation and Management  (2h)
       - Operating system installation
       - Managing packages
       - Linux package management systems
       - High-level Linux package management systems
       - FreeBSD software management
       - Software localization and configuration
-    - [ ] Chapter  7. Scripting and The Shell               (3h)
+    - [X] Chapter  7. Scripting and The Shell               (3h)
       - Scripting philosophy
       - Shell basics
       - sh scripting
@@ -101,7 +124,7 @@
       - Ruby programming
       - Library and environment management for Python and Ruby
       - Revision control with Git
-    - [ ] Chapter  8. User Management                       (2h)
+    - [X] Chapter  8. User Management                       (2h)
       - Account mechanics
       - The /etc/passwd file
       - The Linux /etc/shadow file
@@ -114,38 +137,49 @@
       - Risk reduction with PAM
       - Centralized account management
 ** bhavin192
-*** Cloud Native DevOps with Kubernetes - Part II [0/5]
+*** DONE Cloud Native DevOps with Kubernetes - Part II [5/5]
+    CLOSED: [2019-04-24 Wed 22:13]
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL:
+    :ACTUAL:   4.90
     :OWNER:    bhavin192
     :ID:       READ.1555009355
     :TASKID:   READ.1555009355
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-04-24 Wed 21:29]--[2019-04-24 Wed 22:13] =>  0:44
+    CLOCK: [2019-04-23 Tue 19:13]--[2019-04-23 Tue 20:07] =>  0:54
+    CLOCK: [2019-04-22 Mon 23:06]--[2019-04-22 Mon 23:38] =>  0:32
+    CLOCK: [2019-04-22 Mon 21:29]--[2019-04-22 Mon 22:24] =>  0:55
+    CLOCK: [2019-04-22 Mon 20:24]--[2019-04-22 Mon 20:51] =>  0:27
+    CLOCK: [2019-04-21 Sun 20:53]--[2019-04-21 Sun 21:07] =>  0:14
+    CLOCK: [2019-04-21 Sun 18:16]--[2019-04-21 Sun 18:39] =>  0:23
+    CLOCK: [2019-04-21 Sun 16:57]--[2019-04-21 Sun 17:42] =>  0:45
+    :END:
     https://www.oreilly.com/library/view/cloud-native-devops/9781492040750/
-    - [ ] Chapter 12. Deploying Kubernetes Applications		(65m)
+    - [X] Chapter 12. Deploying Kubernetes Applications		(65m)
       - Building Manifests with Helm
       - Deploying Helm Charts
       - Managing Multiple Charts with Helmfile
       - Advanced Manifest Management Tools
       - Summary
-    - [ ] Chapter 13. Development Workflow			(35m)
+    - [X] Chapter 13. Development Workflow			(35m)
       - Development Tools
       - Deployment Strategies
       - Handling Migrations with Helm
       - Summary
-    - [ ] Chapter 14. Continuous Deployment in Kubernetes	(60m)
+    - [X] Chapter 14. Continuous Deployment in Kubernetes	(60m)
       - What Is Continuous Deployment?
       - Which CD Tool Should I Use?
       - CD Components
       - A CD Pipeline with Cloud Build
       - Summary
-    - [ ] Chapter 15. Observability and Monitoring		(50m)
+    - [X] Chapter 15. Observability and Monitoring		(50m)
       - What Is Observability?
       - The Observability Pipeline
       - Monitoring in Kubernetes
       - Summary
-    - [ ] Chapter 16. Metrics in Kubernetes			(100m)
+    - [X] Chapter 16. Metrics in Kubernetes			(100m)
       - What Are Metrics, Really?
       - Choosing Good Metrics
       - Analyzing Metrics
@@ -153,102 +187,202 @@
       - Alerting on Metrics
       - Metrics Tools and Services
       - Summary
-*** Read about namespaces and control groups [0/4]
+*** DONE Read about namespaces and control groups [4/4]
+    CLOSED: [2019-05-05 Sun 16:38]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   5.98
     :OWNER:    bhavin192
     :ID:       READ.1556025974
     :TASKID:   READ.1556025974
     :END:
-    - [ ] Read man pages					(30m)
-    - [ ] Read [[http://www.haifux.org/lectures/299/][Resource Management in Linux - Rami Rosen]]	(60m)
-    - [ ] Try unshare command					(15m)
-    - [ ] Set Cgroup values for a service			(15m)
-*** Linux Under the Hood
+    :LOGBOOK:
+    CLOCK: [2019-05-05 Sun 15:42]--[2019-05-05 Sun 16:38] =>  0:56
+    CLOCK: [2019-05-05 Sun 14:53]--[2019-05-05 Sun 15:36] =>  0:43
+    CLOCK: [2019-05-01 Wed 19:47]--[2019-05-01 Wed 19:53] =>  0:06
+    CLOCK: [2019-05-01 Wed 17:35]--[2019-05-01 Wed 18:04] =>  0:29
+    CLOCK: [2019-05-01 Wed 15:50]--[2019-05-01 Wed 16:47] =>  0:57
+    CLOCK: [2019-04-29 Mon 18:45]--[2019-04-29 Mon 19:50] =>  1:05
+    CLOCK: [2019-04-27 Sat 20:12]--[2019-04-27 Sat 21:05] =>  0:53
+    CLOCK: [2019-04-27 Sat 17:54]--[2019-04-27 Sat 18:08] =>  0:14
+    CLOCK: [2019-04-26 Fri 19:30]--[2019-04-26 Fri 19:55] =>  0:25
+    CLOCK: [2019-04-25 Thu 19:21]--[2019-04-25 Thu 19:32] =>  0:11
+    :END:
+    - [X] Read man pages					(30m)
+    - [X] Read [[http://www.haifux.org/lectures/299/][Resource Management in Linux - Rami Rosen]]	(60m)
+    - [X] Try unshare command					(15m)
+    - [X] Set Cgroup values for a service			(15m)
+*** DONE Linux Under the Hood
+    CLOSED: [2019-05-02 Thu 22:33]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   3.08
     :OWNER:    bhavin192
     :ID:       READ.1555957032
     :TASKID:   READ.1555957032
     :END:
-    https://learning.oreilly.com/live-training/courses/linux-under-the-hood/0636920257462/
-*** Write blog post on building Emacs from source
-    :PROPERTIES:
-    :ESTIMATED: 7
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       WRITE.1556025699
-    :TASKID:   WRITE.1556025699
+    :LOGBOOK:
+    CLOCK: [2019-05-02 Thu 19:28]--[2019-05-02 Thu 22:33] =>  3:05
     :END:
+    https://learning.oreilly.com/live-training/courses/linux-under-the-hood/0636920257462/
 ** gandalfdwite
-*** Read Kubernetes Docs Part II [0/3]
+*** DONE Read Kubernetes Docs Part II [3/3]
+    CLOSED: [2019-04-29 Mon 20:38]
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:
+   :ACTUAL:   10.43
    :OWNER: gandalfdwite
    :ID: READ.1553531073
    :TASKID: READ.1553531073
    :END:
-   - [ ] Storage                                  ( 5h)
-   - [ ] Configuration                            ( 3h)
-   - [ ] Policies                                 ( 2h)
-*** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) Part I [0/3]
+   :LOGBOOK:
+   CLOCK: [2019-04-28 Sun 16:30]--[2019-04-28 Sun 17:01] =>  0:31
+   CLOCK: [2019-04-28 Sun 08:12]--[2019-04-28 Sun 09:43] =>  1:31
+   CLOCK: [2019-04-26 Fri 23:25]--[2019-04-27 Sat 00:18] =>  0:53
+   CLOCK: [2019-04-25 Thu 20:13]--[2019-04-25 Thu 21:25] =>  1:12
+   CLOCK: [2019-04-24 Wed 22:05]--[2019-04-24 Wed 23:10] =>  1:05
+   CLOCK: [2019-04-23 Tue 10:41]--[2019-04-23 Tue 11:26] =>  0:45
+   CLOCK: [2019-04-22 Mon 21:07]--[2019-04-22 Mon 22:19] =>  1:12
+   CLOCK: [2019-04-21 Sun 20:52]--[2019-04-21 Sun 22:00] =>  1:08
+   CLOCK: [2019-04-20 Sat 21:13]--[2019-04-20 Sat 22:18] =>  1:05
+   CLOCK: [2019-04-19 Fri 19:56]--[2019-04-19 Fri 21:00] =>  1:04
+   :END:
+   - [X] Storage                                  ( 5h)
+   - [X] Configuration                            ( 3h)
+   - [X] Policies                                 ( 2h)
+*** DONE Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) Part I [3/3]
+    CLOSED: [2019-05-05 Sun 06:32]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   6.87
     :OWNER: gandalfdwite
     :ID: READ.1553531542
     :TASKID: READ.1553531542
     :END:
-    - [ ] 1. Introduction                      ( 2h)
-    - [ ] 2. Recursion & Backtracking          ( 1h)
-    - [ ] 3. Linked Lists                      ( 1h)
-*** Unix Concepts & Applications by Sumitabha Das Part I [0/2]
+    :LOGBOOK:
+    CLOCK: [2019-05-04 Sat 22:29]--[2019-05-05 Sun 00:45] =>  2:16
+    CLOCK: [2019-05-03 Fri 23:17]--[2019-05-03 Fri 23:54] =>  0:37
+    CLOCK: [2019-05-02 Thu 22:25]--[2019-05-03 Fri 00:10] =>  1:45
+    CLOCK: [2019-05-01 Wed 21:58]--[2019-05-01 Wed 23:11] =>  1:13
+    CLOCK: [2019-04-30 Tue 21:00]--[2019-04-30 Tue 22:01] =>  1:01
+    :END:
+    - [X] 1. Introduction                      ( 2h)
+    - [X] 2. Recursion & Backtracking          ( 1h)
+    - [X] 3. Linked Lists                      ( 1h)
+*** DONE Unix Concepts & Applications by Sumitabha Das Part I [2/2]
+    CLOSED: [2019-05-09 Thu 07:33]
    :PROPERTIES:
    :ESTIMATED: 3
-   :ACTUAL:
+   :ACTUAL:   2.98
    :OWNER: gandalfdwite
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
-   - [ ] 1. Introduction                         ( 1h)
-   - [ ] 2. Unix architecture and command usage  ( 2h)
+   :LOGBOOK:
+   CLOCK: [2019-05-05 Sun 23:27]--[2019-05-06 Mon 00:36] =>  1:09
+   CLOCK: [2019-05-05 Sun 07:45]--[2019-05-05 Sun 09:35] =>  1:50
+   :END:
+   - [X] 1. Introduction                         ( 1h)
+   - [X] 2. Unix architecture and command usage  ( 2h)
+** nightwarrior-xxx
+*** Website Building (Django) [3/7]
+    :PROPERTIES:
+    :ESTIMATED: 17
+    :ACTUAL:   41.83
+    :OWNER: nightwarrior-xxx
+    :ID: DEV.1555953324
+    :TASKID: DEV.1555953324
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-05-03 Fri 17:54]--[2019-05-03 Fri 18:17] =>  0:23
+    CLOCK: [2019-05-03 Fri 11:18]--[2019-05-03 Fri 11:43] =>  0:25
+    CLOCK: [2019-05-03 Fri 00:59]--[2019-05-03 Fri 01:30] =>  0:31
+    CLOCK: [2019-05-02 Thu 23:32]--[2019-05-03 Fri 00:59] =>  1:27
+    CLOCK: [2019-05-02 Thu 04:00]--[2019-05-02 Thu 04:39] =>  0:39
+    CLOCK: [2019-05-02 Thu 02:25]--[2019-05-02 Thu 03:12] =>  0:47
+    CLOCK: [2019-05-01 Wed 11:27]--[2019-05-01 Wed 11:59] =>  0:32
+    CLOCK: [2019-04-30 Tue 00:23]--[2019-04-30 Tue 01:13] =>  0:50
+    CLOCK: [2019-04-29 Mon 23:19]--[2019-04-29 Mon 23:51] =>  0:32
+    CLOCK: [2019-04-29 Mon 22:53]--[2019-04-29 Mon 23:05] =>  0:12
+    CLOCK: [2019-04-29 Mon 15:04]--[2019-04-29 Mon 15:44] =>  0:40
+    CLOCK: [2019-04-29 Mon 01:50]--[2019-04-29 Mon 03:14] =>  1:24
+    CLOCK: [2019-04-29 Mon 00:47]--[2019-04-29 Mon 01:19] =>  0:32
+    CLOCK: [2019-04-28 Sun 23:37]--[2019-04-29 Mon 00:17] =>  0:40
+    CLOCK: [2019-04-28 Sun 02:24]--[2019-04-28 Sun 02:55] =>  0:31
+    CLOCK: [2019-04-28 Sun 00:53]--[2019-04-28 Sun 01:40] =>  0:47
+    CLOCK: [2019-04-27 Sat 22:28]--[2019-04-28 Sun 23:01] =>  0:33
+    CLOCK: [2019-04-26 Fri 18:22]--[2019-04-26 Fri 19:30] =>  1:08
+    CLOCK: [2019-04-26 Fri 17:43]--[2019-04-26 Fri 18:20] =>  0:37 
+    CLOCK: [2019-04-26 Fri 02:18]--[2019-04-26 Fri 02:54] =>  0:36
+    CLOCK: [2019-04-24 Wed 11:42]--[2019-04-24 Wed 12:10] =>  0:28
+    CLOCK: [2019-04-24 Wed 04:18]--[2019-04-24 Wed 05:00] =>  0:42
+    CLOCK: [2019-04-24 Wed 03:29]--[2019-04-24 Wed 04:00] =>  0:31
+    CLOCK: [2019-04-24 Wed 02:12]--[2019-04-24 Wed 02:41] =>  0:29
+    CLOCK: [2019-04-23 Tue 03:10]--[2019-04-23 Tue 03:31] =>  0:21
+    CLOCK: [2019-04-23 Tue 02:46]--[2019-04-23 Tue 03:02] =>  0:16
+    CLOCK: [2019-04-23 Tue 01:08]--[2019-04-23 Tue 01:24] =>  0:16
+    CLOCK: [2019-04-23 Tue 00:58]--[2019-04-23 Tue 01:04] =>  0:06
+    CLOCK: [2019-04-22 Mon 01:46]--[2019-04-22 Mon 02:25] =>  0:39
+    CLOCK: [2019-04-22 Mon 00:57]--[2019-04-22 Mon 01:13] =>  0:16
+    :END:
+    SCHEDULED: <2019-04-22 Mon 01:00-2:00>
+    SCHEDULED: <2019-04-23 Tue 01:00-2:00>
+    SCHEDULED: <2019-04-24 Wed 01:00-2:00>
+    SCHEDULED: <2019-04-25 Thu 01:00-2:00>
+    SCHEDULED: <2019-04-26 Fri 17:30-18:30>
+    SCHEDULED: <2019-04-27 Sat 22:30-23:30>
+    SCHEDULED: <2019-05-30 Sun 01:00-2:00>
+    SCHEDULED: <2019-05-01 Mon 01:00-2:00>
+    SCHEDULED: <2019-05-02 Tue 01:00-2:00>
+    SCHEDULED: <2019-05-03 Wed 01:00-2:00>
+    SCHEDULED: <2019-05-04 Thu 01:00-2:00>
+    SCHEDULED: <2019-05-05 Fri 01:00-2:00>
+    - [X] Basics (2h)
+    - [X] Product Components (2h)
+    - [X] Templates (2h)
+    - [ ] Bootstrap Components (3h)
+    - [ ] Search Components (2h)
+    - [ ] Cart Components (2h)
+    - [ ] Checkout (4h)
 ** sandeepk
-*** Project Stack NEWS - Part II
+*** DONE Project Stack NEWS - Part II [1/1]
+    CLOSED: [2019-05-05 Sun 00:00]
     :PROPERTIES:
     :ESTIMATED: 15
-    :ACTUAL:
+    :ACTUAL:   2.33
     :OWNER: sandeepk
     :ID: DEV.1552226887
     :TASKID: DEV.1552226887
     :END:
-    - [ ] Pagination on all pages (2h)
-    - [ ] Search functionality for posts and other pages (1h)
-    - [ ] Past post landing page (1h)
-    - [ ] CSS/Design of Ask page (1h)
-    - [ ] CSS/Design Show page (1h)
-    - [ ] Validation on submit page form (1.5h)
-    - [ ] Validation for Log-In and Sign_In form (1.5h)
-    - [ ] Implementation of Karma points on all pages (3h)
-    - [ ] Overall Improving the design of App[Final Touch Up] (3h)
-*** Homo Sapiens Book Reading - Part II
+    :LOGBOOK:
+    CLOCK: [2019-04-25 Thu 22:30]--[2019-04-25 Thu 23:30] =>  1:00
+    CLOCK: [2019-04-20 Sat 20:30]--[2019-04-20 Sat 21:50] =>  1:20
+    :END:
+    - [X] Pagination on all pages (2h)
+*** DONE Homo Sapiens Book Reading - Part II [5/5]
+    CLOSED: [2019-05-05 Sun 00:00]
     :PROPERTIES:
     :ESTIMATED: 7
-    :ACTUAL:
+    :ACTUAL:   3.00
     :OWNER: sandeepk
     :ID: READ.1554403369
     :TASKID: READ.1554403369
     :END:
-    - [ ] The Scent of Money (30m)
-    - [ ] Imperial Visions (40m)
-    - [ ] The Law of Religion (50m)
-    - [ ] The Secret of Success (30m)
-    - [ ] The Discovery of Ignorance (50m)
-    - [ ] The Marriage of Science and Empire (1h)
-    - [ ] The Capitalist Creed (1h)
-    - [ ] The Wheels of Industry (50m)
-    - [ ] A Permanent Revolution (50m)
-
+    :LOGBOOK:
+    CLOCK: [2019-05-05 Sun 23:45]--[2019-05-06 Mon 00:00] =>  0:15
+    CLOCK: [2019-05-02 Thu 21:30]--[2019-05-02 Thu 21:45] =>  0:15
+    CLOCK: [2019-04-30 Tue 21:00]--[2019-04-30 Tue 21:25] =>  0:25
+    CLOCK: [2019-04-29 Mon 08:35]--[2019-04-29 Mon 08:50] =>  0:15
+    CLOCK: [2019-04-28 Sun 21:40]--[2019-04-28 Sun 22:00] =>  0:20
+    CLOCK: [2019-04-26 Fri 21:30]--[2019-04-26 Fri 21:45] =>  0:15
+    CLOCK: [2019-04-25 Thu 08:40]--[2019-04-25 Thu 08:55] =>  0:15
+    CLOCK: [2019-04-22 Mon 08:30]--[2019-04-22 Mon 08:50] =>  0:20
+    CLOCK: [2019-04-20 Sat 22:30]--[2019-04-20 Sat 22:45] =>  0:15
+    CLOCK: [2019-04-19 Fri 22:30]--[2019-04-19 Fri 22:55] =>  0:25
+    :END:
+    - [X] The Scent of Money (30m)
+    - [X] Imperial Visions (40m)
+    - [X] The Law of Religion (50m)
+    - [X] The Secret of Success (30m)
+    - [X] The Discovery of Ignorance (50m)
 

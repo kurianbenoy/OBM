@@ -87,7 +87,6 @@
   :wpd-gandalfdwite: 2
   :wpd-jasonbraganza: 3
   :wpd-sandeepk: 1.2
-  :wpd-sidntrivedi: 1
   :END:
 ** akshay196
 *** DONE The Hitchhiker's guide to Python - Part II [4/4]
@@ -298,21 +297,6 @@
      - [X] Part 6. Info Commands         ( 1h)
      - [X] Part 7. Calculator in emacs   ( 1h)
      - [X] Part 8. Org mode in emacs     ( 2h)
-*** IN_PROGRESS Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/4]
-   :PROPERTIES:
-   :ESTIMATED: 5
-   :ACTUAL:   1.82
-   :OWNER: gandalfdwite
-   :ID: READ.1553531542
-   :TASKID: READ.1553531542
-   :END:
-   :LOGBOOK:
-   CLOCK: [2019-04-13 Sat 09:25]--[2019-04-13 Sat 11:14] =>  1:49
-   :END:
-    - [ ] 1. Introduction                      ( 2h)
-    - [ ] 2. Recursion & Backtracking          ( 1h)
-    - [ ] 3. Linked Lists                      ( 1h)
-    - [ ] 4. Stacks                            ( 1h)
 ** jasonbraganza
 *** DONE NIOS Maths Text Book - Part V [1/1]
    :PROPERTIES:
@@ -385,43 +369,3 @@
     - [X] Memory Overload (20m)
     - [X] There is No Justice in History (35m)
     - [X] The Arrow of History (15m)
-** sidntrivedi
-*** IN_PROGRESS Learn Javascript [1/5]
-   :PROPERTIES:
-   :ESTIMATED: 6
-   :ACTUAL:   1.17
-   :OWNER: sidntrivedi
-   :ID: READ.1554709767
-   :TASKID: READ.1554709767
-   :END:
-   :LOGBOOK:
-   CLOCK: [2019-04-09 Tue 10:02]--[2019-04-09 Tue 10:21] =>  0:19
-   CLOCK: [2019-04-10 Wed 12:45]--[2019-04-10 Wed 13:21] =>  0:36
-   CLOCK: [2019-04-11 Thu 16:20]--[2019-04-11 Thu 16:35] =>  0:15
-   :END:
-   - [X] ES6
-   - [ ] Regular Expressions
-   - [ ] Debugging
-   - [ ] Basic Data Structures
-   - [ ] Basic ALgorithm Scripting
-*** TODO Read Linux for you and me [0/4]
-   :PROPERTIES:
-   :ESTIMATED: 5
-   :ACTUAL:
-   :OWNER: sidntrivedi
-   :ID: READ.1554709804
-   :TASKID: READ.1554709804
-   :END:
-   - [ ] File Permissions
-   - [ ] Processes in Linux
-   - [ ] Linux Services
-   - [ ] Package Management
-*** TODO Blog [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 2
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: WRITE.1539072660
-    :TASKID: WRITE.1539072660
-    :END:      
-    - [ ] Write one blog on ES6 features.
