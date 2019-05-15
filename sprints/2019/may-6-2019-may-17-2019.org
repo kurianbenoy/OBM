@@ -28,6 +28,7 @@
   :wpd-gandalfdwite: 1
   :wpd-manishkakoti: 1.8
   :wpd-nightwarrior-xxx: 1
+  :wpd-jasonbraganza: 1.5
   :END:
 ** gandalfdwite
 *** Read Kubernetes Docs - Part III
