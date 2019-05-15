@@ -197,14 +197,17 @@
    CLOCK: [2019-05-15 Wed 12:30]--[2019-05-15 Wed 13:15] =>  0:45
    :END:
    - [X] Make Plan of action (05h)
-*** TODO Work at French, in the Fluent forever app
+*** TODO Work at French, in the Fluent forever app [1/3]
    :PROPERTIES:
    :ESTIMATED: 365
-   :ACTUAL:
+   :ACTUAL:   0.58
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
-
+   :LOGBOOK:
+   CLOCK: [2019-05-15 Wed 14:15]--[2019-05-15 Wed 14:50] =>  0:35
+   :END:
+   - [X] Watched a pronunciation video. did two pronunciation lessons (1h)
    - [ ] Work in the app. fill in specific tasks once done (1h)
    - [ ] Work in the app. fill in specific tasks once done (1h)
