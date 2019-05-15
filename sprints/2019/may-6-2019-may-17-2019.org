@@ -160,19 +160,30 @@
    :END:
    - [X] Introduction            (05h)
    - [X] The Way of Emacs        (05h)
-*** TODO Read Fluent Forever and take notes - Part I [1/3]
+*** DONE Read Fluent Forever and take notes - Part I [9/9]
    :PROPERTIES:
    :ESTIMATED: 06
-   :ACTUAL:   0.52
+   :ACTUAL:   3.52
    :OWNER: jasonbraganza
    :ID: READ.1557162821
    :TASKID: READ.1557162821
-   :ORDERED:  t
    :END:
    :LOGBOOK:
-   CLOCK: [2019-05-15 Wed 08:59]
+   CLOCK: [2019-05-15 Wed 12:06]--[2019-05-15 Wed 12:08] =>  0:02
+   CLOCK: [2019-05-15 Wed 11:58]--[2019-05-15 Wed 12:04] =>  0:06
+   CLOCK: [2019-05-15 Wed 11:49]--[2019-05-15 Wed 11:56] =>  0:07
+   CLOCK: [2019-05-15 Wed 11:30]--[2019-05-15 Wed 11:48] =>  0:18
+   CLOCK: [2019-05-15 Wed 11:19]--[2019-05-15 Wed 11:30] =>  0:11
+   CLOCK: [2019-05-15 Wed 10:58]--[2019-05-15 Wed 11:16] =>  0:18
+   CLOCK: [2019-05-15 Wed 08:59]--[2019-05-15 Wed 10:57] =>  1:58
    CLOCK: [2019-05-07 Tue 07:15]--[2019-05-07 Tue 07:46] =>  0:31
    :END:
    - [X] Introduction                                   (02h)
-   - [ ] Upload - The five principles to end forgetting (02h)
-   - [ ] Sound Play                                     (02h) 
+   - [X] Upload - The five principles to end forgetting (02h)
+   - [X] Sound Play                                     (02h) 
+   - [X] Word Play                                      (02h)
+   - [X] Sentence Play                                  (02h)
+   - [X] The Language Game                              (02h)
+   - [X] Epilogue                                       (02h)
+   - [X] The Toolbox                                    (02h)
+   - [X] Appendices                                     (02h)
