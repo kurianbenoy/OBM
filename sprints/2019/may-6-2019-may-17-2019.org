@@ -145,9 +145,7 @@
     - [ ] Checkout (4h)
 
 ** jasonbraganza
-   :PROPERTIES:
-   :END:
-*** TODO Read and Practice alongside the Mastering Emacs book - Part I [2/2]
+*** DONE Read and Practice alongside the Mastering Emacs book - Part I [2/2]
    :PROPERTIES:
    :ESTIMATED: 10
    :ACTUAL:
@@ -187,3 +185,26 @@
    - [X] Epilogue                                       (02h)
    - [X] The Toolbox                                    (02h)
    - [X] Appendices                                     (02h)
+*** DONE Take Notes from Fluent Forever and formulate further actions [1/1]
+   :PROPERTIES:
+   :ESTIMATED: 5
+   :ACTUAL:   0.75
+   :OWNER: jasonbraganza
+   :ID: WRITE.1557163395
+   :TASKID: WRITE.1557163395
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-05-15 Wed 12:30]--[2019-05-15 Wed 13:15] =>  0:45
+   :END:
+   - [X] Make Plan of action (05h)
+*** TODO Work at French, in the Fluent forever app
+   :PROPERTIES:
+   :ESTIMATED: 365
+   :ACTUAL:
+   :OWNER: jasonbraganza
+   :ID: WRITE.1557903518
+   :TASKID: WRITE.1557903518
+   :END:
+
+   - [ ] Work in the app. fill in specific tasks once done (1h)
+   - [ ] Work in the app. fill in specific tasks once done (1h)
