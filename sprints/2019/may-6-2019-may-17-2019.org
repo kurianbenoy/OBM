@@ -145,7 +145,7 @@
     - [ ] Checkout (4h)
 
 ** jasonbraganza
-*** DONE Read and Practice alongside the Mastering Emacs book - Part I [2/2]
+*** TODO Read and Practice alongside the Mastering Emacs book - Part I [2/4]
    :PROPERTIES:
    :ESTIMATED: 10
    :ACTUAL:
@@ -158,6 +158,8 @@
    :END:
    - [X] Introduction            (05h)
    - [X] The Way of Emacs        (05h)
+   - [ ] First Steps              (05h)
+   - [ ] The Theory of Movement   (05h)
 *** DONE Read Fluent Forever and take notes - Part I [9/9]
    :PROPERTIES:
    :ESTIMATED: 06
