@@ -145,20 +145,22 @@
     - [ ] Checkout (4h)
 
 ** jasonbraganza
-*** TODO Read and Practice alongside the Mastering Emacs book - Part I [2/4]
+*** TODO Read and Practice alongside the Mastering Emacs book - Part I [3/4]
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:
+   :ACTUAL:   2.67
    :OWNER: jasonbraganza
    :ID: READ.1557143830
    :TASKID: READ.1557143830
+   :ORDERED:  t
    :END:
    :LOGBOOK:
+   CLOCK: [2019-05-16 Thu 10:03]--[2019-05-16 Thu 10:54] =>  0:51
    CLOCK: [2019-05-07 Tue 11:11]--[2019-05-07 Wed 13:00] =>  1:49
    :END:
    - [X] Introduction            (05h)
    - [X] The Way of Emacs        (05h)
-   - [ ] First Steps              (05h)
+   - [X] First Steps              (05h)
    - [ ] The Theory of Movement   (05h)
 *** DONE Read Fluent Forever and take notes - Part I [9/9]
    :PROPERTIES:
@@ -199,17 +201,19 @@
    CLOCK: [2019-05-15 Wed 12:30]--[2019-05-15 Wed 13:15] =>  0:45
    :END:
    - [X] Make Plan of action (05h)
-*** TODO Work at French, in the Fluent forever app [1/3]
+*** TODO Work at French, in the Fluent forever app - Part I [2/3]
    :PROPERTIES:
-   :ESTIMATED: 365
-   :ACTUAL:   0.58
+   :ESTIMATED: 3
+   :ACTUAL:   1.00
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-05-16 Thu 09:42]--[2019-05-16 Thu 10:01] =>  0:19
+   CLOCK: [2019-05-16 Thu 09:09]--[2019-05-16 Thu 09:15] =>  0:06
    CLOCK: [2019-05-15 Wed 14:15]--[2019-05-15 Wed 14:50] =>  0:35
    :END:
    - [X] Watched a pronunciation video. did two pronunciation lessons (1h)
-   - [ ] Work in the app. fill in specific tasks once done (1h)
+   - [X] Completed 5 review sessions, 4 pronunciation lessons, 2 pronuncition vides & 4 vocabulary flashcards (1h)
    - [ ] Work in the app. fill in specific tasks once done (1h)
