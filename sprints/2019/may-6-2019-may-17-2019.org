@@ -145,23 +145,26 @@
     - [ ] Checkout (4h)
 
 ** jasonbraganza
-*** IN_PROGRESS Read and Practice alongside the Mastering Emacs book - Part I [3/4]
+*** DONE Read and Practice alongside the Mastering Emacs book - Part I [4/4]
+    CLOSED: [2019-05-17 Fri 13:56]
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:   2.67
+   :ACTUAL:   4.20
    :OWNER: jasonbraganza
    :ID: READ.1557143830
    :TASKID: READ.1557143830
-   :ORDERED:  t
    :END:
    :LOGBOOK:
+   CLOCK: [2019-05-17 Fri 13:35]--[2019-05-17 Fri 13:56] =>  0:21
+   CLOCK: [2019-05-17 Fri 13:21]--[2019-05-17 Fri 13:35] =>  0:14
+   CLOCK: [2019-05-17 Fri 12:00]--[2019-05-17 Fri 12:57] =>  0:57
    CLOCK: [2019-05-16 Thu 10:03]--[2019-05-16 Thu 10:54] =>  0:51
    CLOCK: [2019-05-07 Tue 11:11]--[2019-05-07 Wed 13:00] =>  1:49
    :END:
    - [X] Introduction            (05h)
    - [X] The Way of Emacs        (05h)
    - [X] First Steps              (05h)
-   - [ ] The Theory of Movement   (05h)
+   - [X] The Theory of Movement   (05h)
 *** DONE Read Fluent Forever and take notes - Part I [9/9]
     CLOSED: [2019-05-15 Wed 12:10]
    :PROPERTIES:
@@ -203,19 +206,21 @@
    CLOCK: [2019-05-15 Wed 12:30]--[2019-05-15 Wed 13:15] =>  0:45
    :END:
    - [X] Make Plan of action (05h)
-*** IN_PROGRESS Work at French, in the Fluent forever app - Part I [2/3]
+*** DONE Work at French, in the Fluent forever app - Part I [3/3]
+    CLOSED: [2019-05-17 Fri 12:05]
    :PROPERTIES:
    :ESTIMATED: 3
-   :ACTUAL:   1.00
+   :ACTUAL:   1.73
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-05-17 Fri 11:21]--[2019-05-17 Fri 12:05] =>  0:44
    CLOCK: [2019-05-16 Thu 09:42]--[2019-05-16 Thu 10:01] =>  0:19
    CLOCK: [2019-05-16 Thu 09:09]--[2019-05-16 Thu 09:15] =>  0:06
    CLOCK: [2019-05-15 Wed 14:15]--[2019-05-15 Wed 14:50] =>  0:35
    :END:
    - [X] Watched a pronunciation video. did two pronunciation lessons (1h)
-   - [X] Completed 5 review sessions, 4 pronunciation lessons, 2 pronuncition vides & 4 vocabulary flashcards (1h)
-   - [ ] Work in the app. fill in specific tasks once done (1h)
+   - [X] Completed 5 review sessions, 4 pronunciation lessons, 2 pronunciation videos & 4 vocabulary flashcards (1h)
+   - [X] Completed 5 review sessions, 4 pronunciation lessons, 2 pronunciation videos & 4 vocabulary flashcards (1h)
