@@ -57,6 +57,9 @@
    - [ ] 18. awk                                 ( 2h)
 * PLAN
 ** May       18, 2019 - June       3, 2019 (17 days)
+   :PROPERTIES:
+   :wpd-gandalfdwite: 1
+   :END:
 *** Data Structure and Algorithmic Thinking with Python - Part III [0/4]
     :PROPERTIES:
     :ESTIMATED: 8
