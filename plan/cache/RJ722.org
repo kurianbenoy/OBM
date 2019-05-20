@@ -16,53 +16,7 @@
     - [ ] Volume the first
     - [ ] Volume the second
     - [ ] Volume the third
-*** Read "The Great Novel of India" [0/18]
-    :PROPERTIES:
-    :ESTIMATED: 15
-    :ACTUAL:
-    :OWNER: RJ722
-    :ID: READ.1557996292
-    :TASKID: READ.1557996292
-    :END:
-    - [ ] The First Book
-    - [ ] The Second Book
-    - [ ] The Third Book
-    - [ ] The Fourth Book
-    - [ ] The Fifth Book
-    - [ ] The Sixth Book
-    - [ ] The Seventh Book
-    - [ ] The Eighth Book
-    - [ ] The Ninth Book
-    - [ ] The Tenth Book
-    - [ ] The Eleventh Book
-    - [ ] The Twelfth Book
-    - [ ] The Thirteenth Book
-    - [ ] The Fourteenth Book
-    - [ ] The Fifteenth Book
-    - [ ] The Sixteenth Book
-    - [ ] The Seventeenth Book
-    - [ ] The Eigteenth Book
 ** Build reputation on StackOverflow
-*** Build the profile
-    :PROPERTIES:
-    :ESTIMATED: 1.5
-    :ACTUAL:
-    :OWNER: RJ722
-    :ID: TASK.1558159427
-    :TASKID: TASK.1558159427
-    :END:
-    - [ ] Follow tags and technologies that you know about
-    - [ ] Write a bio for the site
-    - [ ] Review their guides
-*** Gain 200 reputation
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER: RJ722
-    :ID: WRITE.1558159594
-    :TASKID: WRITE.1558159594
-    :END:
-    Quality answering for 4, 5 questions should suffice.
 ** 100 days of writing blog posts
 *** Write the posts, daily! [0/15]
     :PROPERTIES:
@@ -106,14 +60,6 @@
     :END:
 
 ** Complete the deeplearning.ai specialisation
-*** Revise the forgotten history (first three courses)
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER: RJ722
-    :ID: TASK.1558163860
-    :TASKID: TASK.1558163860
-    :END:
 *** Finish course 4 and 5
     :PROPERTIES:
     :ESTIMATED: 10
@@ -129,6 +75,72 @@
    :PROPERTIES:
    :wpd-RJ722: 4
    :END:
+*** TODO Read "The Great Novel of India" [0/18]
+    :PROPERTIES:
+    :ESTIMATED: 15
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: READ.1557996292
+    :TASKID: READ.1557996292
+    :END:
+    - [ ] The First Book
+    - [ ] The Second Book
+    - [ ] The Third Book
+    - [ ] The Fourth Book
+    - [ ] The Fifth Book
+    - [ ] The Sixth Book
+    - [ ] The Seventh Book
+    - [ ] The Eighth Book
+    - [ ] The Ninth Book
+    - [ ] The Tenth Book
+    - [ ] The Eleventh Book
+    - [ ] The Twelfth Book
+    - [ ] The Thirteenth Book
+    - [ ] The Fourteenth Book
+    - [ ] The Fifteenth Book
+    - [ ] The Sixteenth Book
+    - [ ] The Seventeenth Book
+    - [ ] The Eigteenth Book
+*** TODO Write blog post [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 26
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: WRITE.1558355651
+    :TASKID: WRITE.1558355651
+    :END:
+    - [ ] Week 1
+    - [ ] Week 2
+    - [ ] Week 3
+*** TODO Build the profile
+    :PROPERTIES:
+    :ESTIMATED: 1.5
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: TASK.1558159427
+    :TASKID: TASK.1558159427
+    :END:
+    - [ ] Follow tags and technologies that you know about
+    - [ ] Write a bio for the site
+    - [ ] Review their guides
+*** TODO Gain 200 reputation
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: WRITE.1558159594
+    :TASKID: WRITE.1558159594
+    :END:
+    Quality answering for 4, 5 questions should suffice.
+*** TODO Revise the forgotten history (first three courses)
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: TASK.1558163860
+    :TASKID: TASK.1558163860
+    :END:
+
 ** June       4, 2019 - June      16, 2019 (13 days)
 ** June      17, 2019 - July       3, 2019 (17 days)
 ** July       4, 2019 - July      15, 2019 (12 days)
