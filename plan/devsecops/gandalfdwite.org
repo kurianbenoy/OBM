@@ -21,10 +21,7 @@
     :ID: READ.1553531542
     :TASKID: READ.1553531542
     :END:
-    - [ ] 6. Trees                             ( 4h)
-    - [ ] 7. Priority Queues & Heaps           ( 1h)
-    - [ ] 8. Disjoint Sets ADT                 ( 1h)
-    - [ ] 9. Graph Algorithms                  ( 2h)
+
     - [ ] 10. Sorting                          ( 2h)
     - [ ] 11. Searching                        ( 2h)
     - [ ] 12. Selection Algorithms (Medians)   ( 1h)
@@ -47,9 +44,6 @@
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
-   - [ ] 5. Handling Ordinary files              ( 2h)
-   - [ ] 6. Basic file attributes                ( 1h)
-   - [ ] 7. Vi editor                            ( 3h)
    - [ ] 8. The SHELL                            ( 2h)
    - [ ] 9. The Process                          ( 1h)
    - [ ] 10. Customizing environment             ( 1h)
@@ -62,3 +56,39 @@
    - [ ] 17. Networking tools                    ( 3h)
    - [ ] 18. awk                                 ( 2h)
 * PLAN
+** May       18, 2019 - June       3, 2019 (17 days)
+   :PROPERTIES:
+   :wpd-gandalfdwite: 1
+   :END:
+*** Data Structure and Algorithmic Thinking with Python - Part III [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1553531542
+    :TASKID: READ.1553531542
+    :END:
+    - [ ] 6. Trees                             ( 4h)
+    - [ ] 7. Priority Queues & Heaps           ( 1h)
+    - [ ] 8. Disjoint Sets ADT                 ( 1h)
+    - [ ] 9. Graph Algorithms                  ( 2h)
+*** Python Web Training [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER:    gandalfdwite
+    :ID:       EVENT.1558150556
+    :TASKID:   EVENT.1558150556
+    :END:
+    - [ ] Python online training  (3h)
+*** Unix Concepts & Applications by Sumitabha Das - Part III [0/3]
+   :PROPERTIES:
+   :ESTIMATED: 6
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1553532278
+   :TASKID: READ.1553532278
+   :END:
+   - [ ] 5. Handling Ordinary files              ( 2h)
+   - [ ] 6. Basic file attributes                ( 1h)
+   - [ ] 7. Vi editor                            ( 3h)

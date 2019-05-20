@@ -31,34 +31,52 @@
   :wpd-jasonbraganza: 1.5
   :END:
 ** gandalfdwite
-*** Read Kubernetes Docs - Part III
+*** DONE Read Kubernetes Docs - Part III [2/2]
+    CLOSED: [2019-05-14 Tue 22:10]
    :PROPERTIES:
    :ESTIMATED: 8
-   :ACTUAL:
+   :ACTUAL:   8.02
    :OWNER: gandalfdwite
    :ID: READ.1553531073
    :TASKID: READ.1553531073
    :END:
-   - [ ] Cluster Administration                   ( 3h)
-   - [ ] Extending Kubernetes                     ( 5h)
-*** Data Structure and Algorithmic Thinking with Python - Part II
+   :LOGBOOK:
+   CLOCK: [2019-05-14 Tue 21:27]--[2019-05-14 Tue 22:09] =>  0:42
+   CLOCK: [2019-05-12 Sun 23:53]--[2019-05-13 Mon 01:05] =>  1:12
+   CLOCK: [2019-05-11 Sat 21:07]--[2019-05-11 Sat 22:08] =>  1:01
+   CLOCK: [2019-05-10 Fri 19:07]--[2019-05-10 Fri 20:30] =>  1:23
+   CLOCK: [2019-05-09 Thu 21:19]--[2019-05-09 Thu 22:29] =>  1:10
+   CLOCK: [2019-05-08 Wed 21:28]--[2019-05-08 Wed 22:38] =>  1:10
+   CLOCK: [2019-05-07 Tue 20:30]--[2019-05-07 Tue 21:53] =>  1:23
+   :END:
+
+   - [X] Cluster Administration                   ( 3h)
+   - [X] Extending Kubernetes                     ( 5h)
+*** DONE Data Structure and Algorithmic Thinking with Python - Part II [2/2]
+    CLOSED: [2019-05-16 Thu 20:40]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   2.73
     :OWNER: gandalfdwite
     :ID: READ.1553531542
     :TASKID: READ.1553531542
     :END:
-    - [ ] 4. Stacks                            ( 1h)
-    - [ ] 5. Queues                            ( 1h)
-*** Unix Concepts & Applications - Part II
+    :LOGBOOK:
+    CLOCK: [2019-05-16 Thu 19:15]--[2019-05-16 Thu 20:40] =>  1:25
+    CLOCK: [2019-05-15 Wed 20:36]--[2019-05-15 Wed 21:55] =>  1:19
+    :END:
+    - [X] 4. Stacks                            ( 1h)
+    - [X] 5. Queues                            ( 1h)
+*** DONE Unix Concepts & Applications - Part II [2/2]
+    CLOSED: [2019-05-17 Fri 23:49]
    :PROPERTIES:
    :ESTIMATED: 3
-   :ACTUAL:
+   :ACTUAL:   3.68
    :OWNER: gandalfdwite
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
+<<<<<<< HEAD
    - [ ] 3. General Purpose Utilities            ( 1h)
    - [ ] 4. File system                          ( 2h)
 ** manishkakoti
@@ -224,3 +242,12 @@
    - [X] Watched a pronunciation video. did two pronunciation lessons (1h)
    - [X] Completed 5 review sessions, 4 pronunciation lessons, 2 pronunciation videos & 4 vocabulary flashcards (1h)
    - [X] Completed 5 review sessions, 4 pronunciation lessons, 2 pronunciation videos & 4 vocabulary flashcards (1h)
+=======
+   :LOGBOOK:
+   CLOCK: [2019-05-17 Fri 22:36]--[2019-05-17 Fri 23:49] =>  1:13
+   CLOCK: [2019-05-17 Fri 19:19]--[2019-05-17 Fri 20:35] =>  1:16
+   CLOCK: [2019-05-16 Thu 23:18]--[2019-05-17 Fri 00:30] =>  1:12
+   :END:
+   - [X] 3. General Purpose Utilities            ( 1h)
+   - [X] 4. File system                          ( 2h)
+>>>>>>> [gandalfdwite] tasks completed for current sprint
