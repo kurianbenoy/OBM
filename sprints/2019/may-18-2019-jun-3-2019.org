@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 17
   :SPRINTSTART: <2019-05-18 Sat>
   :wpd-akshay196: 1
+  :wpd-gandalfdwite: 1
   :END:
 ** akshay196
 *** UNIX and Linux System Administration Handbook - Part II [0/8]
@@ -109,3 +110,36 @@
       - Zone file updating
       - DNS security issues
       - BIND debugging
+** gandalfdwite
+*** Data Structure and Algorithmic Thinking with Python - Part III [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1553531542
+    :TASKID: READ.1553531542
+    :END:
+    - [ ] 6. Trees                             ( 4h)
+    - [ ] 7. Priority Queues & Heaps           ( 1h)
+    - [ ] 8. Disjoint Sets ADT                 ( 1h)
+    - [ ] 9. Graph Algorithms                  ( 2h)
+*** Python Web Training [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER:    gandalfdwite
+    :ID:       EVENT.1558150556
+    :TASKID:   EVENT.1558150556
+    :END:
+    - [ ] Python online training  (3h)
+*** Unix Concepts & Applications by Sumitabha Das - Part III [0/3]
+   :PROPERTIES:
+   :ESTIMATED: 6
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1553532278
+   :TASKID: READ.1553532278
+   :END:
+   - [ ] 5. Handling Ordinary files              ( 2h)
+   - [ ] 6. Basic file attributes                ( 1h)
+   - [ ] 7. Vi editor                            ( 3h)
