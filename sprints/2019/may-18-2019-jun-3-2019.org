@@ -185,22 +185,30 @@
    - [ ] Write a short blog post. Do Review. (1h)
    - [ ] Work in the app. fill in specific tasks once done (1h)
    - [ ] Work in the app. fill in specific tasks once done (1h)
-*** TODO IN_PROGRESS Read Pym Book [0/24]
+*** TODO IN_PROGRESS Read Pym Book [8/24]
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:
+   :ACTUAL:   2.02
    :OWNER: jasonbraganza
    :ID: READ.1558193338
    :TASKID: READ.1558193338
    :END:
-   - [ ] Installation
-   - [ ] The Beginning
-   - [ ] Using mu editor
-   - [ ] Variables and Datatypes
-   - [ ] Operators and expressions
-   - [ ] If-else , the control flow
-   - [ ] Looping
-   - [ ] Data Structures
+   :LOGBOOK:
+   CLOCK: [2019-05-21 Tue 14:17]--[2019-05-21 Tue 14:23] =>  0:06
+   CLOCK: [2019-05-21 Tue 13:25]--[2019-05-21 Tue 13:35] =>  0:10
+   CLOCK: [2019-05-21 Tue 12:23]--[2019-05-21 Tue 13:10] =>  0:47
+   CLOCK: [2019-05-21 Tue 12:16]--[2019-05-21 Tue 12:23] =>  0:07
+   CLOCK: [2019-05-21 Tue 11:59]--[2019-05-21 Tue 12:16] =>  0:17
+   CLOCK: [2019-05-21 Tue 11:25]--[2019-05-21 Tue 11:59] =>  0:34
+   :END:
+   - [X] Installation
+   - [X] The Beginning
+   - [X] Using mu editor
+   - [X] Variables and Datatypes
+   - [X] Operators and expressions
+   - [X] If-else , the control flow
+   - [X] Looping
+   - [X] Data Structures
    - [ ] Strings
    - [ ] Functions
    - [ ] File handling
