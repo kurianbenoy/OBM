@@ -27,6 +27,7 @@
   :SPRINTSTART: <2019-05-18 Sat>
   :wpd-akshay196: 1
   :wpd-gandalfdwite: 1
+  :wpd-jasonbraganza: 2
   :END:
 ** akshay196
 *** UNIX and Linux System Administration Handbook - Part II [0/8]
@@ -143,3 +144,76 @@
    - [ ] 5. Handling Ordinary files              ( 2h)
    - [ ] 6. Basic file attributes                ( 1h)
    - [ ] 7. Vi editor                            ( 3h)
+** jasonbraganza
+*** TODO IN_PROGRESS Read and Practice alongside the Mastering Emacs book - Part II [0/3]
+   :PROPERTIES:
+   :ESTIMATED: 15
+   :ACTUAL:
+   :OWNER: jasonbraganza
+   :ID: READ.1557143830
+   :TASKID: READ.1557143830
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-05-07 Tue 11:11]--[2019-05-07 Wed 13:00] =>  1:49
+   :END:
+   - [ ] The Theory of Editing    (05h)
+   - [ ] The Practicals of Emacs  (05h)
+   - [ ] Conclusion               (05h)
+*** TODO IN_PROGRESS Work at French, in the Fluent forever app - Part II [1/14]
+   :PROPERTIES:
+   :ESTIMATED: 17
+   :ACTUAL:   1.07
+   :OWNER: jasonbraganza
+   :ID: WRITE.1557903518
+   :TASKID: WRITE.1557903518
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-05-18 Sat 20:40]--[2019-05-18 Sat 20:44] =>  0:04
+   CLOCK: [2019-05-18 Sat 15:40]--[2019-05-18 Sat 16:40] =>  1:00
+   :END:
+   - [X] Write a short blog post. Do Review. (1h)
+   - [ ] Work in the app. fill in specific tasks once done (1h)
+   - [ ] Work in the app. fill in specific tasks once done (1h)
+   - [ ] Work in the app. fill in specific tasks once done (1h)
+   - [ ] Work in the app. fill in specific tasks once done (1h)
+   - [ ] Write a short blog post. Do Review. (1h)
+   - [ ] Work in the app. fill in specific tasks once done (1h)
+   - [ ] Work in the app. fill in specific tasks once done (1h)
+   - [ ] Work in the app. fill in specific tasks once done (1h)
+   - [ ] Work in the app. fill in specific tasks once done (1h)
+   - [ ] Work in the app. fill in specific tasks once done (1h)
+   - [ ] Write a short blog post. Do Review. (1h)
+   - [ ] Work in the app. fill in specific tasks once done (1h)
+   - [ ] Work in the app. fill in specific tasks once done (1h)
+*** TODO IN_PROGRESS Read Pym Book [0/24]
+   :PROPERTIES:
+   :ESTIMATED: 10
+   :ACTUAL:
+   :OWNER: jasonbraganza
+   :ID: READ.1558193338
+   :TASKID: READ.1558193338
+   :END:
+   - [ ] Installation
+   - [ ] The Beginning
+   - [ ] Using mu editor
+   - [ ] Variables and Datatypes
+   - [ ] Operators and expressions
+   - [ ] If-else , the control flow
+   - [ ] Looping
+   - [ ] Data Structures
+   - [ ] Strings
+   - [ ] Functions
+   - [ ] File handling
+   - [ ] Exceptions
+   - [ ] Class
+   - [ ] Modules
+   - [ ] Collections module
+   - [ ] Using VS Code as your primary Python editor
+   - [ ] PEP8 Guidelines
+   - [ ] Iterators, generators and decorators
+   - [ ] Virtualenv
+   - [ ] Type hinting and annotations
+   - [ ] Simple testing in Python
+   - [ ] A project structure
+   - [ ] Building command line applications with Click
+   - [ ] Introduction to Flask
