@@ -27,6 +27,7 @@
   :SPRINTSTART: <2019-05-18 Sat>
   :wpd-akshay196: 1
   :wpd-gandalfdwite: 1
+  :wpd-RJ722: 4
   :END:
 ** akshay196
 *** UNIX and Linux System Administration Handbook - Part II [0/8]
@@ -143,3 +144,69 @@
    - [ ] 5. Handling Ordinary files              ( 2h)
    - [ ] 6. Basic file attributes                ( 1h)
    - [ ] 7. Vi editor                            ( 3h)
+** RJ722
+*** Read "The Great Novel of India" [0/18]
+    :PROPERTIES:
+    :ESTIMATED: 15
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: READ.1557996292
+    :TASKID: READ.1557996292
+    :END:
+    - [ ] The First Book
+    - [ ] The Second Book
+    - [ ] The Third Book
+    - [ ] The Fourth Book
+    - [ ] The Fifth Book
+    - [ ] The Sixth Book
+    - [ ] The Seventh Book
+    - [ ] The Eighth Book
+    - [ ] The Ninth Book
+    - [ ] The Tenth Book
+    - [ ] The Eleventh Book
+    - [ ] The Twelfth Book
+    - [ ] The Thirteenth Book
+    - [ ] The Fourteenth Book
+    - [ ] The Fifteenth Book
+    - [ ] The Sixteenth Book
+    - [ ] The Seventeenth Book
+    - [ ] The Eigteenth Book
+*** Write blog post [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 26
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: WRITE.1558355651
+    :TASKID: WRITE.1558355651
+    :END:
+    - [ ] Week 1
+    - [ ] Week 2
+    - [ ] Week 3
+*** Build the profile
+    :PROPERTIES:
+    :ESTIMATED: 1.5
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: TASK.1558159427
+    :TASKID: TASK.1558159427
+    :END:
+    - [ ] Follow tags and technologies that you know about
+    - [ ] Write a bio for the site
+    - [ ] Review their guides
+*** Gain 200 reputation
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: WRITE.1558159594
+    :TASKID: WRITE.1558159594
+    :END:
+    Quality answering for 4, 5 questions should suffice.
+*** Revise the forgotten history (first three courses)
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: TASK.1558163860
+    :TASKID: TASK.1558163860
+    :END:
