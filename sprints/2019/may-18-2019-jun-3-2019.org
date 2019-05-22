@@ -148,7 +148,7 @@
 *** TODO IN_PROGRESS Read and Practice alongside the Mastering Emacs book - Part II [0/3]
    :PROPERTIES:
    :ESTIMATED: 15
-   :ACTUAL:
+   :ACTUAL:   1.82
    :OWNER: jasonbraganza
    :ID: READ.1557143830
    :TASKID: READ.1557143830
