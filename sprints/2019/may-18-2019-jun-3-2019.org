@@ -154,24 +154,33 @@
    :TASKID: READ.1557143830
    :END:
    :LOGBOOK:
+   CLOCK: [2019-05-22 Wed 12:48]
    CLOCK: [2019-05-07 Tue 11:11]--[2019-05-07 Wed 13:00] =>  1:49
    :END:
    - [ ] The Theory of Editing    (05h)
    - [ ] The Practicals of Emacs  (05h)
    - [ ] Conclusion               (05h)
-*** TODO IN_PROGRESS Work at French, in the Fluent forever app - Part II [1/14]
+*** TODO IN_PROGRESS Work at French, in the Fluent forever app - Part II [4/14]
    :PROPERTIES:
    :ESTIMATED: 17
-   :ACTUAL:   1.07
+   :ACTUAL:   2.68
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-05-22 Wed 09:34]--[2019-05-22 Wed 10:35] =>  1:01
+   CLOCK: [2019-05-22 Wed 08:58]--[2019-05-22 Wed 09:34] =>  0:36
    CLOCK: [2019-05-18 Sat 20:40]--[2019-05-18 Sat 20:44] =>  0:04
    CLOCK: [2019-05-18 Sat 15:40]--[2019-05-18 Sat 16:40] =>  1:00
    :END:
    - [X] Write a short blog post. Do Review. (1h)
+   - [X] Work a pronunciation video (1h)
+   - [X] Completed 4 pronunciation lessons (1h)
+   - [X] Created 3 grammar flashcards. did 4 review sessions (1h)
+   - [ ] Work in the app. fill in specific tasks once done (1h)
+   - [ ] Write a short blog post. Do Review. (1h)
+   - [ ] Work in the app. fill in specific tasks once done (1h)
    - [ ] Work in the app. fill in specific tasks once done (1h)
    - [ ] Work in the app. fill in specific tasks once done (1h)
    - [ ] Work in the app. fill in specific tasks once done (1h)
@@ -179,21 +188,18 @@
    - [ ] Write a short blog post. Do Review. (1h)
    - [ ] Work in the app. fill in specific tasks once done (1h)
    - [ ] Work in the app. fill in specific tasks once done (1h)
-   - [ ] Work in the app. fill in specific tasks once done (1h)
-   - [ ] Work in the app. fill in specific tasks once done (1h)
-   - [ ] Work in the app. fill in specific tasks once done (1h)
-   - [ ] Write a short blog post. Do Review. (1h)
-   - [ ] Work in the app. fill in specific tasks once done (1h)
-   - [ ] Work in the app. fill in specific tasks once done (1h)
-*** TODO IN_PROGRESS Read Pym Book [8/24]
+*** DONE Read Pym Book [24/24]
+    CLOSED: [2019-05-22 Wed 12:45]
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:   2.02
+   :ACTUAL:   3.90
    :OWNER: jasonbraganza
    :ID: READ.1558193338
    :TASKID: READ.1558193338
    :END:
    :LOGBOOK:
+   CLOCK: [2019-05-22 Wed 12:31]--[2019-05-22 Wed 12:45] =>  0:14
+   CLOCK: [2019-05-22 Wed 10:36]--[2019-05-22 Wed 12:15] =>  1:39
    CLOCK: [2019-05-21 Tue 14:17]--[2019-05-21 Tue 14:23] =>  0:06
    CLOCK: [2019-05-21 Tue 13:25]--[2019-05-21 Tue 13:35] =>  0:10
    CLOCK: [2019-05-21 Tue 12:23]--[2019-05-21 Tue 13:10] =>  0:47
@@ -209,19 +215,19 @@
    - [X] If-else , the control flow
    - [X] Looping
    - [X] Data Structures
-   - [ ] Strings
-   - [ ] Functions
-   - [ ] File handling
-   - [ ] Exceptions
-   - [ ] Class
-   - [ ] Modules
-   - [ ] Collections module
-   - [ ] Using VS Code as your primary Python editor
-   - [ ] PEP8 Guidelines
-   - [ ] Iterators, generators and decorators
-   - [ ] Virtualenv
-   - [ ] Type hinting and annotations
-   - [ ] Simple testing in Python
-   - [ ] A project structure
-   - [ ] Building command line applications with Click
-   - [ ] Introduction to Flask
+   - [X] Strings
+   - [X] Functions
+   - [X] File handling
+   - [X] Exceptions
+   - [X] Class
+   - [X] Modules
+   - [X] Collections module
+   - [X] Using VS Code as your primary Python editor
+   - [X] PEP8 Guidelines
+   - [X] Iterators, generators and decorators
+   - [X] Virtualenv
+   - [X] Type hinting and annotations
+   - [X] Simple testing in Python
+   - [X] A project structure
+   - [X] Building command line applications with Click
+   - [X] Introduction to Flask
