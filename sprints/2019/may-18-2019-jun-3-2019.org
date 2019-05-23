@@ -236,27 +236,31 @@
    - [X] A project structure
    - [X] Building command line applications with Click
    - [X] Introduction to Flask
-*** TODO IN_PROGRESS Read Extreme Programming Pocket Guide: Team-Based Software Development [3/6]
+*** DONE Read Extreme Programming Pocket Guide: Team-Based Software Development [9/9]
+    CLOSED: [2019-05-23 Thu 11:35]
    :PROPERTIES:
    :ESTIMATED: 5
-   :ACTUAL:
+   :ACTUAL:   0.93
    :OWNER: jasonbraganza
    :ID: READ.1558587496
    :TASKID: READ.1558587496
    :END:
    :LOGBOOK:
-   CLOCK: [2019-05-23 Thu 11:10]
+   CLOCK: [2019-05-23 Thu 11:34]--[2019-05-23 Thu 11:35] =>  0:01
+   CLOCK: [2019-05-23 Thu 11:27]--[2019-05-23 Thu 11:33] =>  0:06
+   CLOCK: [2019-05-23 Thu 11:25]--[2019-05-23 Thu 11:27] =>  0:02
+   CLOCK: [2019-05-23 Thu 11:10]--[2019-05-23 Thu 11:25] =>  0:15
    CLOCK: [2019-05-23 Thu 10:38]--[2019-05-23 Thu 11:10] =>  0:32
    :END:
    - [X] Preface
    - [X] Why XP?
    - [X] Extreme Programming Practices   
-   - [ ] XP Events
-   - [ ] Extreme Progamming Artifacts
-   - [ ] Roles in Extreme Programming
-   - [ ] Coding, XP Style
-   - [ ] Adopting XP
-   - [ ] Further Resources
+   - [X] XP Events
+   - [X] Extreme Progamming Artifacts
+   - [X] Roles in Extreme Programming
+   - [X] Coding, XP Style
+   - [X] Adopting XP
+   - [X] Further Resources
 ** RJ722
 *** Read "The Great Novel of India" [0/18]
     :PROPERTIES:
