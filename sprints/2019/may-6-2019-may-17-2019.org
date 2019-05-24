@@ -79,29 +79,9 @@
 <<<<<<< HEAD
    - [ ] 3. General Purpose Utilities            ( 1h)
    - [ ] 4. File system                          ( 2h)
-** manishkakoti
-*** Learn Django [0/12]
-    :PROPERTIES:
-    :ESTIMATED: 22
-    :ACTUAL:
-    :OWNER: manishkakoti
-    :ID: READ.1557396756
-    :TASKID: READ.1557396756
-    :END:
-    - [ ] Start with Django from official Documentation                            (2h)
-    - [ ] Follow along other contents and explore Django                           (1h)
-    - [ ] Start building demo applications in Django                               (1h)
-    - [ ] Run a three-hour personal hackathon to build a miniscule application E2E (3h)
-    - [ ] Watch talks on Django topics                                             (1h)
-    - [ ] Revisit Django concepts and build application                            (2h)
-    - [ ] Build advanced demo Django apps for practice - Part-I                    (2h)
-    - [ ] Build advanced demo Django apps for practice - Part-II                   (2h)
-    - [ ] Build a full-scale personal application to learn more on advanced Django (2h)
-    - [ ] Build a full-scale personal application to learn more on advanced Django (2h)
-    - [ ] Build a full-scale personal application to learn more on advanced Django (2h)
-    - [ ] Revisit everything and closing on Django                                 (2h)
-** nightwarrior-xxx
-*** Website Building (Django) [3/7]
+** DONE nightwarrior-xxx
+   CLOSED: [2019-05-17 Fri 23:00]
+*** Website Building (Django) - Part I [3/3]
     :PROPERTIES:
     :ESTIMATED: 17
     :ACTUAL:   18.82
@@ -157,11 +137,6 @@
     - [X] Basics (2h)
     - [X] Product Components (2h)
     - [X] Templates (2h)
-    - [ ] Bootstrap Components (3h)
-    - [ ] Search Components (2h)
-    - [ ] Cart Components (2h)
-    - [ ] Checkout (4h)
-
 ** jasonbraganza
 *** DONE Read and Practice alongside the Mastering Emacs book - Part I [4/4]
     CLOSED: [2019-05-17 Fri 13:56]
