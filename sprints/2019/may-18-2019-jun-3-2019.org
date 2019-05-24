@@ -163,7 +163,7 @@
    - [X] The Theory of Editing    (05h)
    - [X] The Practicals of Emacs  (05h)
    - [X] Conclusion               (05h)
-*** TODO IN_PROGRESS Work at French, in the Fluent forever app - Part II [6/14]
+*** IN_PROGRESS IN_PROGRESS Work at French, in the Fluent forever app - Part II [6/14]
    :PROPERTIES:
    :ESTIMATED: 17
    :ACTUAL:   5.07
