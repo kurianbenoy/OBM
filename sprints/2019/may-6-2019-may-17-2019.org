@@ -79,9 +79,9 @@
 <<<<<<< HEAD
    - [ ] 3. General Purpose Utilities            ( 1h)
    - [ ] 4. File system                          ( 2h)
-** DONE nightwarrior-xxx
-   CLOSED: [2019-05-17 Fri 23:00]
-*** Website Building (Django) - Part I [3/3]
+** nightwarrior-xxx
+*** DONE Website Building (Django) - Part I [3/3]
+    CLOSED: [2019-05-17 Fri 23:00]
     :PROPERTIES:
     :ESTIMATED: 17
     :ACTUAL:   18.82
