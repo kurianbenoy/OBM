@@ -172,15 +172,16 @@ r#+TITLE: May 18, 2019 - June 3, 2019 (17 days)
    - [X] The Theory of Editing    (05h)
    - [X] The Practicals of Emacs  (05h)
    - [X] Conclusion               (05h)
-*** IN_PROGRESS Work at French, in the Fluent forever app - Part II [10/14]
+*** IN_PROGRESS Work at French, in the Fluent forever app - Part II [12/14]
    :PROPERTIES:
    :ESTIMATED: 17
-   :ACTUAL:   7.75
+   :ACTUAL:   8.60
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-05-31 Fri 11:23]--[2019-05-31 Fri 12:14] =>  0:51
    CLOCK: [2019-05-31 The 21:25]--[2019-05-31 Fri 22:11] =>  0:46
    CLOCK: [2019-05-30 Wed 22:00]--[2019-05-30 Thu 22:42] =>  0:42
    CLOCK: [2019-05-28 Tue 08:28]--[2019-05-28 Tue 09:09] =>  0:41
@@ -203,8 +204,8 @@ r#+TITLE: May 18, 2019 - June 3, 2019 (17 days)
    - [X] Completed 4 review sesions, 2 pronunciation lessons  & created 5 vocabulary cards (1h)
    - [X] Completed 1 review session & 4 pronunciation lessons (1h)
    - [X] Completed 1 review session & 4 pronunciation lessons (1h)
-   - [ ] Work in the app. fill in specific tasks once done (1h)
-   - [ ] Write a short blog post. Do Review. (1h)
+   - [X] Completed 1 review session & 4 pronunciation lessons (1h)
+   - [X] Write a short blog post. Do Review. (1h)
    - [ ] Work in the app. fill in specific tasks once done (1h)
    - [ ] Work in the app. fill in specific tasks once done (1h)
 *** DONE Read Pym Book [24/24]
