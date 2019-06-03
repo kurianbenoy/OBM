@@ -1,6 +1,7 @@
 #+TITLE: May 18, 2019 - June 3, 2019 (17 days)
 #+AUTHOR: dgplug.org
 #+EMAIL: users@lists.dgplug.org
+#+TODO: TODO IN_PROGRESS | DONE DEFERRED
 #+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
 #+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
 * REPORTS
@@ -293,17 +294,23 @@
    - [X] Adopting XP
    - [X] Further Resources
 ** RJ722
-*** Read "The Great Novel of India" [0/18]
+*** IN_PROGRESS Read "The Great Novel of India" [3/18]
     :PROPERTIES:
     :ESTIMATED: 15
-    :ACTUAL:
+    :ACTUAL:   2.20
     :OWNER: RJ722
     :ID: READ.1557996292
     :TASKID: READ.1557996292
     :END:
-    - [ ] The First Book
-    - [ ] The Second Book
-    - [ ] The Third Book
+    :LOGBOOK:
+    CLOCK: [2019-06-02 Sun 19:54]--[2019-06-02 Sun 21:15] =>  1:21
+    CLOCK: [2019-06-02 Sun 09:25]--[2019-06-02 Sun 10:30] =>  1:05
+    CLOCK: [2019-05-31 Fri 01:05]--[2019-05-31 Fri 01:52] =>  0:47
+    CLOCK: [2019-05-30 Thu 00:05]--[2019-05-30 Thu 00:25] =>  0:20
+    :END:
+    - [X] The First Book
+    - [X] The Second Book
+    - [X] The Third Book
     - [ ] The Fourth Book
     - [ ] The Fifth Book
     - [ ] The Sixth Book
@@ -319,17 +326,35 @@
     - [ ] The Sixteenth Book
     - [ ] The Seventeenth Book
     - [ ] The Eigteenth Book
-*** Write blog post [0/3]
+*** DONE Write blog post [2/2]
+    CLOSED: [2019-06-02 Sun 22:56]
     :PROPERTIES:
     :ESTIMATED: 26
-    :ACTUAL:
+    :ACTUAL:   29.35
     :OWNER: RJ722
     :ID: WRITE.1558355651
     :TASKID: WRITE.1558355651
     :END:
-    - [ ] Week 1
-    - [ ] Week 2
-    - [ ] Week 3
+    :LOGBOOK:
+    CLOCK: [2019-05-30 Thu 11:22]--[2019-05-30 Thu 11:50] =>  0:28
+    CLOCK: [2019-05-29 Wed 00:50]--[2019-05-29 Wed 01:35] =>  0:45
+    CLOCK: [2019-05-28 Tue 19:51]--[2019-05-28 Tue 21:10] =>  1:19
+    CLOCK: [2019-05-28 Tue 19:35]--[2019-05-28 Tue 19:50] =>  0:15
+    CLOCK: [2019-05-28 Tue 14:19]--[2019-05-28 Tue 17:09] =>  2:50
+    CLOCK: [2019-05-28 Tue 00:42]--[2019-05-28 Tue 04:15] =>  3:33
+    CLOCK: [2019-05-27 Mon 20:16]--[2019-05-27 Mon 21:43] =>  1:27
+    CLOCK: [2019-05-27 Mon 14:59]--[2019-05-27 Mon 15:31] =>  0:32
+    CLOCK: [2019-05-27 Mon 01:55]--[2019-05-27 Mon 02:13] =>  0:18
+    CLOCK: [2019-05-25 Sat 16:32]--[2019-05-25 Sat 23:07] =>  6:35
+    CLOCK: [2019-05-25 Sat 11:32]--[2019-05-25 Sat 12:32] =>  1:00
+    CLOCK: [2019-05-22 Wed 17:46]--[2019-05-23 Thu 00:25] =>  6:39
+    CLOCK: [2019-05-22 Wed 00:07]--[2019-05-22 Wed 00:51] =>  0:44
+    CLOCK: [2019-05-19 Sun 14:49]--[2019-05-19 Sun 15:00] =>  0:11
+    CLOCK: [2019-05-19 Sun 00:52]--[2019-05-19 Sun 03:37] =>  2:45
+    :END:
+    - [X] Week 1
+    - [X] Week 2
+    Although I couldn't write daily, but I put in the effort I wanted myself to. Quite happy with it, would love to increase throughput though!
 *** Build the profile
     :PROPERTIES:
     :ESTIMATED: 1.5
@@ -350,7 +375,7 @@
     :TASKID: WRITE.1558159594
     :END:
     Quality answering for 4, 5 questions should suffice.
-*** Revise the forgotten history (first three courses)
+*** IN_PROGRESS Revise the forgotten history (first three courses)
     :PROPERTIES:
     :ESTIMATED: 5
     :ACTUAL:
@@ -358,4 +383,10 @@
     :ID: TASK.1558163860
     :TASKID: TASK.1558163860
     :END:
->>>>>>> RJ722/operation-blue-moon-master
+    :LOGBOOK:
+    CLOCK: [2019-05-29 Wed 21:51]--[2019-05-29 Wed 22:09] =>  0:18
+    CLOCK: [2019-05-29 Wed 21:05]--[2019-05-29 Wed 21:16] =>  0:11
+    :END:
+    - [ ] Neural Networks & Deep Learning
+    - [ ] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+    - [ ] Structuring Machine Learning Projects
