@@ -147,7 +147,86 @@ Dan Mackin, Ben Whaley, Trent R. Hein, Garth Snyder, Evi Nemeth.
   - Legal issues
   - Organizations, conferences, and other resources
 *** Python
+**** Read [[https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/][How to loop with indexes in Python]]
+**** Read [[https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/][Python List Comprehensions]]
 *** Automation with Ansible
 ** Development
 *** Ansible
+** Emacs
+*** Understand GNU Bug tracker system
+**** Read [[https://debbugs.gnu.org/][GNU Bug Tracker]]
+**** Read [[https://debbugs.gnu.org/server-control.html][Introduction to the bug control mailserver]]
+**** Read [[https://debbugs.gnu.org/Using.html][Using this system to track your project's bug]]
+**** Read [[https://debbugs.gnu.org/server-request.html][Introduction to the bug system request server]]
+**** Read [[https://debbugs.gnu.org/Developer.html][Developers' information regarding the bug processing system]]
+*** Build GNU Emacs from source code
+*** Triage Bugs
 * PLAN
+** June       4, 2019 - June      16, 2019 (13 days)
+   :PROPERTIES:
+   :wpd-akshay196: 1
+   :END:
+*** Read [[https://debbugs.gnu.org/][GNU Bug Tracker]]
+    :PROPERTIES:
+    :ESTIMATED: 1
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1559574004
+    :TASKID: READ.1559574004
+    :END:
+*** Read [[https://debbugs.gnu.org/Using.html][Using this system to track your project's bug]]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1559574102
+    :TASKID: READ.1559574102
+    :END:
+*** Read [[https://debbugs.gnu.org/server-control.html][Introduction to the bug control mailserver]]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1559574200
+    :TASKID: READ.1559574200
+    :END:
+*** Read [[https://debbugs.gnu.org/server-request.html][Introduction to the bug system request server]]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1559574236
+    :TASKID: READ.1559574236
+    :END:
+*** Read [[https://debbugs.gnu.org/Developer.html][Developers' information regarding the bug processing system]]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1559574679
+    :TASKID: READ.1559574679
+    :END:
+*** Build GNU Emacs from source code
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: OPS.1559574312
+    :TASKID: OPS.1559574312
+    :END:
+*** Read [[https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/][How to loop with indexes in Python]]
+    :PROPERTIES:
+    :ESTIMATED: 1
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1559574998
+    :TASKID: READ.1559574998
+    :END:
+*** Read [[https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/][Python List Comprehensions]]
+    :PROPERTIES:
+    :ESTIMATED: 1
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1559575032
+    :TASKID: READ.1559575032
+    :END:
