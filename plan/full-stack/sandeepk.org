@@ -4,8 +4,18 @@
 #+TAGS: read write dev ops task event meeting # Need to be category
 * GOALS
 
+** Basic Stuff
+*** [#A] Data Structure and Algorithm 
+   :PROPERTIES:
+   :ESTIMATED: 
+   :ACTUAL:
+   :OWNER: sandeepk
+   :ID: READ.1559638295
+   :TASKID: READ.1559638295
+   :END:
+
 ** Programming Languages
-*** CSS [/]
+*** [#C] CSS [/]
     :PROPERTIES:
     :ESTIMATED: 4
     :ACTUAL:
@@ -18,7 +28,7 @@
     - [ ] Build a Survey Form
     - [ ] Build a Product Landing Page
     - [ ] Build a Technical Documentation
-*** JavaScript [/]
+*** [#C] JavaScript [/]
     :PROPERTIES:
     :ESTIMATED: 
     :ACTUAL:
@@ -33,13 +43,21 @@
     - [ ] Roman Numeral Converter
     - [ ] Telephone Number Validator
     - [ ] Cash Register
-*** Python Tricks: A Buffet of Awesome Python Features [/]
+*** [#A] Python Tricks: A Buffet of Awesome Python Features [/]
     :PROPERTIES:
     :ESTIMATED: 
     :ACTUAL:
     :OWNER: sandeepk
     :ID: READ.1553503719
     :TASKID: READ.1553503719
+    :END:
+*** [#B] Dive into Pyhton3 [/]
+    :PROPERTIES:
+    :ESTIMATED: 
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1559639223
+    :TASKID: READ.1559639223
     :END:
 
 ** Books
@@ -55,6 +73,7 @@
     - [ ] Start with Why: How great Leaders Inspires Everyone To Take Action
     - [ ] The Personal MBA:A World-Class Busniess Education in a Single Volume
     - [ ] Atomic Habits
+    - [ ] Operating System 
 
 ** Writing
 *** Blog post to write [/]
@@ -69,7 +88,6 @@
     - [ ] Using Scrapy to scrap website.
     - [ ] Using Apache Kafka to build communication pipeline.
     - [ ] Write about the experience for handling continuse deployment.
-
 ** Database
 *** MongoDB
     :PROPERTIES:
@@ -79,9 +97,8 @@
     :ID: READ.1553504661
     :TASKID: READ.1553504661
     :END:
-
 ** FrameWork
-*** Django
+*** [#A] Django
     :PROPERTIES:
     :ESTIMATED: 
     :ACTUAL:
@@ -106,7 +123,7 @@
     :TASKID: READ.1553504753
     :END:
 ** Projects
-*** Stacknews [/]
+*** [#A] Stacknews [/]
     :PROPERTIES:
     :ESTIMATED: 
     :ACTUAL:
@@ -115,7 +132,7 @@
     :TASKID: DEV.1553504808
     :END:
 ** Courses
-*** Google Cloud Specialization
+*** [#A] Google Cloud Specialization
     :PROPERTIES:
     :ESTIMATED: 58
     :ACTUAL:
@@ -141,7 +158,7 @@
    :PROPERTIES:
    :wpd-sandeepk: 2
    :END:
-*** Essential Cloud Infrastructure: Foundation [/]
+*** Essential Cloud Infrastructure: Foundation [/4]
     :PROPERTIES:
     :ESTIMATED: 5
     :ACTUAL:
@@ -150,7 +167,7 @@
     :TASKID: READ.1559492157
     :END:
     - [ ] Welcome to cloud Infrastructure on Google Cloud Platform 25m
-    - [ ] Module - 1 Intriduction to Google Cloud Platform Infrastructure 50m
+    - [ ] Module - 1 Introduction to Google Cloud Platform Infrastructure 50m
     - [ ] Module - 2 Virtual Networking 1h40m
     - [ ] Module - 3 Virtual Macgines 2h5m
 *** Essential Cloud Infrastructure: Core Services [/5]
@@ -162,7 +179,7 @@
     :TASKID: READ.1559587761
     :END:
     - [ ] Welcome to Essential Cloud Infrastructure: Core Services 5m
-    - [ ] Module - 1 Cloud IAM 1h
+    - [ ] Module 1: Cloud IAM 1h
     - [ ] Module 2: Data Storage Services 3h
     - [ ] Module 3: Resource Management 1h
     - [ ] Module 4: Resource Monitoring 2h
