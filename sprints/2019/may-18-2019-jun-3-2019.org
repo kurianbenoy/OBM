@@ -32,15 +32,26 @@
   :wpd-RJ722: 4
   :END:
 ** akshay196
-*** IN_PROGRESS UNIX and Linux System Administration Handbook - Part II [3/8]
+*** DONE UNIX and Linux System Administration Handbook - Part II [8/8]
+    CLOSED: [2019-06-03 Mon 23:07]
     :PROPERTIES:
     :ESTIMATED: 17
-    :ACTUAL:   4.78
+    :ACTUAL:   15.22
     :OWNER: akshay196
     :ID: READ.1555438527
     :TASKID: READ.1555438527
     :END:
     :LOGBOOK:
+    CLOCK: [2019-06-03 Mon 22:31]--[2019-06-03 Mon 23:07] =>  0:36
+    CLOCK: [2019-06-03 Mon 20:10]--[2019-06-03 Mon 21:41] =>  1:31
+    CLOCK: [2019-06-02 Sun 10:10]--[2019-06-02 Sun 11:20] =>  1:10
+    CLOCK: [2019-06-01 Sat 14:15]--[2019-06-01 Sat 15:26] =>  1:11
+    CLOCK: [2019-06-01 Sat 09:05]--[2019-06-01 Sat 10:30] =>  1:25
+    CLOCK: [2019-05-31 Fri 22:45]--[2019-05-31 Fri 23:47] =>  1:02
+    CLOCK: [2019-05-30 Thu 22:38]--[2019-05-30 Thu 23:51] =>  1:13
+    CLOCK: [2019-05-29 Wed 23:02]--[2019-05-29 Wed 23:50] =>  0:48
+    CLOCK: [2019-05-28 Tue 22:52]--[2019-05-28 Tue 23:59] =>  1:07
+    CLOCK: [2019-05-27 Mon 22:28]--[2019-05-27 Mon 22:51] =>  0:23
     CLOCK: [2019-05-26 Sun 21:29]--[2019-05-26 Sun 22:02] =>  0:33
     CLOCK: [2019-05-24 Fri 22:28]--[2019-05-24 Fri 23:24] =>  0:56
     CLOCK: [2019-05-23 Thu 21:14]--[2019-05-23 Thu 21:47] =>  0:33
@@ -73,11 +84,11 @@
       - Booting
       - Booting alternate kernels in the cloud
       - Kernel errors
-    - [ ] Chapter 12. Printing                              ( 2h)
+    - [X] Chapter 12. Printing                              ( 2h)
       - CUPS printing
       - CUPS server administration
       - Troubleshooting tips
-    - [ ] Chapter 13. TCP/IP Networking                     ( 3h)
+    - [X] Chapter 13. TCP/IP Networking                     ( 3h)
       - TCP/IP and its relationship to the Internet
       - Networking basics
       - Packet addressing
@@ -93,7 +104,7 @@
       - Network monitoring
       - Firewalls and NAT
       - Cloud networking
-    - [ ] Chapter 14. Physical Networking                   ( 2h)
+    - [X] Chapter 14. Physical Networking                   ( 2h)
       - Ethernet: the Swiss Army knife of networking
       - Wireless: Ethernet for nomads
       - SDN: software-defined networking
@@ -102,7 +113,7 @@
       - Network design issues
       - Management issues
       - Recommended vendors
-    - [ ] Chapter 15. IP Routing                            ( 2h)
+    - [X] Chapter 15. IP Routing                            ( 2h)
       - Packet forwarding: a closer look
       - Routing daemons and routing protocols
       - Protocols on parade
@@ -110,7 +121,7 @@
       - Routing strategy selection criteria
       - Routing daemons
       - Cisco routers
-    - [ ] Chapter 16. DNS: Domain Name System               ( 2h)
+    - [X] Chapter 16. DNS: Domain Name System               ( 2h)
       - DNS architecture
       - DNS for lookups
       - The DNS namespace
