@@ -26,7 +26,7 @@
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2019-06-04 Tue>
   :wpd-akshay196: 1
-  :wpd-jasonbraganva: 4
+  :wpd-jasonbraganza: 4
   :END:
 ** akshay196
 *** Read [[https://debbugs.gnu.org/][GNU Bug Tracker]]
