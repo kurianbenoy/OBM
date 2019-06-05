@@ -134,15 +134,17 @@
       - DNS security issues
       - BIND debugging
 ** gandalfdwite
-*** IN_PROGRESS Data Structure and Algorithmic Thinking with Python - Part III [3/4]
+*** DONE Data Structure and Algorithmic Thinking with Python - Part III [4/4]
+    CLOSED: [2019-06-01 Sat 19:47]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:   8.60
+    :ACTUAL:   10.40
     :OWNER: gandalfdwite
     :ID: READ.1553531542
     :TASKID: READ.1553531542
     :END:
     :LOGBOOK:
+    CLOCK: [2019-06-01 Sat 17:59]--[2019-06-01 Sat 19:47] =>  1:48
     CLOCK: [2019-05-30 Thu 22:12]--[2019-05-30 Thu 23:15] =>  1:03
     CLOCK: [2019-05-27 Mon 22:03]--[2019-05-27 Mon 23:06] =>  1:03
     CLOCK: [2019-05-26 Sun 21:40]--[2019-05-26 Sun 22:37] =>  0:57
@@ -157,7 +159,7 @@
     - [X] 6. Trees                             ( 4h)
     - [X] 7. Priority Queues & Heaps           ( 1h)
     - [X] 8. Disjoint Sets ADT                 ( 1h)
-    - [ ] 9. Graph Algorithms                  ( 2h)
+    - [X] 9. Graph Algorithms                  ( 2h)
 *** DONE Python Web Training [1/1]
     CLOSED: [2019-05-25 Sat 15:52]
     :PROPERTIES:
@@ -171,17 +173,6 @@
     CLOCK: [2019-05-25 Sat 12:12]--[2019-05-25 Sat 15:20] =>  3:08
     :END:
     - [X] Python online training  (3h)
-*** Unix Concepts & Applications by Sumitabha Das - Part III [0/3]
-   :PROPERTIES:
-   :ESTIMATED: 6
-   :ACTUAL:
-   :OWNER: gandalfdwite
-   :ID: READ.1553532278
-   :TASKID: READ.1553532278
-   :END:
-   - [ ] 5. Handling Ordinary files              ( 2h)
-   - [ ] 6. Basic file attributes                ( 1h)
-   - [ ] 7. Vi editor                            ( 3h)
 ** jasonbraganza
 *** DONE Read and Practice alongside the Mastering Emacs book - Part II [3/3]
     CLOSED: [2019-05-22 Wed 13:19]
@@ -392,7 +383,7 @@
 *** IN_PROGRESS Revise the forgotten history (first three courses)
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL:
+    :ACTUAL:   0.00
     :OWNER: RJ722
     :ID: TASK.1558163860
     :TASKID: TASK.1558163860

@@ -3,15 +3,6 @@
 #+TAGS: dev ops read meeting
 * GOALS
 ** DevOps
-*** Read Kubernetes Docs
-   :PROPERTIES:
-   :ESTIMATED: 28
-   :ACTUAL:
-   :OWNER: gandalfdwite
-   :ID: READ.1553531073
-   :TASKID: READ.1553531073
-   :END:
-
 ** Python
 *** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
     :PROPERTIES:
@@ -44,11 +35,6 @@
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
-   - [ ] 8. The SHELL                            ( 2h)
-   - [ ] 9. The Process                          ( 1h)
-   - [ ] 10. Customizing environment             ( 1h)
-   - [ ] 11. More File attributes                ( 1h)
-   - [ ] 12. Simple filters                      ( 2h)
    - [ ] 13. Regular expressions                 ( 3h)
    - [ ] 14. Essential shell programming         ( 3h)
    - [ ] 15. Essential System Administration     ( 3h)
@@ -56,4 +42,27 @@
    - [ ] 17. Networking tools                    ( 3h)
    - [ ] 18. awk                                 ( 2h)
 * PLAN
-
+** June       4, 2019 - June      16, 2019 (13 days)
+   :PROPERTIES:
+   :wpd-gandalfdwite: 1
+   :END:
+*** Unix Concepts & Applications by Sumitabha Das - Part III [1/3]
+   :PROPERTIES:
+   :ESTIMATED: 13
+   :ACTUAL:   3.33
+   :OWNER: gandalfdwite
+   :ID: READ.1553532278
+   :TASKID: READ.1553532278
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-06-03 Mon 19:35]--[2019-06-03 Mon 21:54] =>  2:19
+   CLOCK: [2019-06-02 Sun 22:41]--[2019-06-02 Sun 23:42] =>  1:01
+   :END:
+   - [X] 5. Handling Ordinary files              ( 2h)
+   - [ ] 6. Basic file attributes                ( 1h)
+   - [ ] 7. Vi editor                            ( 3h)
+   - [ ] 8. The SHELL                            ( 2h)
+   - [ ] 9. The Process                          ( 1h)
+   - [ ] 10. Customizing environment             ( 1h)
+   - [ ] 11. More File attributes                ( 1h)
+   - [ ] 12. Simple filters                      ( 2h) 
