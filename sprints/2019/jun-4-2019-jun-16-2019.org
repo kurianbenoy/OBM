@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2019-06-04 Tue>
   :wpd-akshay196: 1
+   :wpd-bhavin192: 1
   :END:
 ** akshay196
 *** Read [[https://debbugs.gnu.org/][GNU Bug Tracker]]
@@ -92,3 +93,34 @@
     :ID: READ.1559575032
     :TASKID: READ.1559575032
     :END:
+** bhavin192
+*** Write blog post on building Emacs from source
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1556025699
+    :TASKID:   WRITE.1556025699
+    :END:
+*** Linux Under the Hood [0/13]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1559581076
+    :TASKID:   READ.1559581076
+    :END:
+    https://www.oreilly.com/library/view/linux-under-the/9780134663500/
+    - [ ] 1.  How Linux is organized                            (25m)
+    - [ ] 2.  About C code, scripts and compiled programs       (35m)
+    - [ ] 3.  Understanding Linux commands and how they work    (22m)
+    - [ ] 4.  Understanding the Linux boot procedure            (90m)
+    - [ ] 5.  Understanding Linux storage                       (80m)
+    - [ ] 6.  Understanding memory management                   (40m)
+    - [ ] 7.  Understanding processes                           (40m)
+    - [ ] 8.  Security                                          (60m)
+    - [ ] 9.  Hardware initialization                           (35m)
+    - [ ] 10. Looking closer at the kernel                      (40m)
+    - [ ] 11. Understanding networking                          (50m)
+    - [ ] 12. Performance optimization                          (60m)
+    - [ ] 13. The future of Linux                               (23m)
