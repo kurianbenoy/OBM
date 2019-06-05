@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2019-06-04 Tue>
   :wpd-akshay196: 1
+  :wpd-jasonbraganva: 4
   :END:
 ** akshay196
 *** Read [[https://debbugs.gnu.org/][GNU Bug Tracker]]
@@ -92,3 +93,70 @@
     :ID: READ.1559575032
     :TASKID: READ.1559575032
     :END:
+** jasonbraganza
+*** IN_PROGRESS Work at French, in the Fluent forever app - Part III [2/10]
+   :PROPERTIES:
+   :ESTIMATED: 20
+   :ACTUAL:   2.07
+   :OWNER: jasonbraganza
+   :ID: WRITE.1557903518
+   :TASKID: WRITE.1557903518
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-06-05 Wed 08:06]--[2019-06-05 Wed 08:55] =>  0:49
+   CLOCK: [2019-06-04 Tue 07:50]--[2019-06-04 Tue 09:05] =>  1:15
+   :END:
+   - [X] Completed 1 review session & 2 pronunciation lessons (1h)
+   - [X] Completed 1 review session & 2 pronunciation lessons (1h)
+   - [ ] Complete lesson and fill details (1h)
+   - [ ] Complete lesson and fill details, write blog post (1h)
+   - [ ] Complete lesson and fill details (1h)
+   - [ ] Complete lesson and fill details (1h)
+   - [ ] Complete lesson and fill details (1h)
+   - [ ] Complete lesson and fill details (1h)
+   - [ ] Complete lesson and fill details, write blog post (1h)
+   - [ ] Complete lesson and fill details (1h)
+*** IN_PROGRESS Write once a week - 1 [1/2]
+   :PROPERTIES:
+   :ESTIMATED: 2
+   :ACTUAL:   0.65
+   :OWNER: jasonbraganza
+   :ID: WRITE.1559630427
+   :TASKID: WRITE.1559630427
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-06-04 Tue 14:00]--[2019-06-04 Tue 14:39] =>  0:39
+   :END:
+   - [X] Write a short blog post. (1h)
+   - [ ] Write a short blog post. (1h)
+*** IN_PROGRESS Read fiction [1/10]
+   :PROPERTIES:
+   :ESTIMATED: 10
+   :ACTUAL:   0.95
+   :OWNER: jasonbraganza
+   :ID: READ.1559630918
+   :TASKID: READ.1559630918
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-06-05 Wed 09:09]--[2019-06-05 Wed 09:11] =>  0:02
+   CLOCK: [2019-06-04 Tue 13:00]--[2019-06-04 Tue 13:55] =>  0:55
+   :END:
+   - [ ] Read India Love Poems (1h)
+   - [ ] Read Love Poems & Love Letters (1h)
+   - [ ] Read Flower thoughts (1h)
+   - [ ] Read Thoughts for a Good Life (1h)
+   - [ ] Read Oscar Wilde Epigrams (1h)
+   - [X] Read Balzac Epigrams (1h)
+   - [ ] Read Murder on the Links (1h)
+   - [ ] Read Murder on the Links (1h)
+   - [ ] Read Murder on the Links (1h)
+   - [ ] Read Murder on the Links (1h)
+*** TODO Introduction to Computer Science and Programming Using Python - Part I [1/1]
+   :PROPERTIES:
+   :ESTIMATED: 8
+   :ACTUAL:
+   :OWNER: jasonbraganza
+   :ID: READ.1559713451
+   :TASKID: READ.1559713451
+   :END:
+   - [X] Course starts 6th will update subtasks then
