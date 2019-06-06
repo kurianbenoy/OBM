@@ -163,24 +163,25 @@
    :END:
    - [X] Write a short blog post. (1h)
    - [ ] Write a short blog post. (1h)
-*** IN_PROGRESS Read fiction [2/10]
+*** IN_PROGRESS Read fiction [6/10]
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:   2.12
+   :ACTUAL:   4.13
    :OWNER: jasonbraganza
    :ID: READ.1559630918
    :TASKID: READ.1559630918
    :END:
    :LOGBOOK:
+   CLOCK: [2019-06-06 Thu 11:00]--[2019-06-06 Thu 13:01] =>  2:01
    CLOCK: [2019-06-05 Wed 23:35]--[2019-06-06 Thu 00:45] =>  1:10
    CLOCK: [2019-06-05 Wed 09:09]--[2019-06-05 Wed 09:11] =>  0:02
    CLOCK: [2019-06-04 Tue 13:00]--[2019-06-04 Tue 13:55] =>  0:55
    :END:
    - [X] Read India Love Poems (1h)
-   - [ ] Read Love Poems & Love Letters (1h)
-   - [ ] Read Flower thoughts (1h)
-   - [ ] Read Thoughts for a Good Life (1h)
-   - [ ] Read Oscar Wilde Epigrams (1h)
+   - [X] Read Love Poems & Love Letters (1h)
+   - [X] Read Flower thoughts (1h)
+   - [X] Read Thoughts for a Good Life (1h)
+   - [X] Read Oscar Wilde Epigrams (1h)
    - [X] Read Balzac Epigrams (1h)
    - [ ] Read Murder on the Links (1h)
    - [ ] Read Murder on the Links (1h)
