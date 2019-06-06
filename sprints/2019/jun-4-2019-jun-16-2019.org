@@ -194,15 +194,17 @@
    :END:
    - [X] Course starts 6th will update subtasks then
 ** sandeepk
-*** Essential Cloud Infrastructure: Foundation [2/4]
+*** DONE Essential Cloud Infrastructure: Foundation [4/4]
+    CLOSED: [2019-06-06 Thu 23:35]
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL:   2.98
+    :ACTUAL:   6.00
     :OWNER: sandeepk
     :ID: READ.1559492157
     :TASKID: READ.1559492157
     :END:
     :LOGBOOK:
+    CLOCK: [2019-06-06 Thu 20:34]--[2019-06-06 Thu 23:35] =>  3:01
     CLOCK: [2019-06-06 Thu 00:05]--[2019-06-06 Thu 00:27] =>  0:22
     CLOCK: [2019-06-05 Wed 20:08]--[2019-06-05 Wed 21:00] =>  0:52
     CLOCK: [2019-06-04 Tue 21:30]--[2019-06-04 Tue 22:20] =>  0:50
@@ -210,8 +212,8 @@
     :END:
     - [X] Welcome to cloud Infrastructure on Google Cloud Platform        (25m)
     - [X] Module - 1 Introduction to Google Cloud Platform Infrastructure (50m)
-    - [ ] Module - 2 Virtual Networking                                   (1h 40m)
-    - [ ] Module - 3 Virtual Machines                                     (2h 5m)
+    - [X] Module - 2 Virtual Networking                                   (1h 40m)
+    - [X] Module - 3 Virtual Machines                                     (2h 5m)
 *** Essential Cloud Infrastructure: Core Services [/5]
     :PROPERTIES:
     :ESTIMATED: 7.08
