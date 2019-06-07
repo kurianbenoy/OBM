@@ -46,19 +46,16 @@
    :PROPERTIES:
    :wpd-gandalfdwite: 1
    :END:
-*** Unix Concepts & Applications by Sumitabha Das - Part III [1/3]
+*** Unix Concepts & Applications by Sumitabha Das - Part III [/]
    :PROPERTIES:
    :ESTIMATED: 13
-   :ACTUAL:   3.33
+   :ACTUAL:   0.00
    :OWNER: gandalfdwite
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
    :LOGBOOK:
-   CLOCK: [2019-06-03 Mon 19:35]--[2019-06-03 Mon 21:54] =>  2:19
-   CLOCK: [2019-06-02 Sun 22:41]--[2019-06-02 Sun 23:42] =>  1:01
    :END:
-   - [X] 5. Handling Ordinary files              ( 2h)
    - [ ] 6. Basic file attributes                ( 1h)
    - [ ] 7. Vi editor                            ( 3h)
    - [ ] 8. The SHELL                            ( 2h)
