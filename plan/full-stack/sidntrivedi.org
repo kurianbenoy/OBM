@@ -77,34 +77,6 @@
     :END:     
     - [ ] Write one blog every week.
 * PLAN
-** June       4, 2019 - June      16, 2019 (13 days)
-   :PROPERTIES:
-   :wpd-sidntrivedi: 1.0
-   :END:
-*** Eloquent Javascript
-    :PROPERTIES:
-      :ESTIMATED: 10
-      :ACTUAL:
-      :OWNER: sidntrivedi
-      :ID: READ.1559963113
-      :TASKID: READ.1559963113
-      :END:
-      - [ ] Values, Types, and Operators
-      - [ ] Program Structure
-      - [ ] Functions
-      - [ ] Data Structures: Objects and Arrays
-      - [ ] Higher-order Functions
-      - [ ] The Secret Life of Objects
-      - [ ] Project: A Robot
-*** Blog https://sidntrivedi.me
-    :PROPERTIES:
-    :ESTIMATED: 2
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: WRITE.1539072660
-    :TASKID: WRITE.1539072660
-    :END:      
-    - [ ] Write one blog every week.
 ** June      17, 2019 - July       3, 2019 (17 days)
 ** July       4, 2019 - July      15, 2019 (12 days)
 ** July      16, 2019 - August     1, 2019 (17 days)
