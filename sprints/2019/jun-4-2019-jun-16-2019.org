@@ -146,21 +146,22 @@
    - [ ] 11. More File attributes                ( 1h)
    - [ ] 12. Simple filters                      ( 2h)
 ** jasonbraganza
-*** IN_PROGRESS Work at French, in the Fluent forever app - Part III [2/10]
+*** IN_PROGRESS Work at French, in the Fluent forever app - Part III [3/10]
    :PROPERTIES:
    :ESTIMATED: 20
-   :ACTUAL:   2.07
+   :ACTUAL:   2.88
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-06-06 Thu 07:15]--[2019-06-06 Thu 08:04] =>  0:49
    CLOCK: [2019-06-05 Wed 08:06]--[2019-06-05 Wed 08:55] =>  0:49
    CLOCK: [2019-06-04 Tue 07:50]--[2019-06-04 Tue 09:05] =>  1:15
    :END:
    - [X] Completed 1 review session & 2 pronunciation lessons (1h)
    - [X] Completed 1 review session & 2 pronunciation lessons (1h)
-   - [ ] Complete lesson and fill details (1h)
+   - [X] Completed 1 review session & 2 pronunciation lessons (1h)
    - [ ] Complete lesson and fill details, write blog post (1h)
    - [ ] Complete lesson and fill details (1h)
    - [ ] Complete lesson and fill details (1h)
@@ -181,37 +182,86 @@
    :END:
    - [X] Write a short blog post. (1h)
    - [ ] Write a short blog post. (1h)
-*** IN_PROGRESS Read fiction [1/10]
+*** IN_PROGRESS Read fiction [6/10]
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:   0.95
+   :ACTUAL:   4.13
    :OWNER: jasonbraganza
    :ID: READ.1559630918
    :TASKID: READ.1559630918
    :END:
    :LOGBOOK:
+   CLOCK: [2019-06-06 Thu 11:00]--[2019-06-06 Thu 13:01] =>  2:01
+   CLOCK: [2019-06-05 Wed 23:35]--[2019-06-06 Thu 00:45] =>  1:10
    CLOCK: [2019-06-05 Wed 09:09]--[2019-06-05 Wed 09:11] =>  0:02
    CLOCK: [2019-06-04 Tue 13:00]--[2019-06-04 Tue 13:55] =>  0:55
    :END:
-   - [ ] Read India Love Poems (1h)
-   - [ ] Read Love Poems & Love Letters (1h)
-   - [ ] Read Flower thoughts (1h)
-   - [ ] Read Thoughts for a Good Life (1h)
-   - [ ] Read Oscar Wilde Epigrams (1h)
+   - [X] Read India Love Poems (1h)
+   - [X] Read Love Poems & Love Letters (1h)
+   - [X] Read Flower thoughts (1h)
+   - [X] Read Thoughts for a Good Life (1h)
+   - [X] Read Oscar Wilde Epigrams (1h)
    - [X] Read Balzac Epigrams (1h)
    - [ ] Read Murder on the Links (1h)
    - [ ] Read Murder on the Links (1h)
    - [ ] Read Murder on the Links (1h)
    - [ ] Read Murder on the Links (1h)
-*** TODO Introduction to Computer Science and Programming Using Python - Part I [1/1]
+*** IN_PROGRESS Introduction to Computer Science and Programming Using Python - Part I [0/3]
    :PROPERTIES:
    :ESTIMATED: 8
-   :ACTUAL:
+   :ACTUAL:   2.38
    :OWNER: jasonbraganza
    :ID: READ.1559713451
    :TASKID: READ.1559713451
    :END:
-   - [X] Course starts 6th will update subtasks then
+   :LOGBOOK:
+   CLOCK: [2019-06-06 Thu 08:30]--[2019-06-06 Thu 10:00] =>  1:30
+   CLOCK: [2019-06-05 Wed 22:37]--[2019-06-05 Wed 23:30] =>  0:53
+   :END:
+   - [-] 1. Introduction to Python (TIME: 1:03:12)
+     - [X] Finger Exercises due Aug 8, 2019 05:00 IST  This content is graded
+     - [X] Video: Introduction
+     - [X] Video: Knowledge
+     - [X] Exercises 1
+     - [X] Exercises 2
+     - [X] Video: Machines
+     - [X] Exercises 3
+     - [X] Video: Languages
+     - [X] Exercises 4
+     - [ ] Video: Types
+     - [ ] Exercise 5
+     - [ ] Exercise 6
+     - [ ] Video: Variables
+     - [ ] Exercise 7
+     - [ ] Video: Operators and Branching
+     - [ ] Exercise 8
+     - [ ] Exercise 9
+     - [ ] Exercise 10
+   - [ ] 2. Core Elements of Programs (TIME: 54:14)
+     - [ ] Video: Bindings
+     - [ ] Video: Strings
+     - [ ] Exercise 1
+     - [ ] Exercise 2
+     - [ ] Video: Input/Output
+     - [ ] Exercise 3
+     - [ ] Video: IDEs
+     - [ ] Exercise: hello world
+     - [ ] Video: Control Flow
+     - [ ] Exercise: happy
+     - [ ] Exercise: vara varb
+     - [ ] Exercise 4
+     - [ ] Exercise: while
+     - [ ] Exercise: for
+     - [ ] Video: Iteration
+     - [ ] Exercise 5
+     - [ ] Exercise 6
+     - [ ] Video: Guess and Check
+     - [ ] Exercise 7
+   - [ ] Problem Set 1, due Jun 21, 2019 05:00 IST
+     - [ ] Problem 1
+     - [ ] Problem 2
+     - [ ] Problem 3
+     - [ ] Show your Appreciation!
 ** sandeepk
 *** Essential Cloud Infrastructure: Foundation [0/4]
     :PROPERTIES:
