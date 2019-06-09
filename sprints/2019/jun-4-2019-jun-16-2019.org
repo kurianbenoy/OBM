@@ -27,6 +27,7 @@
   :SPRINTSTART: <2019-06-04 Tue>
   :wpd-akshay196: 1
   :wpd-bhavin192: 1
+  :wpd-gandalfdwite: 1
   :wpd-jasonbraganza: 4
   :wpd-sandeepk: 2
   :END:
@@ -126,6 +127,24 @@
     - [ ] 11. Understanding networking                          (50m)
     - [ ] 12. Performance optimization                          (60m)
     - [ ] 13. The future of Linux                               (23m)
+** gandalfdwite
+*** Unix Concepts & Applications by Sumitabha Das - Part III [/]
+   :PROPERTIES:
+   :ESTIMATED: 13
+   :ACTUAL:   0.00
+   :OWNER: gandalfdwite
+   :ID: READ.1553532278
+   :TASKID: READ.1553532278
+   :END:
+   :LOGBOOK:
+   :END:
+   - [ ] 6. Basic file attributes                ( 1h)
+   - [ ] 7. Vi editor                            ( 3h)
+   - [ ] 8. The SHELL                            ( 2h)
+   - [ ] 9. The Process                          ( 1h)
+   - [ ] 10. Customizing environment             ( 1h)
+   - [ ] 11. More File attributes                ( 1h)
+   - [ ] 12. Simple filters                      ( 2h)
 ** jasonbraganza
 *** IN_PROGRESS Work at French, in the Fluent forever app - Part III [2/10]
    :PROPERTIES:
