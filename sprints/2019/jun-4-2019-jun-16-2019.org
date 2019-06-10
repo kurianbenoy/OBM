@@ -129,19 +129,24 @@
     - [ ] 12. Performance optimization                          (60m)
     - [ ] 13. The future of Linux                               (23m)
 ** gandalfdwite
-*** Unix Concepts & Applications by Sumitabha Das - Part III [/]
+*** IN_PROGRESS Unix Concepts & Applications by Sumitabha Das - Part III [3/7]
    :PROPERTIES:
    :ESTIMATED: 13
-   :ACTUAL:   0.00
+   :ACTUAL:   6.17
    :OWNER: gandalfdwite
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
    :LOGBOOK:
+   CLOCK: [2019-06-09 Sun 18:56]--[2019-06-09 Sun 19:52] =>  0:56
+   CLOCK: [2019-06-09 Sun 17:09]--[2019-06-09 Sun 18:03] =>  0:54
+   CLOCK: [2019-06-08 Sat 19:40]--[2019-06-08 Sat 21:41] =>  2:01
+   CLOCK: [2019-06-06 Thu 22:16]--[2019-06-06 Thu 23:25] =>  1:09
+   CLOCK: [2019-06-05 Wed 22:30]--[2019-06-05 Wed 23:40] =>  1:10
    :END:
-   - [ ] 6. Basic file attributes                ( 1h)
-   - [ ] 7. Vi editor                            ( 3h)
-   - [ ] 8. The SHELL                            ( 2h)
+   - [X] 6. Basic file attributes                ( 1h)
+   - [X] 7. Vi editor                            ( 3h)
+   - [X] 8. The SHELL                            ( 2h)
    - [ ] 9. The Process                          ( 1h)
    - [ ] 10. Customizing environment             ( 1h)
    - [ ] 11. More File attributes                ( 1h)
