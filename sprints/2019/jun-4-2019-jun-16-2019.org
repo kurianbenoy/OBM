@@ -129,15 +129,16 @@
     - [ ] 12. Performance optimization                          (60m)
     - [ ] 13. The future of Linux                               (23m)
 ** gandalfdwite
-*** IN_PROGRESS Unix Concepts & Applications by Sumitabha Das - Part III [4/7]
+*** IN_PROGRESS Unix Concepts & Applications by Sumitabha Das - Part III [5/7]
    :PROPERTIES:
    :ESTIMATED: 13
-   :ACTUAL:   7.13
+   :ACTUAL:   8.38
    :OWNER: gandalfdwite
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
    :LOGBOOK:
+   CLOCK: [2019-06-11 Tue 22:41]--[2019-06-11 Tue 23:56] =>  1:15
    CLOCK: [2019-06-10 Mon 21:27]--[2019-06-10 Mon 22:25] =>  0:58
    CLOCK: [2019-06-09 Sun 18:56]--[2019-06-09 Sun 19:52] =>  0:56
    CLOCK: [2019-06-09 Sun 17:09]--[2019-06-09 Sun 18:03] =>  0:54
@@ -149,7 +150,7 @@
    - [X] 7. Vi editor                            ( 3h)
    - [X] 8. The SHELL                            ( 2h)
    - [X] 9. The Process                          ( 1h)
-   - [ ] 10. Customizing environment             ( 1h)
+   - [X] 10. Customizing environment             ( 1h)
    - [ ] 11. More File attributes                ( 1h)
    - [ ] 12. Simple filters                      ( 2h)
 ** jasonbraganza
