@@ -71,21 +71,29 @@
     CLOCK: [2019-06-10 Mon 19:51]--[2019-06-10 Mon 20:56] =>  1:05
     CLOCK: [2019-06-10 Mon 07:19]--[2019-06-10 Mon 08:13] =>  0:54
     :END:
-*** Read [[https://debbugs.gnu.org/server-request.html][Introduction to the bug system request server]]
+*** DONE Read [[https://debbugs.gnu.org/server-request.html][Introduction to the bug system request server]]
+    CLOSED: [2019-06-13 Thu 00:01]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   0.65
     :OWNER: akshay196
     :ID: READ.1559574236
     :TASKID: READ.1559574236
     :END:
-*** Read [[https://debbugs.gnu.org/Developer.html][Developers' information regarding the bug processing system]]
+    :LOGBOOK:
+    CLOCK: [2019-06-11 Tue 07:04]--[2019-06-11 Tue 07:43] =>  0:39
+    :END:
+*** DONE Read [[https://debbugs.gnu.org/Developer.html][Developers' information regarding the bug processing system]]
+    CLOSED: [2019-06-13 Thu 01:20]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   1.30
     :OWNER: akshay196
     :ID: READ.1559574679
     :TASKID: READ.1559574679
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-06-13 Thu 00:02]--[2019-06-13 Thu 01:20] =>  1:18
     :END:
 *** Build GNU Emacs from source code
     :PROPERTIES:
