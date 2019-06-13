@@ -120,13 +120,26 @@
     :TASKID: READ.1559575032
     :END:
 ** bhavin192
-*** Write blog post on building Emacs from source
+*** IN_PROGRESS Write blog post on building Emacs from source
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   7.43
     :OWNER:    bhavin192
     :ID:       WRITE.1556025699
     :TASKID:   WRITE.1556025699
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-06-12 Wed 22:12]--[2019-06-12 Wed 22:40] =>  0:28
+    CLOCK: [2019-06-12 Wed 20:49]--[2019-06-12 Wed 21:15] =>  0:26
+    CLOCK: [2019-06-12 Wed 19:38]--[2019-06-12 Wed 20:44] =>  1:06
+    CLOCK: [2019-06-11 Tue 21:45]--[2019-06-11 Tue 22:54] =>  1:09
+    CLOCK: [2019-06-11 Tue 19:41]--[2019-06-11 Tue 20:11] =>  0:30
+    CLOCK: [2019-06-11 Tue 18:50]--[2019-06-11 Tue 19:15] =>  0:25
+    CLOCK: [2019-06-10 Mon 21:47]--[2019-06-10 Mon 22:42] =>  0:55
+    CLOCK: [2019-06-10 Mon 19:21]--[2019-06-10 Mon 20:34] =>  1:13
+    CLOCK: [2019-06-06 Thu 20:07]--[2019-06-06 Thu 20:23] =>  0:16
+    CLOCK: [2019-06-05 Wed 21:53]--[2019-06-05 Wed 22:07] =>  0:14
+    CLOCK: [2019-06-05 Wed 18:47]--[2019-06-05 Wed 19:31] =>  0:44
     :END:
 *** Linux Under the Hood [0/13]
     :PROPERTIES:
