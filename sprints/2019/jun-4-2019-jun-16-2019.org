@@ -189,15 +189,17 @@
    - [ ] 11. More File attributes                ( 1h)
    - [ ] 12. Simple filters                      ( 2h)
 ** jasonbraganza
-*** IN_PROGRESS Work at French, in the Fluent forever app - Part III [8/11]
+*** DONE Work at French, in the Fluent forever app - Part III [11/11]
+   CLOSED: [2019-06-14 Fri 09:35]
    :PROPERTIES:
    :ESTIMATED: 20
-   :ACTUAL:   9.58
+   :ACTUAL:   12.42
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-06-14 Fri 06:45]--[2019-06-14 Fri 09:35] =>  2:50
    CLOCK: [2019-06-13 Thu 07:35]--[2019-06-13 Thu 08:30] =>  0:55
    CLOCK: [2019-06-13 Wed 07:15]--[2019-06-13 Wed 08:30] =>  1:15
    CLOCK: [2019-06-13 Tue 06:15]--[2019-06-13 Tue 07:27] =>  1:12
@@ -215,9 +217,9 @@
    - [X] Completed 2 review sessions & 2 pronunciation lessons (1h)
    - [X] Completed 2 review sessions & 2 pronunciation lessons (1h)
    - [X] Completed 2 review sessions & 1 vocabulary lesson (1h)
-   - [ ] Complete lesson and fill details (1h)
-   - [ ] Complete lesson and fill details, write blog post (1h)
-   - [ ] Complete lesson and fill details (1h)
+   - [X] Completed 1 review sessions & 2 vocabulary lessons (1h)
+   - [X] Completed 1 review sessions & created 4 vocabulary flashcards (1h)
+   - [X] Completed 1 review sessions & 20 base vocabulary flashcards, wrote a post (1h)
 *** DONE Write once a week - 1 [2/2]
    CLOSED: [2019-06-10 Mon 08:00]
    :PROPERTIES:
