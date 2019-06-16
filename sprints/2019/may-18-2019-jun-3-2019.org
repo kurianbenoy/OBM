@@ -7,19 +7,76 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | IN_PROGRESS | DONE                                                          | DEFERRED |
+|------+-------------+---------------------------------------------------------------+----------|
+|      |             | READ.1557996292. Read "The Great Novel of India (2019-06-14)  |          |
+|      |             | READ.1555438527. UNIX and Linux System Administ (2019-06-03)  |          |
+|      |             | WRITE.1557903518. Work at French, in the Fluent  (2019-06-03) |          |
+|      |             | WRITE.1558355651. Write blog post (2019-06-02)                |          |
+|      |             | READ.1553531542. Data Structure and Algorithmic (2019-06-01)  |          |
+|      |             | EVENT.1558150556. Python Web Training (2019-05-25)            |          |
+|      |             | READ.1558587496. Read Extreme Programming Pocke (2019-05-23)  |          |
+|      |             | READ.1557143830. Read and Practice alongside th (2019-05-22)  |          |
+|      |             | READ.1558193338. Read Pym Book (2019-05-22)                   |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME          | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|---------------+-----------+--------------------+------+-----------+--------------+------------|
+| Rj722         |      33.5 |              36.42 | 33.5 |         0 |   2019-06-16 | ########## |
+| Jasonbraganza |        47 |              15.83 |   47 |         0 |   2019-06-16 | ########## |
+| Gandalfdwite  |        11 | 13.530000000000001 |   11 |         0 |   2019-06-16 | ########## |
+| Akshay196     |        17 |              15.22 |   17 |         0 |   2019-06-16 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+
 #+END:
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                  |
+|-----+------------+--------+-------+----------------------------------|
+|   1 | 2019-05-18 |  108.5 |   102 |                                  |
+|   2 | 2019-05-19 |  108.5 |    96 |                                  |
+|   3 | 2019-05-20 |  108.5 |    89 |                                  |
+|   4 | 2019-05-21 |  108.5 |    83 |                                  |
+|   5 | 2019-05-22 |   83.5 |    77 | READ.1558193338 READ.1557143830  |
+|   6 | 2019-05-23 |   78.5 |    70 | READ.1558587496                  |
+|   7 | 2019-05-24 |   78.5 |    64 |                                  |
+|   8 | 2019-05-25 |   75.5 |    57 | EVENT.1558150556                 |
+|   9 | 2019-05-26 |   75.5 |    51 |                                  |
+|  10 | 2019-05-27 |   75.5 |    45 |                                  |
+|  11 | 2019-05-28 |   75.5 |    38 |                                  |
+|  12 | 2019-05-29 |   75.5 |    32 |                                  |
+|  13 | 2019-05-30 |   75.5 |    26 |                                  |
+|  14 | 2019-05-31 |   75.5 |    19 |                                  |
+|  15 | 2019-06-01 |   67.5 |    13 | READ.1553531542                  |
+|  16 | 2019-06-02 |   41.5 |     6 | WRITE.1558355651                 |
+|  17 | 2019-06-03 |    7.5 |     0 | WRITE.1557903518 READ.1555438527 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                                                   | TASKID           | OWNER         | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|------------------------------------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| TASKS                                                                  |                  |               | B        |      |     108.5 |               81.0 |
+|------------------------------------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| akshay196                                                              |                  |               | B        |      |        17 |              15.22 |
+| UNIX and Linux System Administration Handbook - Part II                | READ.1555438527  | akshay196     | B        | DONE |        17 |              15.22 |
+|------------------------------------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| gandalfdwite                                                           |                  |               | B        |      |        11 | 13.530000000000001 |
+| Data Structure and Algorithmic Thinking with Python - Part III         | READ.1553531542  | gandalfdwite  | B        | DONE |         8 |              10.40 |
+| Python Web Training                                                    | EVENT.1558150556 | gandalfdwite  | B        | DONE |         3 |               3.13 |
+|------------------------------------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| jasonbraganza                                                          |                  |               | B        |      |        47 |              15.83 |
+| Read and Practice alongside the Mastering Emacs book - Part II         | READ.1557143830  | jasonbraganza | B        | DONE |        15 |               0.52 |
+| Work at French, in the Fluent forever app - Part II                    | WRITE.1557903518 | jasonbraganza | B        | DONE |        17 |              10.48 |
+| Read Pym Book                                                          | READ.1558193338  | jasonbraganza | B        | DONE |        10 |               3.90 |
+| Read Extreme Programming Pocket Guide: Team-Based Software Development | READ.1558587496  | jasonbraganza | B        | DONE |         5 |               0.93 |
+|------------------------------------------------------------------------+------------------+---------------+----------+------+-----------+--------------------|
+| RJ722                                                                  |                  |               | B        |      |      33.5 |              36.42 |
+| Read "The Great Novel of India" - PART 1                               | READ.1557996292  | RJ722         | B        | DONE |       7.5 |               7.07 |
+| Write blog post                                                        | WRITE.1558355651 | RJ722         | B        | DONE |        26 |              29.35 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -358,19 +415,3 @@
     - [X] Week 1
     - [X] Week 2
     Although I couldn't write daily, but I put in the effort I wanted myself to. Quite happy with it, would love to increase throughput though!
-*** DEFERRED Revise the forgotten history (first three courses)
-    CLOSED: [2019-06-11 Tue 21:51]
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER: RJ722
-    :ID: TASK.1558163860
-    :TASKID: TASK.1558163860
-    :END:
-    :LOGBOOK:
-    CLOCK: [2019-05-29 Wed 21:51]--[2019-05-29 Wed 22:09] =>  0:18
-    CLOCK: [2019-05-29 Wed 21:05]--[2019-05-29 Wed 21:16] =>  0:11
-    :END:
-    - [ ] Neural Networks & Deep Learning
-    - [ ] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-    - [ ] Structuring Machine Learning Projects
