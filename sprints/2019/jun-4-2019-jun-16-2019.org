@@ -96,29 +96,42 @@
     :LOGBOOK:
     CLOCK: [2019-06-13 Thu 00:02]--[2019-06-13 Thu 01:20] =>  1:18
     :END:
-*** Build GNU Emacs from source code
+*** DONE Build GNU Emacs from source code
+    CLOSED: [2019-06-15 Sat 00:27]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   1.78
     :OWNER: akshay196
     :ID: OPS.1559574312
     :TASKID: OPS.1559574312
     :END:
-*** Read [[https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/][How to loop with indexes in Python]]
+    :LOGBOOK:
+    CLOCK: [2019-06-14 Fri 23:32]--[2019-06-15 Sat 00:27] =>  0:55
+    CLOCK: [2019-06-14 Fri 00:07]--[2019-06-14 Fri 00:59] =>  0:52
+    :END:
+*** DONE Read [[https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/][How to loop with indexes in Python]]
+    CLOSED: [2019-06-15 Sat 22:06]
     :PROPERTIES:
     :ESTIMATED: 1
-    :ACTUAL:
+    :ACTUAL:   1.02
     :OWNER: akshay196
     :ID: READ.1559574998
     :TASKID: READ.1559574998
     :END:
-*** Read [[https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/][Python List Comprehensions]]
+    :LOGBOOK:
+    CLOCK: [2019-06-15 Sat 21:05]--[2019-06-15 Sat 22:06] =>  1:01
+    :END:
+*** DONE Read [[https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/][Python List Comprehensions]]
+    CLOSED: [2019-06-16 Sun 00:34]
     :PROPERTIES:
     :ESTIMATED: 1
-    :ACTUAL:
+    :ACTUAL:   0.65
     :OWNER: akshay196
     :ID: READ.1559575032
     :TASKID: READ.1559575032
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-06-15 Sat 23:55]--[2019-06-16 Sun 00:34] =>  0:39
     :END:
 ** bhavin192
 *** IN_PROGRESS Write blog post on building Emacs from source
