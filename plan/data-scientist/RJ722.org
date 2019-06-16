@@ -2,6 +2,7 @@
 #+AUTHOR: Rahul Jha
 #+EMAIL: rahul722j@gmail.com
 #+TAGS: read write dev task event meeting
+
 * GOALS
 ** Read these books
 *** Read "Pride and Prejudice" [0/3]
@@ -15,6 +16,14 @@
     - [ ] Volume the first
     - [ ] Volume the second
     - [ ] Volume the third
+*** Read "The Paradoxical Prime Minister"
+    :PROPERTIES:
+    :ESTIMATED: 45
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: READ.1560490772
+    :TASKID: READ.1560490772
+    :END:
 ** Build reputation on StackOverflow
 ** 100 days of writing blog posts
 *** Write the posts, daily! [0/15]
@@ -25,12 +34,6 @@
     :ID: WRITE.1558159950
     :TASKID: WRITE.1558159950
     :END:
-    - [ ] Week 1
-    - [ ] Week 2
-    - [ ] Week 3
-    - [ ] Week 4
-    - [ ] Week 5
-    - [ ] Week 6
     - [ ] Week 7
     - [ ] Week 8
     - [ ] Week 9
@@ -67,13 +70,77 @@
     :ID: TASK.1558163905
     :TASKID: TASK.1558163905
     :END:
+** Revamp Open source contributions
+*** Try working with NLTK
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: DEV.1558508887
+    :TASKID: DEV.1558508887
+    :END:
+    - [ ] https://github.com/nltk/nltk/issues/1722
+
 
 * PLAN
-** May       18, 2019 - June       3, 2019 (17 days)
-   :PROPERTIES:
-   :END:
-** June       4, 2019 - June      16, 2019 (13 days)
 ** June      17, 2019 - July       3, 2019 (17 days)
+   :PROPERTIES:
+   :wpd-RJ722: 4
+   :END:
+*** Build the profile
+    :PROPERTIES:
+    :ESTIMATED: 1.5
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: TASK.1558159427
+    :TASKID: TASK.1558159427
+    :END:
+    - [ ] Follow tags and technologies that you know about
+    - [ ] Write a bio for the site
+    - [ ] Review their guides
+*** Gain 200 reputation
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: WRITE.1558159594
+    :TASKID: WRITE.1558159594
+    :END:
+    Quality answering for 4, 5 questions should suffice.
+*** Read "Why I am a Hindu"
+    :PROPERTIES:
+    :ESTIMATED: 11
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: READ.1560490730
+    :TASKID: READ.1560490730
+    :END:
+*** Read "The Great Novel of India" - PART 2 [0/8]
+    :PROPERTIES:
+    :ESTIMATED: 7.5
+    :ACTUAL:   0.00
+    :OWNER: RJ722
+    :ID: READ.1557996292
+    :TASKID: READ.1557996292
+    :END:
+    - [ ] The Eleventh Book
+    - [ ] The Twelfth Book
+    - [ ] The Thirteenth Book
+    - [ ] The Fourteenth Book
+    - [ ] The Fifteenth Book
+    - [ ] The Sixteenth Book
+    - [ ] The Seventeenth Book
+    - [ ] The Eigteenth Book
+*** Write two blog posts
+    :PROPERTIES:
+    :ESTIMATED: 15
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: WRITE.1560491297
+    :TASKID: WRITE.1560491297
+    :END:
+    - [ ] Post 1
+    - [ ] Post 2
 ** July       4, 2019 - July      15, 2019 (12 days)
 ** July      16, 2019 - August     1, 2019 (17 days)
 ** August     2, 2019 - August    14, 2019 (13 days)
