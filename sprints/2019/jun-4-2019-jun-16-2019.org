@@ -29,8 +29,9 @@
   :wpd-bhavin192: 1
   :wpd-gandalfdwite: 1
   :wpd-jasonbraganza: 4
+  :wpd-nightwarrior-xxx: 1
   :wpd-sandeepk: 2
-   :wpd-sidntrivedi: 1
+  :wpd-sidntrivedi: 1
   :END:
 ** akshay196
 *** DONE Read [[https://debbugs.gnu.org/][GNU Bug Tracker]]
@@ -323,6 +324,44 @@
      - [ ] Problem 2
      - [ ] Problem 3
      - [ ] Show your Appreciation!
+** nightwarrior-xxx
+*** IN_PROGRESS Website Building
+   :PROPERTIES:
+   :ESTIMATED: 10
+   :ACTUAL:   8.92
+   :OWNER: nightwarrior-xxx
+   :ID: DEV.1555953324
+   :TASKID: DEV.1555953324
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-06-16 Sun 13:56]--[2019-06-16 Sun 14:30] =>  0:34
+   CLOCK: [2019-06-16 Sun 12:06]--[2019-06-16 Sun 12:40] =>  0:34
+   CLOCK: [2019-06-15 Sat 23:33]--[2019-06-16 Sun 00:32] =>  0:59
+   CLOCK: [2019-06-15 Sat 23:03]--[2019-06-15 Sat 23:13] =>  0:10
+   CLOCK: [2019-06-14 Fri 23:11]--[2019-06-15 Sat 00:29] =>  1:18
+   CLOCK: [2019-06-13 Thu 23:08]--[2019-06-14 Fri 00:09] =>  1:01
+   CLOCK: [2019-06-12 Thu 23:01]--[2019-06-12 Thu 23:59] =>  0:58
+   CLOCK: [2019-06-10 Thu 23:04]--[2019-06-11 Thu 00:04] =>  1:00
+   CLOCK: [2019-06-09 Thu 23:00]--[2019-06-09 Thu 23:31] =>  0:31
+   CLOCK: [2019-06-08 Thu 23:01]--[2019-06-08 Thu 23:55] =>  0:54
+   CLOCK: [2019-06-07 Thu 23:02]--[2019-06-07 Thu 23:58] =>  0:56
+   :END:
+   SCHEDULED: <2019-06-07 Fri 23:00-24:00>
+   SCHEDULED: <2019-06-08 Sat 23:00-24:00>
+   SCHEDULED: <2019-06-09 Sun 23:00-24:00>
+   SCHEDULED: <2019-06-10 Mon 23:00-24:00>
+   SCHEDULED: <2019-06-11 Tue 23:00-24:00>
+   SCHEDULED: <2019-06-12 Wed 23:00-24:00>
+   SCHEDULED: <2019-06-13 Thu 23:00-24:00>
+   SCHEDULED: <2019-06-14 Fri 23:00-24:00>
+   SCHEDULED: <2019-06-15 Sat 23:00-24:00>
+   SCHEDULED: <2019-06-16 Sun 23:00-24:00>
+   SCHEDULED: <2019-06-17 Mon 23:00-24:00>
+   - [ ] Product Componenets            (2h)
+   - [ ] Templates                      (2h)
+   - [ ] Bootstrap Components           (3h)
+   - [X] Building an env for deployment (3h)
+
 ** sandeepk
 *** DONE Essential Cloud Infrastructure: Foundation [4/4]
     CLOSED: [2019-06-06 Thu 23:35]

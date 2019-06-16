@@ -223,8 +223,8 @@
     - [ ] Use Array.filter() to Dynamically Filter an Array()
     - [ ] Render React on the Server with renderToString() [[https://docs.djangoproject.com/en/2.1/intro/]]
 *** Backend FrameWorks  [/]
-**** Django [/]
-     - [ ] Basic Website building concepts (Views, URL, migrations, template)
+**** Django [1/9]
+     - [X] Basic Website building concepts (Views, URL, migrations, template)
      - [ ] Authentication and Security
      - [ ] Authentication via 3rd party applications
      - [ ] Performance Optimisation
@@ -455,3 +455,4 @@
      - [ ] Telephone Number Validator
      - [ ] Cash Register 
 * PLAN
+
