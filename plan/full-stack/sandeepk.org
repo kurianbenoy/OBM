@@ -146,7 +146,7 @@
    :PROPERTIES:
    :wpd-sandeepk: 2
    :END:
-*** Reliable Cloud Infrastructure: Design and Process [/3]                                                                                            
+*** Reliable Cloud Infrastructure: Design and Process [/9]                                                                                            
     :PROPERTIES:                                                                                                                                      
     :ESTIMATED: 17.33                                                                                                                                  
     :ACTUAL:                                                                                                                                          
