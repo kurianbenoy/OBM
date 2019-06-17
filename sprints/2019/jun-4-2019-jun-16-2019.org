@@ -481,47 +481,48 @@
     - [X] Module 2: Data Storage Services                          (3h)
     - [X] Module 3: Resource Management                            (1h)
     - [X] Module 4: Resource Monitoring                            (2h)
-*** IN_PROGRESS Elastic Cloud Infrastructure: Scaling and Automation [1/7]
+*** DONE Elastic Cloud Infrastructure: Scaling and Automation [7/7]
+    CLOSED: [2019-06-15 Sat 21:00]
     :PROPERTIES:
     :ESTIMATED: 6.41
-    :ACTUAL:   0.60
+    :ACTUAL:   7.05
     :OWNER: sandeepk
     :ID: READ.1559588072
     :TASKID: READ.1559588072
     :END:
     :LOGBOOK:
+    CLOCK: [2019-06-15 Sat 20:20]--[2019-06-15 Sat 21:00] =>  0:40
+    CLOCK: [2019-06-14 Fri 20:34]--[2019-06-14 Fri 22:35] =>  2:01
+    CLOCK: [2019-06-13 Thu 21:35]--[2019-06-13 Thu 22:58] =>  1:23
+    CLOCK: [2019-06-13 Thu 21:15]--[2019-06-13 Thu 21:25] =>  0:10
+    CLOCK: [2019-06-13 Thu 20:13]--[2019-06-13 Thu 20:26] =>  0:13
+    CLOCK: [2019-06-12 Wed 20:40]--[2019-06-12 Wed 22:40] =>  2:00
     CLOCK: [2019-06-11 Tue 22:45]--[2019-06-11 Tue 23:21] =>  0:36
     :END:
     - [X] Welcome to Elastic Cloud Infrastructure: Scaling and Automation (5m)
-    - [ ] Module 1: Interconnecting Networks                              (2h)
-    - [ ] Module 2: Load Balancing                                        (2h)
-    - [ ] Module 3: Autoscaling                                           (1h)
-    - [ ] Module 4: Infrastructure Automation with Cloud API              (2h)
-    - [ ] Module 5: Infrastructure Automation with Deployment Manager     (1h)
-    - [ ] Module 6: Managed Services                                      (20m)
-*** Elastic Cloud Infrastructure: Containers and Services [/4]
+    - [X] Module 1: Interconnecting Networks                              (2h)
+    - [X] Module 2: Load Balancing                                        (2h)
+    - [X] Module 3: Autoscaling                                           (1h)
+    - [X] Module 4: Infrastructure Automation with Cloud API              (2h)
+    - [X] Module 5: Infrastructure Automation with Deployment Manager     (1h)
+    - [X] Module 6: Managed Services                                      (20m)
+*** DONE Elastic Cloud Infrastructure: Containers and Services [4/4]
+    CLOSED: [2019-06-15 Sat 23:40]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   2.42
     :OWNER: sandeepk
     :ID: READ.1559588275
     :TASKID: READ.1559588275
     :END:
-    - [ ] Welcome to Elastic Infrastructure: Containers and Services (5m)
-    - [ ] Module 1: Application Infrastructure Services              (30m)
-    - [ ] Module 2: Application Development Services                 (20m)
-    - [ ] Module 3: Containers                                       (1h)
-*** Reliable Cloud Infrastructure: Design and Process [/3]
-    :PROPERTIES:
-    :ESTIMATED: 2.33
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: READ.1559588374
-    :TASKID: READ.1559588374
+    :LOGBOOK:
+    CLOCK: [2019-06-15 Sat 22:50]--[2019-06-15 Sat 23:40] =>  0:50
+    CLOCK: [2019-06-15 Sat 21:05]--[2019-06-15 Sat 22:40] =>  1:35
     :END:
-    - [ ] Welcome to Design and Process (20m)
-    - [ ] Defining the Service          (3h)
-    - [ ] Business-logic Layer Design   (3h)
+    - [X] Welcome to Elastic Infrastructure: Containers and Services (5m)
+    - [X] Module 1: Application Infrastructure Services              (30m)
+    - [X] Module 2: Application Development Services                 (20m)
+    - [X] Module 3: Containers                                       (1h)
 ** sidntrivedi
 *** Eloquent Javascript
     :PROPERTIES:
