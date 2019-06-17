@@ -134,15 +134,19 @@
     CLOCK: [2019-06-15 Sat 23:55]--[2019-06-16 Sun 00:34] =>  0:39
     :END:
 ** bhavin192
-*** IN_PROGRESS Write blog post on building Emacs from source
+*** DONE Write blog post on building Emacs from source
+    CLOSED: [2019-06-14 Fri 18:08]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:   7.43
+    :ACTUAL:   8.93
     :OWNER:    bhavin192
     :ID:       WRITE.1556025699
     :TASKID:   WRITE.1556025699
     :END:
     :LOGBOOK:
+    CLOCK: [2019-06-14 Fri 17:35]--[2019-06-14 Fri 18:08] =>  0:33
+    CLOCK: [2019-06-14 Fri 08:05]--[2019-06-14 Fri 08:36] =>  0:31
+    CLOCK: [2019-06-13 Thu 19:38]--[2019-06-13 Thu 20:04] =>  0:26
     CLOCK: [2019-06-12 Wed 22:12]--[2019-06-12 Wed 22:40] =>  0:28
     CLOCK: [2019-06-12 Wed 20:49]--[2019-06-12 Wed 21:15] =>  0:26
     CLOCK: [2019-06-12 Wed 19:38]--[2019-06-12 Wed 20:44] =>  1:06
@@ -155,28 +159,6 @@
     CLOCK: [2019-06-05 Wed 21:53]--[2019-06-05 Wed 22:07] =>  0:14
     CLOCK: [2019-06-05 Wed 18:47]--[2019-06-05 Wed 19:31] =>  0:44
     :END:
-*** Linux Under the Hood [0/13]
-    :PROPERTIES:
-    :ESTIMATED: 10
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       READ.1559581076
-    :TASKID:   READ.1559581076
-    :END:
-    https://www.oreilly.com/library/view/linux-under-the/9780134663500/
-    - [ ] 1.  How Linux is organized                            (25m)
-    - [ ] 2.  About C code, scripts and compiled programs       (35m)
-    - [ ] 3.  Understanding Linux commands and how they work    (22m)
-    - [ ] 4.  Understanding the Linux boot procedure            (90m)
-    - [ ] 5.  Understanding Linux storage                       (80m)
-    - [ ] 6.  Understanding memory management                   (40m)
-    - [ ] 7.  Understanding processes                           (40m)
-    - [ ] 8.  Security                                          (60m)
-    - [ ] 9.  Hardware initialization                           (35m)
-    - [ ] 10. Looking closer at the kernel                      (40m)
-    - [ ] 11. Understanding networking                          (50m)
-    - [ ] 12. Performance optimization                          (60m)
-    - [ ] 13. The future of Linux                               (23m)
 ** gandalfdwite
 *** IN_PROGRESS Unix Concepts & Applications by Sumitabha Das - Part III [3/7]
    :PROPERTIES:
