@@ -139,36 +139,24 @@
     :PROPERTIES:
     :ESTIMATED: 4
     :ACTUAL:   8.93
-    :OWNER:    bhavin192
-    :ID:       WRITE.1556025699
-    :TASKID:   WRITE.1556025699
-    :END:
-    :LOGBOOK:
-    CLOCK: [2019-06-14 Fri 17:35]--[2019-06-14 Fri 18:08] =>  0:33
-    CLOCK: [2019-06-14 Fri 08:05]--[2019-06-14 Fri 08:36] =>  0:31
-    CLOCK: [2019-06-13 Thu 19:38]--[2019-06-13 Thu 20:04] =>  0:26
-    CLOCK: [2019-06-12 Wed 22:12]--[2019-06-12 Wed 22:40] =>  0:28
-    CLOCK: [2019-06-12 Wed 20:49]--[2019-06-12 Wed 21:15] =>  0:26
-    CLOCK: [2019-06-12 Wed 19:38]--[2019-06-12 Wed 20:44] =>  1:06
-    CLOCK: [2019-06-11 Tue 21:45]--[2019-06-11 Tue 22:54] =>  1:09
-    CLOCK: [2019-06-11 Tue 19:41]--[2019-06-11 Tue 20:11] =>  0:30
-    CLOCK: [2019-06-11 Tue 18:50]--[2019-06-11 Tue 19:15] =>  0:25
-    CLOCK: [2019-06-10 Mon 21:47]--[2019-06-10 Mon 22:42] =>  0:55
-    CLOCK: [2019-06-10 Mon 19:21]--[2019-06-10 Mon 20:34] =>  1:13
-    CLOCK: [2019-06-06 Thu 20:07]--[2019-06-06 Thu 20:23] =>  0:16
-    CLOCK: [2019-06-05 Wed 21:53]--[2019-06-05 Wed 22:07] =>  0:14
-    CLOCK: [2019-06-05 Wed 18:47]--[2019-06-05 Wed 19:31] =>  0:44
     :END:
 ** gandalfdwite
-*** IN_PROGRESS Unix Concepts & Applications by Sumitabha Das - Part III [3/7]
+*** DONE Unix Concepts & Applications by Sumitabha Das - Part III [7/7]
+    CLOSED: [2019-06-16 Sun 22:58]
    :PROPERTIES:
    :ESTIMATED: 13
-   :ACTUAL:   6.17
+   :ACTUAL:   13.15
    :OWNER: gandalfdwite
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
    :LOGBOOK:
+   CLOCK: [2019-06-16 Sun 11:35]--[2019-06-16 Sun 12:56] =>  1:21
+   CLOCK: [2019-06-15 Sat 21:00]--[2019-06-15 Sat 22:10] =>  1:10
+   CLOCK: [2019-06-14 Fri 20:05]--[2019-06-14 Fri 21:40] =>  1:35
+   CLOCK: [2019-06-13 Thu 21:25]--[2019-06-13 Thu 22:05] =>  0:40
+   CLOCK: [2019-06-11 Tue 22:41]--[2019-06-11 Tue 23:56] =>  1:15
+   CLOCK: [2019-06-10 Mon 21:27]--[2019-06-10 Mon 22:25] =>  0:58
    CLOCK: [2019-06-09 Sun 18:56]--[2019-06-09 Sun 19:52] =>  0:56
    CLOCK: [2019-06-09 Sun 17:09]--[2019-06-09 Sun 18:03] =>  0:54
    CLOCK: [2019-06-08 Sat 19:40]--[2019-06-08 Sat 21:41] =>  2:01
@@ -178,10 +166,10 @@
    - [X] 6. Basic file attributes                ( 1h)
    - [X] 7. Vi editor                            ( 3h)
    - [X] 8. The SHELL                            ( 2h)
-   - [ ] 9. The Process                          ( 1h)
-   - [ ] 10. Customizing environment             ( 1h)
-   - [ ] 11. More File attributes                ( 1h)
-   - [ ] 12. Simple filters                      ( 2h)
+   - [X] 9. The Process                          ( 1h)
+   - [X] 10. Customizing environment             ( 1h)
+   - [X] 11. More File attributes                ( 1h)
+   - [X] 12. Simple filters                      ( 2h)
 ** jasonbraganza
 *** DONE Work at French, in the Fluent forever app - Part III [11/11]
    CLOSED: [2019-06-14 Fri 09:35]
@@ -266,8 +254,11 @@
    :TASKID: READ.1559713451
    :END:
    :LOGBOOK:
+<<<<<<< HEAD
    CLOCK: [2019-06-16 Sun 14:00]--[2019-06-16 Sun 18:00] =>  4:00
    CLOCK: [2019-06-16 Sun 10:15]--[2019-06-16 Sun 13:00] =>  2:45
+=======
+>>>>>>> pravarag/operation-blue-moon-master
    CLOCK: [2019-06-15 Sat 16:34]--[2019-06-15 Sat 20:12] =>  3:38
    CLOCK: [2019-06-15 Sat 16:01]--[2019-06-15 Sat 16:34] =>  0:33
    CLOCK: [2019-06-15 Sat 15:45]--[2019-06-15 Sat 16:01] =>  0:16
