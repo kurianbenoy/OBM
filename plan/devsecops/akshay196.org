@@ -147,18 +147,60 @@ Dan Mackin, Ben Whaley, Trent R. Hein, Garth Snyder, Evi Nemeth.
   - Legal issues
   - Organizations, conferences, and other resources
 *** Python
-**** Read [[https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/][How to loop with indexes in Python]]
-**** Read [[https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/][Python List Comprehensions]]
 *** Automation with Ansible
 ** Development
 *** Ansible
 ** Emacs
-*** Understand GNU Bug tracker system
-**** Read [[https://debbugs.gnu.org/][GNU Bug Tracker]]
-**** Read [[https://debbugs.gnu.org/server-control.html][Introduction to the bug control mailserver]]
-**** Read [[https://debbugs.gnu.org/Using.html][Using this system to track your project's bug]]
-**** Read [[https://debbugs.gnu.org/server-request.html][Introduction to the bug system request server]]
-**** Read [[https://debbugs.gnu.org/Developer.html][Developers' information regarding the bug processing system]]
-*** Build GNU Emacs from source code
+*** Learning GNU Emacs
+    :PROPERTIES:
+    :ESTIMATED: 19
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1560794346
+    :TASKID: READ.1560794346
+    :END:
+    3rd Edition
+    by Bill Rosenblatt, Eric S. Raymond, Marc Loy, James Elliott, Debra Cameron
+    - [ ] Chapter 10. Customizing Emacs                              ( 1h)
+    - [ ] Chapter 11. Emacs Lisp Programming                         ( 2h)
+    - [ ] Chapter 12. Version Control                                ( 1h)
+    - [ ] Chapter 13. Platform-specific considerations               ( 1h)
+    - [ ] Chapter 14. The Help System                                ( 1h)
 *** Triage Bugs
 * PLAN
+** June      17, 2019 - July       3, 2019 (17 days)
+   :PROPERTIES:
+   :wpd-akshay196: 1
+   :END:
+*** GNU Emacs bug triaging [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: OPS.1560792095
+    :TASKID: OPS.1560792095
+    :END:
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35567][#35567]]: 27.0.50; Emacs-Lisp and ElDoc confusion with some strings
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35797][#35797]]: 26.2; Adaptive Wrap does not respect Whitespace Mode faces
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35815][#35815]]: 26.2; mhtml-mode (in HTML+CSS and HTML+JS) doesn't respect Whitespace Mode face settings
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32784][#32784]]: 25.2; Calc mode home on incorrect line depending on line-spacing
+*** Learning GNU Emacs - Part I [0/10]
+    :PROPERTIES:
+    :ESTIMATED: 13
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1560794346
+    :TASKID: READ.1560794346
+    :END:
+    3rd Edition
+    by Bill Rosenblatt, Eric S. Raymond, Marc Loy, James Elliott, Debra Cameron
+    - [ ] Chapter  1. Emacs Basics                                   ( 1h)
+    - [ ] Chapter  2. Editing                                        ( 1h)
+    - [ ] Chapter  3. Search and Replace                             ( 1h)
+    - [ ] Chapter  4. Using Buffers, Windows, and Frames             ( 1h)
+    - [ ] Chapter  5. Emacs as a Work Environment                    ( 2h)
+    - [ ] Chapter  6. Writing Macros                                 ( 1h)
+    - [ ] Chapter  7. Simple Text Formatting and Specialized Editing ( 2h)
+    - [ ] Chapter  8. Markup Language Support                        ( 2h)
+    - [ ] Chapter  9. Computer Language Support                      ( 1h)
+    - [ ] Chapter 10. Customizing Emacs                              ( 1h)
