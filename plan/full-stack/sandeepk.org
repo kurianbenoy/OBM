@@ -140,21 +140,49 @@
     :ID: READ.1559492157
     :TASKID: READ.1559492157
     :END:
-    - [ ] Essential Cloud Infrastructure: Foundation 10h
-    - [ ] Essential Cloud Infrastructure: Core Services 12h
-    - [ ] Elastic Cloud Infrastructure: Scaling and Automation 14h
-    - [ ] Elastic Cloud Infrastructure: Containers and Services 11h
-    - [ ] Reliable Cloud Infrastructure: Design and Process 11h
-      - [ ] Data Layer Design 1h
-      - [ ] Presentation Layer 2h
-      - [ ] Design for Resiliency, Scalability, and Disaster Recovery 1h
-      - [ ] Design for Security 1h
-      - [ ] Capacity Planning and Cost Optimization 1h
-      - [ ] Deployment, Monitoring and Alerting, and Incident Response 2h
-
 
 * PLAN
 ** June      17, 2019 - July       3, 2019 (17 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 2
+   :END:
+*** Reliable Cloud Infrastructure: Design and Process [/9]                                                                                            
+    :PROPERTIES:                                                                                                                                      
+    :ESTIMATED: 17.33                                                                                                                                  
+    :ACTUAL:                                                                                                                                          
+    :OWNER:    sandeepk                                                                                                                               
+    :ID:       READ.1559588374                                                                                                                        
+    :TASKID:   READ.1559588374                                                                                                                        
+    :END:                                                                                                                                             
+    - [ ] Welcome to Design and Process                              (20m)                                                                                                         
+    - [ ] Defining the Service                                       (4h)                                                                                                          
+    - [ ] Business-logic Layer Design                                (4h)
+    - [ ] Data Layer Design                                          (2h)
+    - [ ] Presentation Layer                                         (2h)
+    - [ ] Design for Resiliency, Scalability, and Disaster Recovery  (1h)
+    - [ ] Design for Security                                        (1h)
+    - [ ] Capacity Planning and Cost Optimization                    (1h)
+    - [ ] Deployment, Monitoring and Alerting, and Incident Response (2h)
+*** Blog writing [/2]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: WRITE.1560792221
+    :TASKID: WRITE.1560792221
+    :END:
+    - [ ] Blog about Google Cloud Platform VPC(Virtual Private Network)       (4h)
+    - [ ] Blog about Google Cloud Platform IAM(Identiy and Access Management) (4h)
+*** Project Stack NEWS - Part III [/2]
+    :PROPERTIES:
+    :ESTIMATED: 9
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1552226887
+    :TASKID: DEV.1552226887
+    :END:
+    - [ ] Implement Comment logic          (4h)
+    - [ ] Write test case for POST section (5h)
 ** July       4, 2019 - July      15, 2019 (12 days)
 ** July      16, 2019 - August     1, 2019 (17 days)
 ** August     2, 2019 - August    14, 2019 (13 days)

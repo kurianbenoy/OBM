@@ -6,36 +6,38 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
-| TODO | NEXT | IN_PROGRESS                                    | WAITING | DONE                                                          | CANCELED |
-|------+------+------------------------------------------------+---------+---------------------------------------------------------------+----------|
-|      |      | DEV.1555953324. Website Building               |         | READ.1559575032. Read (2019-06-16)                            |          |
-|      |      | READ.1559588072. Elastic Cloud Infrastructure: |         | READ.1553532278. Unix Concepts & Applications b (2019-06-16)  |          |
-|      |      |                                                |         | READ.1559713451. Introduction to Computer Scien (2019-06-16)  |          |
-|      |      |                                                |         | OPS.1559574312. Build GNU Emacs from source co (2019-06-15)   |          |
-|      |      |                                                |         | READ.1559574998. Read (2019-06-15)                            |          |
-|      |      |                                                |         | READ.1559581076. Write blog post on building Em (2019-06-14)  |          |
-|      |      |                                                |         | WRITE.1557903518. Work at French, in the Fluent  (2019-06-14) |          |
-|      |      |                                                |         | READ.1559574236. Read (2019-06-13)                            |          |
-|      |      |                                                |         | READ.1559574679. Read (2019-06-13)                            |          |
-|      |      |                                                |         | READ.1559630918. Read fiction (2019-06-13)                    |          |
-|      |      |                                                |         | READ.1559587761. Essential Cloud Infrastructure (2019-06-11)  |          |
-|      |      |                                                |         | READ.1559574102. Read (2019-06-10)                            |          |
-|      |      |                                                |         | READ.1559574200. Read (2019-06-10)                            |          |
-|      |      |                                                |         | WRITE.1559630427. Write once a week - 1 (2019-06-10)          |          |
-|      |      |                                                |         | READ.1559492157. Essential Cloud Infrastructure (2019-06-06)  |          |
-|      |      |                                                |         | READ.1559574004. Read (2019-06-04)                            |          |
+| TODO | NEXT | IN_PROGRESS                      | WAITING | DONE                                                          | CANCELED |
+|------+------+----------------------------------+---------+---------------------------------------------------------------+----------|
+|      |      | DEV.1555953324. Website Building |         | READ.1559575032. Read (2019-06-16)                            |          |
+|      |      |                                  |         | READ.1553532278. Unix Concepts & Applications b (2019-06-16)  |          |
+|      |      |                                  |         | READ.1559713451. Introduction to Computer Scien (2019-06-16)  |          |
+|      |      |                                  |         | OPS.1559574312. Build GNU Emacs from source co (2019-06-15)   |          |
+|      |      |                                  |         | READ.1559574998. Read (2019-06-15)                            |          |
+|      |      |                                  |         | READ.1559588072. Elastic Cloud Infrastructure:  (2019-06-15)  |          |
+|      |      |                                  |         | READ.1559588275. Elastic Cloud Infrastructure:  (2019-06-15)  |          |
+|      |      |                                  |         | READ.1559581076. Write blog post on building Em (2019-06-14)  |          |
+|      |      |                                  |         | WRITE.1557903518. Work at French, in the Fluent  (2019-06-14) |          |
+|      |      |                                  |         | READ.1559574236. Read (2019-06-13)                            |          |
+|      |      |                                  |         | READ.1559574679. Read (2019-06-13)                            |          |
+|      |      |                                  |         | READ.1559630918. Read fiction (2019-06-13)                    |          |
+|      |      |                                  |         | READ.1559587761. Essential Cloud Infrastructure (2019-06-11)  |          |
+|      |      |                                  |         | READ.1559574102. Read (2019-06-10)                            |          |
+|      |      |                                  |         | READ.1559574200. Read (2019-06-10)                            |          |
+|      |      |                                  |         | WRITE.1559630427. Write once a week - 1 (2019-06-10)          |          |
+|      |      |                                  |         | READ.1559492157. Essential Cloud Infrastructure (2019-06-06)  |          |
+|      |      |                                  |         | READ.1559574004. Read (2019-06-04)                            |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
-| NAME             |          ESTIMATED | ACTUAL |  DONE | REMAINING | PENCILS DOWN | PROGRESS   |
-|------------------+--------------------+--------+-------+-----------+--------------+------------|
-| Sidntrivedi      |                  0 |      0 |     0 |         0 |   2019-06-17 | ---------- |
-| Sandeepk         | 18.490000000000002 |  14.45 | 12.08 |      6.41 |   2019-06-21 | #######--- |
-| Nightwarrior-Xxx |                 10 |   8.92 |     0 |        10 |   2019-07-01 | ---------- |
-| Jasonbraganza    |                 40 |  38.35 |    40 |         0 |   2019-06-17 | ########## |
-| Gandalfdwite     |                 13 |  13.15 |    13 |         0 |   2019-06-17 | ########## |
-| Bhavin192        |                  4 |   8.93 |     4 |         0 |   2019-06-17 | ########## |
-| Akshay196        |                 13 |   9.15 |    13 |         0 |   2019-06-17 | ########## |
+| NAME             |          ESTIMATED | ACTUAL |               DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+--------------------+--------+--------------------+-----------+--------------+------------|
+| Sidntrivedi      |                  0 |      0 |                  0 |         0 |   2019-06-18 | ---------- |
+| Sandeepk         | 20.490000000000002 |  23.32 | 20.490000000000002 |         0 |   2019-06-18 | ########## |
+| Nightwarrior-Xxx |                 10 |   8.92 |                  0 |        10 |   2019-07-02 | ---------- |
+| Jasonbraganza    |                 40 |  38.35 |                 40 |         0 |   2019-06-18 | ########## |
+| Gandalfdwite     |                 13 |  13.15 |                 13 |         0 |   2019-06-18 | ########## |
+| Bhavin192        |                  4 |   8.93 |                  4 |         0 |   2019-06-18 | ########## |
+| Akshay196        |                 13 |   9.15 |                 13 |         0 |   2019-06-18 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
@@ -44,63 +46,62 @@
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:13]"
 #+BEGIN: block-update-burndown
-| DAY |       DATE |             ACTUAL | IDEAL | TASKS COMPLETED                                  |
-|-----+------------+--------------------+-------+--------------------------------------------------|
-|   1 | 2019-06-04 |             113.82 |   106 | READ.1559574004                                  |
-|   2 | 2019-06-05 |             113.82 |    97 |                                                  |
-|   3 | 2019-06-06 |             108.82 |    88 | READ.1559492157                                  |
-|   4 | 2019-06-07 |             108.82 |    79 |                                                  |
-|   5 | 2019-06-08 |             108.82 |    71 |                                                  |
-|   6 | 2019-06-09 |             108.82 |    62 |                                                  |
-|   7 | 2019-06-10 |             102.82 |    53 | WRITE.1559630427 READ.1559574200 READ.1559574102 |
-|   8 | 2019-06-11 |              95.74 |    44 | READ.1559587761                                  |
-|   9 | 2019-06-12 |              95.74 |    35 |                                                  |
-|  10 | 2019-06-13 |              81.74 |    26 | READ.1559630918 READ.1559574679 READ.1559574236  |
-|  11 | 2019-06-14 | 57.739999999999995 |    18 | WRITE.1557903518 READ.1559581076                 |
-|  12 | 2019-06-15 | 54.739999999999995 |     9 | READ.1559574998 OPS.1559574312                   |
-|  13 | 2019-06-16 | 32.739999999999995 |     0 | READ.1559713451 READ.1553532278 READ.1559575032  |
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                                |
+|-----+------------+--------+-------+----------------------------------------------------------------|
+|   1 | 2019-06-04 | 111.49 |   104 | READ.1559574004                                                |
+|   2 | 2019-06-05 | 111.49 |    95 |                                                                |
+|   3 | 2019-06-06 | 106.49 |    87 | READ.1559492157                                                |
+|   4 | 2019-06-07 | 106.49 |    78 |                                                                |
+|   5 | 2019-06-08 | 106.49 |    69 |                                                                |
+|   6 | 2019-06-09 | 106.49 |    61 |                                                                |
+|   7 | 2019-06-10 | 100.49 |    52 | WRITE.1559630427 READ.1559574200 READ.1559574102               |
+|   8 | 2019-06-11 |  93.41 |    43 | READ.1559587761                                                |
+|   9 | 2019-06-12 |  93.41 |    35 |                                                                |
+|  10 | 2019-06-13 |  79.41 |    26 | READ.1559630918 READ.1559574679 READ.1559574236                |
+|  11 | 2019-06-14 |  55.41 |    17 | WRITE.1557903518 READ.1559581076                               |
+|  12 | 2019-06-15 |   44.0 |     9 | READ.1559588275 READ.1559588072 READ.1559574998 OPS.1559574312 |
+|  13 | 2019-06-16 |   22.0 |     0 | READ.1559713451 READ.1553532278 READ.1559575032                |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
-| ITEM                                                                   | TASKID           | OWNER            | PRIORITY | TODO        | ESTIMATED | ACTUAL |
-|------------------------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| TASKS                                                                  |                  |                  | B        |             |    114.82 |  92.95 |
-|------------------------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| akshay196                                                              |                  |                  | B        |             |        13 |   9.15 |
-| Read [[https://debbugs.gnu.org/][GNU Bug Tracker]]                                                   | READ.1559574004  | akshay196        | B        | DONE        |         1 |   0.82 |
-| Read [[https://debbugs.gnu.org/Using.html][Using this system to track your project's bug]]                     | READ.1559574102  | akshay196        | B        | DONE        |         2 |   0.95 |
-| Read [[https://debbugs.gnu.org/server-control.html][Introduction to the bug control mailserver]]                        | READ.1559574200  | akshay196        | B        | DONE        |         2 |   1.98 |
-| Read [[https://debbugs.gnu.org/server-request.html][Introduction to the bug system request server]]                     | READ.1559574236  | akshay196        | B        | DONE        |         2 |   0.65 |
-| Read [[https://debbugs.gnu.org/Developer.html][Developers' information regarding the bug processing system]]       | READ.1559574679  | akshay196        | B        | DONE        |         2 |   1.30 |
-| Build GNU Emacs from source code                                       | OPS.1559574312   | akshay196        | B        | DONE        |         2 |   1.78 |
-| Read [[https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/][How to loop with indexes in Python]]                                | READ.1559574998  | akshay196        | B        | DONE        |         1 |   1.02 |
-| Read [[https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/][Python List Comprehensions]]                                        | READ.1559575032  | akshay196        | B        | DONE        |         1 |   0.65 |
-|------------------------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| bhavin192                                                              |                  |                  | B        |             |         4 |   8.93 |
-| Write blog post on building Emacs from source                          | READ.1559581076  | bhavin192        | B        | DONE        |         4 |   8.93 |
-|------------------------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| gandalfdwite                                                           |                  |                  | B        |             |        13 |  13.15 |
-| Unix Concepts & Applications by Sumitabha Das - Part III               | READ.1553532278  | gandalfdwite     | B        | DONE        |        13 |  13.15 |
-|------------------------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| jasonbraganza                                                          |                  |                  | B        |             |        40 |  38.35 |
-| Work at French, in the Fluent forever app - Part III                   | WRITE.1557903518 | jasonbraganza    | B        | DONE        |        20 |  12.42 |
-| Write once a week - 1                                                  | WRITE.1559630427 | jasonbraganza    | B        | DONE        |         2 |   1.15 |
-| Read fiction                                                           | READ.1559630918  | jasonbraganza    | B        | DONE        |        10 |  10.13 |
-| Introduction to Computer Science and Programming Using Python - Part I | READ.1559713451  | jasonbraganza    | B        | DONE        |         8 |  14.65 |
-|------------------------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| nightwarrior-xxx                                                       |                  |                  | B        |             |        10 |   8.92 |
-| Website Building                                                       | DEV.1555953324   | nightwarrior-xxx | B        | IN_PROGRESS |        10 |   8.92 |
-|------------------------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| sandeepk                                                               |                  |                  | B        |             |     22.82 |  14.45 |
-| Essential Cloud Infrastructure: Foundation                             | READ.1559492157  | sandeepk         | B        | DONE        |         5 |   6.00 |
-| Essential Cloud Infrastructure: Core Services                          | READ.1559587761  | sandeepk         | B        | DONE        |      7.08 |   7.85 |
-| Elastic Cloud Infrastructure: Scaling and Automation                   | READ.1559588072  | sandeepk         | B        | IN_PROGRESS |      6.41 |   0.60 |
-| Elastic Cloud Infrastructure: Containers and Services                  | READ.1559588275  | sandeepk         | B        |             |         2 |        |
-| Reliable Cloud Infrastructure: Design and Process                      | READ.1559588374  | sandeepk         | B        |             |      2.33 |        |
-|------------------------------------------------------------------------+------------------+------------------+----------+-------------+-----------+--------|
-| sidntrivedi                                                            |                  |                  | B        |             |        12 |        |
-| Eloquent Javascript                                                    | READ.1559963113  | sidntrivedi      | B        |             |        10 |        |
-| Blog https://sidntrivedi.me                                            | WRITE.1539072660 | sidntrivedi      | B        |             |         2 |        |
+| ITEM                                                                   | TASKID           | OWNER            | PRIORITY | TODO        |          ESTIMATED | ACTUAL |
+|------------------------------------------------------------------------+------------------+------------------+----------+-------------+--------------------+--------|
+| TASKS                                                                  |                  |                  | B        |             | 112.49000000000001 | 101.82 |
+|------------------------------------------------------------------------+------------------+------------------+----------+-------------+--------------------+--------|
+| akshay196                                                              |                  |                  | B        |             |                 13 |   9.15 |
+| Read [[https://debbugs.gnu.org/][GNU Bug Tracker]]                                                   | READ.1559574004  | akshay196        | B        | DONE        |                  1 |   0.82 |
+| Read [[https://debbugs.gnu.org/Using.html][Using this system to track your project's bug]]                     | READ.1559574102  | akshay196        | B        | DONE        |                  2 |   0.95 |
+| Read [[https://debbugs.gnu.org/server-control.html][Introduction to the bug control mailserver]]                        | READ.1559574200  | akshay196        | B        | DONE        |                  2 |   1.98 |
+| Read [[https://debbugs.gnu.org/server-request.html][Introduction to the bug system request server]]                     | READ.1559574236  | akshay196        | B        | DONE        |                  2 |   0.65 |
+| Read [[https://debbugs.gnu.org/Developer.html][Developers' information regarding the bug processing system]]       | READ.1559574679  | akshay196        | B        | DONE        |                  2 |   1.30 |
+| Build GNU Emacs from source code                                       | OPS.1559574312   | akshay196        | B        | DONE        |                  2 |   1.78 |
+| Read [[https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/][How to loop with indexes in Python]]                                | READ.1559574998  | akshay196        | B        | DONE        |                  1 |   1.02 |
+| Read [[https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/][Python List Comprehensions]]                                        | READ.1559575032  | akshay196        | B        | DONE        |                  1 |   0.65 |
+|------------------------------------------------------------------------+------------------+------------------+----------+-------------+--------------------+--------|
+| bhavin192                                                              |                  |                  | B        |             |                  4 |   8.93 |
+| Write blog post on building Emacs from source                          | READ.1559581076  | bhavin192        | B        | DONE        |                  4 |   8.93 |
+|------------------------------------------------------------------------+------------------+------------------+----------+-------------+--------------------+--------|
+| gandalfdwite                                                           |                  |                  | B        |             |                 13 |  13.15 |
+| Unix Concepts & Applications by Sumitabha Das - Part III               | READ.1553532278  | gandalfdwite     | B        | DONE        |                 13 |  13.15 |
+|------------------------------------------------------------------------+------------------+------------------+----------+-------------+--------------------+--------|
+| jasonbraganza                                                          |                  |                  | B        |             |                 40 |  38.35 |
+| Work at French, in the Fluent forever app - Part III                   | WRITE.1557903518 | jasonbraganza    | B        | DONE        |                 20 |  12.42 |
+| Write once a week - 1                                                  | WRITE.1559630427 | jasonbraganza    | B        | DONE        |                  2 |   1.15 |
+| Read fiction                                                           | READ.1559630918  | jasonbraganza    | B        | DONE        |                 10 |  10.13 |
+| Introduction to Computer Science and Programming Using Python - Part I | READ.1559713451  | jasonbraganza    | B        | DONE        |                  8 |  14.65 |
+|------------------------------------------------------------------------+------------------+------------------+----------+-------------+--------------------+--------|
+| nightwarrior-xxx                                                       |                  |                  | B        |             |                 10 |   8.92 |
+| Website Building                                                       | DEV.1555953324   | nightwarrior-xxx | B        | IN_PROGRESS |                 10 |   8.92 |
+|------------------------------------------------------------------------+------------------+------------------+----------+-------------+--------------------+--------|
+| sandeepk                                                               |                  |                  | B        |             | 20.490000000000002 |  23.32 |
+| Essential Cloud Infrastructure: Foundation                             | READ.1559492157  | sandeepk         | B        | DONE        |                  5 |   6.00 |
+| Essential Cloud Infrastructure: Core Services                          | READ.1559587761  | sandeepk         | B        | DONE        |               7.08 |   7.85 |
+| Elastic Cloud Infrastructure: Scaling and Automation                   | READ.1559588072  | sandeepk         | B        | DONE        |               6.41 |   7.05 |
+| Elastic Cloud Infrastructure: Containers and Services                  | READ.1559588275  | sandeepk         | B        | DONE        |                  2 |   2.42 |
+|------------------------------------------------------------------------+------------------+------------------+----------+-------------+--------------------+--------|
+| sidntrivedi                                                            |                  |                  | B        |             |                 12 |        |
+| Eloquent Javascript                                                    | READ.1559963113  | sidntrivedi      | B        |             |                 10 |        |
+| Blog https://sidntrivedi.me                                            | WRITE.1539072660 | sidntrivedi      | B        |             |                  2 |        |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -481,47 +482,48 @@
     - [X] Module 2: Data Storage Services                          (3h)
     - [X] Module 3: Resource Management                            (1h)
     - [X] Module 4: Resource Monitoring                            (2h)
-*** IN_PROGRESS Elastic Cloud Infrastructure: Scaling and Automation [1/7]
+*** DONE Elastic Cloud Infrastructure: Scaling and Automation [7/7]
+    CLOSED: [2019-06-15 Sat 21:00]
     :PROPERTIES:
     :ESTIMATED: 6.41
-    :ACTUAL:   0.60
+    :ACTUAL:   7.05
     :OWNER: sandeepk
     :ID: READ.1559588072
     :TASKID: READ.1559588072
     :END:
     :LOGBOOK:
+    CLOCK: [2019-06-15 Sat 20:20]--[2019-06-15 Sat 21:00] =>  0:40
+    CLOCK: [2019-06-14 Fri 20:34]--[2019-06-14 Fri 22:35] =>  2:01
+    CLOCK: [2019-06-13 Thu 21:35]--[2019-06-13 Thu 22:58] =>  1:23
+    CLOCK: [2019-06-13 Thu 21:15]--[2019-06-13 Thu 21:25] =>  0:10
+    CLOCK: [2019-06-13 Thu 20:13]--[2019-06-13 Thu 20:26] =>  0:13
+    CLOCK: [2019-06-12 Wed 20:40]--[2019-06-12 Wed 22:40] =>  2:00
     CLOCK: [2019-06-11 Tue 22:45]--[2019-06-11 Tue 23:21] =>  0:36
     :END:
     - [X] Welcome to Elastic Cloud Infrastructure: Scaling and Automation (5m)
-    - [ ] Module 1: Interconnecting Networks                              (2h)
-    - [ ] Module 2: Load Balancing                                        (2h)
-    - [ ] Module 3: Autoscaling                                           (1h)
-    - [ ] Module 4: Infrastructure Automation with Cloud API              (2h)
-    - [ ] Module 5: Infrastructure Automation with Deployment Manager     (1h)
-    - [ ] Module 6: Managed Services                                      (20m)
-*** Elastic Cloud Infrastructure: Containers and Services [/4]
+    - [X] Module 1: Interconnecting Networks                              (2h)
+    - [X] Module 2: Load Balancing                                        (2h)
+    - [X] Module 3: Autoscaling                                           (1h)
+    - [X] Module 4: Infrastructure Automation with Cloud API              (2h)
+    - [X] Module 5: Infrastructure Automation with Deployment Manager     (1h)
+    - [X] Module 6: Managed Services                                      (20m)
+*** DONE Elastic Cloud Infrastructure: Containers and Services [4/4]
+    CLOSED: [2019-06-15 Sat 23:40]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   2.42
     :OWNER: sandeepk
     :ID: READ.1559588275
     :TASKID: READ.1559588275
     :END:
-    - [ ] Welcome to Elastic Infrastructure: Containers and Services (5m)
-    - [ ] Module 1: Application Infrastructure Services              (30m)
-    - [ ] Module 2: Application Development Services                 (20m)
-    - [ ] Module 3: Containers                                       (1h)
-*** Reliable Cloud Infrastructure: Design and Process [/3]
-    :PROPERTIES:
-    :ESTIMATED: 2.33
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: READ.1559588374
-    :TASKID: READ.1559588374
+    :LOGBOOK:
+    CLOCK: [2019-06-15 Sat 22:50]--[2019-06-15 Sat 23:40] =>  0:50
+    CLOCK: [2019-06-15 Sat 21:05]--[2019-06-15 Sat 22:40] =>  1:35
     :END:
-    - [ ] Welcome to Design and Process (20m)
-    - [ ] Defining the Service          (3h)
-    - [ ] Business-logic Layer Design   (3h)
+    - [X] Welcome to Elastic Infrastructure: Containers and Services (5m)
+    - [X] Module 1: Application Infrastructure Services              (30m)
+    - [X] Module 2: Application Development Services                 (20m)
+    - [X] Module 3: Containers                                       (1h)
 ** sidntrivedi
 *** Eloquent Javascript
     :PROPERTIES:
