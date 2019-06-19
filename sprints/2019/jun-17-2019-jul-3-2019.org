@@ -63,17 +63,21 @@
     - [ ] Chapter 10. Customizing Emacs                              ( 1h)
 
 ** sandeepk
-*** Reliable Cloud Infrastructure: Design and Process [0/9]
+*** IN_PROGRESS Reliable Cloud Infrastructure: Design and Process [3/9]
     :PROPERTIES:
     :ESTIMATED: 17.33
-    :ACTUAL:
+    :ACTUAL:   4.78
     :OWNER:    sandeepk
     :ID:       READ.1559588374
     :TASKID:   READ.1559588374
     :END:
-    - [ ] Welcome to Design and Process                              (20m)
-    - [ ] Defining the Service                                       (4h)
-    - [ ] Business-logic Layer Design                                (4h)
+    :LOGBOOK:
+    CLOCK: [2019-06-19 Wed 20:33]--[2019-06-19 Wed 23:15] =>  2:42
+    CLOCK: [2019-06-18 Tue 21:36]--[2019-06-18 Tue 23:41] =>  2:05
+    :END:
+    - [X] Welcome to Design and Process                              (20m)
+    - [X] Defining the Service                                       (4h)
+    - [X] Business-logic Layer Design                                (4h)
     - [ ] Data Layer Design                                          (2h)
     - [ ] Presentation Layer                                         (2h)
     - [ ] Design for Resiliency, Scalability, and Disaster Recovery  (1h)
