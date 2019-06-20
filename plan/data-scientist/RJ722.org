@@ -85,7 +85,7 @@
 * PLAN
 ** June      17, 2019 - July       3, 2019 (17 days)
    :PROPERTIES:
-   :wpd-RJ722: 4
+   :wpd-RJ722: 3
    :END:
 *** Build the profile
     :PROPERTIES:
@@ -107,24 +107,35 @@
     :TASKID: WRITE.1558159594
     :END:
     Quality answering for 4, 5 questions should suffice.
-*** Read "Why I am a Hindu"
+*** Read "Why I am a Hindu" [0/3]
     :PROPERTIES:
     :ESTIMATED: 11
-    :ACTUAL:
+    :ACTUAL:   2.18
     :OWNER: RJ722
-    :ID: READ.1560490730
+    :ID: READ.15 60490730
     :TASKID: READ.1560490730
     :END:
-*** Read "The Great Novel of India" - PART 2 [0/8]
+    :LOGBOOK:
+    CLOCK: [2019-06-19 Wed 21:48]--[2019-06-19 Wed 22:35] =>  0:47
+    CLOCK: [2019-06-17 Mon 19:41]--[2019-06-17 Mon 21:05] =>  1:24
+    :END:
+    - [ ] Part I
+    - [ ] Part II
+    - [ ] Part III
+*** Read "The Great Novel of India" - PART 2 [2/8]
     :PROPERTIES:
     :ESTIMATED: 7.5
-    :ACTUAL:   0.00
+    :ACTUAL:   2.27
     :OWNER: RJ722
     :ID: READ.1557996292
     :TASKID: READ.1557996292
     :END:
-    - [ ] The Eleventh Book
-    - [ ] The Twelfth Book
+    :LOGBOOK:
+    CLOCK: [2019-06-20 Thu 09:20]--[2019-06-20 Thu 10:10] =>  0:50
+    CLOCK: [2019-06-18 Tue 09:10]--[2019-06-18 Tue 10:36] =>  1:26
+    :END:
+    - [X] The Eleventh Book
+    - [X] The Twelfth Book
     - [ ] The Thirteenth Book
     - [ ] The Fourteenth Book
     - [ ] The Fifteenth Book
@@ -141,6 +152,14 @@
     :END:
     - [ ] Post 1
     - [ ] Post 2
+*** Participate in a Kaggle Competition
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: DEV.1561010265
+    :TASKID: DEV.1561010265
+    :END:
 ** July       4, 2019 - July      15, 2019 (12 days)
 ** July      16, 2019 - August     1, 2019 (17 days)
 ** August     2, 2019 - August    14, 2019 (13 days)
