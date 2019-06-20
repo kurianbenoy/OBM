@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 17
   :SPRINTSTART: <2019-06-17 Mon>
   :wpd-akshay196: 1
+  :wpd-bhavin192: 1
   :wpd-sandeepk: 2
   :END:
 ** akshay196
@@ -62,6 +63,56 @@
     - [ ] Chapter  9. Computer Language Support                      ( 1h)
     - [ ] Chapter 10. Customizing Emacs                              ( 1h)
 
+** bhavin192
+*** Linux Under the Hood [0/13]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1559581076
+    :TASKID:   READ.1559581076
+    :END:
+    https://www.oreilly.com/library/view/linux-under-the/9780134663500/
+    - [ ] 1.  How Linux is organized                            (25m)
+    - [ ] 2.  About C code, scripts and compiled programs       (35m)
+    - [ ] 3.  Understanding Linux commands and how they work    (22m)
+    - [ ] 4.  Understanding the Linux boot procedure            (90m)
+    - [ ] 5.  Understanding Linux storage                       (80m)
+    - [ ] 6.  Understanding memory management                   (40m)
+    - [ ] 7.  Understanding processes                           (40m)
+    - [ ] 8.  Security                                          (60m)
+    - [ ] 9.  Hardware initialization                           (35m)
+    - [ ] 10. Looking closer at the kernel                      (40m)
+    - [ ] 11. Understanding networking                          (50m)
+    - [ ] 12. Performance optimization                          (60m)
+    - [ ] 13. The future of Linux                               (23m)
+*** Namespaces in operation series [0/9]
+    :PROPERTIES:
+    :ESTIMATED: 4.5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1560960967
+    :TASKID:   READ.1560960967
+    :END:
+    https://lwn.net/Articles/531114/#series_index
+    - [ ] [[https://lwn.net/Articles/531114/][1. namespaces overview]]                                      (60m)
+    - [ ] [[https://lwn.net/Articles/531381/][2: the namespaces API]]                                       (25m)
+    - [ ] [[https://lwn.net/Articles/531419/][3: PID namespaces]]                                           (20m)
+    - [ ] [[https://lwn.net/Articles/532748/][4: more on PID namespaces]]                                   (35m)
+    - [ ] [[https://lwn.net/Articles/532593/][5: User namespaces]]                                          (30m)
+    - [ ] [[https://lwn.net/Articles/540087/][6: more on user namespaces]]                                  (25m)
+    - [ ] [[https://lwn.net/Articles/580893/][7: Network namespaces]]                                       (15m)
+    - [ ] [[https://lwn.net/Articles/689856/][Mount namespaces and shared subtrees]]                        (30m)
+    - [ ] [[https://lwn.net/Articles/690679/][Mount namespaces, mount propagation, and unbindable mounts]]  (20m)
+*** Architecture for continuous delivery
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1560961999
+    :TASKID:   READ.1560961999
+    :END:
+    https://learning.oreilly.com/live-training/courses/architecture-for-continuous-delivery/0636920276012/
 ** sandeepk
 *** Reliable Cloud Infrastructure: Design and Process [0/9]
     :PROPERTIES:
