@@ -64,18 +64,25 @@
     - [ ] Chapter 10. Customizing Emacs                              ( 1h)
 
 ** bhavin192
-*** Linux Under the Hood [0/13]
+*** IN_PROGRESS Linux Under the Hood [3/13]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:
+    :ACTUAL:   3.12
     :OWNER:    bhavin192
     :ID:       READ.1559581076
     :TASKID:   READ.1559581076
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-06-19 Wed 19:17]--[2019-06-19 Wed 20:16] =>  0:59
+    CLOCK: [2019-06-18 Tue 20:00]--[2019-06-18 Tue 20:34] =>  0:34
+    CLOCK: [2019-06-18 Tue 19:29]--[2019-06-18 Tue 19:52] =>  0:23
+    CLOCK: [2019-06-17 Mon 19:31]--[2019-06-17 Mon 20:10] =>  0:39
+    CLOCK: [2019-06-17 Mon 18:53]--[2019-06-17 Mon 19:25] =>  0:32
+    :END:
     https://www.oreilly.com/library/view/linux-under-the/9780134663500/
-    - [ ] 1.  How Linux is organized                            (25m)
-    - [ ] 2.  About C code, scripts and compiled programs       (35m)
-    - [ ] 3.  Understanding Linux commands and how they work    (22m)
+    - [X] 1.  How Linux is organized                            (25m)
+    - [X] 2.  About C code, scripts and compiled programs       (35m)
+    - [X] 3.  Understanding Linux commands and how they work    (22m)
     - [ ] 4.  Understanding the Linux boot procedure            (90m)
     - [ ] 5.  Understanding Linux storage                       (80m)
     - [ ] 6.  Understanding memory management                   (40m)
