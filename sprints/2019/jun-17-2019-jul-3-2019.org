@@ -121,26 +121,32 @@
     :END:
     https://learning.oreilly.com/live-training/courses/architecture-for-continuous-delivery/0636920276012/
 ** sandeepk
-*** IN_PROGRESS Reliable Cloud Infrastructure: Design and Process [3/9]
+*** IN_PROGRESS Reliable Cloud Infrastructure: Design and Process [8/9]
     :PROPERTIES:
     :ESTIMATED: 17.33
-    :ACTUAL:   4.78
+    :ACTUAL:   10.07
     :OWNER:    sandeepk
     :ID:       READ.1559588374
     :TASKID:   READ.1559588374
     :END:
     :LOGBOOK:
+    CLOCK: [2019-06-22 Sat 16:30]--[2019-06-22 Sat 17:20] =>  0:50
+    CLOCK: [2019-06-22 Sat 15:20]--[2019-06-22 Sat 16:25] =>  1:05
+    CLOCK: [2019-06-22 Sat 14:20]--[2019-06-22 Sat 15:00] =>  0:40
+    CLOCK: [2019-06-21 Fri 21:53]--[2019-06-21 Fri 22:53] =>  1:00
+    CLOCK: [2019-06-21 Fri 21:07]--[2019-06-21 Fri 21:38] =>  0:31
+    CLOCK: [2019-06-20 Thu 21:14]--[2019-06-20 Thu 22:25] =>  1:11
     CLOCK: [2019-06-19 Wed 20:33]--[2019-06-19 Wed 23:15] =>  2:42
     CLOCK: [2019-06-18 Tue 21:36]--[2019-06-18 Tue 23:41] =>  2:05
     :END:
     - [X] Welcome to Design and Process                              (20m)
     - [X] Defining the Service                                       (4h)
     - [X] Business-logic Layer Design                                (4h)
-    - [ ] Data Layer Design                                          (2h)
-    - [ ] Presentation Layer                                         (2h)
-    - [ ] Design for Resiliency, Scalability, and Disaster Recovery  (1h)
-    - [ ] Design for Security                                        (1h)
-    - [ ] Capacity Planning and Cost Optimization                    (1h)
+    - [X] Data Layer Design                                          (2h)
+    - [X] Presentation Layer                                         (2h)
+    - [X] Design for Resiliency, Scalability, and Disaster Recovery  (1h)
+    - [X] Design for Security                                        (1h)
+    - [X] Capacity Planning and Cost Optimization                    (1h)
     - [ ] Deployment, Monitoring and Alerting, and Incident Response (2h)
 *** Blog writing [0/2]
     :PROPERTIES:
