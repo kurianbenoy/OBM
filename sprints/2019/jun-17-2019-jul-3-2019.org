@@ -27,6 +27,7 @@
   :SPRINTSTART: <2019-06-17 Mon>
   :wpd-akshay196: 1
   :wpd-bhavin192: 1
+  :wpd-RJ722: 3
   :wpd-sandeepk: 2
   :END:
 ** akshay196
@@ -134,6 +135,82 @@
     :TASKID:   READ.1560961999
     :END:
     https://learning.oreilly.com/live-training/courses/architecture-for-continuous-delivery/0636920276012/
+** RJ722
+*** Build the profile
+    :PROPERTIES:
+    :ESTIMATED: 1.5
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: TASK.1558159427
+    :TASKID: TASK.1558159427
+    :END:
+    - [ ] Follow tags and technologies that you know about
+    - [ ] Write a bio for the site
+    - [ ] Review their guides
+*** Gain 200 reputation
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: WRITE.1558159594
+    :TASKID: WRITE.1558159594
+    :END:
+    Quality answering for 4, 5 questions should suffice.
+*** Read "Why I am a Hindu" [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 11
+    :ACTUAL:   2.18
+    :OWNER: RJ722
+    :ID: READ.15 60490730
+    :TASKID: READ.1560490730
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-06-19 Wed 21:48]--[2019-06-19 Wed 22:35] =>  0:47
+    CLOCK: [2019-06-17 Mon 19:41]--[2019-06-17 Mon 21:05] =>  1:24
+    :END:
+    - [ ] Part I
+    - [ ] Part II
+    - [ ] Part III
+*** Read "The Great Novel of India" - PART 2 [5/8]
+    :PROPERTIES:
+    :ESTIMATED: 7.5
+    :ACTUAL:   3.62
+    :OWNER: RJ722
+    :ID: READ.1557996292
+    :TASKID: READ.1557996292
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-06-22 Fri 21:10]--[2019-06-22 Fri 21:55] =>  0:45
+    CLOCK: [2019-06-21 Thu 20:34]--[2019-06-21 Thu 21:10] =>  0:36
+    CLOCK: [2019-06-20 Thu 09:20]--[2019-06-20 Thu 10:10] =>  0:50
+    CLOCK: [2019-06-18 Tue 09:10]--[2019-06-18 Tue 10:36] =>  1:26
+    :END:
+    - [X] The Eleventh Book
+    - [X] The Twelfth Book
+    - [X] The Thirteenth Book
+    - [X] The Fourteenth Book
+    - [X] The Fifteenth Book
+    - [ ] The Sixteenth Book
+    - [ ] The Seventeenth Book
+    - [ ] The Eigteenth Book
+*** Write two blog posts
+    :PROPERTIES:
+    :ESTIMATED: 15
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: WRITE.1560491297
+    :TASKID: WRITE.1560491297
+    :END:
+    - [ ] Post 1
+    - [ ] Post 2
+*** Participate in a Kaggle Competition
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: DEV.1561010265
+    :TASKID: DEV.1561010265
+    :END:
 ** sandeepk
 *** IN_PROGRESS Reliable Cloud Infrastructure: Design and Process [8/9]
     :PROPERTIES:
