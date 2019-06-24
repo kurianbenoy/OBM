@@ -114,7 +114,6 @@
   :wpd-jasonbraganza: 4
   :wpd-nightwarrior-xxx: 1
   :wpd-sandeepk: 2
-  :wpd-sidntrivedi: 1
   :END:
 ** akshay196
 *** DONE Read [[https://debbugs.gnu.org/][GNU Bug Tracker]]
@@ -486,28 +485,3 @@
     - [X] Module 1: Application Infrastructure Services              (30m)
     - [X] Module 2: Application Development Services                 (20m)
     - [X] Module 3: Containers                                       (1h)
-** sidntrivedi
-*** Eloquent Javascript
-    :PROPERTIES:
-      :ESTIMATED: 10
-      :ACTUAL:
-      :OWNER: sidntrivedi
-      :ID: READ.1559963113
-      :TASKID: READ.1559963113
-      :END:
-      - [ ] Values, Types, and Operators
-      - [ ] Program Structure
-      - [ ] Functions
-      - [ ] Data Structures: Objects and Arrays
-      - [ ] Higher-order Functions
-      - [ ] The Secret Life of Objects
-      - [ ] Project: A Robot
-*** Blog https://sidntrivedi.me
-    :PROPERTIES:
-    :ESTIMATED: 2
-    :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: WRITE.1539072660
-    :TASKID: WRITE.1539072660
-    :END:
-    - [ ] Write one blog every week.
