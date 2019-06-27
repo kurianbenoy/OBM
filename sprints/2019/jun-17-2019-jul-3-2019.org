@@ -49,15 +49,18 @@
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35797][#35797]]: 26.2; Adaptive Wrap does not respect Whitespace Mode faces
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35815][#35815]]: 26.2; mhtml-mode (in HTML+CSS and HTML+JS) doesn't respect Whitespace Mode face settings
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32784][#32784]]: 25.2; Calc mode home on incorrect line depending on line-spacing
-*** IN_PROGRESS Learning GNU Emacs - Part I [2/10]
+*** IN_PROGRESS Learning GNU Emacs - Part I [5/10]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:   2.93
+    :ACTUAL:   7.17
     :OWNER: akshay196
     :ID: READ.1560794346
     :TASKID: READ.1560794346
     :END:
     :LOGBOOK:
+    CLOCK: [2019-06-27 Thu 07:03]--[2019-06-27 Thu 08:29] =>  1:26
+    CLOCK: [2019-06-26 Wed 07:04]--[2019-06-26 Wed 08:14] =>  1:10
+    CLOCK: [2019-06-25 Tue 07:01]--[2019-06-25 Tue 08:39] =>  1:38
     CLOCK: [2019-06-24 Mon 08:06]--[2019-06-24 Mon 09:35] =>  1:29
     CLOCK: [2019-06-23 Sun 06:33]--[2019-06-23 Sun 08:00] =>  1:27
     :END:
@@ -65,9 +68,9 @@
     by Bill Rosenblatt, Eric S. Raymond, Marc Loy, James Elliott, Debra Cameron
     - [X] Chapter  1. Emacs Basics                                   ( 1h)
     - [X] Chapter  2. Editing                                        ( 1h)
-    - [ ] Chapter  3. Search and Replace                             ( 1h)
-    - [ ] Chapter  4. Using Buffers, Windows, and Frames             ( 1h)
-    - [ ] Chapter  5. Emacs as a Work Environment                    ( 2h)
+    - [X] Chapter  3. Search and Replace                             ( 1h)
+    - [X] Chapter  4. Using Buffers, Windows, and Frames             ( 1h)
+    - [X] Chapter  5. Emacs as a Work Environment                    ( 2h)
     - [ ] Chapter  6. Writing Macros                                 ( 1h)
     - [ ] Chapter  7. Simple Text Formatting and Specialized Editing ( 2h)
     - [ ] Chapter  8. Markup Language Support                        ( 2h)
