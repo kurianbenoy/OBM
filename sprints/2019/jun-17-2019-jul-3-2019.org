@@ -78,15 +78,21 @@
     - [ ] Chapter 10. Customizing Emacs                              ( 1h)
 
 ** bhavin192
-*** IN_PROGRESS Linux Under the Hood [4/13]
+*** IN_PROGRESS Linux Under the Hood [7/13]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:   4.03
+    :ACTUAL:   7.35
     :OWNER:    bhavin192
     :ID:       READ.1559581076
     :TASKID:   READ.1559581076
     :END:
     :LOGBOOK:
+    CLOCK: [2019-06-26 Wed 20:06]--[2019-06-26 Wed 20:08] =>  0:02
+    CLOCK: [2019-06-26 Wed 18:32]--[2019-06-26 Wed 19:13] =>  0:41
+    CLOCK: [2019-06-25 Tue 21:18]--[2019-06-25 Tue 22:13] =>  0:55
+    CLOCK: [2019-06-25 Tue 19:20]--[2019-06-25 Tue 20:17] =>  0:57
+    CLOCK: [2019-06-24 Mon 21:41]--[2019-06-24 Mon 22:21] =>  0:40
+    CLOCK: [2019-06-24 Mon 20:06]--[2019-06-24 Mon 20:10] =>  0:04
     CLOCK: [2019-06-24 Mon 08:26]--[2019-06-24 Mon 08:31] =>  0:05
     CLOCK: [2019-06-21 Fri 19:32]--[2019-06-21 Fri 19:43] =>  0:11
     CLOCK: [2019-06-21 Fri 19:10]--[2019-06-21 Fri 19:29] =>  0:19
@@ -102,9 +108,9 @@
     - [X] 2.  About C code, scripts and compiled programs       (35m)
     - [X] 3.  Understanding Linux commands and how they work    (22m)
     - [X] 4.  Understanding the Linux boot procedure            (90m)
-    - [ ] 5.  Understanding Linux storage                       (80m)
-    - [ ] 6.  Understanding memory management                   (40m)
-    - [ ] 7.  Understanding processes                           (40m)
+    - [X] 5.  Understanding Linux storage                       (80m)
+    - [X] 6.  Understanding memory management                   (40m)
+    - [X] 7.  Understanding processes                           (40m)
     - [ ] 8.  Security                                          (60m)
     - [ ] 9.  Hardware initialization                           (35m)
     - [ ] 10. Looking closer at the kernel                      (40m)
