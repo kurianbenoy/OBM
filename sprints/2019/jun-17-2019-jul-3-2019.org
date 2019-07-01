@@ -49,15 +49,19 @@
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35797][#35797]]: 26.2; Adaptive Wrap does not respect Whitespace Mode faces
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35815][#35815]]: 26.2; mhtml-mode (in HTML+CSS and HTML+JS) doesn't respect Whitespace Mode face settings
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32784][#32784]]: 25.2; Calc mode home on incorrect line depending on line-spacing
-*** IN_PROGRESS Learning GNU Emacs - Part I [5/10]
+*** IN_PROGRESS Learning GNU Emacs - Part I [8/10]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:   7.17
+    :ACTUAL:   12.33
     :OWNER: akshay196
     :ID: READ.1560794346
     :TASKID: READ.1560794346
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-01 Mon 07:04]--[2019-07-01 Mon 07:52] =>  0:48
+    CLOCK: [2019-06-30 Sun 18:53]--[2019-06-30 Sun 20:35] =>  1:42
+    CLOCK: [2019-06-29 Sat 19:49]--[2019-06-29 Sat 21:03] =>  1:14
+    CLOCK: [2019-06-28 Fri 07:02]--[2019-06-28 Fri 08:28] =>  1:26
     CLOCK: [2019-06-27 Thu 07:03]--[2019-06-27 Thu 08:29] =>  1:26
     CLOCK: [2019-06-26 Wed 07:04]--[2019-06-26 Wed 08:14] =>  1:10
     CLOCK: [2019-06-25 Tue 07:01]--[2019-06-25 Tue 08:39] =>  1:38
@@ -71,9 +75,9 @@
     - [X] Chapter  3. Search and Replace                             ( 1h)
     - [X] Chapter  4. Using Buffers, Windows, and Frames             ( 1h)
     - [X] Chapter  5. Emacs as a Work Environment                    ( 2h)
-    - [ ] Chapter  6. Writing Macros                                 ( 1h)
-    - [ ] Chapter  7. Simple Text Formatting and Specialized Editing ( 2h)
-    - [ ] Chapter  8. Markup Language Support                        ( 2h)
+    - [X] Chapter  6. Writing Macros                                 ( 1h)
+    - [X] Chapter  7. Simple Text Formatting and Specialized Editing ( 2h)
+    - [X] Chapter  8. Markup Language Support                        ( 2h)
     - [ ] Chapter  9. Computer Language Support                      ( 1h)
     - [ ] Chapter 10. Customizing Emacs                              ( 1h)
 
