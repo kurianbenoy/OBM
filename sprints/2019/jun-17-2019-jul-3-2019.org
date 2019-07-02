@@ -221,15 +221,17 @@
     :TASKID: DEV.1561010265
     :END:
 ** sandeepk
-*** IN_PROGRESS Reliable Cloud Infrastructure: Design and Process [8/9]
+*** DONE Reliable Cloud Infrastructure: Design and Process [9/9]
+    CLOSED: [2019-06-24 Mon 22:05]
     :PROPERTIES:
     :ESTIMATED: 17.33
-    :ACTUAL:   10.07
+    :ACTUAL:   10.90
     :OWNER:    sandeepk
     :ID:       READ.1559588374
     :TASKID:   READ.1559588374
     :END:
     :LOGBOOK:
+    CLOCK: [2019-06-24 Mon 21:15]--[2019-06-24 Mon 22:05] =>  0:50
     CLOCK: [2019-06-22 Sat 16:30]--[2019-06-22 Sat 17:20] =>  0:50
     CLOCK: [2019-06-22 Sat 15:20]--[2019-06-22 Sat 16:25] =>  1:05
     CLOCK: [2019-06-22 Sat 14:20]--[2019-06-22 Sat 15:00] =>  0:40
@@ -247,17 +249,24 @@
     - [X] Design for Resiliency, Scalability, and Disaster Recovery  (1h)
     - [X] Design for Security                                        (1h)
     - [X] Capacity Planning and Cost Optimization                    (1h)
-    - [ ] Deployment, Monitoring and Alerting, and Incident Response (2h)
-*** Blog writing [0/2]
+    - [X] Deployment, Monitoring and Alerting, and Incident Response (2h)
+*** IN_PROGRESS Blog writing [1/2]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:
+    :ACTUAL:   5.07
     :OWNER: sandeepk
     :ID: WRITE.1560792221
     :TASKID: WRITE.1560792221
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-07-02 Tue 23:32]--[2019-07-03 Wed 00:32] =>  1:00
+    CLOCK: [2019-07-01 Mon 22:10]--[2019-07-02 Tue 00:49] =>  2:40
+    CLOCK: [2019-06-29 Sat 22:30]--[2019-06-29 Sat 23:10] =>  0:40
+    CLOCK: [2019-06-28 Fri 21:50]--[2019-06-28 Fri 22:35] =>  0:45
+    CLOCK: [2019-06-25 Tue 21:30]--[2019-06-25 Tue 22:30] =>  1:00
+    :END:
     - [ ] Blog about Google Cloud Platform VPC(Virtual Private Network)       (4h)
-    - [ ] Blog about Google Cloud Platform IAM(Identiy and Access Management) (4h)
+    - [X] Blog about Google Cloud Platform IAM(Identiy and Access Management) (4h)
 *** Project Stack NEWS - Part III [0/2]
     :PROPERTIES:
     :ESTIMATED: 9
