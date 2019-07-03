@@ -31,15 +31,17 @@
   :wpd-sandeepk: 2
   :END:
 ** akshay196
-*** IN_PROGRESS GNU Emacs bug triaging [3/4]
+*** DONE GNU Emacs bug triaging [4/4]
+    CLOSED: [2019-07-01 Mon 23:25]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:   3.35
+    :ACTUAL:   3.87
     :OWNER: akshay196
     :ID: OPS.1560792095
     :TASKID: OPS.1560792095
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-01 Mon 22:53]--[2019-07-01 Mon 23:24] =>  0:31
     CLOCK: [2019-06-21 Fri 20:57]--[2019-06-21 Fri 21:57] =>  1:00
     CLOCK: [2019-06-20 Thu 23:09]--[2019-06-20 Thu 23:34] =>  0:25
     CLOCK: [2019-06-19 Wed 21:25]--[2019-06-19 Wed 22:20] =>  0:55
@@ -48,16 +50,20 @@
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35567][#35567]]: 27.0.50; Emacs-Lisp and ElDoc confusion with some strings
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35797][#35797]]: 26.2; Adaptive Wrap does not respect Whitespace Mode faces
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35815][#35815]]: 26.2; mhtml-mode (in HTML+CSS and HTML+JS) doesn't respect Whitespace Mode face settings
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32784][#32784]]: 25.2; Calc mode home on incorrect line depending on line-spacing
-*** IN_PROGRESS Learning GNU Emacs - Part I [8/10]
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32784][#32784]]: 25.2; Calc mode home on incorrect line depending on line-spacing
+*** DONE Learning GNU Emacs - Part I [10/10]
+    CLOSED: [2019-07-03 Wed 08:44]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:   12.33
+    :ACTUAL:   15.17
     :OWNER: akshay196
     :ID: READ.1560794346
     :TASKID: READ.1560794346
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-03 Wed 07:20]--[2019-07-03 Wed 08:43] =>  1:23
+    CLOCK: [2019-07-02 Tue 21:03]--[2019-07-02 Tue 21:26] =>  0:23
+    CLOCK: [2019-07-02 Tue 06:31]--[2019-07-02 Tue 07:35] =>  1:04
     CLOCK: [2019-07-01 Mon 07:04]--[2019-07-01 Mon 07:52] =>  0:48
     CLOCK: [2019-06-30 Sun 18:53]--[2019-06-30 Sun 20:35] =>  1:42
     CLOCK: [2019-06-29 Sat 19:49]--[2019-06-29 Sat 21:03] =>  1:14
@@ -78,8 +84,8 @@
     - [X] Chapter  6. Writing Macros                                 ( 1h)
     - [X] Chapter  7. Simple Text Formatting and Specialized Editing ( 2h)
     - [X] Chapter  8. Markup Language Support                        ( 2h)
-    - [ ] Chapter  9. Computer Language Support                      ( 1h)
-    - [ ] Chapter 10. Customizing Emacs                              ( 1h)
+    - [X] Chapter  9. Computer Language Support                      ( 1h)
+    - [X] Chapter 10. Customizing Emacs                              ( 1h)
 
 ** bhavin192
 *** IN_PROGRESS Linux Under the Hood [11/13]
