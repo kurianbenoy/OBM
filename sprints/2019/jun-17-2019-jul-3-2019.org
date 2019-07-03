@@ -82,15 +82,18 @@
     - [ ] Chapter 10. Customizing Emacs                              ( 1h)
 
 ** bhavin192
-*** IN_PROGRESS Linux Under the Hood [11/13]
+*** DONE Linux Under the Hood [13/13]
+    CLOSED: [2019-07-01 Mon 21:47]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:   11.00
+    :ACTUAL:   12.02
     :OWNER:    bhavin192
     :ID:       READ.1559581076
     :TASKID:   READ.1559581076
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-01 Mon 21:28]--[2019-07-01 Mon 21:47] =>  0:19
+    CLOCK: [2019-07-01 Mon 19:52]--[2019-07-01 Mon 20:34] =>  0:42
     CLOCK: [2019-06-30 Sun 21:08]--[2019-06-30 Sun 21:36] =>  0:28
     CLOCK: [2019-06-30 Sun 19:56]--[2019-06-30 Sun 20:17] =>  0:21
     CLOCK: [2019-06-30 Sun 18:51]--[2019-06-30 Sun 19:25] =>  0:34
@@ -125,18 +128,22 @@
     - [X] 9.  Hardware initialization                           (35m)
     - [X] 10. Looking closer at the kernel                      (40m)
     - [X] 11. Understanding networking                          (50m)
-    - [ ] 12. Performance optimization                          (60m)
-    - [ ] 13. The future of Linux                               (23m)
-*** Namespaces in operation series [0/9]
+    - [X] 12. Performance optimization                          (60m)
+    - [X] 13. The future of Linux                               (23m)
+*** IN_PROGRESS Namespaces in operation series [1/9]
     :PROPERTIES:
     :ESTIMATED: 4.5
-    :ACTUAL:
+    :ACTUAL:   1.38
     :OWNER:    bhavin192
     :ID:       READ.1560960967
     :TASKID:   READ.1560960967
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-07-03 Wed 20:05]--[2019-07-03 Wed 20:36] =>  0:31
+    CLOCK: [2019-07-02 Tue 19:46]--[2019-07-02 Tue 20:38] =>  0:52
+    :END:
     https://lwn.net/Articles/531114/#series_index
-    - [ ] [[https://lwn.net/Articles/531114/][1. namespaces overview]]                                      (60m)
+    - [X] [[https://lwn.net/Articles/531114/][1. namespaces overview]]                                      (60m)
     - [ ] [[https://lwn.net/Articles/531381/][2: the namespaces API]]                                       (25m)
     - [ ] [[https://lwn.net/Articles/531419/][3: PID namespaces]]                                           (20m)
     - [ ] [[https://lwn.net/Articles/532748/][4: more on PID namespaces]]                                   (35m)
