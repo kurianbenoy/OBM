@@ -76,18 +76,22 @@
     - [ ] Operating System 
 
 ** Writing
-*** Blog post to write [/]
+*** Blog post to write [1/4]
     :PROPERTIES:
     :ESTIMATED: 
     :ACTUAL:
     :OWNER: sandeepk
-    :ID: WRITE.1553503784
-    :TASKID: WRITE.1553503784
+    :ID: WRITE.1560792221
+    :TASKID: WRITE.1560792221
     :END:
     - [ ] Quaterly Review of year 2019.
-    - [ ] Using Scrapy to scrap website.
+    - [X] Using Scrapy to scrap website.
     - [ ] Using Apache Kafka to build communication pipeline.
     - [ ] Write about the experience for handling continuse deployment.
+    - [ ] Blog about Google Cloud Platform VPC(Virtual Private Network)       (4h)
+    - [ ] Load Balancer Setup
+    - [ ] Database certificate generation and PyCharm Linkage
+
 ** Database
 *** MongoDB
     :PROPERTIES:
@@ -132,7 +136,7 @@
     :TASKID: DEV.1553504808
     :END:
 ** Courses
-*** [#A] Google Cloud Specialization
+*** DONE [#A] Google Cloud Specialization
     :PROPERTIES:
     :ESTIMATED: 58
     :ACTUAL:
@@ -143,6 +147,9 @@
 
 * PLAN
 ** July       4, 2019 - July      15, 2019 (12 days)
+   :PROPERTIES:
+   :END:
+
 ** July      16, 2019 - August     1, 2019 (17 days)
 ** August     2, 2019 - August    14, 2019 (13 days)
 ** August    15, 2019 - August    30, 2019 (16 days)

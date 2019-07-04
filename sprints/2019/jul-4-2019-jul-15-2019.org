@@ -28,6 +28,7 @@
   :wpd-akshay196: 1
   :wpd-gandalfdwite: 1
   :wpd-RJ722: 2
+  :wpd-sandeepk: 2
   :END:
 ** akshay196
 *** Learning GNU Emacs - Part II
@@ -70,7 +71,6 @@
     :ID: READ.1562241993
     :TASKID: READ.1562241993
     :END:
-
 ** gandalfdwite
 *** Unix Concepts & Applications by Sumitabha Das Part IV [0/3]
    :PROPERTIES:
@@ -126,3 +126,27 @@
     :ID: TASK.1562243888
     :TASKID: TASK.1562243888
     :END:
+** sandeepk
+*** Blog writing - Part II [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 14
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: WRITE.1560792221
+    :TASKID: WRITE.1560792221
+    :END:
+    - [ ] Blog about Google Cloud Platform VPC(Virtual Private Network)       (5h)
+    - [ ] Load Balancer	Setup guide                                           (6h)
+    - [ ] Database Certificate genration and PyCharm linkage to Database      (3h)
+    - [ ] Network Design
+*** Project Stack NEWS - Part III [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1552226887
+    :TASKID: DEV.1552226887
+    :END:
+    - [ ] Implement Comment logic          (5h)
+    - [ ] Write test case for POST section (5h)
+
