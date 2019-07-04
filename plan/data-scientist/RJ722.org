@@ -116,43 +116,6 @@
 
     
 * PLAN
-** July       4, 2019 - July      15, 2019 (12 days)
-   :PROPERTIES:
-   :wpd-RJ722: 2
-   :END:
-*** Write one blog post
-    :PROPERTIES:
-    :ESTIMATED: 3
-    :ACTUAL:
-    :OWNER: RJ722
-    :ID: WRITE.1562247371
-    :TASKID: WRITE.1562247371
-    :END:
-*** Write one ~two~ blog posts - PART 2 [1/2]
-    :PROPERTIES:
-    :ESTIMATED: 4
-    :ACTUAL:
-    :OWNER: RJ722
-    :ID: WRITE.1560491297
-    :TASKID: WRITE.1560491297
-    :END:
-    - [ ] Post 2
-*** Participate in a Kaggle Competition - PART 1
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER: RJ722
-    :ID: DEV.1561010265
-    :TASKID: DEV.1561010265
-    :END:
-*** Finish fastai part-1
-    :PROPERTIES:
-    :ESTIMATED: 11
-    :ACTUAL:
-    :OWNER: RJ722
-    :ID: TASK.1562243888
-    :TASKID: TASK.1562243888
-    :END:
 ** July      16, 2019 - August     1, 2019 (17 days)
 ** August     2, 2019 - August    14, 2019 (13 days)
 ** August    15, 2019 - August    30, 2019 (16 days)

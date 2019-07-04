@@ -187,19 +187,6 @@
     - [ ] Follow tags and technologies that you know about
     - [X] Write a bio for the site
     - [X] Review their guides
-*** DEFERRED Gain 200 reputation
-    CLOSED: [2019-07-03 Wed 16:04]
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:   0.17
-    :OWNER: RJ722
-    :ID: WRITE.1558159594
-    :TASKID: WRITE.1558159594
-    :END:
-    :LOGBOOK:
-    CLOCK: [2019-06-28 Fri 10:30]--[2019-06-28 Fri 10:40] =>  0:10
-    :END:
-    Quality answering for 4, 5 questions should suffice.
 *** DONE Read "Why I am a Hindu" [3/3]
     CLOSED: [2019-07-04 Thu 17:44]
     :PROPERTIES:
@@ -255,7 +242,7 @@
     CLOSED: [2019-07-04 Thu 17:47]
     :PROPERTIES:
     :ESTIMATED: 7.5
-    :ACTUAL:   1.00
+    :ACTUAL:   2.22
     :OWNER: RJ722
     :ID: WRITE.1560491297
     :TASKID: WRITE.1560491297
