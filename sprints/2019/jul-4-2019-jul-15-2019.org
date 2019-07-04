@@ -27,6 +27,7 @@
   :SPRINTSTART: <2019-07-04 Thu>
   :wpd-akshay196: 1
   :wpd-gandalfdwite: 1
+  :wpd-RJ722: 2
   :END:
 ** akshay196
 *** Learning GNU Emacs - Part II
@@ -91,3 +92,37 @@
     :TASKID: Do.1562171060
     :END:
     - [ ] Finish setup and publish first blog post  ( 3h)
+** RJ722
+*** Write one blog post
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: WRITE.1562247371
+    :TASKID: WRITE.1562247371
+    :END:
+*** Write one ~two~ blog posts - PART 2 [1/2]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: WRITE.1560491297
+    :TASKID: WRITE.1560491297
+    :END:
+    - [ ] Post 2
+*** Participate in a Kaggle Competition - PART 1
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: DEV.1561010265
+    :TASKID: DEV.1561010265
+    :END:
+*** Finish fastai part-1
+    :PROPERTIES:
+    :ESTIMATED: 11
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: TASK.1562243888
+    :TASKID: TASK.1562243888
+    :END:

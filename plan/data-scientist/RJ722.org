@@ -5,6 +5,14 @@
 
 * GOALS
 ** Read these books
+*** Read Neural Networks & Deep Learning by Michael A. Nielsen
+    :PROPERTIES:
+    :ESTIMATED: 30
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: READ.1562245628
+    :TASKID: READ.1562245628
+    :END:
 *** Read "Pride and Prejudice" [0/3]
     :PROPERTIES:
     :ESTIMATED: 15
@@ -24,7 +32,6 @@
     :ID: READ.1560490772
     :TASKID: READ.1560490772
     :END:
-** Build reputation on StackOverflow
 ** 100 days of writing blog posts
 *** Write the posts, daily! [0/15]
     :PROPERTIES:
@@ -62,14 +69,6 @@
     :END:
 
 ** Complete the deeplearning.ai specialisation
-*** Finish course 4 and 5
-    :PROPERTIES:
-    :ESTIMATED: 10
-    :ACTUAL:
-    :OWNER: RJ722
-    :ID: TASK.1558163905
-    :TASKID: TASK.1558163905
-    :END:
 ** Revamp Open source contributions
 *** Try working with NLTK
     :PROPERTIES:
@@ -81,9 +80,42 @@
     :END:
     - [ ] https://github.com/nltk/nltk/issues/1722
 
+** Finish these courses:
+*** CS224: Natural Language Processing with Deep Learning
+    :PROPERTIES:
+    :ESTIMATED: 35
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: TASK.1562246395
+    :TASKID: TASK.1562246395
+    :END:
+*** CS231N: Convolutional Neural Networks for Visual Recognition
+    :PROPERTIES:
+    :ESTIMATED: 30
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: TASK.1562244243
+    :TASKID: TASK.1562244243
+    :END:
+*** fastai part-2
+    :PROPERTIES:
+    :ESTIMATED: 21
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: TASK.1562243970
+    :TASKID: TASK.1562243970
+    :END:
+*** DeepLearning.ai: course 4 and 5
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: TASK.1558163905
+    :TASKID: TASK.1558163905
+    :END:
 
+    
 * PLAN
-** July       4, 2019 - July      15, 2019 (12 days)
 ** July      16, 2019 - August     1, 2019 (17 days)
 ** August     2, 2019 - August    14, 2019 (13 days)
 ** August    15, 2019 - August    30, 2019 (16 days)

@@ -2,6 +2,7 @@
 #+AUTHOR: dgplug.org
 #+EMAIL: users@lists.dgplug.org
 #+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+TODO: TODO IN_PROGRESS | DONE DEFERRED
 #+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
 * REPORTS
 ** SCRUM BOARD
@@ -171,54 +172,58 @@
     :END:
     https://learning.oreilly.com/live-training/courses/architecture-for-continuous-delivery/0636920276012/
 ** RJ722
-*** Build the profile
+*** DONE Build the profile
+    CLOSED: [2019-07-03 Wed 16:02]
     :PROPERTIES:
     :ESTIMATED: 1.5
-    :ACTUAL:
+    :ACTUAL:   0.35
     :OWNER: RJ722
     :ID: TASK.1558159427
     :TASKID: TASK.1558159427
     :END:
-    - [ ] Follow tags and technologies that you know about
-    - [ ] Write a bio for the site
-    - [ ] Review their guides
-*** Gain 200 reputation
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:   0.17
-    :OWNER: RJ722
-    :ID: WRITE.1558159594
-    :TASKID: WRITE.1558159594
-    :END:
     :LOGBOOK:
-    CLOCK: [2019-06-28 Fri 10:30]--[2019-06-28 Fri 10:40] =>  0:10
+    CLOCK: [2019-07-03 Wed 15:46]--[2019-07-03 Wed 16:07] =>  0:21
     :END:
-    Quality answering for 4, 5 questions should suffice.
-*** Read "Why I am a Hindu" [1/3]
+    - [ ] Follow tags and technologies that you know about
+    - [X] Write a bio for the site
+    - [X] Review their guides
+*** DONE Read "Why I am a Hindu" [3/3]
+    CLOSED: [2019-07-04 Thu 17:44]
     :PROPERTIES:
     :ESTIMATED: 11
-    :ACTUAL:   2.85
+    :ACTUAL:   7.97
     :OWNER: RJ722
     :ID: READ.15 60490730
     :TASKID: READ.1560490730
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-04 Thu 17:20]--[2019-07-04 Thu 17:43] =>  0:23
+    CLOCK: [2019-07-04 Thu 12:10]--[2019-07-04 Thu 13:00] =>  0:50
+    CLOCK: [2019-07-03 Wed 09:10]--[2019-07-03 Wed 10:25] =>  1:15
+    CLOCK: [2019-07-02 Tue 09:05]--[2019-07-02 Tue 09:54] =>  0:49
+    CLOCK: [2019-07-01 Mon 09:10]--[2019-07-01 Mon 10:30] =>  1:20
+    CLOCK: [2019-06-28 Fri 20:00]--[2019-06-28 Fri 20:30] =>  0:30
     CLOCK: [2019-06-27 Thu 19:20]--[2019-06-27 Thu 20:00] =>  0:40
     CLOCK: [2019-06-19 Wed 21:48]--[2019-06-19 Wed 22:35] =>  0:47
     CLOCK: [2019-06-17 Mon 19:41]--[2019-06-17 Mon 21:05] =>  1:24
     :END:
     - [X] Part I
-    - [ ] Part II
-    - [ ] Part III
-*** Read "The Great Novel of India" - PART 2 [6/8]
+    - [X] Part II
+    - [X] Part III
+*** DONE Read "The Great Novel of India" - PART 2 [8/8]
+    CLOSED: [2019-07-03 Wed 20:00]
     :PROPERTIES:
     :ESTIMATED: 7.5
-    :ACTUAL:   5.28
+    :ACTUAL:   7.12
     :OWNER: RJ722
     :ID: READ.1557996292
     :TASKID: READ.1557996292
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-03 Wed 19:30]--[2019-07-03 Wed 20:00] =>  0:30
+    CLOCK: [2019-07-03 Wed 19:10]--[2019-07-03 Wed 19:30] =>  0:20
+    CLOCK: [2019-07-02 Tue 12:20]--[2019-07-02 Tue 13:00] =>  0:40
+    CLOCK: [2019-07-02 Tue 10:00]--[2019-07-02 Tue 10:20] =>  0:20
     CLOCK: [2019-06-24 Mon 22:30]--[2019-06-25 Tue 00:10] =>  1:40
     CLOCK: [2019-06-22 Fri 21:10]--[2019-06-22 Fri 21:55] =>  0:45
     CLOCK: [2019-06-21 Thu 20:34]--[2019-06-21 Thu 21:10] =>  0:36
@@ -231,27 +236,34 @@
     - [X] The Fourteenth Book
     - [X] The Fifteenth Book
     - [X] The Sixteenth Book
-    - [ ] The Seventeenth Book
-    - [ ] The Eigteenth Book
-*** Write two blog posts
+    - [X] The Seventeenth Book
+    - [X] The Eigteenth Book
+*** DONE Write two blog posts - PART 1 [1/2]
+    CLOSED: [2019-07-04 Thu 17:47]
     :PROPERTIES:
-    :ESTIMATED: 15
-    :ACTUAL:
+    :ESTIMATED: 7.5
+    :ACTUAL:   2.22
     :OWNER: RJ722
     :ID: WRITE.1560491297
     :TASKID: WRITE.1560491297
     :END:
-    - [ ] Post 1
-    - [ ] Post 2
-*** Participate in a Kaggle Competition
+    :LOGBOOK:
+    CLOCK: [2019-07-03 Wed 14:31]--[2019-07-03 Wed 15:44] =>  1:13
+    CLOCK: [2019-07-02 Tue 14:20]--[2019-07-02 Tue 15:20] =>  1:00
+    :END:
+    - [X] Post 1
+*** DONE Participate in a Kaggle Competition - PART 1
+    CLOSED: [2019-07-04 Thu 17:47]
     :PROPERTIES:
-    :ESTIMATED: 10
-    :ACTUAL:
+    :ESTIMATED: 5
+    :ACTUAL:   4.88
     :OWNER: RJ722
     :ID: DEV.1561010265
     :TASKID: DEV.1561010265
     :END:
     :LOGBOOK:
+    CLOCK: [2019-06-30 Sun 19:17]--[2019-06-30 Sun 19:59] =>  0:42
+    CLOCK: [2019-06-30 Sun 15:52]--[2019-06-30 Sun 19:09] =>  0:30
     CLOCK: [2019-06-26 Wed 00:48]--[2019-06-26 Wed 01:42] =>  0:54
     :END:
 ** sandeepk
