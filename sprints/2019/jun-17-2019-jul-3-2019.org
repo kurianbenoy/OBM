@@ -279,23 +279,6 @@
     CLOCK: [2019-06-30 Sun 15:52]--[2019-06-30 Sun 19:09] =>  0:30
     CLOCK: [2019-06-26 Wed 00:48]--[2019-06-26 Wed 01:42] =>  0:54
     :END:
-*** IN_PROGRESS Write two blog posts - PART 2 [1/2]
-    :PROPERTIES:
-    :ESTIMATED: 3
-    :ACTUAL:
-    :OWNER: RJ722
-    :ID: WRITE.1560491297
-    :TASKID: WRITE.1560491297
-    :END:
-    - [ ] Post 2
-*** IN_PROGRESS Participate in a Kaggle Competition - PART 1
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER: RJ722
-    :ID: DEV.1561010265
-    :TASKID: DEV.1561010265
-    :END:
 ** sandeepk
 *** IN_PROGRESS Reliable Cloud Infrastructure: Design and Process [8/9]
     :PROPERTIES:
