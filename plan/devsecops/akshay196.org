@@ -153,47 +153,4 @@ Dan Mackin, Ben Whaley, Trent R. Hein, Garth Snyder, Evi Nemeth.
 ** Emacs
 *** Triage Bugs
 * PLAN
-** July       4, 2019 - July      15, 2019 (12 days)
-   :PROPERTIES:
-   :wpd-akshay196: 1
-   :END:
-*** Learning GNU Emacs - Part II
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER:    akshay196
-    :ID:       READ.1560794346
-    :TASKID:   READ.1560794346
-    :END:
-    - [ ] Chapter 11. Emacs Lisp Programming                         ( 2h)
-    - [ ] Chapter 12. Version Control                                ( 1h)
-    - [ ] Chapter 13. Platform-specific considerations               ( 1h)
-    - [ ] Chapter 14. The Help System                                ( 1h)
-*** GNU Emacs bug triaging
-    :PROPERTIES:
-    :ESTIMATED: 4
-    :ACTUAL:
-    :OWNER: akshay196
-    :ID: OPS.1562238634
-    :TASKID: OPS.1562238634
-    :END:
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=36490][#36490]]: directory-files-recursively breaks when it encounters a directory named "~"
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35340][#35340]]: ffap: dired wildcards always needs a wildcard in the filename
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35166][#35166]]: Buffer state inconsistent after vc-retrieve-tag
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32753][#32753]]: Bogus icomplete behavior
-*** Read [[https://www.laurentluce.com/posts/python-dictionary-implementation/][Python dictionary implementation]]
-    :PROPERTIES:
-    :ESTIMATED: 2
-    :ACTUAL:
-    :OWNER: akshay196
-    :ID: READ.1562241440
-    :TASKID: READ.1562241440
-    :END:
-*** Read [[https://treyhunner.com/2018/06/how-to-make-an-iterator-in-python/][How to make an iterator in Python]]
-    :PROPERTIES:
-    :ESTIMATED: 1
-    :ACTUAL:
-    :OWNER: akshay196
-    :ID: READ.1562241993
-    :TASKID: READ.1562241993
-    :END:
+
