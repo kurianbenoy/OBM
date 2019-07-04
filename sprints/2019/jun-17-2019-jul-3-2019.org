@@ -31,15 +31,17 @@
   :wpd-sandeepk: 2
   :END:
 ** akshay196
-*** IN_PROGRESS GNU Emacs bug triaging [3/4]
+*** DONE GNU Emacs bug triaging [4/4]
+    CLOSED: [2019-07-01 Mon 23:25]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:   3.35
+    :ACTUAL:   3.87
     :OWNER: akshay196
     :ID: OPS.1560792095
     :TASKID: OPS.1560792095
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-01 Mon 22:53]--[2019-07-01 Mon 23:24] =>  0:31
     CLOCK: [2019-06-21 Fri 20:57]--[2019-06-21 Fri 21:57] =>  1:00
     CLOCK: [2019-06-20 Thu 23:09]--[2019-06-20 Thu 23:34] =>  0:25
     CLOCK: [2019-06-19 Wed 21:25]--[2019-06-19 Wed 22:20] =>  0:55
@@ -48,16 +50,24 @@
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35567][#35567]]: 27.0.50; Emacs-Lisp and ElDoc confusion with some strings
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35797][#35797]]: 26.2; Adaptive Wrap does not respect Whitespace Mode faces
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35815][#35815]]: 26.2; mhtml-mode (in HTML+CSS and HTML+JS) doesn't respect Whitespace Mode face settings
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32784][#32784]]: 25.2; Calc mode home on incorrect line depending on line-spacing
-*** IN_PROGRESS Learning GNU Emacs - Part I [5/10]
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32784][#32784]]: 25.2; Calc mode home on incorrect line depending on line-spacing
+*** DONE Learning GNU Emacs - Part I [10/10]
+    CLOSED: [2019-07-03 Wed 08:44]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:   7.17
+    :ACTUAL:   15.17
     :OWNER: akshay196
     :ID: READ.1560794346
     :TASKID: READ.1560794346
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-03 Wed 07:20]--[2019-07-03 Wed 08:43] =>  1:23
+    CLOCK: [2019-07-02 Tue 21:03]--[2019-07-02 Tue 21:26] =>  0:23
+    CLOCK: [2019-07-02 Tue 06:31]--[2019-07-02 Tue 07:35] =>  1:04
+    CLOCK: [2019-07-01 Mon 07:04]--[2019-07-01 Mon 07:52] =>  0:48
+    CLOCK: [2019-06-30 Sun 18:53]--[2019-06-30 Sun 20:35] =>  1:42
+    CLOCK: [2019-06-29 Sat 19:49]--[2019-06-29 Sat 21:03] =>  1:14
+    CLOCK: [2019-06-28 Fri 07:02]--[2019-06-28 Fri 08:28] =>  1:26
     CLOCK: [2019-06-27 Thu 07:03]--[2019-06-27 Thu 08:29] =>  1:26
     CLOCK: [2019-06-26 Wed 07:04]--[2019-06-26 Wed 08:14] =>  1:10
     CLOCK: [2019-06-25 Tue 07:01]--[2019-06-25 Tue 08:39] =>  1:38
@@ -71,22 +81,30 @@
     - [X] Chapter  3. Search and Replace                             ( 1h)
     - [X] Chapter  4. Using Buffers, Windows, and Frames             ( 1h)
     - [X] Chapter  5. Emacs as a Work Environment                    ( 2h)
-    - [ ] Chapter  6. Writing Macros                                 ( 1h)
-    - [ ] Chapter  7. Simple Text Formatting and Specialized Editing ( 2h)
-    - [ ] Chapter  8. Markup Language Support                        ( 2h)
-    - [ ] Chapter  9. Computer Language Support                      ( 1h)
-    - [ ] Chapter 10. Customizing Emacs                              ( 1h)
-
+    - [X] Chapter  6. Writing Macros                                 ( 1h)
+    - [X] Chapter  7. Simple Text Formatting and Specialized Editing ( 2h)
+    - [X] Chapter  8. Markup Language Support                        ( 2h)
+    - [X] Chapter  9. Computer Language Support                      ( 1h)
+    - [X] Chapter 10. Customizing Emacs                              ( 1h)
 ** bhavin192
-*** IN_PROGRESS Linux Under the Hood [7/13]
+*** DONE Linux Under the Hood [13/13]
+    CLOSED: [2019-07-01 Mon 21:47]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:   7.35
+    :ACTUAL:   12.02
     :OWNER:    bhavin192
     :ID:       READ.1559581076
     :TASKID:   READ.1559581076
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-01 Mon 21:28]--[2019-07-01 Mon 21:47] =>  0:19
+    CLOCK: [2019-07-01 Mon 19:52]--[2019-07-01 Mon 20:34] =>  0:42
+    CLOCK: [2019-06-30 Sun 21:08]--[2019-06-30 Sun 21:36] =>  0:28
+    CLOCK: [2019-06-30 Sun 19:56]--[2019-06-30 Sun 20:17] =>  0:21
+    CLOCK: [2019-06-30 Sun 18:51]--[2019-06-30 Sun 19:25] =>  0:34
+    CLOCK: [2019-06-30 Sun 18:08]--[2019-06-30 Sun 18:46] =>  0:38
+    CLOCK: [2019-06-30 Sun 16:10]--[2019-06-30 Sun 17:11] =>  1:01
+    CLOCK: [2019-06-27 Thu 18:52]--[2019-06-27 Thu 19:29] =>  0:37
     CLOCK: [2019-06-26 Wed 20:06]--[2019-06-26 Wed 20:08] =>  0:02
     CLOCK: [2019-06-26 Wed 18:32]--[2019-06-26 Wed 19:13] =>  0:41
     CLOCK: [2019-06-25 Tue 21:18]--[2019-06-25 Tue 22:13] =>  0:55
@@ -111,22 +129,26 @@
     - [X] 5.  Understanding Linux storage                       (80m)
     - [X] 6.  Understanding memory management                   (40m)
     - [X] 7.  Understanding processes                           (40m)
-    - [ ] 8.  Security                                          (60m)
-    - [ ] 9.  Hardware initialization                           (35m)
-    - [ ] 10. Looking closer at the kernel                      (40m)
-    - [ ] 11. Understanding networking                          (50m)
-    - [ ] 12. Performance optimization                          (60m)
-    - [ ] 13. The future of Linux                               (23m)
-*** Namespaces in operation series [0/9]
+    - [X] 8.  Security                                          (60m)
+    - [X] 9.  Hardware initialization                           (35m)
+    - [X] 10. Looking closer at the kernel                      (40m)
+    - [X] 11. Understanding networking                          (50m)
+    - [X] 12. Performance optimization                          (60m)
+    - [X] 13. The future of Linux                               (23m)
+*** IN_PROGRESS Namespaces in operation series [1/9]
     :PROPERTIES:
     :ESTIMATED: 4.5
-    :ACTUAL:
+    :ACTUAL:   1.38
     :OWNER:    bhavin192
     :ID:       READ.1560960967
     :TASKID:   READ.1560960967
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-07-03 Wed 20:05]--[2019-07-03 Wed 20:36] =>  0:31
+    CLOCK: [2019-07-02 Tue 19:46]--[2019-07-02 Tue 20:38] =>  0:52
+    :END:
     https://lwn.net/Articles/531114/#series_index
-    - [ ] [[https://lwn.net/Articles/531114/][1. namespaces overview]]                                      (60m)
+    - [X] [[https://lwn.net/Articles/531114/][1. namespaces overview]]                                      (60m)
     - [ ] [[https://lwn.net/Articles/531381/][2: the namespaces API]]                                       (25m)
     - [ ] [[https://lwn.net/Articles/531419/][3: PID namespaces]]                                           (20m)
     - [ ] [[https://lwn.net/Articles/532748/][4: more on PID namespaces]]                                   (35m)
@@ -135,13 +157,17 @@
     - [ ] [[https://lwn.net/Articles/580893/][7: Network namespaces]]                                       (15m)
     - [ ] [[https://lwn.net/Articles/689856/][Mount namespaces and shared subtrees]]                        (30m)
     - [ ] [[https://lwn.net/Articles/690679/][Mount namespaces, mount propagation, and unbindable mounts]]  (20m)
-*** Architecture for continuous delivery
+*** DONE Architecture for continuous delivery
+    CLOSED: [2019-06-27 Thu 22:28]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   2.97
     :OWNER:    bhavin192
     :ID:       READ.1560961999
     :TASKID:   READ.1560961999
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-06-27 Thu 19:30]--[2019-06-27 Thu 22:28] =>  2:58
     :END:
     https://learning.oreilly.com/live-training/courses/architecture-for-continuous-delivery/0636920276012/
 ** RJ722
@@ -159,36 +185,41 @@
 *** Gain 200 reputation
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL:
+    :ACTUAL:   0.17
     :OWNER: RJ722
     :ID: WRITE.1558159594
     :TASKID: WRITE.1558159594
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-06-28 Fri 10:30]--[2019-06-28 Fri 10:40] =>  0:10
+    :END:
     Quality answering for 4, 5 questions should suffice.
-*** Read "Why I am a Hindu" [0/3]
+*** Read "Why I am a Hindu" [1/3]
     :PROPERTIES:
     :ESTIMATED: 11
-    :ACTUAL:   2.18
+    :ACTUAL:   2.85
     :OWNER: RJ722
     :ID: READ.15 60490730
     :TASKID: READ.1560490730
     :END:
     :LOGBOOK:
+    CLOCK: [2019-06-27 Thu 19:20]--[2019-06-27 Thu 20:00] =>  0:40
     CLOCK: [2019-06-19 Wed 21:48]--[2019-06-19 Wed 22:35] =>  0:47
     CLOCK: [2019-06-17 Mon 19:41]--[2019-06-17 Mon 21:05] =>  1:24
     :END:
-    - [ ] Part I
+    - [X] Part I
     - [ ] Part II
     - [ ] Part III
-*** Read "The Great Novel of India" - PART 2 [5/8]
+*** Read "The Great Novel of India" - PART 2 [6/8]
     :PROPERTIES:
     :ESTIMATED: 7.5
-    :ACTUAL:   3.62
+    :ACTUAL:   5.28
     :OWNER: RJ722
     :ID: READ.1557996292
     :TASKID: READ.1557996292
     :END:
     :LOGBOOK:
+    CLOCK: [2019-06-24 Mon 22:30]--[2019-06-25 Tue 00:10] =>  1:40
     CLOCK: [2019-06-22 Fri 21:10]--[2019-06-22 Fri 21:55] =>  0:45
     CLOCK: [2019-06-21 Thu 20:34]--[2019-06-21 Thu 21:10] =>  0:36
     CLOCK: [2019-06-20 Thu 09:20]--[2019-06-20 Thu 10:10] =>  0:50
@@ -199,7 +230,7 @@
     - [X] The Thirteenth Book
     - [X] The Fourteenth Book
     - [X] The Fifteenth Book
-    - [ ] The Sixteenth Book
+    - [X] The Sixteenth Book
     - [ ] The Seventeenth Book
     - [ ] The Eigteenth Book
 *** Write two blog posts
@@ -219,6 +250,9 @@
     :OWNER: RJ722
     :ID: DEV.1561010265
     :TASKID: DEV.1561010265
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-06-26 Wed 00:48]--[2019-06-26 Wed 01:42] =>  0:54
     :END:
 ** sandeepk
 *** DONE Reliable Cloud Infrastructure: Design and Process [9/9]
