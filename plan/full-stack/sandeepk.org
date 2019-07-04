@@ -148,31 +148,7 @@
 * PLAN
 ** July       4, 2019 - July      15, 2019 (12 days)
    :PROPERTIES:
-   :wpd-sandeepk: 2
    :END:
-*** Blog writing - Part II [0/2]
-    :PROPERTIES:
-    :ESTIMATED: 14
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: WRITE.1560792221
-    :TASKID: WRITE.1560792221
-    :END:
-    - [ ] Blog about Google Cloud Platform VPC(Virtual Private Network)       (5h)
-    - [ ] Load Balancer	Setup guide                                           (6h)
-    - [ ] Database Certificate genration and PyCharm linkage to Database      (3h)
-    - [ ] Network Design 
-*** Project Stack NEWS - Part III [0/2]
-    :PROPERTIES:
-    :ESTIMATED: 10
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: DEV.1552226887
-    :TASKID: DEV.1552226887
-    :END:
-    - [ ] Implement Comment logic          (5h)
-    - [ ] Write test case for POST section (5h)
-
 
 ** July      16, 2019 - August     1, 2019 (17 days)
 ** August     2, 2019 - August    14, 2019 (13 days)

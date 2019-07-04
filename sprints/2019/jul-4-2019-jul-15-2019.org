@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 12
   :SPRINTSTART: <2019-07-04 Thu>
   :wpd-gandalfdwite: 1
+  :wpd-sandeepk: 2
   :END:
 ** gandalfdwite
 *** Unix Concepts & Applications by Sumitabha Das Part IV [0/3]
@@ -48,3 +49,26 @@
     :TASKID: Do.1562171060
     :END:
     - [ ] Finish setup and publish first blog post  ( 3h)
+** sandeepk
+*** Blog writing - Part II [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 14
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: WRITE.1560792221
+    :TASKID: WRITE.1560792221
+    :END:
+    - [ ] Blog about Google Cloud Platform VPC(Virtual Private Network)       (5h)
+    - [ ] Load Balancer	Setup guide                                           (6h)
+    - [ ] Database Certificate genration and PyCharm linkage to Database      (3h)
+    - [ ] Network Design
+*** Project Stack NEWS - Part III [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1552226887
+    :TASKID: DEV.1552226887
+    :END:
+    - [ ] Implement Comment logic          (5h)
+    - [ ] Write test case for POST section (5h)
