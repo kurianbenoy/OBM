@@ -3,6 +3,15 @@
 #+TAGS: dev ops read meeting
 * GOALS
 ** DevOps
+*** Setup Blogging Website
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: Do.1562171060
+    :TASKID: Do.1562171060
+    :END:
+    - [ ] Finish setup and publish first blog post  ( 3h)
 ** Python
 *** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
     :PROPERTIES:
@@ -25,7 +34,6 @@
     - [ ] 19. Dynamic Programming              ( 1h)
     - [ ] 20. Complexity Classes               ( 1h)
 *** Contributing to Open Source Python project
-** Learn Emacs
 ** Unix
 *** Unix Concepts & Applications by Sumitabha Das
    :PROPERTIES:
@@ -35,10 +43,7 @@
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
-   - [ ] 13. Regular expressions                 ( 3h)
-   - [ ] 14. Essential shell programming         ( 3h)
-   - [ ] 15. Essential System Administration     ( 3h)
    - [ ] 16. X Window System                     ( 2h)
-   - [ ] 17. Networking tools                    ( 3h)
+   - [ ] 17. Networking tools                    ( 2h)
    - [ ] 18. awk                                 ( 2h)
 * PLAN

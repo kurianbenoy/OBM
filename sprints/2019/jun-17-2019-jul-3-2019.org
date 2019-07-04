@@ -86,7 +86,6 @@
     - [X] Chapter  8. Markup Language Support                        ( 2h)
     - [X] Chapter  9. Computer Language Support                      ( 1h)
     - [X] Chapter 10. Customizing Emacs                              ( 1h)
-
 ** bhavin192
 *** IN_PROGRESS Linux Under the Hood [11/13]
     :PROPERTIES:

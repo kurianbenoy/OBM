@@ -25,4 +25,26 @@
   :ID:       TASKS
   :SPRINTLENGTH: 12
   :SPRINTSTART: <2019-07-04 Thu>
+  :wpd-gandalfdwite: 1
   :END:
+** gandalfdwite
+*** Unix Concepts & Applications by Sumitabha Das Part IV [0/3]
+   :PROPERTIES:
+   :ESTIMATED: 9
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: READ.1553532278
+   :TASKID: READ.1553532278
+   :END:
+   - [ ] 13. Regular expressions                 ( 3h)
+   - [ ] 14. Essential shell programming         ( 3h)
+   - [ ] 15. Essential System Administration     ( 3h)
+*** Setup Blogging Website [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: Do.1562171060
+    :TASKID: Do.1562171060
+    :END:
+    - [ ] Finish setup and publish first blog post  ( 3h)
