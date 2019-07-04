@@ -284,10 +284,11 @@
     - [X] Design for Security                                        (1h)
     - [X] Capacity Planning and Cost Optimization                    (1h)
     - [X] Deployment, Monitoring and Alerting, and Incident Response (2h)
-*** IN_PROGRESS Blog writing [1/2]
+*** DONE Blog writing - Part I [1/2]
+    CLOSED:[2019-07-03 Wed 00:32] 
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:   5.07
+    :ACTUAL:   6.07
     :OWNER: sandeepk
     :ID: WRITE.1560792221
     :TASKID: WRITE.1560792221
@@ -299,15 +300,4 @@
     CLOCK: [2019-06-28 Fri 21:50]--[2019-06-28 Fri 22:35] =>  0:45
     CLOCK: [2019-06-25 Tue 21:30]--[2019-06-25 Tue 22:30] =>  1:00
     :END:
-    - [ ] Blog about Google Cloud Platform VPC(Virtual Private Network)       (4h)
     - [X] Blog about Google Cloud Platform IAM(Identiy and Access Management) (4h)
-*** Project Stack NEWS - Part III [0/2]
-    :PROPERTIES:
-    :ESTIMATED: 9
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: DEV.1552226887
-    :TASKID: DEV.1552226887
-    :END:
-    - [ ] Implement Comment logic          (4h)
-    - [ ] Write test case for POST section (5h)
