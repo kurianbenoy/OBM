@@ -7,19 +7,82 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | READ.1560490730. Read "Why I am a Hindu" (2019-07-04)        |          |
+|      |      |             |         | WRITE.1560491297. Write two blog posts - PART 1 (2019-07-04) |          |
+|      |      |             |         | DEV.1561010265. Participate in a Kaggle Compet (2019-07-04)  |          |
+|      |      |             |         | READ.1560794346. Learning GNU Emacs - Part I (2019-07-03)    |          |
+|      |      |             |         | READ.1560960967. Namespaces in operation series (2019-07-03) |          |
+|      |      |             |         | TASK.1558159427. Build the profile (2019-07-03)              |          |
+|      |      |             |         | READ.1557996292. Read "The Great Novel of India (2019-07-03) |          |
+|      |      |             |         | WRITE.1560792221. Blog writing - Part I (2019-07-03)         |          |
+|      |      |             |         | OPS.1560792095. GNU Emacs bug triaging (2019-07-01)          |          |
+|      |      |             |         | READ.1559581076. Linux Under the Hood (2019-07-01)           |          |
+|      |      |             |         | READ.1560961999. Architecture for continuous de (2019-06-27) |          |
+|      |      |             |         | READ.1559588374. Reliable Cloud Infrastructure: (2019-06-24) |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME      | ESTIMATED |             ACTUAL |  DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|-----------+-----------+--------------------+-------+-----------+--------------+------------|
+| Sandeepk  |     25.33 |              16.97 | 25.33 |         0 |   2019-07-05 | ########## |
+| Rj722     |      32.5 |              22.54 |  32.5 |         0 |   2019-07-05 | ########## |
+| Bhavin192 |        14 | 16.369999999999997 |    14 |         0 |   2019-07-05 | ########## |
+| Akshay196 |        17 |              19.04 |    17 |         0 |   2019-07-05 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+
 #+END:
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                                                  |
+|-----+------------+--------+-------+----------------------------------------------------------------------------------|
+|   1 | 2019-06-17 |  88.83 |    84 |                                                                                  |
+|   2 | 2019-06-18 |  88.83 |    78 |                                                                                  |
+|   3 | 2019-06-19 |  88.83 |    73 |                                                                                  |
+|   4 | 2019-06-20 |  88.83 |    68 |                                                                                  |
+|   5 | 2019-06-21 |  88.83 |    63 |                                                                                  |
+|   6 | 2019-06-22 |  88.83 |    57 |                                                                                  |
+|   7 | 2019-06-23 |  88.83 |    52 |                                                                                  |
+|   8 | 2019-06-24 |   71.5 |    47 | READ.1559588374                                                                  |
+|   9 | 2019-06-25 |   71.5 |    42 |                                                                                  |
+|  10 | 2019-06-26 |   71.5 |    37 |                                                                                  |
+|  11 | 2019-06-27 |   68.5 |    31 | READ.1560961999                                                                  |
+|  12 | 2019-06-28 |   68.5 |    26 |                                                                                  |
+|  13 | 2019-06-29 |   68.5 |    21 |                                                                                  |
+|  14 | 2019-06-30 |   68.5 |    16 |                                                                                  |
+|  15 | 2019-07-01 |   54.5 |    10 | READ.1559581076 OPS.1560792095                                                   |
+|  16 | 2019-07-02 |   54.5 |     5 |                                                                                  |
+|  17 | 2019-07-03 |   23.5 |     0 | WRITE.1560792221 READ.1557996292 TASK.1558159427 READ.1560960967 READ.1560794346 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                              | TASKID           | OWNER     | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|---------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| TASKS                                             |                  |           | B        |      |     88.83 |  74.91999999999999 |
+|---------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| akshay196                                         |                  |           | B        |      |        17 |              19.04 |
+| GNU Emacs bug triaging                            | OPS.1560792095   | akshay196 | B        | DONE |         4 |               3.87 |
+| Learning GNU Emacs - Part I                       | READ.1560794346  | akshay196 | B        | DONE |        13 |              15.17 |
+|---------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| bhavin192                                         |                  |           | B        |      |        14 | 16.369999999999997 |
+| Linux Under the Hood                              | READ.1559581076  | bhavin192 | B        | DONE |        10 |              12.02 |
+| Namespaces in operation series - Part I           | READ.1560960967  | bhavin192 | B        | DONE |         1 |               1.38 |
+| Architecture for continuous delivery              | READ.1560961999  | bhavin192 | B        | DONE |         3 |               2.97 |
+|---------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| RJ722                                             |                  |           | B        |      |      32.5 |              22.54 |
+| Build the profile                                 | TASK.1558159427  | RJ722     | B        | DONE |       1.5 |               0.35 |
+| Read "Why I am a Hindu"                           | READ.1560490730  | RJ722     | B        | DONE |        11 |               7.97 |
+| Read "The Great Novel of India" - PART 2          | READ.1557996292  | RJ722     | B        | DONE |       7.5 |               7.12 |
+| Write two blog posts - PART 1                     | WRITE.1560491297 | RJ722     | B        | DONE |       7.5 |               2.22 |
+| Participate in a Kaggle Competition - PART 1      | DEV.1561010265   | RJ722     | B        | DONE |         5 |               4.88 |
+|---------------------------------------------------+------------------+-----------+----------+------+-----------+--------------------|
+| sandeepk                                          |                  |           | B        |      |     25.33 |              16.97 |
+| Reliable Cloud Infrastructure: Design and Process | READ.1559588374  | sandeepk  | B        | DONE |     17.33 |              10.90 |
+| Blog writing - Part I                             | WRITE.1560792221 | sandeepk  | B        | DONE |         8 |               6.07 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -231,7 +294,7 @@
     - [X] The Sixteenth Book
     - [X] The Seventeenth Book
     - [X] The Eigteenth Book
-*** DONE Write two blog posts - PART 1 [1/2]
+*** DONE Write two blog posts - PART 1 [1/1]
     CLOSED: [2019-07-04 Thu 17:47]
     :PROPERTIES:
     :ESTIMATED: 7.5
