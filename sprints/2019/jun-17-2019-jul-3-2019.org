@@ -136,9 +136,10 @@
     - [X] 11. Understanding networking                          (50m)
     - [X] 12. Performance optimization                          (60m)
     - [X] 13. The future of Linux                               (23m)
-*** IN_PROGRESS Namespaces in operation series [1/9]
+*** DONE Namespaces in operation series - Part I [1/1]
+    CLOSED: [2019-07-03 Wed 20:36]
     :PROPERTIES:
-    :ESTIMATED: 4.5
+    :ESTIMATED: 1
     :ACTUAL:   1.38
     :OWNER:    bhavin192
     :ID:       READ.1560960967
@@ -150,14 +151,6 @@
     :END:
     https://lwn.net/Articles/531114/#series_index
     - [X] [[https://lwn.net/Articles/531114/][1. namespaces overview]]                                      (60m)
-    - [ ] [[https://lwn.net/Articles/531381/][2: the namespaces API]]                                       (25m)
-    - [ ] [[https://lwn.net/Articles/531419/][3: PID namespaces]]                                           (20m)
-    - [ ] [[https://lwn.net/Articles/532748/][4: more on PID namespaces]]                                   (35m)
-    - [ ] [[https://lwn.net/Articles/532593/][5: User namespaces]]                                          (30m)
-    - [ ] [[https://lwn.net/Articles/540087/][6: more on user namespaces]]                                  (25m)
-    - [ ] [[https://lwn.net/Articles/580893/][7: Network namespaces]]                                       (15m)
-    - [ ] [[https://lwn.net/Articles/689856/][Mount namespaces and shared subtrees]]                        (30m)
-    - [ ] [[https://lwn.net/Articles/690679/][Mount namespaces, mount propagation, and unbindable mounts]]  (20m)
 *** DONE Architecture for continuous delivery
     CLOSED: [2019-06-27 Thu 22:28]
     :PROPERTIES:
