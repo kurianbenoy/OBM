@@ -34,6 +34,25 @@
     - [ ] 19. Dynamic Programming              ( 1h)
     - [ ] 20. Complexity Classes               ( 1h)
 *** Contributing to Open Source Python project
+** Emacs
+*** Org-capture
+    :PROPERTIES:
+    :ESTIMATED: 1.5
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1562385851
+    :TASKID: READ.1562385851
+    :END:
+    - [ ] Read and setup org-capture    ( 1.5h)
+*** Org-agenda
+    :PROPERTIES:
+    :ESTIMATED: 1.5
+    :ACTUAL:
+    :OWNER:    gandalfdwite
+    :ID:       READ.1562385906
+    :TASKID:   READ.1562385906
+    :END:
+    - [ ] Read and setup org-agenda     ( 1.5h)
 ** Unix
 *** Unix Concepts & Applications by Sumitabha Das
    :PROPERTIES:
