@@ -182,7 +182,11 @@
     :TASKID: TASK.1562243888
     :END:
 ** sandeepk
+<<<<<<< HEAD
 *** IN_PROGRESS Blog writing - Part II [0/3]
+=======
+*** Blog writing - Part II [0/3]
+>>>>>>> fix: remove extra task from blog post and update the sub task count
     :PROPERTIES:
     :ESTIMATED: 14
     :ACTUAL:   0.67
