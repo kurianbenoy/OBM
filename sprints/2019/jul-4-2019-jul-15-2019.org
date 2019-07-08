@@ -171,18 +171,21 @@
     :TASKID: TASK.1562243888
     :END:
 ** sandeepk
-*** Blog writing - Part II [0/2]
+*** IN_PROGRESS Blog writing - Part II [0/3]
     :PROPERTIES:
     :ESTIMATED: 14
-    :ACTUAL:
+    :ACTUAL:   0.67
     :OWNER: sandeepk
     :ID: WRITE.1560792221
     :TASKID: WRITE.1560792221
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-07-07 Sun 21:20]--[2019-07-07 Sun 21:40] =>  0:20
+    CLOCK: [2019-07-07 Sun 17:05]--[2019-07-07 Sun 17:25] =>  0:20
+    :END:
     - [ ] Blog about Google Cloud Platform VPC(Virtual Private Network)       (5h)
     - [ ] Load Balancer	Setup guide                                           (6h)
     - [ ] Database Certificate genration and PyCharm linkage to Database      (3h)
-    - [ ] Network Design
 *** Project Stack NEWS - Part III [0/2]
     :PROPERTIES:
     :ESTIMATED: 10
