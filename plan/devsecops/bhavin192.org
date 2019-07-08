@@ -12,7 +12,84 @@
 *** Container run times
 **** Read about existing run times
 *** Kubernetes
+**** Mastering Distributed Tracing [0/2]
+     :PROPERTIES:
+     :ESTIMATED: 13.5
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       READ.1562555265
+     :TASKID:   READ.1562555265
+     :END:
+     https://www.oreilly.com/library/view/mastering-distributed-tracing/9781788628464/
+     - [ ] III. Getting Value from Tracing
+       -  9. Turning the Lights On                              (46m)
+       - 10. Distributed Context Propagation                    (38m)
+       - 11. Integration with Metrics and Logs                  (58m)
+       - 12. Gathering Insights with Data Mining                (64m)
+     - [ ] IV. Deploying and Operating Tracing Infrastructure
+       - 13. Implementing Tracing in Large Organizations        (42m)
+       - 14. Under the Hood of a Distributed Tracing System     (46m)
+       - 15. Afterword                                          (12m)
+**** Helm 3 Preview: Charting Our Future [0/7]
+     :PROPERTIES:
+     :ESTIMATED: 1
+     :ACTUAL:
+     :OWNER:    bhavin192
+     :ID:       READ.1562524270
+     :TASKID:   READ.1562524270
+     :END:
+     - [ ] [[https://helm.sh/blog/helm-3-preview-pt1/][Part 1: A History of Helm]]			(15m)
+     - [ ] [[https://helm.sh/blog/helm-3-preview-pt2/][Part 2: A Gentle Farewell to Tiller]]		(10m)
+     - [ ] [[https://helm.sh/blog/helm-3-preview-pt3/][Part 3: Chart Repositories]]			(10m)
+     - [ ] [[https://helm.sh/blog/helm-3-preview-pt4/][Part 4: Release Management]]			(10m)
+     - [ ] [[https://helm.sh/blog/helm-3-preview-pt5/][Part 5: Changes to Chart Dependencies]]	( 5m)
+     - [ ] [[https://helm.sh/blog/helm-3-preview-pt6/][Part 6: Introducing Library Charts]]		( 5m)
+     - [ ] [[https://helm.sh/blog/helm-3-preview-pt7/][Part 7: What's Next?]]				(10m)
 ** Attend meetups
 ** Write blog posts
 * PLAN
-
+** July       4, 2019 - July      15, 2019 (12 days)
+   :PROPERTIES:
+   :wpd-bhavin192: 1
+   :END:
+*** Namespaces in operation series [0/8]
+    :PROPERTIES:
+    :ESTIMATED: 3.5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1560960967
+    :TASKID:   READ.1560960967
+    :END:
+    https://lwn.net/Articles/531114/#series_index
+    - [ ] [[https://lwn.net/Articles/531381/][2: the namespaces API]]                                       (25m)
+    - [ ] [[https://lwn.net/Articles/531419/][3: PID namespaces]]                                           (20m)
+    - [ ] [[https://lwn.net/Articles/532748/][4: more on PID namespaces]]                                   (35m)
+    - [ ] [[https://lwn.net/Articles/532593/][5: User namespaces]]                                          (30m)
+    - [ ] [[https://lwn.net/Articles/540087/][6: more on user namespaces]]                                  (25m)
+    - [ ] [[https://lwn.net/Articles/580893/][7: Network namespaces]]                                       (15m)
+    - [ ] [[https://lwn.net/Articles/689856/][Mount namespaces and shared subtrees]]                        (30m)
+    - [ ] [[https://lwn.net/Articles/690679/][Mount namespaces, mount propagation, and unbindable mounts]]  (20m)
+*** Mastering Distributed Tracing - I. Introduction [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 2.5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1562555265
+    :TASKID:   READ.1562555265
+    :END:
+    - [ ] 1. Why Distributed Tracing?                          (42m)
+    - [ ] 2. Take Tracing for a HotROD Ride                    (68m)
+    - [ ] 3. Distributed Tracing Fundamentals                  (42m)
+*** Mastering Distributed Tracing - II. Data Gathering Problem [0/5]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1562555265
+    :TASKID:   READ.1562555265
+    :END:
+    - [ ] 4. Instrumentation Basics with OpenTracing           (132m)
+    - [ ] 5. Instrumentation of Asynchronous Applications      (54m)
+    - [ ] 6. Tracing Standards and Ecosystem                   (44m)
+    - [ ] 7. Tracing with Service Meshes                       (52m)
+    - [ ] 8. All About Sampling                                (60m)
