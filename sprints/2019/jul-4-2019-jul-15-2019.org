@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 12
   :SPRINTSTART: <2019-07-04 Thu>
   :wpd-akshay196: 1
+  :wpd-bhavin192: 1
   :wpd-gandalfdwite: 1
   :wpd-RJ722: 2
   :wpd-sandeepk: 2
@@ -71,6 +72,49 @@
     :ID: READ.1562241993
     :TASKID: READ.1562241993
     :END:
+** bhavin192
+*** Namespaces in operation series [0/8]
+    :PROPERTIES:
+    :ESTIMATED: 3.5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1560960967
+    :TASKID:   READ.1560960967
+    :END:
+    https://lwn.net/Articles/531114/#series_index
+    - [ ] [[https://lwn.net/Articles/531381/][2: the namespaces API]]                                       (25m)
+    - [ ] [[https://lwn.net/Articles/531419/][3: PID namespaces]]                                           (20m)
+    - [ ] [[https://lwn.net/Articles/532748/][4: more on PID namespaces]]                                   (35m)
+    - [ ] [[https://lwn.net/Articles/532593/][5: User namespaces]]                                          (30m)
+    - [ ] [[https://lwn.net/Articles/540087/][6: more on user namespaces]]                                  (25m)
+    - [ ] [[https://lwn.net/Articles/580893/][7: Network namespaces]]                                       (15m)
+    - [ ] [[https://lwn.net/Articles/689856/][Mount namespaces and shared subtrees]]                        (30m)
+    - [ ] [[https://lwn.net/Articles/690679/][Mount namespaces, mount propagation, and unbindable mounts]]  (20m)
+*** Mastering Distributed Tracing - I. Introduction [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 2.5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1562555265
+    :TASKID:   READ.1562555265
+    :END:
+    - [ ] 1. Why Distributed Tracing?                          (42m)
+    - [ ] 2. Take Tracing for a HotROD Ride                    (68m)
+    - [ ] 3. Distributed Tracing Fundamentals                  (42m)
+*** Mastering Distributed Tracing - II. Data Gathering Problem [0/5]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1562555265
+    :TASKID:   READ.1562555265
+    :END:
+    - [ ] 4. Instrumentation Basics with OpenTracing           (132m)
+    - [ ] 5. Instrumentation of Asynchronous Applications      (54m)
+    - [ ] 6. Tracing Standards and Ecosystem                   (44m)
+    - [ ] 7. Tracing with Service Meshes                       (52m)
+    - [ ] 8. All About Sampling                                (60m)
+
 ** gandalfdwite
 *** Unix Concepts & Applications by Sumitabha Das Part IV [0/3]
    :PROPERTIES:
