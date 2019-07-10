@@ -73,19 +73,26 @@
     :TASKID: READ.1562241993
     :END:
 ** bhavin192
-*** Namespaces in operation series [0/8]
+*** IN_PROGRESS Namespaces in operation series [4/8]
     :PROPERTIES:
     :ESTIMATED: 3.5
-    :ACTUAL:
+    :ACTUAL:   3.47
     :OWNER:    bhavin192
     :ID:       READ.1560960967
     :TASKID:   READ.1560960967
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-07-10 Wed 22:04]--[2019-07-10 Wed 22:28] =>  0:24
+    CLOCK: [2019-07-10 Wed 21:46]--[2019-07-10 Wed 21:55] =>  0:09
+    CLOCK: [2019-07-10 Wed 19:23]--[2019-07-10 Wed 20:13] =>  0:50
+    CLOCK: [2019-07-09 Tue 19:23]--[2019-07-09 Tue 20:14] =>  0:51
+    CLOCK: [2019-07-08 Mon 21:35]--[2019-07-08 Mon 22:49] =>  1:14
+    :END:
     https://lwn.net/Articles/531114/#series_index
-    - [ ] [[https://lwn.net/Articles/531381/][2: the namespaces API]]                                       (25m)
-    - [ ] [[https://lwn.net/Articles/531419/][3: PID namespaces]]                                           (20m)
-    - [ ] [[https://lwn.net/Articles/532748/][4: more on PID namespaces]]                                   (35m)
-    - [ ] [[https://lwn.net/Articles/532593/][5: User namespaces]]                                          (30m)
+    - [X] [[https://lwn.net/Articles/531381/][2: the namespaces API]]                                       (25m)
+    - [X] [[https://lwn.net/Articles/531419/][3: PID namespaces]]                                           (20m)
+    - [X] [[https://lwn.net/Articles/532748/][4: more on PID namespaces]]                                   (35m)
+    - [X] [[https://lwn.net/Articles/532593/][5: User namespaces]]                                          (30m)
     - [ ] [[https://lwn.net/Articles/540087/][6: more on user namespaces]]                                  (25m)
     - [ ] [[https://lwn.net/Articles/580893/][7: Network namespaces]]                                       (15m)
     - [ ] [[https://lwn.net/Articles/689856/][Mount namespaces and shared subtrees]]                        (30m)
