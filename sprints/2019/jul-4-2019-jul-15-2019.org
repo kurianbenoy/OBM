@@ -116,21 +116,25 @@
     - [ ] 8. All About Sampling                                (60m)
 
 ** gandalfdwite
-*** IN_PROGRESS Unix Concepts & Applications by Sumitabha Das Part IV [1/3]
+*** IN_PROGRESS Unix Concepts & Applications by Sumitabha Das Part IV [2/3]
    :PROPERTIES:
    :ESTIMATED: 9
-   :ACTUAL:   3.30
+   :ACTUAL:   7.07
    :OWNER: gandalfdwite
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-11 Thu 20:39]--[2019-07-11 Thu 21:40] =>  1:01
+   CLOCK: [2019-07-10 Wed 22:05]--[2019-07-10 Wed 22:58] =>  0:53
+   CLOCK: [2019-07-09 Tue 23:40]--[2019-07-10 Wed 00:20] =>  0:40
+   CLOCK: [2019-07-08 Mon 21:10]--[2019-07-08 Mon 22:22] =>  1:12
    CLOCK: [2019-07-07 Sun 20:24]--[2019-07-07 Sun 21:35] =>  1:11
    CLOCK: [2019-07-06 Sat 09:15]--[2019-07-06 Sat 10:17] =>  1:02
    CLOCK: [2019-07-04 Thu 21:46]--[2019-07-04 Thu 22:51] =>  1:05
    :END:
    - [X] 13. Regular expressions                 ( 3h)
-   - [ ] 14. Essential shell programming         ( 3h)
+   - [X] 14. Essential shell programming         ( 3h)
    - [ ] 15. Essential System Administration     ( 3h)
 *** TODO Setup Blogging Website [0/1]
     :PROPERTIES:
