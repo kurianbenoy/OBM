@@ -32,29 +32,40 @@
   :wpd-sandeepk: 2
   :END:
 ** akshay196
-*** Learning GNU Emacs - Part II
+*** DONE Learning GNU Emacs - Part II
+    CLOSED: [2019-07-10 Wed 08:05]
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL:
+    :ACTUAL:   4.75
     :OWNER:    akshay196
     :ID:       READ.1560794346
     :TASKID:   READ.1560794346
     :END:
-    - [ ] Chapter 11. Emacs Lisp Programming                         ( 2h)
-    - [ ] Chapter 12. Version Control                                ( 1h)
-    - [ ] Chapter 13. Platform-specific considerations               ( 1h)
-    - [ ] Chapter 14. The Help System                                ( 1h)
-*** GNU Emacs bug triaging
+    :LOGBOOK:
+    CLOCK: [2019-07-10 Wed 07:03]--[2019-07-10 Wed 08:05] =>  1:02
+    CLOCK: [2019-07-09 Tue 07:16]--[2019-07-09 Tue 07:56] =>  0:40
+    CLOCK: [2019-07-08 Mon 07:02]--[2019-07-08 Mon 08:00] =>  0:58
+    CLOCK: [2019-07-07 Sun 22:19]--[2019-07-07 Sun 23:13] =>  0:54
+    CLOCK: [2019-07-05 Fri 07:11]--[2019-07-05 Fri 08:22] =>  1:11
+    :END:
+    - [X] Chapter 11. Emacs Lisp Programming                         ( 2h)
+    - [X] Chapter 12. Version Control                                ( 1h)
+    - [X] Chapter 13. Platform-specific considerations               ( 1h)
+    - [X] Chapter 14. The Help System                                ( 1h)
+*** IN_PROGRESS GNU Emacs bug triaging
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   0.58
     :OWNER: akshay196
     :ID: OPS.1562238634
     :TASKID: OPS.1562238634
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-07-11 Thu 06:59]--[2019-07-11 Thu 07:34] =>  0:35
+    :END:
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=36490][#36490]]: directory-files-recursively breaks when it encounters a directory named "~"
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35340][#35340]]: ffap: dired wildcards always needs a wildcard in the filename
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35166][#35166]]: Buffer state inconsistent after vc-retrieve-tag
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35166][#35166]]: Buffer state inconsistent after vc-retrieve-tag
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32753][#32753]]: Bogus icomplete behavior
 *** Read [[https://www.laurentluce.com/posts/python-dictionary-implementation/][Python dictionary implementation]]
     :PROPERTIES:
@@ -210,4 +221,3 @@
     :END:
     - [ ] Implement Comment logic          (5h)
     - [ ] Write test case for POST section (5h)
-
