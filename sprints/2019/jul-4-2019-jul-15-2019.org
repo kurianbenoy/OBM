@@ -162,8 +162,6 @@
     :ID: Do.1562171060
     :TASKID: Do.1562171060
     :END:
-    :LOGBOOK:
-    :END:
     - [ ] Finish setup and publish first blog post  ( 3h)
 ** RJ722
 *** Write one blog post
