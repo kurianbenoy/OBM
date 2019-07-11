@@ -6,19 +6,104 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                         | CANCELED |
+|------+------+-------------+---------+--------------------------------------------------------------+----------|
+|      |      |             |         | READ.1553532278. Unix Concepts & Applications b (2019-05-09) |          |
+|      |      |             |         | READ.1555438527. UNIX and Linux System Administ (2019-05-05) |          |
+|      |      |             |         | READ.1556025974. Read about namespaces and cont (2019-05-05) |          |
+|      |      |             |         | READ.1553531542. Data Structure and Algorithmic (2019-05-05) |          |
+|      |      |             |         | DEV.1552226887. Project Stack NEWS - Part II (2019-05-05)    |          |
+|      |      |             |         | READ.1554403369. Homo Sapiens Book Reading - Pa (2019-05-05) |          |
+|      |      |             |         | READ.1555957032. Linux Under the Hood (2019-05-02)           |          |
+|      |      |             |         | READ.1553531073. Read Kubernetes Docs Part II (2019-04-29)   |          |
+|      |      |             |         | READ.1555009355. Cloud Native DevOps with Kuber (2019-04-24) |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME             | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+-----------+--------+------+-----------+--------------+------------|
+| Sandeepk         |        22 |   5.33 |   22 |         0 |   2019-07-11 | ########## |
+| Nightwarrior-Xxx |         0 |  41.83 |    0 |         0 |   2019-07-11 | ---------- |
+| Gandalfdwite     |        17 |  20.28 |   17 |         0 |   2019-07-11 | ########## |
+| Bhavin192        |        10 |  13.96 |   10 |         0 |   2019-07-11 | ########## |
+| Akshay196        |        17 |  16.57 |   17 |         0 |   2019-07-11 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  90 ++------+-------+--------+-------+-------+-------+--------+-------+--++   
+:     |   #####################                                             |   
+:  80 ++  ....                 ###################           ACTUAL #######++   
+:     |       ....                                #           IDEAL ....... |   
+:  70 ++          ....                             #############           ++   
+:     |               .....                                     #########   |   
+:  60 ++                   ....                                         #  ++   
+:     |                        ....                                      #  |   
+:  50 ++                           ....                                  # ++   
+:     |                                ....                               # |   
+:  40 ++                                   ....                           #++   
+:     |                                        ....                        #|   
+:  30 ++                                           ....                    #+   
+:     |                                                .....                #   
+:  20 ++                                                    ....           +#   
+:     |                                                         ....        |   
+:  10 ++                                                            ....   ++   
+:     |                                                                 ....|   
+:   0 ++------+-------+--------+-------+-------+-------+--------+-------+--+.   
+:     0       2       4        6       8       10      12       14      16      
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
 #+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                                                |
+|-----+------------+--------+-------+--------------------------------------------------------------------------------|
+|   1 | 2019-04-19 |     83 |    78 |                                                                                |
+|   2 | 2019-04-20 |     83 |    73 |                                                                                |
+|   3 | 2019-04-21 |     83 |    68 |                                                                                |
+|   4 | 2019-04-22 |     83 |    63 |                                                                                |
+|   5 | 2019-04-23 |     83 |    59 |                                                                                |
+|   6 | 2019-04-24 |     78 |    54 | READ.1555009355                                                                |
+|   7 | 2019-04-25 |     78 |    49 |                                                                                |
+|   8 | 2019-04-26 |     78 |    44 |                                                                                |
+|   9 | 2019-04-27 |     78 |    39 |                                                                                |
+|  10 | 2019-04-28 |     78 |    34 |                                                                                |
+|  11 | 2019-04-29 |     68 |    29 | READ.1553531073                                                                |
+|  12 | 2019-04-30 |     68 |    24 |                                                                                |
+|  13 | 2019-05-01 |     68 |    20 |                                                                                |
+|  14 | 2019-05-02 |     65 |    15 | READ.1555957032                                                                |
+|  15 | 2019-05-03 |     65 |    10 |                                                                                |
+|  16 | 2019-05-04 |     65 |     5 |                                                                                |
+|  17 | 2019-05-05 |     20 |     0 | READ.1554403369 DEV.1552226887 READ.1553531542 READ.1556025974 READ.1555438527 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                                                                | TASKID          | OWNER            | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|-------------------------------------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------|
+| TASKS                                                                               |                 |                  | B        |      |        83 |  97.97 |
+|-------------------------------------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------|
+| akshay196                                                                           |                 |                  | B        |      |        17 |  16.57 |
+| UNIX and Linux System Administration Handbook - Part I                              | READ.1555438527 | akshay196        | B        | DONE |        17 |  16.57 |
+|-------------------------------------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------|
+| bhavin192                                                                           |                 |                  | B        |      |        10 |  13.96 |
+| Cloud Native DevOps with Kubernetes - Part II                                       | READ.1555009355 | bhavin192        | B        | DONE |         5 |   4.90 |
+| Read about namespaces and control groups                                            | READ.1556025974 | bhavin192        | B        | DONE |         2 |   5.98 |
+| Linux Under the Hood                                                                | READ.1555957032 | bhavin192        | B        | DONE |         3 |   3.08 |
+|-------------------------------------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------|
+| gandalfdwite                                                                        |                 |                  | B        |      |        17 |  20.28 |
+| Read Kubernetes Docs Part II                                                        | READ.1553531073 | gandalfdwite     | B        | DONE |        10 |  10.43 |
+| Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) Part I | READ.1553531542 | gandalfdwite     | B        | DONE |         4 |   6.87 |
+| Unix Concepts & Applications by Sumitabha Das Part I                                | READ.1553532278 | gandalfdwite     | B        | DONE |         3 |   2.98 |
+|-------------------------------------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------|
+| nightwarrior-xxx                                                                    |                 |                  | B        |      |        17 |  41.83 |
+| Website Building (Django)                                                           | DEV.1555953324  | nightwarrior-xxx | B        |      |        17 |  41.83 |
+|-------------------------------------------------------------------------------------+-----------------+------------------+----------+------+-----------+--------|
+| sandeepk                                                                            |                 |                  | B        |      |        22 |   5.33 |
+| Project Stack NEWS - Part II                                                        | DEV.1552226887  | sandeepk         | B        | DONE |        15 |   2.33 |
+| Homo Sapiens Book Reading - Part II                                                 | READ.1554403369 | sandeepk         | B        | DONE |         7 |   3.00 |
 #+END:
 * TASKS
   :PROPERTIES:
