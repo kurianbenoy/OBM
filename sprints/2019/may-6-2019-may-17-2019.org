@@ -6,19 +6,91 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                          | CANCELED |
+|------+------+-------------+---------+---------------------------------------------------------------+----------|
+|      |      |             |         | READ.1553532278. Unix Concepts & Applications - (2019-05-17)  |          |
+|      |      |             |         | DEV.1555953324. Website Building (Django) - Pa (2019-05-17)   |          |
+|      |      |             |         | READ.1557143830. Read and Practice alongside th (2019-05-17)  |          |
+|      |      |             |         | WRITE.1557903518. Work at French, in the Fluent  (2019-05-17) |          |
+|      |      |             |         | READ.1553531542. Data Structure and Algorithmic (2019-05-16)  |          |
+|      |      |             |         | READ.1557162821. Read Fluent Forever and take n (2019-05-15)  |          |
+|      |      |             |         | WRITE.1557163395. Take Notes from Fluent Forever (2019-05-15) |          |
+|      |      |             |         | READ.1553531073. Read Kubernetes Docs - Part II (2019-05-14)  |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME             | ESTIMATED |             ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|------------------+-----------+--------------------+------+-----------+--------------+------------|
+| Jasonbraganza    |      24.0 | 10.200000000000001 | 24.0 |         0 |   2019-07-11 | ########## |
+| Nightwarrior-Xxx |        17 |              18.82 |   17 |         0 |   2019-07-11 | ########## |
+| Manishkakoti     |         0 |                  0 |    0 |         0 |   2019-07-11 | ---------- |
+| Gandalfdwite     |        13 |              14.43 |   13 |         0 |   2019-07-11 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+:                                                                               
+:                                    Burndown                                   
+:                                                                               
+:  60 ++----------+----------+-----------+-----------+----------+----------++   
+:     |                                                                     |   
+:     |     ##############################################   ACTUAL ####### |   
+:  50 ++    ......                                        #   IDEAL .......++   
+:     |           .....                                    ###              |   
+:     |                .                                      ##            |   
+:  40 ++                .....                                              ++   
+:     |                      ......                             ######      |   
+:     |                            .....                              #     |   
+:  30 ++                                .                              #   ++   
+:     |                                  ......                        #    |   
+:     |                                        .....                    #   |   
+:  20 ++                                            .                   #  ++   
+:     |                                              ......              #  |   
+:     |                                                    .....          # |   
+:  10 ++                                                        .....     #++   
+:     |                                                              .     #|   
+:     |                                                               .....*|   
+:   0 ++----------+----------+-----------+-----------+----------+----------+*   
+:     0           2          4           6           8          10          12  
+:                                                                               
+:
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:12]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                                 |
+|-----+------------+--------+-------+-----------------------------------------------------------------|
+|   1 | 2019-05-06 |   54.0 |    50 |                                                                 |
+|   2 | 2019-05-07 |   54.0 |    45 |                                                                 |
+|   3 | 2019-05-08 |   54.0 |    40 |                                                                 |
+|   4 | 2019-05-09 |   54.0 |    36 |                                                                 |
+|   5 | 2019-05-10 |   54.0 |    32 |                                                                 |
+|   6 | 2019-05-11 |   54.0 |    27 |                                                                 |
+|   7 | 2019-05-12 |   54.0 |    22 |                                                                 |
+|   8 | 2019-05-13 |   54.0 |    18 |                                                                 |
+|   9 | 2019-05-14 |   46.0 |    14 | READ.1553531073                                                 |
+|  10 | 2019-05-15 |   35.0 |     9 | WRITE.1557163395 READ.1557162821                                |
+|  11 | 2019-05-16 |   33.0 |     4 | READ.1553531542                                                 |
+|  12 | 2019-05-17 |    0.0 |     0 | WRITE.1557903518 READ.1557143830 DEV.1555953324 READ.1553532278 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                                          | TASKID           | OWNER            | PRIORITY | TODO | ESTIMATED |             ACTUAL |
+|---------------------------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| TASKS                                                         |                  |                  | B        |      |      54.0 |              43.45 |
+|---------------------------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| gandalfdwite                                                  |                  |                  | B        |      |        13 |              14.43 |
+| Read Kubernetes Docs - Part III                               | READ.1553531073  | gandalfdwite     | B        | DONE |         8 |               8.02 |
+| Data Structure and Algorithmic Thinking with Python - Part II | READ.1553531542  | gandalfdwite     | B        | DONE |         2 |               2.73 |
+| Unix Concepts & Applications - Part II                        | READ.1553532278  | gandalfdwite     | B        | DONE |         3 |               3.68 |
+|---------------------------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| nightwarrior-xxx                                              |                  |                  | B        |      |        17 |              18.82 |
+| Website Building (Django) - Part I                            | DEV.1555953324   | nightwarrior-xxx | B        | DONE |        17 |              18.82 |
+|---------------------------------------------------------------+------------------+------------------+----------+------+-----------+--------------------|
+| jasonbraganza                                                 |                  |                  | B        |      |      24.0 | 10.200000000000001 |
+| Read and Practice alongside the Mastering Emacs book - Part I | READ.1557143830  | jasonbraganza    | B        | DONE |        10 |               4.20 |
+| Read Fluent Forever and take notes - Part I                   | READ.1557162821  | jasonbraganza    | B        | DONE |      6.00 |               3.52 |
+| Take Notes from Fluent Forever and formulate further actions  | WRITE.1557163395 | jasonbraganza    | B        | DONE |         5 |               0.75 |
+| Work at French, in the Fluent forever app - Part I            | WRITE.1557903518 | jasonbraganza    | B        | DONE |         3 |               1.73 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -76,9 +148,13 @@
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
-<<<<<<< HEAD
-   - [ ] 3. General Purpose Utilities            ( 1h)
-   - [ ] 4. File system                          ( 2h)
+   :LOGBOOK:
+   CLOCK: [2019-05-17 Fri 22:36]--[2019-05-17 Fri 23:49] =>  1:13
+   CLOCK: [2019-05-17 Fri 19:19]--[2019-05-17 Fri 20:35] =>  1:16
+   CLOCK: [2019-05-16 Thu 23:18]--[2019-05-17 Fri 00:30] =>  1:12
+   :END:
+   - [X] 3. General Purpose Utilities            ( 1h)
+   - [X] 4. File system                          ( 2h)
 ** nightwarrior-xxx
 *** DONE Website Building (Django) - Part I [3/3]
     CLOSED: [2019-05-17 Fri 23:00]
@@ -217,12 +293,3 @@
    - [X] Watched a pronunciation video. did two pronunciation lessons (1h)
    - [X] Completed 5 review sessions, 4 pronunciation lessons, 2 pronunciation videos & 4 vocabulary flashcards (1h)
    - [X] Completed 5 review sessions, 4 pronunciation lessons, 2 pronunciation videos & 4 vocabulary flashcards (1h)
-=======
-   :LOGBOOK:
-   CLOCK: [2019-05-17 Fri 22:36]--[2019-05-17 Fri 23:49] =>  1:13
-   CLOCK: [2019-05-17 Fri 19:19]--[2019-05-17 Fri 20:35] =>  1:16
-   CLOCK: [2019-05-16 Thu 23:18]--[2019-05-17 Fri 00:30] =>  1:12
-   :END:
-   - [X] 3. General Purpose Utilities            ( 1h)
-   - [X] 4. File system                          ( 2h)
->>>>>>> [gandalfdwite] tasks completed for current sprint
