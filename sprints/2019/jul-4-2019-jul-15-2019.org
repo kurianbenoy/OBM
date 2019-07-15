@@ -52,36 +52,48 @@
     - [X] Chapter 12. Version Control                                ( 1h)
     - [X] Chapter 13. Platform-specific considerations               ( 1h)
     - [X] Chapter 14. The Help System                                ( 1h)
-*** IN_PROGRESS GNU Emacs bug triaging
+*** DONE GNU Emacs bug triaging
+    CLOSED: [2019-07-14 Sun 21:12]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:   0.58
+    :ACTUAL:   2.98
     :OWNER: akshay196
     :ID: OPS.1562238634
     :TASKID: OPS.1562238634
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-14 Sun 20:54]--[2019-07-14 Sun 21:11] =>  0:17
+    CLOCK: [2019-07-14 Sun 18:47]--[2019-07-14 Sun 19:52] =>  1:05
+    CLOCK: [2019-07-12 Fri 07:01]--[2019-07-12 Fri 08:03] =>  1:02
     CLOCK: [2019-07-11 Thu 06:59]--[2019-07-11 Thu 07:34] =>  0:35
     :END:
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=36490][#36490]]: directory-files-recursively breaks when it encounters a directory named "~"
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35340][#35340]]: ffap: dired wildcards always needs a wildcard in the filename
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=36490][#36490]]: directory-files-recursively breaks when it encounters a directory named "~"
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35340][#35340]]: ffap: dired wildcards always needs a wildcard in the filename
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35166][#35166]]: Buffer state inconsistent after vc-retrieve-tag
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32753][#32753]]: Bogus icomplete behavior
-*** Read [[https://www.laurentluce.com/posts/python-dictionary-implementation/][Python dictionary implementation]]
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32753][#32753]]: Bogus icomplete behavior
+*** DONE Read [[https://www.laurentluce.com/posts/python-dictionary-implementation/][Python dictionary implementation]]
+    CLOSED: [2019-07-14 Sun 22:56]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   1.18
     :OWNER: akshay196
     :ID: READ.1562241440
     :TASKID: READ.1562241440
     :END:
-*** Read [[https://treyhunner.com/2018/06/how-to-make-an-iterator-in-python/][How to make an iterator in Python]]
+    :LOGBOOK:
+    CLOCK: [2019-07-14 Sun 21:44]--[2019-07-14 Sun 22:55] =>  1:11
+    :END:
+*** DONE Read [[https://treyhunner.com/2018/06/how-to-make-an-iterator-in-python/][How to make an iterator in Python]]
+    CLOSED: [2019-07-15 Mon 08:20]
     :PROPERTIES:
     :ESTIMATED: 1
-    :ACTUAL:
+    :ACTUAL:   0.97
     :OWNER: akshay196
     :ID: READ.1562241993
     :TASKID: READ.1562241993
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-07-15 Mon 07:22]--[2019-07-15 Mon 08:20] =>  0:58
     :END:
 ** bhavin192
 *** IN_PROGRESS Namespaces in operation series [4/8]
