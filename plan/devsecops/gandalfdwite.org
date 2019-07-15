@@ -3,6 +3,18 @@
 #+TAGS: dev ops read meeting
 * GOALS
 ** DevOps
+*** Learning Terraform
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: OPS.1563198652
+    :TASKID: OPS.1563198652
+    :END:
+    - [ ] Introduction To Terraform   ( 1h )
+    - [ ] Terraform CLI               ( 3h )
+    - [ ] Terraform With AWS          ( 3h )
+    - [ ] Terraform With Azure        ( 3h )
 *** Setup Blogging Website
     :PROPERTIES:
     :ESTIMATED: 3
@@ -11,7 +23,7 @@
     :ID: Do.1562171060
     :TASKID: Do.1562171060
     :END:
-    - [ ] Finish setup and publish first blog post  ( 3h)
+
 ** Python
 *** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
     :PROPERTIES:
@@ -33,7 +45,16 @@
     - [ ] 18. Divide and Conquer Algorithms    ( 1h)
     - [ ] 19. Dynamic Programming              ( 1h)
     - [ ] 20. Complexity Classes               ( 1h)
-*** Contributing to Open Source Python project
+*** Work on Chaostoolkit
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: DEV.1563199235
+    :TASKID: DEV.1563199235
+    :END:
+    - [ ] 1. Understanding ChaosToolkit      ( 1h )
+    - [ ] 2. Issue Triaging                  ( 7h )
 ** Emacs
 *** Org-capture
     :PROPERTIES:
@@ -43,7 +64,6 @@
     :ID: READ.1562385851
     :TASKID: READ.1562385851
     :END:
-    - [ ] Read and setup org-capture    ( 1.5h)
 *** Org-agenda
     :PROPERTIES:
     :ESTIMATED: 1.5
@@ -52,7 +72,6 @@
     :ID:       READ.1562385906
     :TASKID:   READ.1562385906
     :END:
-    - [ ] Read and setup org-agenda     ( 1.5h)
 ** Unix
 *** Unix Concepts & Applications by Sumitabha Das
    :PROPERTIES:
@@ -62,7 +81,48 @@
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
+* PLAN
+** July      16, 2019 - August     1, 2019 (17 days)
+   :PROPERTIES:
+   :wpd-gandalfdwite: 1
+   :END:
+
+*** Unix Concepts & Applications by Sumitabha Das [0/3]
+   :PROPERTIES:
+   :ESTIMATED: 6
+   :ACTUAL:   0.00
+   :OWNER: gandalfdwite
+   :ID: READ.1553532278
+   :TASKID: READ.1553532278
+   :END:
    - [ ] 16. X Window System                     ( 2h)
    - [ ] 17. Networking tools                    ( 2h)
    - [ ] 18. awk                                 ( 2h)
-* PLAN
+*** Org-capture [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 1.5
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1562385851
+    :TASKID: READ.1562385851
+    :END:
+    - [ ] Read and setup org-capture    ( 1.5h)
+*** Org-agenda [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 1.5
+    :ACTUAL:
+    :OWNER:    gandalfdwite
+    :ID:       READ.1562385906
+    :TASKID:   READ.1562385906
+    :END:
+    - [ ] Read and setup org-agenda     ( 1.5h)
+*** Work on Chaostoolkit [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: DEV.1563199235
+    :TASKID: DEV.1563199235
+    :END:
+    - [ ] 1. Understanding ChaosToolkit      ( 1h )
+    - [ ] 2. Issue Triaging                  ( 7h )

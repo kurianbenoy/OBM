@@ -134,15 +134,18 @@
     - [ ] 8. All About Sampling                                (60m)
 
 ** gandalfdwite
-*** IN_PROGRESS Unix Concepts & Applications by Sumitabha Das Part IV [2/3]
+*** DONE Unix Concepts & Applications by Sumitabha Das Part IV [3/3]
+    CLOSED: [2019-07-15 Mon 22:48]
    :PROPERTIES:
    :ESTIMATED: 9
-   :ACTUAL:   7.07
+   :ACTUAL:   9.43
    :OWNER: gandalfdwite
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-14 Sun 19:11]--[2019-07-14 Sun 20:25] =>  1:14
+   CLOCK: [2019-07-13 Sat 10:12]--[2019-07-13 Sat 11:20] =>  1:08
    CLOCK: [2019-07-11 Thu 20:39]--[2019-07-11 Thu 21:40] =>  1:01
    CLOCK: [2019-07-10 Wed 22:05]--[2019-07-10 Wed 22:58] =>  0:53
    CLOCK: [2019-07-09 Tue 23:40]--[2019-07-10 Wed 00:20] =>  0:40
@@ -153,16 +156,22 @@
    :END:
    - [X] 13. Regular expressions                 ( 3h)
    - [X] 14. Essential shell programming         ( 3h)
-   - [ ] 15. Essential System Administration     ( 3h)
-*** TODO Setup Blogging Website [0/1]
+   - [X] 15. Essential System Administration     ( 3h)
+*** DONE Setup Blogging Website [1/1]
+    CLOSED: [2019-07-15 Mon 22:48]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   3.92
     :OWNER: gandalfdwite
     :ID: Do.1562171060
     :TASKID: Do.1562171060
     :END:
-    - [ ] Finish setup and publish first blog post  ( 3h)
+    :LOGBOOK:
+    CLOCK: [2019-07-15 Mon 19:13]--[2019-07-15 Mon 21:48] =>  2:35
+    CLOCK: [2019-07-14 Sun 15:05]--[2019-07-14 Sun 16:25] =>  1:20
+    :END:
+
+    - [X] Finish setup and publish first blog post  ( 3h)
 ** RJ722
 *** Write one blog post
     :PROPERTIES:
