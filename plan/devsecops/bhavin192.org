@@ -30,22 +30,46 @@
        - 13. Implementing Tracing in Large Organizations        (42m)
        - 14. Under the Hood of a Distributed Tracing System     (46m)
        - 15. Afterword                                          (12m)
-**** Helm 3 Preview: Charting Our Future [0/7]
-     :PROPERTIES:
-     :ESTIMATED: 1
-     :ACTUAL:
-     :OWNER:    bhavin192
-     :ID:       READ.1562524270
-     :TASKID:   READ.1562524270
-     :END:
-     - [ ] [[https://helm.sh/blog/helm-3-preview-pt1/][Part 1: A History of Helm]]			(15m)
-     - [ ] [[https://helm.sh/blog/helm-3-preview-pt2/][Part 2: A Gentle Farewell to Tiller]]		(10m)
-     - [ ] [[https://helm.sh/blog/helm-3-preview-pt3/][Part 3: Chart Repositories]]			(10m)
-     - [ ] [[https://helm.sh/blog/helm-3-preview-pt4/][Part 4: Release Management]]			(10m)
-     - [ ] [[https://helm.sh/blog/helm-3-preview-pt5/][Part 5: Changes to Chart Dependencies]]	( 5m)
-     - [ ] [[https://helm.sh/blog/helm-3-preview-pt6/][Part 6: Introducing Library Charts]]		( 5m)
-     - [ ] [[https://helm.sh/blog/helm-3-preview-pt7/][Part 7: What's Next?]]				(10m)
 ** Attend meetups
 ** Write blog posts
 * PLAN
-
+** July      16, 2019 - August     1, 2019 (17 days)
+   :PROPERTIES:
+   :wpd-bhavin192: 1
+   :END:
+*** Mastering Distributed Tracing - II. Data Gathering Problem [0/5]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1562555265
+    :TASKID:   READ.1562555265
+    :END:
+    - [ ] 4. Instrumentation Basics with OpenTracing           (3.5h)
+    - [ ] 5. Instrumentation of Asynchronous Applications      (1.5h)
+    - [ ] 6. Tracing Standards and Ecosystem                   (1.5h)
+    - [ ] 7. Tracing with Service Meshes                       (2.0h)
+    - [ ] 8. All About Sampling                                (1.5h)
+*** Helm 3 Preview: Charting Our Future [0/7]
+    :PROPERTIES:
+    :ESTIMATED: 1
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1562524270
+    :TASKID:   READ.1562524270
+    :END:
+    - [ ] [[https://helm.sh/blog/helm-3-preview-pt1/][Part 1: A History of Helm]]		(15m)
+    - [ ] [[https://helm.sh/blog/helm-3-preview-pt2/][Part 2: A Gentle Farewell to Tiller]]	(10m)
+    - [ ] [[https://helm.sh/blog/helm-3-preview-pt3/][Part 3: Chart Repositories]]		(10m)
+    - [ ] [[https://helm.sh/blog/helm-3-preview-pt4/][Part 4: Release Management]]		(10m)
+    - [ ] [[https://helm.sh/blog/helm-3-preview-pt5/][Part 5: Changes to Chart Dependencies]]	( 5m)
+    - [ ] [[https://helm.sh/blog/helm-3-preview-pt6/][Part 6: Introducing Library Charts]]	( 5m)
+    - [ ] [[https://helm.sh/blog/helm-3-preview-pt7/][Part 7: What's Next?]]			(10m)
+*** Write blog post about Python Pune
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1563295962
+    :TASKID:   WRITE.1563295962
+    :END:
