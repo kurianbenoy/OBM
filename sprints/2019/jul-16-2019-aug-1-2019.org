@@ -66,13 +66,17 @@
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32388][#32388]]: 26.1: ediff-merge-directories-with-ancestor and subdirectories
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=31306][#31306]]: 27.0.50; js-mode still missing ES2015 keywords
 ** bhavin192
-*** Mastering Distributed Tracing - II. Data Gathering Problem [0/5]
+*** IN_PROGRESS Mastering Distributed Tracing - II. Data Gathering Problem [0/5]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:
+    :ACTUAL:   0.93
     :OWNER:    bhavin192
     :ID:       READ.1562555265
     :TASKID:   READ.1562555265
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-07-17 Wed 22:03]--[2019-07-17 Wed 22:28] =>  0:25
+    CLOCK: [2019-07-17 Wed 19:57]--[2019-07-17 Wed 20:28] =>  0:31
     :END:
     - [ ] 4. Instrumentation Basics with OpenTracing           (3.5h)
     - [ ] 5. Instrumentation of Asynchronous Applications      (1.5h)
