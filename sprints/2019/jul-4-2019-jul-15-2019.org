@@ -216,26 +216,27 @@
     :TASKID: TASK.1562243888
     :END:
 ** sandeepk
-*** IN_PROGRESS Blog writing - Part II [0/3]
+*** DONE Blog writing - Part II [2/2]
     :PROPERTIES:
-    :ESTIMATED: 14
-    :ACTUAL:   2.58
+    :ESTIMATED: 9
+    :ACTUAL:   4.25
     :OWNER: sandeepk
     :ID: WRITE.1560792221
     :TASKID: WRITE.1560792221
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-15 Mon 16:40]--[2019-07-15 Mon 17:20] =>  0:40
+    CLOCK: [2019-07-15 Mon 12:30]--[2019-07-15 Mon 13:30] =>  1:00
     CLOCK: [2019-07-10 Wed 21:20]--[2019-07-10 Wed 22:30] =>  1:10
     CLOCK: [2019-07-09 Tue 21:00]--[2019-07-09 Tue 21:45] =>  0:45
     CLOCK: [2019-07-07 Sun 21:20]--[2019-07-07 Sun 21:40] =>  0:20
     CLOCK: [2019-07-07 Sun 17:05]--[2019-07-07 Sun 17:25] =>  0:20
     :END:
-    - [ ] Blog about Google Cloud Platform VPC(Virtual Private Network)       (5h)
-    - [ ] Load Balancer	Setup guide                                           (6h)
-    - [ ] Database Certificate genration and PyCharm linkage to Database      (3h)
-*** IN_PROGRESS Project Stack NEWS - Part III [1/2]
+    - [X] Blog about Google Cloud Platform VPC(Virtual Private Network)       (5h)
+    - [X] Database Certificate genration and PyCharm linkage to Database      (3h)
+*** DONE Project Stack NEWS - Part III [1/1]
     :PROPERTIES:
-    :ESTIMATED: 10
+    :ESTIMATED: 5
     :ACTUAL:   4.58
     :OWNER: sandeepk
     :ID: DEV.1552226887
@@ -247,4 +248,4 @@
     CLOCK: [2019-07-08 Mon 21:40]--[2019-07-08 Mon 22:50] =>  1:10
     :END:
     - [X] Implement Comment logic          (5h)
-    - [ ] Write test case for POST section (5h)
+
