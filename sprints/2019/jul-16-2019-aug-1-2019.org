@@ -28,6 +28,7 @@
   :wpd-akshay196: 1
   :wpd-bhavin192: 1
   :wpd-gandalfdwite: 1
+  :wpd-RJ722: 2
   :wpd-sandeepk: 1
   :END:
 ** akshay196
@@ -148,6 +149,42 @@
     :END:
     - [ ] 1. Understanding ChaosToolkit      ( 1h )
     - [ ] 2. Issue Triaging                  ( 7h )
+** RJ722
+*** Watch first 2 lectures of fastai part-2 [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: TASK.1562243970
+    :TASKID: TASK.1562243970
+    :END:
+    - [ ] Lecture 1
+    - [ ] Lecture 2
+*** Write 2 blog posts [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: WRITE.1558159950
+    :TASKID: WRITE.1558159950
+    :END:
+    - [ ] Blog Post 1
+    - [ ] Blog Post 2
+*** Read first 6 chapters of "Grokking Deep Learning" by Andrew Trask [0/6]
+    :PROPERTIES:
+    :ESTIMATED: 12
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: READ.1563523155
+    :TASKID: READ.1563523155
+    :END:
+    - [ ] Introducing Deep Learning
+    - [ ] Fundamental Concepts
+    - [ ] Introduction to Neural Prediction
+    - [ ] Introduction to Neural Learning
+    - [ ] Learning Multiple Weights at a time
+    - [ ] Building your first neural network
+
 ** sandeepk
 *** Project Stack NEWS - Part IV [0/1]
     :PROPERTIES:

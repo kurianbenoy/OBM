@@ -24,6 +24,14 @@
     - [ ] Volume the first
     - [ ] Volume the second
     - [ ] Volume the third
+*** Read "Grokking Deep Learning" by Andrew Trask
+    :PROPERTIES:
+    :ESTIMATED: 24
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: READ.1563523155
+    :TASKID: READ.1563523155
+    :END:
 *** Read "The Paradoxical Prime Minister"
     :PROPERTIES:
     :ESTIMATED: 45
@@ -97,7 +105,7 @@
     :ID: TASK.1562244243
     :TASKID: TASK.1562244243
     :END:
-*** fastai part-2
+*** fast.ai (part-2)
     :PROPERTIES:
     :ESTIMATED: 21
     :ACTUAL:
@@ -114,7 +122,7 @@
     :TASKID: TASK.1558163905
     :END:
 
-    
+
 * PLAN
 ** July      16, 2019 - August     1, 2019 (17 days)
 ** August     2, 2019 - August    14, 2019 (13 days)
