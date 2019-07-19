@@ -28,7 +28,7 @@
   :wpd-akshay196: 1
   :wpd-bhavin192: 1
   :wpd-gandalfdwite: 1
-  :wpd-RJ722: 2
+  :wpd-RJ722: 1.1
   :wpd-sandeepk: 1
   :END:
 ** akshay196
@@ -150,16 +150,14 @@
     - [ ] 1. Understanding ChaosToolkit      ( 1h )
     - [ ] 2. Issue Triaging                  ( 7h )
 ** RJ722
-*** Watch first 2 lectures of fastai part-2 [0/2]
+*** Watch first lecture of fastai part-2
     :PROPERTIES:
-    :ESTIMATED: 8
+    :ESTIMATED: 4
     :ACTUAL:
     :OWNER: RJ722
     :ID: TASK.1562243970
     :TASKID: TASK.1562243970
     :END:
-    - [ ] Lecture 1
-    - [ ] Lecture 2
 *** Write 2 blog posts [0/2]
     :PROPERTIES:
     :ESTIMATED: 4
