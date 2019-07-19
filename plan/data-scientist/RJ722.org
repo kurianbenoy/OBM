@@ -24,6 +24,14 @@
     - [ ] Volume the first
     - [ ] Volume the second
     - [ ] Volume the third
+*** Read "Grokking Deep Learning" by Andrew Trask
+    :PROPERTIES:
+    :ESTIMATED: 24
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: READ.1563523155
+    :TASKID: READ.1563523155
+    :END:
 *** Read "The Paradoxical Prime Minister"
     :PROPERTIES:
     :ESTIMATED: 45
@@ -97,7 +105,7 @@
     :ID: TASK.1562244243
     :TASKID: TASK.1562244243
     :END:
-*** fastai part-2
+*** fast.ai (part-2)
     :PROPERTIES:
     :ESTIMATED: 21
     :ACTUAL:
@@ -114,9 +122,44 @@
     :TASKID: TASK.1558163905
     :END:
 
-    
+
 * PLAN
 ** July      16, 2019 - August     1, 2019 (17 days)
+   :wpd-RJ722: 2
+*** Watch first 2 lectures of fastai part-2 [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: TASK.1562243970
+    :TASKID: TASK.1562243970
+    :END:
+    - [ ] Lecture 1
+    - [ ] Lecture 2
+*** Write 2 blog posts [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: WRITE.1558159950
+    :TASKID: WRITE.1558159950
+    :END:
+    - [ ] Blog Post 1
+    - [ ] Blog Post 2
+*** Read first 6 chapters of "Grokking Deep Learning" by Andrew Trask [0/6]
+    :PROPERTIES:
+    :ESTIMATED: 12
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: READ.1563523155
+    :TASKID: READ.1563523155
+    :END:
+    - [ ] Introducing Deep Learning
+    - [ ] Fundamental Concepts
+    - [ ] Introduction to Neural Prediction
+    - [ ] Introduction to Neural Learning
+    - [ ] Learning Multiple Weights at a time
+    - [ ] Building your first neural network
 ** August     2, 2019 - August    14, 2019 (13 days)
 ** August    15, 2019 - August    30, 2019 (16 days)
 ** August    31, 2019 - September 12, 2019 (13 days)
