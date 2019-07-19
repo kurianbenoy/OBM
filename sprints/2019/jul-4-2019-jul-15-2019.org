@@ -182,38 +182,67 @@
 
     - [X] Finish setup and publish first blog post  ( 3h)
 ** RJ722
-*** Write one blog post
+*** DONE Write one blog post
+    CLOSED: [2019-07-19 Fri 13:22]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   1.72
     :OWNER: RJ722
     :ID: WRITE.1562247371
     :TASKID: WRITE.1562247371
     :END:
-*** Write one ~two~ blog posts - PART 2 [1/2]
+    :LOGBOOK:
+    CLOCK: [2019-07-19 Fri 11:39]--[2019-07-19 Fri 13:22] =>  1:43
+    CLOCK: [2019-07-17 Wed 23:55]--[2019-07-17 Wed 23:55] =>  0:00
+    :END:
+*** DONE Write one ~two~ blog posts - PART 2 [0/1]
+    CLOSED: [2019-07-19 Fri 00:55]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   2.53
     :OWNER: RJ722
     :ID: WRITE.1560491297
     :TASKID: WRITE.1560491297
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-07-19 Fri 00:24]--[2019-07-19 Fri 00:54] =>  0:30
+    CLOCK: [2019-07-18 Thu 18:14]--[2019-07-18 Thu 18:29] =>  0:15
+    CLOCK: [2019-07-18 Thu 16:58]--[2019-07-18 Thu 18:12] =>  1:14
+    CLOCK: [2019-07-12 Fri 11:27]--[2019-07-12 Fri 12:00] =>  0:33
+    CLOCK: [2019-07-12 Fri 07:58]--[2019-07-12 Fri 07:58] =>  0:03
+    :END:
     - [ ] Post 2
-*** Participate in a Kaggle Competition - PART 1
+*** DONE Participate in a Kaggle Competition - PART 2
+    CLOSED: [2019-07-17 Wed 05:17]
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL:
+    :ACTUAL:   4.55
     :OWNER: RJ722
     :ID: DEV.1561010265
     :TASKID: DEV.1561010265
     :END:
-*** Finish fastai part-1
+    :LOGBOOK:
+    CLOCK: [2019-07-17 Wed 04:36]--[2019-07-17 Wed 05:17] =>  0:41
+    CLOCK: [2019-07-14 Sun 09:33]--[2019-07-14 Sun 12:37] =>  3:04
+    CLOCK: [2019-07-08 Mon 16:00]--[2019-07-08 Mon 16:48] =>  0:48
+    :END:
+*** DONE Finish fastai part-1
+    CLOSED: [2019-07-18 Thu 16:58]
     :PROPERTIES:
     :ESTIMATED: 11
-    :ACTUAL:
+    :ACTUAL:   8.97
     :OWNER: RJ722
     :ID: TASK.1562243888
     :TASKID: TASK.1562243888
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-07-17 Wed 15:07]--[2019-07-17 Wed 16:57] =>  1:50
+    CLOCK: [2019-07-11 Thu 20:41]--[2019-07-11 Thu 23:15] =>  2:24
+    CLOCK: [2019-07-11 Thu 16:23]--[2019-07-11 Thu 18:05] =>  1:42
+    CLOCK: [2019-07-11 Thu 11:29]--[2019-07-11 Thu 12:45] =>  1:16
+    CLOCK: [2019-07-11 Thu 11:29]--[2019-07-11 Thu 11:29] =>  0:00
+    CLOCK: [2019-07-08 Mon 17:09]--[2019-07-08 Mon 17:45] =>  0:34
+    CLOCK: [2019-07-08 Mon 16:09]--[2019-07-08 Mon 17:09] =>  1:00
     :END:
 ** sandeepk
 *** DONE Blog writing - Part II [2/2]
