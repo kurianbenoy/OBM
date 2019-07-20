@@ -30,6 +30,7 @@
   :wpd-gandalfdwite: 1
   :wpd-RJ722: 2
   :wpd-sandeepk: 1
+  :wpd-jasonbraganza: 3 
   :END:
 ** akshay196
 *** Linux Under the Hood [0/13]
@@ -216,3 +217,93 @@
     - [ ] Documentation        (40m)
     - [ ] Testing your code    (3h)
     - [ ] Logging              (2h 20m)
+** jasonbraganza
+*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [0/11]
+   :PROPERTIES:
+   :ESTIMATED: 11
+   :ACTUAL:   
+   :OWNER: jasonbraganza
+   :ID: WRITE.1557903518
+   :TASKID: WRITE.1557903518
+   :END:
+   :LOGBOOK:
+   :END:
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+*** IN_PROGRESS Write twice a week - 2 [0/5]
+   :PROPERTIES:
+   :ESTIMATED: 10
+   :ACTUAL:   
+   :OWNER: jasonbraganza
+   :ID: WRITE.1559630427
+   :TASKID: WRITE.1559630427
+   :END:
+   :LOGBOOK:
+   :END:
+   - [ ] Write a short blog post. (1h)
+   - [ ] Write a short blog post. (1h)
+   - [ ] Write a short blog post. (1h)
+   - [ ] Write a short blog post. (1h)
+   - [ ] Write a short blog post. (1h)
+*** IN_PROGRESS Read fiction [0/11]
+   :PROPERTIES:
+   :ESTIMATED: 3
+   :ACTUAL:   
+   :OWNER: jasonbraganza
+   :ID: READ.1559630918
+   :TASKID: READ.1559630918
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-06-13 Tue 08:30]--[2019-06-13 Thu 12:30] =>  4:00
+   CLOCK: [2019-06-09 Sun 10:00]--[2019-06-09 Sun 12:00] =>  2:00
+   CLOCK: [2019-06-06 Thu 11:00]--[2019-06-06 Thu 13:01] =>  2:01
+   CLOCK: [2019-06-05 Wed 23:35]--[2019-06-06 Thu 00:45] =>  1:10
+   CLOCK: [2019-06-05 Wed 09:09]--[2019-06-05 Wed 09:11] =>  0:02
+   CLOCK: [2019-06-04 Tue 13:00]--[2019-06-04 Tue 13:55] =>  0:55
+   :END:
+   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+*** IN_PROGRESS Introduction to Computer Science and Programming Using Python - Part II [0/3]
+   :PROPERTIES:
+   :ESTIMATED: 15
+   :ACTUAL:   
+   :OWNER: jasonbraganza
+   :ID: READ.1559713451
+   :TASKID: READ.1559713451
+   :END:
+   :LOGBOOK:
+   :END:
+   - [ ] Watch Week 4 videos. (2h)
+   - [ ] Watch Week 5 videos. (7h)
+   - [ ] Watch Week 6 videos. (6h)
+*** IN_PROGRESS NIOS - Geography - Part I [0/5]
+   :PROPERTIES:
+   :ESTIMATED: 5
+   :ACTUAL:
+   :OWNER: jasonbraganza
+   :ID: READ.1563626394
+   :TASKID: READ.1563626394
+   :END:
+   - [ ] Read Chapter 5. (1h)
+   - [ ] Read Chapter 6. (1h)
+   - [ ] Read Chapter 7. (1h)
+   - [ ] Read Chapter 8. (1h)
+   - [ ] Read Chapter 9. (1h)
