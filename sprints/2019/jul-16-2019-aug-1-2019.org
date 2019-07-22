@@ -205,14 +205,20 @@
     :END:
     - [ ] Load Balancer	Setup guide             (6h)
     - [ ] I want 2 do project tell me what 2 do (2h)
-*** Reading The Hitchhiker's Guide to Python! [0/3]
+*** IN_PROGRESS Reading The Hitchhiker's Guide to Python! [2/3]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:
+    :ACTUAL:   3.13
     :OWNER:    sandeepk
     :ID:       READ.1563376642
     :TASKID:   READ.1563376642
     :END:
-    - [ ] Documentation        (40m)
-    - [ ] Testing your code    (3h)
+    :LOGBOOK:
+    CLOCK: [2019-07-22 Mon 23:45]--[2019-07-23 Tue 00:08] =>  0:23
+    CLOCK: [2019-07-21 Sun 21:00]--[2019-07-21 Sun 21:45] =>  0:45
+    CLOCK: [2019-07-19 Fri 21:45]--[2019-07-19 Fri 22:45] =>  1:00
+    CLOCK: [2019-07-18 Thu 23:05]--[2019-07-19 Fri 00:05] =>  1:00
+    :END:
+    - [X] Documentation        (40m)
+    - [X] Testing your code    (3h)
     - [ ] Logging              (2h 20m)
