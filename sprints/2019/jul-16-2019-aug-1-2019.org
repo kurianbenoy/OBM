@@ -254,17 +254,19 @@
 *** IN_PROGRESS Watch first lecture of fastai part-2
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:   2.37
+    :ACTUAL:   4.83
     :OWNER: RJ722
     :ID: TASK.1562243970
     :TASKID: TASK.1562243970
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-22 Mon 15:24]--[2019-07-22 Mon 17:28] =>  2:04
+    CLOCK: [2019-07-22 Mon 14:06]--[2019-07-22 Mon 14:30] =>  0:24
     CLOCK: [2019-07-22 Mon 11:40]--[2019-07-22 Mon 13:13] =>  1:33
     CLOCK: [2019-07-21 Sun 23:14]--[2019-07-21 Sun 23:28] =>  0:14
     CLOCK: [2019-07-21 Sun 19:11]--[2019-07-21 Sun 19:46] =>  0:35
     :END:
-*** Write 2 blog posts [0/2]
+*** IN_PROGRESS Write 2 blog posts [1/2]
     :PROPERTIES:
     :ESTIMATED: 4
     :ACTUAL:
@@ -272,17 +274,21 @@
     :ID: WRITE.1558159950
     :TASKID: WRITE.1558159950
     :END:
-    - [ ] Blog Post 1
+    :LOGBOOK:
+    CLOCK: [2019-07-22 Mon 23:42]--[2019-07-23 Tue 01:20] =>  1:38
+    :END:
+    - [X] Blog Post 1
     - [ ] Blog Post 2
 *** IN_PROGRESS Read first 6 chapters of "Grokking Deep Learning" by Andrew Trask [2/6]
     :PROPERTIES:
     :ESTIMATED: 12
-    :ACTUAL:
+    :ACTUAL:   0.80
     :OWNER: RJ722
     :ID: READ.1563523155
     :TASKID: READ.1563523155
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-23 Tue 12:46]--[2019-07-23 Tue 13:00] =>  0:14
     CLOCK: [2019-07-21 Sun 23:31]--[2019-07-22 Mon 00:04] =>  0:33
     CLOCK: [2019-07-19 Fri 16:09]--[2019-07-19 Fri 16:10] =>  0:01
     :END:
