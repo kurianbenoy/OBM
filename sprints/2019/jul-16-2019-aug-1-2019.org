@@ -224,15 +224,16 @@
    - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
    - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
    - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-*** IN_PROGRESS Introduction to Computer Science and Programming Using Python - Part II [3/3]
+*** IN_PROGRESS Introduction to Computer Science and Programming Using Python - Part II [4/4]
    :PROPERTIES:
    :ESTIMATED: 15
-   :ACTUAL:   7.37
+   :ACTUAL:   8.40
    :OWNER: jasonbraganza
    :ID: READ.1559713451
    :TASKID: READ.1559713451
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-25 Thu 16:20]--[2019-07-25 Thu 17:22] =>  1:02
    CLOCK: [2019-07-25 Thu 11:00]--[2019-07-25 Thu 12:40] =>  1:40
    CLOCK: [2019-07-25 Thu 10:49]--[2019-07-25 Thu 10:58] =>  0:09
    CLOCK: [2019-07-25 Thu 09:54]--[2019-07-25 Thu 10:30] =>  0:36
@@ -245,7 +246,7 @@
    - [X] Watch Week 4 videos. (2h)
    - [X] Watch Week 5 videos. (7h)
    - [X] Watch Week 6 videos. (6h)
-   - [ ] Watch Week 7 videos. (2h)
+   - [X] Watch Week 7 videos. (2h)
 *** IN_PROGRESS NIOS - Geography - Part I [4/7]
    :PROPERTIES:
    :ESTIMATED: 5
