@@ -157,15 +157,16 @@
     - [ ] 1. Understanding ChaosToolkit      ( 1h )
     - [ ] 2. Issue Triaging                  ( 7h )
 ** jasonbraganza
-*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [4/11]
+*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [5/11]
    :PROPERTIES:
    :ESTIMATED: 11
-   :ACTUAL:   3.50
+   :ACTUAL:   4.18
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-25 Thu 06:30]--[2019-07-25 Thu 07:11] =>  0:41
    CLOCK: [2019-07-24 Wed 09:15]--[2019-07-24 Wed 10:00] =>  0:45
    CLOCK: [2019-07-23 Tue 07:15]--[2019-07-23 Tue 08:15] =>  1:00
    CLOCK: [2019-07-22 Mon 06:45]--[2019-07-22 Mon 07:45] =>  1:00
@@ -175,7 +176,7 @@
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 25 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
@@ -223,38 +224,50 @@
    - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
    - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
    - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-*** IN_PROGRESS Introduction to Computer Science and Programming Using Python - Part II [1/3]
+*** IN_PROGRESS Introduction to Computer Science and Programming Using Python - Part II [3/3]
    :PROPERTIES:
    :ESTIMATED: 15
-   :ACTUAL:   4.10
+   :ACTUAL:   7.37
    :OWNER: jasonbraganza
    :ID: READ.1559713451
    :TASKID: READ.1559713451
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-25 Thu 11:00]--[2019-07-25 Thu 12:40] =>  1:40
+   CLOCK: [2019-07-25 Thu 10:49]--[2019-07-25 Thu 10:58] =>  0:09
+   CLOCK: [2019-07-25 Thu 09:54]--[2019-07-25 Thu 10:30] =>  0:36
+   CLOCK: [2019-07-25 Thu 09:21]--[2019-07-25 Thu 09:35] =>  0:14
+   CLOCK: [2019-07-25 Thu 08:14]--[2019-07-25 Thu 08:51] =>  0:37
    CLOCK: [2019-07-24 Wed 17:37]--[2019-07-24 Wed 19:48] =>  2:11
    CLOCK: [2019-07-24 Wed 16:45]--[2019-07-24 Wed 17:37] =>  0:52
    CLOCK: [2019-07-24 Wed 12:26]--[2019-07-24 Wed 13:29] =>  1:03
    :END:
    - [X] Watch Week 4 videos. (2h)
-   - [ ] Watch Week 5 videos. (7h)
-   - [ ] Watch Week 6 videos. (6h)
-*** IN_PROGRESS NIOS - Geography - Part I [1/5]
+   - [X] Watch Week 5 videos. (7h)
+   - [X] Watch Week 6 videos. (6h)
+   - [ ] Watch Week 7 videos. (2h)
+*** IN_PROGRESS NIOS - Geography - Part I [4/7]
    :PROPERTIES:
    :ESTIMATED: 5
-   :ACTUAL:   0.68
+   :ACTUAL:   1.67
    :OWNER: jasonbraganza
    :ID: READ.1563626394
    :TASKID: READ.1563626394
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-25 Thu 07:38]--[2019-07-25 Thu 08:11] =>  0:33
+   CLOCK: [2019-07-25 Thu 07:30]--[2019-07-25 Thu 07:38] =>  0:08
+   CLOCK: [2019-07-25 Thu 07:12]--[2019-07-25 Thu 07:30] =>  0:18
    CLOCK: [2019-07-24 Wed 10:55]--[2019-07-24 Wed 11:36] =>  0:41
    :END:
    - [X] Read Chapter 5. (1h)
-   - [ ] Read Chapter 6. (1h)
-   - [ ] Read Chapter 7. (1h)
-   - [ ] Read Chapter 8. (1h)
+   - [X] Read Chapter 6. (1h)
+   - [X] Read Chapter 7. (1h)
+   - [X] Read Chapter 8. (1h)
    - [ ] Read Chapter 9. (1h)
+   - [ ] Read Chapter 10. (1h)
+   - [ ] Read Chapter 11. (1h)
+
 ** RJ722
 *** IN_PROGRESS Watch first lecture of fastai part-2
     :PROPERTIES:
