@@ -236,7 +236,8 @@
    - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
    - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
    - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-*** IN_PROGRESS Introduction to Computer Science and Programming Using Python - Part II [4/4]
+*** DONE Introduction to Computer Science and Programming Using Python - Part II [4/4]
+   CLOSED: [2019-07-25 Thu 17:22]
    :PROPERTIES:
    :ESTIMATED: 15
    :ACTUAL:   8.40
