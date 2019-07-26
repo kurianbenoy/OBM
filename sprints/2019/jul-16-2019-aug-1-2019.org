@@ -169,15 +169,16 @@
     - [ ] 1. Understanding ChaosToolkit      ( 1h )
     - [ ] 2. Issue Triaging                  ( 7h )
 ** jasonbraganza
-*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [5/11]
+*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [6/11]
    :PROPERTIES:
    :ESTIMATED: 11
-   :ACTUAL:   4.18
+   :ACTUAL:   4.53
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-26 Fri 10:50]--[2019-07-26 Fri 11:11] =>  0:21
    CLOCK: [2019-07-25 Thu 06:30]--[2019-07-25 Thu 07:11] =>  0:41
    CLOCK: [2019-07-24 Wed 09:15]--[2019-07-24 Wed 10:00] =>  0:45
    CLOCK: [2019-07-23 Tue 07:15]--[2019-07-23 Tue 08:15] =>  1:00
@@ -189,7 +190,7 @@
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 25 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
@@ -260,15 +261,16 @@
    - [X] Watch Week 5 videos. (7h)
    - [X] Watch Week 6 videos. (6h)
    - [X] Watch Week 7 videos. (2h)
-*** IN_PROGRESS NIOS - Geography - Part I [4/7]
+*** IN_PROGRESS NIOS - Geography - Part I [12/14]
    :PROPERTIES:
    :ESTIMATED: 5
-   :ACTUAL:   1.67
+   :ACTUAL:   2.73
    :OWNER: jasonbraganza
    :ID: READ.1563626394
    :TASKID: READ.1563626394
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-26 Fri 09:38]--[2019-07-26 Fri 10:42] =>  1:04
    CLOCK: [2019-07-25 Thu 07:38]--[2019-07-25 Thu 08:11] =>  0:33
    CLOCK: [2019-07-25 Thu 07:30]--[2019-07-25 Thu 07:38] =>  0:08
    CLOCK: [2019-07-25 Thu 07:12]--[2019-07-25 Thu 07:30] =>  0:18
@@ -278,9 +280,42 @@
    - [X] Read Chapter 6. (1h)
    - [X] Read Chapter 7. (1h)
    - [X] Read Chapter 8. (1h)
-   - [ ] Read Chapter 9. (1h)
-   - [ ] Read Chapter 10. (1h)
-   - [ ] Read Chapter 11. (1h)
+   - [X] Read Chapter 9. (1h)
+   - [X] Read Chapter 10. (1h)
+   - [X] Read Chapter 11. (1h)
+   - [X] Read Chapter 12. (1h)
+   - [X] Read Chapter 13. (1h)
+   - [X] Read Chapter 14. (1h)
+   - [X] Read Chapter 15. (1h)
+   - [X] Read Chapter 16. (1h)
+   - [ ] Read Chapter 17. (1h)
+   - [ ] Read Chapter 18. (1h)
+
+*** IN_PROGRESS Introduction to Computer Science and Programming Using Python (Exercises) - Part I [0/1]
+   :PROPERTIES:
+   :ESTIMATED: 7
+   :ACTUAL:
+   :OWNER: jasonbraganza
+   :ID: DEV.1564118176
+   :TASKID: DEV.1564118176
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-07-26 Fri 11:43]--[2019-07-26 Fri 13:01] =>  1:18
+   :END:
+   - [-] Week 4 
+     - [X] Chapter 7 
+       - [X] exercise 1 (1h)
+       - [X] exercise 2 (1h)
+       - [X] exercise 3 (1h)
+       - [X] exercise 4 (1h)
+       - [X] exercise 5 (1h)
+       - [X] exercise 6 (1h)
+       - [X] exercise 7 (1h)
+     - [ ] Chapter 8 [0/1]
+       - [ ] exercise 1 (30m)
+       - [ ] exercise 2 (30m)
+       - [ ] exercise 3 (30m)
+       - [ ] exercise 4 (30m)
 
 ** RJ722
 *** IN_PROGRESS Watch first lecture of fastai part-2
