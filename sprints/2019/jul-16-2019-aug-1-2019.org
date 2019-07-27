@@ -312,19 +312,25 @@
    - [X] Read Chapter 33. (1h)
    - [X] Read Chapter 34. (1h)
    - [X] Read Chapter 35. (1h)
-*** IN_PROGRESS Introduction to Computer Science and Programming Using Python (Exercises) - Part I [0/1]
+*** IN_PROGRESS Introduction to Computer Science and Programming Using Python (Exercises) - Part I [1/2]
    :PROPERTIES:
    :ESTIMATED: 7
-   :ACTUAL:
+   :ACTUAL:   3.35
    :OWNER: jasonbraganza
    :ID: DEV.1564118176
    :TASKID: DEV.1564118176
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-27 Sat 17:36]--[2019-07-27 Sat 17:44] =>  0:08
+   CLOCK: [2019-07-27 Sat 16:45]--[2019-07-27 Sat 17:33] =>  0:48
+   CLOCK: [2019-07-27 Sat 15:45]--[2019-07-27 Sat 16:13] =>  0:28
+   CLOCK: [2019-07-27 Sat 15:36]--[2019-07-27 Sat 15:41] =>  0:05
+   CLOCK: [2019-07-27 Sat 14:58]--[2019-07-27 Sat 15:36] =>  0:38
+   CLOCK: [2019-07-27 Sat 14:53]--[2019-07-27 Sat 14:57] =>  0:04
    CLOCK: [2019-07-26 Fri 11:43]--[2019-07-26 Fri 13:01] =>  1:18
    :END:
-   - [-] Week 4 
-     - [X] Chapter 7 
+   - [X] Week 4 [2/2]
+     - [X] Chapter 7 [7/7]
        - [X] exercise 1 (1h)
        - [X] exercise 2 (1h)
        - [X] exercise 3 (1h)
@@ -332,12 +338,25 @@
        - [X] exercise 5 (1h)
        - [X] exercise 6 (1h)
        - [X] exercise 7 (1h)
-     - [ ] Chapter 8 [0/1]
-       - [ ] exercise 1 (30m)
-       - [ ] exercise 2 (30m)
-       - [ ] exercise 3 (30m)
-       - [ ] exercise 4 (30m)
-
+     - [X] Chapter 8 [4/4]
+       - [X] exercise 1 (30m)
+       - [X] exercise 2 (30m)
+       - [X] exercise 3 (30m)
+       - [X] exercise 4 (30m)
+   - [-] Week 5 [1/2]
+     - [X] Chapter 9 [7/7]
+       - [X] Exercise 1  
+       - [X] Exercise 2  
+       - [X] Exercise 3  
+       - [X] Exercise 4  
+       - [X] Exercise 5  
+       - [X] Exercise 6  
+       - [X] Exercise 7  
+     - [ ] Chapter 10 [0/4]
+       - [ ] Exercise 1 
+       - [ ] Exercise 2 
+       - [ ] Exercise 3 
+       - [ ] Exercise 4 
 ** RJ722
 *** IN_PROGRESS Watch first lecture of fastai part-2
     :PROPERTIES:
