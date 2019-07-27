@@ -169,15 +169,16 @@
     - [ ] 1. Understanding ChaosToolkit      ( 1h )
     - [ ] 2. Issue Triaging                  ( 7h )
 ** jasonbraganza
-*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [6/11]
+*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [7/11]
    :PROPERTIES:
    :ESTIMATED: 11
-   :ACTUAL:   4.53
+   :ACTUAL:   4.87
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-27 Sat 08:15]--[2019-07-27 Sat 08:35] =>  0:20
    CLOCK: [2019-07-26 Fri 10:50]--[2019-07-26 Fri 11:11] =>  0:21
    CLOCK: [2019-07-25 Thu 06:30]--[2019-07-25 Thu 07:11] =>  0:41
    CLOCK: [2019-07-24 Wed 09:15]--[2019-07-24 Wed 10:00] =>  0:45
@@ -191,7 +192,7 @@
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 25 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 25 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
@@ -261,15 +262,19 @@
    - [X] Watch Week 5 videos. (7h)
    - [X] Watch Week 6 videos. (6h)
    - [X] Watch Week 7 videos. (2h)
-*** IN_PROGRESS NIOS - Geography - Part I [12/14]
+*** DONE NIOS - Geography - Part I [31/31]
+   CLOSED: [2019-07-27 Sat 12:14]
    :PROPERTIES:
    :ESTIMATED: 5
-   :ACTUAL:   2.73
+   :ACTUAL:   5.45
    :OWNER: jasonbraganza
    :ID: READ.1563626394
    :TASKID: READ.1563626394
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-27 Sat 10:44]--[2019-07-27 Sat 12:14] =>  1:30
+   CLOCK: [2019-07-27 Sat 09:25]--[2019-07-27 Sat 10:16] =>  0:51
+   CLOCK: [2019-07-27 Sat 08:49]--[2019-07-27 Sat 09:11] =>  0:22
    CLOCK: [2019-07-26 Fri 09:38]--[2019-07-26 Fri 10:42] =>  1:04
    CLOCK: [2019-07-25 Thu 07:38]--[2019-07-25 Thu 08:11] =>  0:33
    CLOCK: [2019-07-25 Thu 07:30]--[2019-07-25 Thu 07:38] =>  0:08
@@ -288,9 +293,25 @@
    - [X] Read Chapter 14. (1h)
    - [X] Read Chapter 15. (1h)
    - [X] Read Chapter 16. (1h)
-   - [ ] Read Chapter 17. (1h)
-   - [ ] Read Chapter 18. (1h)
-
+   - [X] Read Chapter 17. (1h)
+   - [X] Read Chapter 18. (1h)
+   - [X] Read Chapter 19. (1h)
+   - [X] Read Chapter 20. (1h)
+   - [X] Read Chapter 21. (1h)
+   - [X] Read Chapter 22. (1h)
+   - [X] Read Chapter 23. (1h)
+   - [X] Read Chapter 24. (1h)
+   - [X] Read Chapter 25. (1h)
+   - [X] Read Chapter 26. (1h)
+   - [X] Read Chapter 27. (1h)
+   - [X] Read Chapter 28. (1h)
+   - [X] Read Chapter 29. (1h)
+   - [X] Read Chapter 30. (1h)
+   - [X] Read Chapter 31. (1h)
+   - [X] Read Chapter 32. (1h)
+   - [X] Read Chapter 33. (1h)
+   - [X] Read Chapter 34. (1h)
+   - [X] Read Chapter 35. (1h)
 *** IN_PROGRESS Introduction to Computer Science and Programming Using Python (Exercises) - Part I [0/1]
    :PROPERTIES:
    :ESTIMATED: 7
