@@ -169,15 +169,16 @@
     - [ ] 1. Understanding ChaosToolkit      ( 1h )
     - [ ] 2. Issue Triaging                  ( 7h )
 ** jasonbraganza
-*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [7/11]
+*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [8/11]
    :PROPERTIES:
    :ESTIMATED: 11
-   :ACTUAL:   4.87
+   :ACTUAL:   5.87
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-28 Sun 09:05]--[2019-07-28 Sun 10:05] =>  1:00
    CLOCK: [2019-07-27 Sat 08:15]--[2019-07-27 Sat 08:35] =>  0:20
    CLOCK: [2019-07-26 Fri 10:50]--[2019-07-26 Fri 11:11] =>  0:21
    CLOCK: [2019-07-25 Thu 06:30]--[2019-07-25 Thu 07:11] =>  0:41
@@ -193,7 +194,7 @@
    - [X] Complete 1 review session & add 25 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 25 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 4 review session & add 25 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
@@ -216,15 +217,17 @@
    - [X] Write a short blog post. (2h)
    - [X] Write a short blog post. (2h)
    - [ ] Write a short blog post. (2h)
-*** IN_PROGRESS Read fiction [6/11]
+*** DONE Read fiction [11/11]
+   CLOSED: [2019-07-28 Sun 16:00]
    :PROPERTIES:
    :ESTIMATED: 3
-   :ACTUAL:   0.42
+   :ACTUAL:   2.42
    :OWNER: jasonbraganza
    :ID: READ.1559630918
    :TASKID: READ.1559630918
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-28 Sun 14:00]--[2019-07-28 Sun 16:00] =>  2:00
    CLOCK: [2019-07-24 Wed 11:37]--[2019-07-24 Wed 12:02] =>  0:25
    :END:
    - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
@@ -233,11 +236,11 @@
    - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
    - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
    - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
 *** DONE Introduction to Computer Science and Programming Using Python - Part II [4/4]
    CLOSED: [2019-07-25 Thu 17:22]
    :PROPERTIES:
