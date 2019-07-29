@@ -34,51 +34,73 @@
   :wpd-sandeepk: 1
   :END:
 ** akshay196
-*** Linux Under the Hood [0/13]
+*** IN_PROGRESS Linux Under the Hood [7/13]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:
+    :ACTUAL:   9.00
     :OWNER: akshay196
     :ID: READ.1563242496
     :TASKID: READ.1563242496
     :END:
-    - [ ] Lesson  1: How Linux is organized                            (25m)
-    - [ ] Lesson  2: About C code, scripts and compiled programs       (35m)
-    - [ ] Lesson  3: Understanding Linux commands and how they work    (22m)
-    - [ ] Lesson  4: Understanding the Linux boot procedure            (90m)
-    - [ ] Lesson  5: Understanding Linux storage                       (80m)
-    - [ ] Lesson  6: Understanding memory management                   (40m)
-    - [ ] Lesson  7: Understanding process                             (40m)
+    :LOGBOOK:
+    CLOCK: [2019-07-28 Sun 21:12]--[2019-07-28 Sun 22:25] =>  1:13
+    CLOCK: [2019-07-28 Sun 20:19]--[2019-07-28 Sun 20:24] =>  0:05
+    CLOCK: [2019-07-28 Sun 14:13]--[2019-07-28 Sun 15:04] =>  0:51
+    CLOCK: [2019-07-28 Sun 13:52]--[2019-07-28 Sun 14:09] =>  0:17
+    CLOCK: [2019-07-28 Sun 09:23]--[2019-07-28 Sun 09:39] =>  0:16
+    CLOCK: [2019-07-27 Sat 22:41]--[2019-07-27 Sat 23:41] =>  1:00
+    CLOCK: [2019-07-25 Thu 22:09]--[2019-07-25 Thu 22:47] =>  0:38
+    CLOCK: [2019-07-25 Thu 07:35]--[2019-07-25 Thu 08:42] =>  1:07
+    CLOCK: [2019-07-24 Wed 20:49]--[2019-07-24 Wed 21:54] =>  1:05
+    CLOCK: [2019-07-24 Wed 08:28]--[2019-07-24 Wed 08:58] =>  0:30
+    CLOCK: [2019-07-24 Wed 07:22]--[2019-07-24 Wed 08:02] =>  0:40
+    CLOCK: [2019-07-23 Tue 07:16]--[2019-07-23 Tue 07:52] =>  0:36
+    CLOCK: [2019-07-22 Mon 07:17]--[2019-07-22 Mon 07:59] =>  0:42
+    :END:
+    - [X] Lesson  1: How Linux is organized                            (25m)
+    - [X] Lesson  2: About C code, scripts and compiled programs       (35m)
+    - [X] Lesson  3: Understanding Linux commands and how they work    (22m)
+    - [X] Lesson  4: Understanding the Linux boot procedure            (90m)
+    - [X] Lesson  5: Understanding Linux storage                       (80m)
+    - [X] Lesson  6: Understanding memory management                   (40m)
+    - [X] Lesson  7: Understanding process                             (40m)
     - [ ] Lesson  8: Security                                          (60m)
     - [ ] Lesson  9: Hardware initialization                           (35m)
     - [ ] Lesson 10: Looking closer at the kernel                      (40m)
     - [ ] Lesson 11: Understanding networking                          (50m)
     - [ ] Lesson 12: Performance optimization                          (60m)
     - [ ] Lesson 13: The future of Linux                               (23m)
-*** GNU Emacs bug triaging
+*** IN_PROGRESS GNU Emacs bug triaging [2/6]
     :PROPERTIES:
     :ESTIMATED: 7
-    :ACTUAL:
+    :ACTUAL:   1.75
     :OWNER: akshay196
     :ID: OPS.1563244949
     :TASKID: OPS.1563244949
     :END:
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35393][#35393]]: `help-echo' text propertized with `face' is not shown in that face
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33858][#33858]]: 26.1; Scrolling up fails
+    :LOGBOOK:
+    CLOCK: [2019-07-18 Thu 07:11]--[2019-07-18 Thu 07:56] =>  0:45
+    CLOCK: [2019-07-17 Wed 07:20]--[2019-07-17 Wed 08:20] =>  1:00
+    :END:
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35393][#35393]]: `help-echo' text propertized with `face' is not shown in that face
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33858][#33858]]: 26.1; Scrolling up fails
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33092][#33092]]: 26.1; Re-running shell wipes font-lock from xterm-color
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33147][#33147]]: tex-mode: ${{{{a}}}}$ or more braces not highlighted
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32388][#32388]]: 26.1: ediff-merge-directories-with-ancestor and subdirectories
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=31306][#31306]]: 27.0.50; js-mode still missing ES2015 keywords
 ** bhavin192
-*** IN_PROGRESS Mastering Distributed Tracing - II. Data Gathering Problem [0/5]
+*** IN_PROGRESS Mastering Distributed Tracing - II. Data Gathering Problem [1/5]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:   3.17
+    :ACTUAL:   5.12
     :OWNER:    bhavin192
     :ID:       READ.1562555265
     :TASKID:   READ.1562555265
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-23 Tue 22:06]--[2019-07-23 Tue 22:32] =>  0:26
+    CLOCK: [2019-07-23 Tue 19:23]--[2019-07-23 Tue 20:03] =>  0:40
+    CLOCK: [2019-07-22 Mon 19:26]--[2019-07-22 Mon 20:17] =>  0:51
     CLOCK: [2019-07-21 Sun 12:30]--[2019-07-21 Sun 13:15] =>  0:45
     CLOCK: [2019-07-21 Sun 11:13]--[2019-07-21 Sun 12:08] =>  0:55
     CLOCK: [2019-07-20 Sat 22:39]--[2019-07-20 Sat 22:41] =>  0:02
@@ -87,7 +109,7 @@
     CLOCK: [2019-07-17 Wed 22:03]--[2019-07-17 Wed 22:28] =>  0:25
     CLOCK: [2019-07-17 Wed 19:57]--[2019-07-17 Wed 20:28] =>  0:31
     :END:
-    - [ ] 4. Instrumentation Basics with OpenTracing           (3.5h)
+    - [X] 4. Instrumentation Basics with OpenTracing           (3.5h)
     - [ ] 5. Instrumentation of Asynchronous Applications      (1.5h)
     - [ ] 6. Tracing Standards and Ecosystem                   (1.5h)
     - [ ] 7. Tracing with Service Meshes                       (2.0h)
@@ -117,26 +139,39 @@
     :END:
 
 ** gandalfdwite
-*** Unix Concepts & Applications by Sumitabha Das [0/3]
+*** DONE Unix Concepts & Applications by Sumitabha Das [3/3]
+    CLOSED: [2019-07-23 Tue 21:36]
    :PROPERTIES:
    :ESTIMATED: 6
-   :ACTUAL:   0.00
+   :ACTUAL:   6.48
    :OWNER: gandalfdwite
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
-   - [ ] 16. X Window System                     ( 2h)
-   - [ ] 17. Networking tools                    ( 2h)
-   - [ ] 18. awk                                 ( 2h)
-*** Org-capture [0/1]
+   :LOGBOOK:
+   CLOCK: [2019-07-23 Tue 18:44]--[2019-07-23 Tue 20:15] =>  1:31
+   CLOCK: [2019-07-22 Mon 20:37]--[2019-07-22 Mon 22:05] =>  1:28
+   CLOCK: [2019-07-18 Thu 20:41]--[2019-07-18 Thu 21:48] =>  1:07
+   CLOCK: [2019-07-17 Wed 20:33]--[2019-07-17 Wed 21:45] =>  1:12
+   CLOCK: [2019-07-16 Tue 20:46]--[2019-07-16 Tue 21:57] =>  1:11
+   :END:
+   - [X] 16. X Window System                     ( 2h)
+   - [X] 17. Networking tools                    ( 2h)
+   - [X] 18. awk                                 ( 2h)
+*** DONE Org-capture [1/1]
+    CLOSED: [2019-07-24 Wed 22:01]
     :PROPERTIES:
     :ESTIMATED: 1.5
-    :ACTUAL:
+    :ACTUAL:   1.65
     :OWNER: gandalfdwite
     :ID: READ.1562385851
     :TASKID: READ.1562385851
     :END:
-    - [ ] Read and setup org-capture    ( 1.5h)
+    :LOGBOOK:
+    CLOCK: [2019-07-24 Wed 19:36]--[2019-07-24 Wed 21:15] =>  1:39
+    :END:
+    - [X] Read and setup org-capture    ( 1.5h)
+      - Reference link: [[https://orgmode.org/manual/Capture.html][org-capture]]
 *** Org-agenda [0/1]
     :PROPERTIES:
     :ESTIMATED: 1.5
@@ -157,15 +192,20 @@
     - [ ] 1. Understanding ChaosToolkit      ( 1h )
     - [ ] 2. Issue Triaging                  ( 7h )
 ** jasonbraganza
-*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [3/11]
+*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [8/11]
    :PROPERTIES:
    :ESTIMATED: 11
-   :ACTUAL:   2.75
+   :ACTUAL:   5.87
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-28 Sun 09:05]--[2019-07-28 Sun 10:05] =>  1:00
+   CLOCK: [2019-07-27 Sat 08:15]--[2019-07-27 Sat 08:35] =>  0:20
+   CLOCK: [2019-07-26 Fri 10:50]--[2019-07-26 Fri 11:11] =>  0:21
+   CLOCK: [2019-07-25 Thu 06:30]--[2019-07-25 Thu 07:11] =>  0:41
+   CLOCK: [2019-07-24 Wed 09:15]--[2019-07-24 Wed 10:00] =>  0:45
    CLOCK: [2019-07-23 Tue 07:15]--[2019-07-23 Tue 08:15] =>  1:00
    CLOCK: [2019-07-22 Mon 06:45]--[2019-07-22 Mon 07:45] =>  1:00
    CLOCK: [2019-07-21 Sun 07:00]--[2019-07-21 Mon 07:45] =>  0:45
@@ -173,11 +213,11 @@
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 25 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 25 words to vocabulary (1h)
+   - [X] Complete 4 review session & add 25 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
@@ -200,74 +240,166 @@
    - [X] Write a short blog post. (2h)
    - [X] Write a short blog post. (2h)
    - [ ] Write a short blog post. (2h)
-*** IN_PROGRESS Read fiction [0/11]
+*** DONE Read fiction [11/11]
+   CLOSED: [2019-07-28 Sun 16:00]
    :PROPERTIES:
    :ESTIMATED: 3
-   :ACTUAL:   
+   :ACTUAL:   2.42
    :OWNER: jasonbraganza
    :ID: READ.1559630918
    :TASKID: READ.1559630918
    :END:
    :LOGBOOK:
-   CLOCK: [2019-06-13 Tue 08:30]--[2019-06-13 Thu 12:30] =>  4:00
-   CLOCK: [2019-06-09 Sun 10:00]--[2019-06-09 Sun 12:00] =>  2:00
-   CLOCK: [2019-06-06 Thu 11:00]--[2019-06-06 Thu 13:01] =>  2:01
-   CLOCK: [2019-06-05 Wed 23:35]--[2019-06-06 Thu 00:45] =>  1:10
-   CLOCK: [2019-06-05 Wed 09:09]--[2019-06-05 Wed 09:11] =>  0:02
-   CLOCK: [2019-06-04 Tue 13:00]--[2019-06-04 Tue 13:55] =>  0:55
+   CLOCK: [2019-07-28 Sun 14:00]--[2019-07-28 Sun 16:00] =>  2:00
+   CLOCK: [2019-07-24 Wed 11:37]--[2019-07-24 Wed 12:02] =>  0:25
    :END:
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-*** IN_PROGRESS Introduction to Computer Science and Programming Using Python - Part II [0/3]
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+*** DONE Introduction to Computer Science and Programming Using Python - Part II [4/4]
+   CLOSED: [2019-07-25 Thu 17:22]
    :PROPERTIES:
    :ESTIMATED: 15
-   :ACTUAL:   
+   :ACTUAL:   8.40
    :OWNER: jasonbraganza
    :ID: READ.1559713451
    :TASKID: READ.1559713451
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-25 Thu 16:20]--[2019-07-25 Thu 17:22] =>  1:02
+   CLOCK: [2019-07-25 Thu 11:00]--[2019-07-25 Thu 12:40] =>  1:40
+   CLOCK: [2019-07-25 Thu 10:49]--[2019-07-25 Thu 10:58] =>  0:09
+   CLOCK: [2019-07-25 Thu 09:54]--[2019-07-25 Thu 10:30] =>  0:36
+   CLOCK: [2019-07-25 Thu 09:21]--[2019-07-25 Thu 09:35] =>  0:14
+   CLOCK: [2019-07-25 Thu 08:14]--[2019-07-25 Thu 08:51] =>  0:37
+   CLOCK: [2019-07-24 Wed 17:37]--[2019-07-24 Wed 19:48] =>  2:11
+   CLOCK: [2019-07-24 Wed 16:45]--[2019-07-24 Wed 17:37] =>  0:52
+   CLOCK: [2019-07-24 Wed 12:26]--[2019-07-24 Wed 13:29] =>  1:03
    :END:
-   - [ ] Watch Week 4 videos. (2h)
-   - [ ] Watch Week 5 videos. (7h)
-   - [ ] Watch Week 6 videos. (6h)
-*** IN_PROGRESS NIOS - Geography - Part I [0/5]
+   - [X] Watch Week 4 videos. (2h)
+   - [X] Watch Week 5 videos. (7h)
+   - [X] Watch Week 6 videos. (6h)
+   - [X] Watch Week 7 videos. (2h)
+*** DONE NIOS - Geography - Part I [31/31]
+   CLOSED: [2019-07-27 Sat 12:14]
    :PROPERTIES:
    :ESTIMATED: 5
-   :ACTUAL:
+   :ACTUAL:   5.45
    :OWNER: jasonbraganza
    :ID: READ.1563626394
    :TASKID: READ.1563626394
    :END:
-   - [ ] Read Chapter 5. (1h)
-   - [ ] Read Chapter 6. (1h)
-   - [ ] Read Chapter 7. (1h)
-   - [ ] Read Chapter 8. (1h)
-   - [ ] Read Chapter 9. (1h)
+   :LOGBOOK:
+   CLOCK: [2019-07-27 Sat 10:44]--[2019-07-27 Sat 12:14] =>  1:30
+   CLOCK: [2019-07-27 Sat 09:25]--[2019-07-27 Sat 10:16] =>  0:51
+   CLOCK: [2019-07-27 Sat 08:49]--[2019-07-27 Sat 09:11] =>  0:22
+   CLOCK: [2019-07-26 Fri 09:38]--[2019-07-26 Fri 10:42] =>  1:04
+   CLOCK: [2019-07-25 Thu 07:38]--[2019-07-25 Thu 08:11] =>  0:33
+   CLOCK: [2019-07-25 Thu 07:30]--[2019-07-25 Thu 07:38] =>  0:08
+   CLOCK: [2019-07-25 Thu 07:12]--[2019-07-25 Thu 07:30] =>  0:18
+   CLOCK: [2019-07-24 Wed 10:55]--[2019-07-24 Wed 11:36] =>  0:41
+   :END:
+   - [X] Read Chapter 5. (1h)
+   - [X] Read Chapter 6. (1h)
+   - [X] Read Chapter 7. (1h)
+   - [X] Read Chapter 8. (1h)
+   - [X] Read Chapter 9. (1h)
+   - [X] Read Chapter 10. (1h)
+   - [X] Read Chapter 11. (1h)
+   - [X] Read Chapter 12. (1h)
+   - [X] Read Chapter 13. (1h)
+   - [X] Read Chapter 14. (1h)
+   - [X] Read Chapter 15. (1h)
+   - [X] Read Chapter 16. (1h)
+   - [X] Read Chapter 17. (1h)
+   - [X] Read Chapter 18. (1h)
+   - [X] Read Chapter 19. (1h)
+   - [X] Read Chapter 20. (1h)
+   - [X] Read Chapter 21. (1h)
+   - [X] Read Chapter 22. (1h)
+   - [X] Read Chapter 23. (1h)
+   - [X] Read Chapter 24. (1h)
+   - [X] Read Chapter 25. (1h)
+   - [X] Read Chapter 26. (1h)
+   - [X] Read Chapter 27. (1h)
+   - [X] Read Chapter 28. (1h)
+   - [X] Read Chapter 29. (1h)
+   - [X] Read Chapter 30. (1h)
+   - [X] Read Chapter 31. (1h)
+   - [X] Read Chapter 32. (1h)
+   - [X] Read Chapter 33. (1h)
+   - [X] Read Chapter 34. (1h)
+   - [X] Read Chapter 35. (1h)
+*** IN_PROGRESS Introduction to Computer Science and Programming Using Python (Exercises) - Part I [1/2]
+   :PROPERTIES:
+   :ESTIMATED: 7
+   :ACTUAL:   3.35
+   :OWNER: jasonbraganza
+   :ID: DEV.1564118176
+   :TASKID: DEV.1564118176
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-07-27 Sat 17:36]--[2019-07-27 Sat 17:44] =>  0:08
+   CLOCK: [2019-07-27 Sat 16:45]--[2019-07-27 Sat 17:33] =>  0:48
+   CLOCK: [2019-07-27 Sat 15:45]--[2019-07-27 Sat 16:13] =>  0:28
+   CLOCK: [2019-07-27 Sat 15:36]--[2019-07-27 Sat 15:41] =>  0:05
+   CLOCK: [2019-07-27 Sat 14:58]--[2019-07-27 Sat 15:36] =>  0:38
+   CLOCK: [2019-07-27 Sat 14:53]--[2019-07-27 Sat 14:57] =>  0:04
+   CLOCK: [2019-07-26 Fri 11:43]--[2019-07-26 Fri 13:01] =>  1:18
+   :END:
+   - [X] Week 4 [2/2]
+     - [X] Chapter 7 [7/7]
+       - [X] exercise 1 (1h)
+       - [X] exercise 2 (1h)
+       - [X] exercise 3 (1h)
+       - [X] exercise 4 (1h)
+       - [X] exercise 5 (1h)
+       - [X] exercise 6 (1h)
+       - [X] exercise 7 (1h)
+     - [X] Chapter 8 [4/4]
+       - [X] exercise 1 (30m)
+       - [X] exercise 2 (30m)
+       - [X] exercise 3 (30m)
+       - [X] exercise 4 (30m)
+   - [-] Week 5 [1/2]
+     - [X] Chapter 9 [7/7]
+       - [X] Exercise 1  
+       - [X] Exercise 2  
+       - [X] Exercise 3  
+       - [X] Exercise 4  
+       - [X] Exercise 5  
+       - [X] Exercise 6  
+       - [X] Exercise 7  
+     - [ ] Chapter 10 [0/4]
+       - [ ] Exercise 1 
+       - [ ] Exercise 2 
+       - [ ] Exercise 3 
+       - [ ] Exercise 4 
 ** RJ722
 *** IN_PROGRESS Watch first lecture of fastai part-2
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:   2.37
+    :ACTUAL:   4.83
     :OWNER: RJ722
     :ID: TASK.1562243970
     :TASKID: TASK.1562243970
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-22 Mon 15:24]--[2019-07-22 Mon 17:28] =>  2:04
+    CLOCK: [2019-07-22 Mon 14:06]--[2019-07-22 Mon 14:30] =>  0:24
     CLOCK: [2019-07-22 Mon 11:40]--[2019-07-22 Mon 13:13] =>  1:33
     CLOCK: [2019-07-21 Sun 23:14]--[2019-07-21 Sun 23:28] =>  0:14
     CLOCK: [2019-07-21 Sun 19:11]--[2019-07-21 Sun 19:46] =>  0:35
     :END:
-*** Write 2 blog posts [0/2]
+*** IN_PROGRESS Write 2 blog posts [1/2]
     :PROPERTIES:
     :ESTIMATED: 4
     :ACTUAL:
@@ -275,17 +407,21 @@
     :ID: WRITE.1558159950
     :TASKID: WRITE.1558159950
     :END:
-    - [ ] Blog Post 1
+    :LOGBOOK:
+    CLOCK: [2019-07-22 Mon 23:42]--[2019-07-23 Tue 01:20] =>  1:38
+    :END:
+    - [X] Blog Post 1
     - [ ] Blog Post 2
 *** IN_PROGRESS Read first 6 chapters of "Grokking Deep Learning" by Andrew Trask [2/6]
     :PROPERTIES:
     :ESTIMATED: 12
-    :ACTUAL:
+    :ACTUAL:   0.80
     :OWNER: RJ722
     :ID: READ.1563523155
     :TASKID: READ.1563523155
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-23 Tue 12:46]--[2019-07-23 Tue 13:00] =>  0:14
     CLOCK: [2019-07-21 Sun 23:31]--[2019-07-22 Mon 00:04] =>  0:33
     CLOCK: [2019-07-19 Fri 16:09]--[2019-07-19 Fri 16:10] =>  0:01
     :END:
