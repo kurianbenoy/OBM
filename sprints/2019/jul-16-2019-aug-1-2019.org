@@ -172,15 +172,18 @@
     - [ ] 1. Understanding ChaosToolkit      ( 1h )
     - [ ] 2. Issue Triaging                  ( 7h )
 ** jasonbraganza
-*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [5/11]
+*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [8/11]
    :PROPERTIES:
    :ESTIMATED: 11
-   :ACTUAL:   4.18
+   :ACTUAL:   5.87
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-28 Sun 09:05]--[2019-07-28 Sun 10:05] =>  1:00
+   CLOCK: [2019-07-27 Sat 08:15]--[2019-07-27 Sat 08:35] =>  0:20
+   CLOCK: [2019-07-26 Fri 10:50]--[2019-07-26 Fri 11:11] =>  0:21
    CLOCK: [2019-07-25 Thu 06:30]--[2019-07-25 Thu 07:11] =>  0:41
    CLOCK: [2019-07-24 Wed 09:15]--[2019-07-24 Wed 10:00] =>  0:45
    CLOCK: [2019-07-23 Tue 07:15]--[2019-07-23 Tue 08:15] =>  1:00
@@ -192,9 +195,9 @@
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 25 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 25 words to vocabulary (1h)
+   - [X] Complete 4 review session & add 25 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
@@ -217,15 +220,17 @@
    - [X] Write a short blog post. (2h)
    - [X] Write a short blog post. (2h)
    - [ ] Write a short blog post. (2h)
-*** IN_PROGRESS Read fiction [6/11]
+*** DONE Read fiction [11/11]
+   CLOSED: [2019-07-28 Sun 16:00]
    :PROPERTIES:
    :ESTIMATED: 3
-   :ACTUAL:   0.42
+   :ACTUAL:   2.42
    :OWNER: jasonbraganza
    :ID: READ.1559630918
    :TASKID: READ.1559630918
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-28 Sun 14:00]--[2019-07-28 Sun 16:00] =>  2:00
    CLOCK: [2019-07-24 Wed 11:37]--[2019-07-24 Wed 12:02] =>  0:25
    :END:
    - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
@@ -234,20 +239,22 @@
    - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
    - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
    - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-   - [ ] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
-*** IN_PROGRESS Introduction to Computer Science and Programming Using Python - Part II [3/3]
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+   - [X] Read 5 pages of The Kingdom of Gods, N. K. Jemisin  (15m)
+*** DONE Introduction to Computer Science and Programming Using Python - Part II [4/4]
+   CLOSED: [2019-07-25 Thu 17:22]
    :PROPERTIES:
    :ESTIMATED: 15
-   :ACTUAL:   7.37
+   :ACTUAL:   8.40
    :OWNER: jasonbraganza
    :ID: READ.1559713451
    :TASKID: READ.1559713451
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-25 Thu 16:20]--[2019-07-25 Thu 17:22] =>  1:02
    CLOCK: [2019-07-25 Thu 11:00]--[2019-07-25 Thu 12:40] =>  1:40
    CLOCK: [2019-07-25 Thu 10:49]--[2019-07-25 Thu 10:58] =>  0:09
    CLOCK: [2019-07-25 Thu 09:54]--[2019-07-25 Thu 10:30] =>  0:36
@@ -260,16 +267,21 @@
    - [X] Watch Week 4 videos. (2h)
    - [X] Watch Week 5 videos. (7h)
    - [X] Watch Week 6 videos. (6h)
-   - [ ] Watch Week 7 videos. (2h)
-*** IN_PROGRESS NIOS - Geography - Part I [4/7]
+   - [X] Watch Week 7 videos. (2h)
+*** DONE NIOS - Geography - Part I [31/31]
+   CLOSED: [2019-07-27 Sat 12:14]
    :PROPERTIES:
    :ESTIMATED: 5
-   :ACTUAL:   1.67
+   :ACTUAL:   5.45
    :OWNER: jasonbraganza
    :ID: READ.1563626394
    :TASKID: READ.1563626394
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-27 Sat 10:44]--[2019-07-27 Sat 12:14] =>  1:30
+   CLOCK: [2019-07-27 Sat 09:25]--[2019-07-27 Sat 10:16] =>  0:51
+   CLOCK: [2019-07-27 Sat 08:49]--[2019-07-27 Sat 09:11] =>  0:22
+   CLOCK: [2019-07-26 Fri 09:38]--[2019-07-26 Fri 10:42] =>  1:04
    CLOCK: [2019-07-25 Thu 07:38]--[2019-07-25 Thu 08:11] =>  0:33
    CLOCK: [2019-07-25 Thu 07:30]--[2019-07-25 Thu 07:38] =>  0:08
    CLOCK: [2019-07-25 Thu 07:12]--[2019-07-25 Thu 07:30] =>  0:18
@@ -279,10 +291,78 @@
    - [X] Read Chapter 6. (1h)
    - [X] Read Chapter 7. (1h)
    - [X] Read Chapter 8. (1h)
-   - [ ] Read Chapter 9. (1h)
-   - [ ] Read Chapter 10. (1h)
-   - [ ] Read Chapter 11. (1h)
-
+   - [X] Read Chapter 9. (1h)
+   - [X] Read Chapter 10. (1h)
+   - [X] Read Chapter 11. (1h)
+   - [X] Read Chapter 12. (1h)
+   - [X] Read Chapter 13. (1h)
+   - [X] Read Chapter 14. (1h)
+   - [X] Read Chapter 15. (1h)
+   - [X] Read Chapter 16. (1h)
+   - [X] Read Chapter 17. (1h)
+   - [X] Read Chapter 18. (1h)
+   - [X] Read Chapter 19. (1h)
+   - [X] Read Chapter 20. (1h)
+   - [X] Read Chapter 21. (1h)
+   - [X] Read Chapter 22. (1h)
+   - [X] Read Chapter 23. (1h)
+   - [X] Read Chapter 24. (1h)
+   - [X] Read Chapter 25. (1h)
+   - [X] Read Chapter 26. (1h)
+   - [X] Read Chapter 27. (1h)
+   - [X] Read Chapter 28. (1h)
+   - [X] Read Chapter 29. (1h)
+   - [X] Read Chapter 30. (1h)
+   - [X] Read Chapter 31. (1h)
+   - [X] Read Chapter 32. (1h)
+   - [X] Read Chapter 33. (1h)
+   - [X] Read Chapter 34. (1h)
+   - [X] Read Chapter 35. (1h)
+*** IN_PROGRESS Introduction to Computer Science and Programming Using Python (Exercises) - Part I [1/2]
+   :PROPERTIES:
+   :ESTIMATED: 7
+   :ACTUAL:   3.35
+   :OWNER: jasonbraganza
+   :ID: DEV.1564118176
+   :TASKID: DEV.1564118176
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-07-27 Sat 17:36]--[2019-07-27 Sat 17:44] =>  0:08
+   CLOCK: [2019-07-27 Sat 16:45]--[2019-07-27 Sat 17:33] =>  0:48
+   CLOCK: [2019-07-27 Sat 15:45]--[2019-07-27 Sat 16:13] =>  0:28
+   CLOCK: [2019-07-27 Sat 15:36]--[2019-07-27 Sat 15:41] =>  0:05
+   CLOCK: [2019-07-27 Sat 14:58]--[2019-07-27 Sat 15:36] =>  0:38
+   CLOCK: [2019-07-27 Sat 14:53]--[2019-07-27 Sat 14:57] =>  0:04
+   CLOCK: [2019-07-26 Fri 11:43]--[2019-07-26 Fri 13:01] =>  1:18
+   :END:
+   - [X] Week 4 [2/2]
+     - [X] Chapter 7 [7/7]
+       - [X] exercise 1 (1h)
+       - [X] exercise 2 (1h)
+       - [X] exercise 3 (1h)
+       - [X] exercise 4 (1h)
+       - [X] exercise 5 (1h)
+       - [X] exercise 6 (1h)
+       - [X] exercise 7 (1h)
+     - [X] Chapter 8 [4/4]
+       - [X] exercise 1 (30m)
+       - [X] exercise 2 (30m)
+       - [X] exercise 3 (30m)
+       - [X] exercise 4 (30m)
+   - [-] Week 5 [1/2]
+     - [X] Chapter 9 [7/7]
+       - [X] Exercise 1  
+       - [X] Exercise 2  
+       - [X] Exercise 3  
+       - [X] Exercise 4  
+       - [X] Exercise 5  
+       - [X] Exercise 6  
+       - [X] Exercise 7  
+     - [ ] Chapter 10 [0/4]
+       - [ ] Exercise 1 
+       - [ ] Exercise 2 
+       - [ ] Exercise 3 
+       - [ ] Exercise 4 
 ** RJ722
 *** IN_PROGRESS Watch first lecture of fastai part-2
     :PROPERTIES:
