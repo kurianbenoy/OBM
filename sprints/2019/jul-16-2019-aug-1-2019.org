@@ -454,7 +454,7 @@
     :TASKID:   WRITE.1563376502
     :END:
     :LOGBOOK:
-    CLOCK: [2019-07-28 Sun 23:20]--[2019-07-29 Mon 01:12] =>  1:52
+    CLOCK: [2019-07-29 Mon 23:20]--[2019-07-30 Tue 01:12] =>  1:52
     CLOCK: [2019-07-26 Fri 23:00]--[2019-07-26 Fri 23:45] =>  0:45
     :END:
     - [ ] Load Balancer	Setup guide             (6h)
