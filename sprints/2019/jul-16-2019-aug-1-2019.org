@@ -132,26 +132,39 @@
     :END:
 
 ** gandalfdwite
-*** Unix Concepts & Applications by Sumitabha Das [0/3]
+*** DONE Unix Concepts & Applications by Sumitabha Das [3/3]
+    CLOSED: [2019-07-23 Tue 21:36]
    :PROPERTIES:
    :ESTIMATED: 6
-   :ACTUAL:   0.00
+   :ACTUAL:   6.48
    :OWNER: gandalfdwite
    :ID: READ.1553532278
    :TASKID: READ.1553532278
    :END:
-   - [ ] 16. X Window System                     ( 2h)
-   - [ ] 17. Networking tools                    ( 2h)
-   - [ ] 18. awk                                 ( 2h)
-*** Org-capture [0/1]
+   :LOGBOOK:
+   CLOCK: [2019-07-23 Tue 18:44]--[2019-07-23 Tue 20:15] =>  1:31
+   CLOCK: [2019-07-22 Mon 20:37]--[2019-07-22 Mon 22:05] =>  1:28
+   CLOCK: [2019-07-18 Thu 20:41]--[2019-07-18 Thu 21:48] =>  1:07
+   CLOCK: [2019-07-17 Wed 20:33]--[2019-07-17 Wed 21:45] =>  1:12
+   CLOCK: [2019-07-16 Tue 20:46]--[2019-07-16 Tue 21:57] =>  1:11
+   :END:
+   - [X] 16. X Window System                     ( 2h)
+   - [X] 17. Networking tools                    ( 2h)
+   - [X] 18. awk                                 ( 2h)
+*** DONE Org-capture [1/1]
+    CLOSED: [2019-07-24 Wed 22:01]
     :PROPERTIES:
     :ESTIMATED: 1.5
-    :ACTUAL:
+    :ACTUAL:   1.65
     :OWNER: gandalfdwite
     :ID: READ.1562385851
     :TASKID: READ.1562385851
     :END:
-    - [ ] Read and setup org-capture    ( 1.5h)
+    :LOGBOOK:
+    CLOCK: [2019-07-24 Wed 19:36]--[2019-07-24 Wed 21:15] =>  1:39
+    :END:
+    - [X] Read and setup org-capture    ( 1.5h)
+      - Reference link: [[https://orgmode.org/manual/Capture.html][org-capture]]
 *** Org-agenda [0/1]
     :PROPERTIES:
     :ESTIMATED: 1.5
