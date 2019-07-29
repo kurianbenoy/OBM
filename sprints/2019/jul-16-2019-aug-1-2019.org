@@ -34,15 +34,22 @@
   :wpd-sandeepk: 1
   :END:
 ** akshay196
-*** IN_PROGRESS Linux Under the Hood [4/13]
+*** IN_PROGRESS Linux Under the Hood [7/13]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:   4.67
+    :ACTUAL:   9.00
     :OWNER: akshay196
     :ID: READ.1563242496
     :TASKID: READ.1563242496
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-28 Sun 21:12]--[2019-07-28 Sun 22:25] =>  1:13
+    CLOCK: [2019-07-28 Sun 20:19]--[2019-07-28 Sun 20:24] =>  0:05
+    CLOCK: [2019-07-28 Sun 14:13]--[2019-07-28 Sun 15:04] =>  0:51
+    CLOCK: [2019-07-28 Sun 13:52]--[2019-07-28 Sun 14:09] =>  0:17
+    CLOCK: [2019-07-28 Sun 09:23]--[2019-07-28 Sun 09:39] =>  0:16
+    CLOCK: [2019-07-27 Sat 22:41]--[2019-07-27 Sat 23:41] =>  1:00
+    CLOCK: [2019-07-25 Thu 22:09]--[2019-07-25 Thu 22:47] =>  0:38
     CLOCK: [2019-07-25 Thu 07:35]--[2019-07-25 Thu 08:42] =>  1:07
     CLOCK: [2019-07-24 Wed 20:49]--[2019-07-24 Wed 21:54] =>  1:05
     CLOCK: [2019-07-24 Wed 08:28]--[2019-07-24 Wed 08:58] =>  0:30
@@ -54,9 +61,9 @@
     - [X] Lesson  2: About C code, scripts and compiled programs       (35m)
     - [X] Lesson  3: Understanding Linux commands and how they work    (22m)
     - [X] Lesson  4: Understanding the Linux boot procedure            (90m)
-    - [ ] Lesson  5: Understanding Linux storage                       (80m)
-    - [ ] Lesson  6: Understanding memory management                   (40m)
-    - [ ] Lesson  7: Understanding process                             (40m)
+    - [X] Lesson  5: Understanding Linux storage                       (80m)
+    - [X] Lesson  6: Understanding memory management                   (40m)
+    - [X] Lesson  7: Understanding process                             (40m)
     - [ ] Lesson  8: Security                                          (60m)
     - [ ] Lesson  9: Hardware initialization                           (35m)
     - [ ] Lesson 10: Looking closer at the kernel                      (40m)
