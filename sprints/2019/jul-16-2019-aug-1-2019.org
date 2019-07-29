@@ -169,15 +169,16 @@
     - [ ] 1. Understanding ChaosToolkit      ( 1h )
     - [ ] 2. Issue Triaging                  ( 7h )
 ** jasonbraganza
-*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [8/11]
+*** IN_PROGRESS Work at French, in the Fluent forever app - Part IV [9/11]
    :PROPERTIES:
    :ESTIMATED: 11
-   :ACTUAL:   5.87
+   :ACTUAL:   6.95
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-29 Mon 07:15]--[2019-07-29 Mon 08:20] =>  1:05
    CLOCK: [2019-07-28 Sun 09:05]--[2019-07-28 Sun 10:05] =>  1:00
    CLOCK: [2019-07-27 Sat 08:15]--[2019-07-27 Sat 08:35] =>  0:20
    CLOCK: [2019-07-26 Fri 10:50]--[2019-07-26 Fri 11:11] =>  0:21
@@ -195,18 +196,20 @@
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 25 words to vocabulary (1h)
    - [X] Complete 4 review session & add 25 words to vocabulary (1h)
+   - [X] Complete 4 review session & add 25 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-*** IN_PROGRESS Write twice a week - 2 [4/5]
-   :PROPERTIES:
+*** DONE Write twice a week - 2 [5/5]
+   CLOSED: [2019-07-29 Mon 13:45]
+      :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:   4.28
+   :ACTUAL:   8.45
    :OWNER: jasonbraganza
    :ID: WRITE.1559630427
    :TASKID: WRITE.1559630427
    :END:
    :LOGBOOK:
+   CLOCK: [2019-07-29 Mon 09:35]--[2019-07-29 Mon 13:45] =>  4:10
    CLOCK: [2019-07-23 Tue 10:45]--[2019-07-23 Tue 11:35] =>  0:50
    CLOCK: [2019-07-23 Tue 08:30]--[2019-07-23 Tue 09:30] =>  1:00
    CLOCK: [2019-07-22 Mon 09:30]--[2019-07-22 Mon 10:27] =>  0:57
@@ -216,7 +219,7 @@
    - [X] Write a short blog post. (2h)
    - [X] Write a short blog post. (2h)
    - [X] Write a short blog post. (2h)
-   - [ ] Write a short blog post. (2h)
+   - [X] Write a short blog post. (2h)
 *** DONE Read fiction [11/11]
    CLOSED: [2019-07-28 Sun 16:00]
    :PROPERTIES:
