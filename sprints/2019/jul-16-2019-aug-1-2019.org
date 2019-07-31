@@ -443,25 +443,32 @@
     - [ ] Building your first neural network
 
 ** sandeepk
-*** Project Stack NEWS - Part IV [0/1]
+*** IN_PROGRESS Project Stack NEWS - Part IV [0/1]
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL:
+    :ACTUAL:   1.00
     :OWNER: sandeepk
     :ID: DEV.1552226887
     :TASKID: DEV.1552226887
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-07-29 Mon 20:30]--[2019-07-29 Mon 21:30] =>  1:00
+    :END:
     - [ ] Write test case for POST section (5h)
-*** Blog writing - Part III [0/2]
+*** IN_PROGRESS Blog writing - Part III [1/2]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:
+    :ACTUAL:   2.62
     :OWNER:    sandeepk
     :ID:       WRITE.1563376502
     :TASKID:   WRITE.1563376502
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-07-29 Mon 23:20]--[2019-07-30 Tue 01:12] =>  1:52
+    CLOCK: [2019-07-26 Fri 23:00]--[2019-07-26 Fri 23:45] =>  0:45
+    :END:
     - [ ] Load Balancer	Setup guide             (6h)
-    - [ ] I want 2 do project tell me what 2 do (2h)
+    - [X] I want 2 do project tell me what 2 do (2h)
 *** DONE Reading The Hitchhiker's Guide to Python! [3/3]
     CLOSED: [2019-07-24 Wed]
     :PROPERTIES:
