@@ -89,15 +89,19 @@
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32388][#32388]]: 26.1: ediff-merge-directories-with-ancestor and subdirectories
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=31306][#31306]]: 27.0.50; js-mode still missing ES2015 keywords
 ** bhavin192
-*** IN_PROGRESS Mastering Distributed Tracing - II. Data Gathering Problem [2/5]
+*** DONE Mastering Distributed Tracing - II. Data Gathering Problem [5/5]
+    CLOSED: [2019-08-01 Thu 22:07]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:   7.22
+    :ACTUAL:   8.95
     :OWNER:    bhavin192
     :ID:       READ.1562555265
     :TASKID:   READ.1562555265
     :END:
     :LOGBOOK:
+    CLOCK: [2019-08-01 Thu 21:09]--[2019-08-01 Thu 22:07] =>  0:58
+    CLOCK: [2019-08-01 Thu 20:10]--[2019-08-01 Thu 20:29] =>  0:19
+    CLOCK: [2019-08-01 Thu 19:22]--[2019-08-01 Thu 19:49] =>  0:27
     CLOCK: [2019-07-30 Tue 22:15]--[2019-07-30 Tue 23:04] =>  0:49
     CLOCK: [2019-07-28 Sun 16:12]--[2019-07-28 Sun 16:47] =>  0:35
     CLOCK: [2019-07-28 Sun 14:07]--[2019-07-28 Sun 14:32] =>  0:25
@@ -115,9 +119,9 @@
     :END:
     - [X] 4. Instrumentation Basics with OpenTracing           (3.5h)
     - [X] 5. Instrumentation of Asynchronous Applications      (1.5h)
-    - [ ] 6. Tracing Standards and Ecosystem                   (1.5h)
-    - [ ] 7. Tracing with Service Meshes                       (2.0h)
-    - [ ] 8. All About Sampling                                (1.5h)
+    - [X] 6. Tracing Standards and Ecosystem                   (1.5h)
+    - [X] 7. Tracing with Service Meshes                       (2.0h)
+    - [X] 8. All About Sampling                                (1.5h)
 *** DONE Helm 3 Preview: Charting Our Future [7/7]
     CLOSED: [2019-07-29 Mon 20:07]
     :PROPERTIES:
@@ -140,14 +144,6 @@
     - [X] [[https://helm.sh/blog/helm-3-preview-pt5/][Part 5: Changes to Chart Dependencies]]	( 5m)
     - [X] [[https://helm.sh/blog/helm-3-preview-pt6/][Part 6: Introducing Library Charts]]	( 5m)
     - [X] [[https://helm.sh/blog/helm-3-preview-pt7/][Part 7: What's Next?]]			(10m)
-*** Write blog post about Python Pune
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       WRITE.1563295962
-    :TASKID:   WRITE.1563295962
-    :END:
 
 ** gandalfdwite
 *** DONE Unix Concepts & Applications by Sumitabha Das [3/3]
