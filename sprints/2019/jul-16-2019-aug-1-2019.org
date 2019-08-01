@@ -89,15 +89,19 @@
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32388][#32388]]: 26.1: ediff-merge-directories-with-ancestor and subdirectories
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=31306][#31306]]: 27.0.50; js-mode still missing ES2015 keywords
 ** bhavin192
-*** IN_PROGRESS Mastering Distributed Tracing - II. Data Gathering Problem [1/5]
+*** IN_PROGRESS Mastering Distributed Tracing - II. Data Gathering Problem [2/5]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:   5.12
+    :ACTUAL:   7.22
     :OWNER:    bhavin192
     :ID:       READ.1562555265
     :TASKID:   READ.1562555265
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-30 Tue 22:15]--[2019-07-30 Tue 23:04] =>  0:49
+    CLOCK: [2019-07-28 Sun 16:12]--[2019-07-28 Sun 16:47] =>  0:35
+    CLOCK: [2019-07-28 Sun 14:07]--[2019-07-28 Sun 14:32] =>  0:25
+    CLOCK: [2019-07-28 Sun 13:30]--[2019-07-28 Sun 13:47] =>  0:17
     CLOCK: [2019-07-23 Tue 22:06]--[2019-07-23 Tue 22:32] =>  0:26
     CLOCK: [2019-07-23 Tue 19:23]--[2019-07-23 Tue 20:03] =>  0:40
     CLOCK: [2019-07-22 Mon 19:26]--[2019-07-22 Mon 20:17] =>  0:51
@@ -110,25 +114,32 @@
     CLOCK: [2019-07-17 Wed 19:57]--[2019-07-17 Wed 20:28] =>  0:31
     :END:
     - [X] 4. Instrumentation Basics with OpenTracing           (3.5h)
-    - [ ] 5. Instrumentation of Asynchronous Applications      (1.5h)
+    - [X] 5. Instrumentation of Asynchronous Applications      (1.5h)
     - [ ] 6. Tracing Standards and Ecosystem                   (1.5h)
     - [ ] 7. Tracing with Service Meshes                       (2.0h)
     - [ ] 8. All About Sampling                                (1.5h)
-*** Helm 3 Preview: Charting Our Future [0/7]
+*** DONE Helm 3 Preview: Charting Our Future [7/7]
+    CLOSED: [2019-07-29 Mon 20:07]
     :PROPERTIES:
     :ESTIMATED: 1
-    :ACTUAL:
+    :ACTUAL:   1.07
     :OWNER:    bhavin192
     :ID:       READ.1562524270
     :TASKID:   READ.1562524270
     :END:
-    - [ ] [[https://helm.sh/blog/helm-3-preview-pt1/][Part 1: A History of Helm]]		(15m)
-    - [ ] [[https://helm.sh/blog/helm-3-preview-pt2/][Part 2: A Gentle Farewell to Tiller]]	(10m)
-    - [ ] [[https://helm.sh/blog/helm-3-preview-pt3/][Part 3: Chart Repositories]]		(10m)
-    - [ ] [[https://helm.sh/blog/helm-3-preview-pt4/][Part 4: Release Management]]		(10m)
-    - [ ] [[https://helm.sh/blog/helm-3-preview-pt5/][Part 5: Changes to Chart Dependencies]]	( 5m)
-    - [ ] [[https://helm.sh/blog/helm-3-preview-pt6/][Part 6: Introducing Library Charts]]	( 5m)
-    - [ ] [[https://helm.sh/blog/helm-3-preview-pt7/][Part 7: What's Next?]]			(10m)
+    :LOGBOOK:
+    CLOCK: [2019-07-29 Mon 19:46]--[2019-07-29 Mon 20:07] =>  0:21
+    CLOCK: [2019-07-29 Mon 16:42]--[2019-07-29 Mon 16:58] =>  0:16
+    CLOCK: [2019-07-29 Mon 14:17]--[2019-07-29 Mon 14:20] =>  0:03
+    CLOCK: [2019-07-29 Mon 12:46]--[2019-07-29 Mon 13:10] =>  0:24
+    :END:
+    - [X] [[https://helm.sh/blog/helm-3-preview-pt1/][Part 1: A History of Helm]]		(15m)
+    - [X] [[https://helm.sh/blog/helm-3-preview-pt2/][Part 2: A Gentle Farewell to Tiller]]	(10m)
+    - [X] [[https://helm.sh/blog/helm-3-preview-pt3/][Part 3: Chart Repositories]]		(10m)
+    - [X] [[https://helm.sh/blog/helm-3-preview-pt4/][Part 4: Release Management]]		(10m)
+    - [X] [[https://helm.sh/blog/helm-3-preview-pt5/][Part 5: Changes to Chart Dependencies]]	( 5m)
+    - [X] [[https://helm.sh/blog/helm-3-preview-pt6/][Part 6: Introducing Library Charts]]	( 5m)
+    - [X] [[https://helm.sh/blog/helm-3-preview-pt7/][Part 7: What's Next?]]			(10m)
 *** Write blog post about Python Pune
     :PROPERTIES:
     :ESTIMATED: 6
