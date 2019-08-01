@@ -34,15 +34,24 @@
   :wpd-sandeepk: 1
   :END:
 ** akshay196
-*** IN_PROGRESS Linux Under the Hood [7/13]
+*** DONE Linux Under the Hood [13/13]
+    CLOSED: [2019-07-31 Wed 21:58]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:   9.00
+    :ACTUAL:   15.13
     :OWNER: akshay196
     :ID: READ.1563242496
     :TASKID: READ.1563242496
     :END:
     :LOGBOOK:
+    CLOCK: [2019-07-31 Wed 21:35]--[2019-07-31 Wed 21:57] =>  0:22
+    CLOCK: [2019-07-31 Wed 07:34]--[2019-07-31 Wed 08:45] =>  1:11
+    CLOCK: [2019-07-30 Tue 22:44]--[2019-07-30 Tue 23:09] =>  0:25
+    CLOCK: [2019-07-30 Tue 21:52]--[2019-07-30 Tue 22:33] =>  0:41
+    CLOCK: [2019-07-30 Tue 20:26]--[2019-07-30 Tue 20:50] =>  0:24
+    CLOCK: [2019-07-30 Tue 06:59]--[2019-07-30 Tue 07:47] =>  0:48
+    CLOCK: [2019-07-29 Mon 21:32]--[2019-07-29 Mon 22:20] =>  0:48
+    CLOCK: [2019-07-29 Mon 17:46]--[2019-07-29 Mon 19:15] =>  1:29
     CLOCK: [2019-07-28 Sun 21:12]--[2019-07-28 Sun 22:25] =>  1:13
     CLOCK: [2019-07-28 Sun 20:19]--[2019-07-28 Sun 20:24] =>  0:05
     CLOCK: [2019-07-28 Sun 14:13]--[2019-07-28 Sun 15:04] =>  0:51
@@ -64,12 +73,12 @@
     - [X] Lesson  5: Understanding Linux storage                       (80m)
     - [X] Lesson  6: Understanding memory management                   (40m)
     - [X] Lesson  7: Understanding process                             (40m)
-    - [ ] Lesson  8: Security                                          (60m)
-    - [ ] Lesson  9: Hardware initialization                           (35m)
-    - [ ] Lesson 10: Looking closer at the kernel                      (40m)
-    - [ ] Lesson 11: Understanding networking                          (50m)
-    - [ ] Lesson 12: Performance optimization                          (60m)
-    - [ ] Lesson 13: The future of Linux                               (23m)
+    - [X] Lesson  8: Security                                          (60m)
+    - [X] Lesson  9: Hardware initialization                           (35m)
+    - [X] Lesson 10: Looking closer at the kernel                      (40m)
+    - [X] Lesson 11: Understanding networking                          (50m)
+    - [X] Lesson 12: Performance optimization                          (60m)
+    - [X] Lesson 13: The future of Linux                               (23m)
 *** IN_PROGRESS GNU Emacs bug triaging [2/6]
     :PROPERTIES:
     :ESTIMATED: 7
