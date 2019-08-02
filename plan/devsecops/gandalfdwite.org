@@ -3,6 +3,15 @@
 #+TAGS: dev ops read meeting
 * GOALS
 ** DevOps
+*** Site Reliability
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: WATCH.1564687028
+    :TASKID: WATCH.1564687028
+    :END:
+    - [ ] System design for Site Reliability    ( 3h )
 *** Learning Terraform
     :PROPERTIES:
     :ESTIMATED: 10
@@ -15,19 +24,53 @@
     - [ ] Terraform CLI               ( 3h )
     - [ ] Terraform With AWS          ( 3h )
     - [ ] Terraform With Azure        ( 3h )
-*** Setup Blogging Website
-    :PROPERTIES:
-    :ESTIMATED: 3
-    :ACTUAL:
-    :OWNER: gandalfdwite
-    :ID: Do.1562171060
-    :TASKID: Do.1562171060
-    :END:
-
 ** Python
 *** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
     :PROPERTIES:
     :ESTIMATED: 30
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1553531542
+    :TASKID: READ.1553531542
+    :END:
+    - [ ] 14. Hashing                          ( 2h)
+    - [ ] 15. String Algorithms                ( 2h)
+    - [ ] 16. Algorithms Design Techniques     ( 1h)
+    - [ ] 17. Greedy Algorithms                ( 2h)
+    - [ ] 18. Divide and Conquer Algorithms    ( 1h)
+    - [ ] 19. Dynamic Programming              ( 1h)
+    - [ ] 20. Complexity Classes               ( 1h)
+*** Work on Chaostoolkit
+    :PROPERTIES:
+    :ESTIMATED: 12
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: DEV.1563199235
+    :TASKID: DEV.1563199235
+    :END:
+    - [ ] 3. Working on Issue     ( 4h )
+
+** Emacs
+** Unix
+* PLAN
+** August     2, 2019 - August    14, 2019 (13 days)
+   :PROPERTIES:
+   :wpd-gandalfdwite: 1
+   :END:
+*** TODO Work on Chaostoolkit Part II [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: DEV.1563199235
+    :TASKID: DEV.1563199235
+    :END:
+    - [ ] Working on Issue      ( 4h )
+      - Issue: #117 [[https://github.com/chaostoolkit/chaostoolkit/issues/117][Add --ignore option]]
+
+*** TODO Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
+    :PROPERTIES:
+    :ESTIMATED: 6
     :ACTUAL:
     :OWNER: gandalfdwite
     :ID: READ.1553531542
@@ -38,47 +81,12 @@
     - [ ] 11. Searching                        ( 2h)
     - [ ] 12. Selection Algorithms (Medians)   ( 1h)
     - [ ] 13. Symbol Tables                    ( 1h)
-    - [ ] 14. Hashing                          ( 2h)
-    - [ ] 15. String Algorithms                ( 2h)
-    - [ ] 16. Algorithms Design Techniques     ( 1h)
-    - [ ] 17. Greedy Algorithms                ( 2h)
-    - [ ] 18. Divide and Conquer Algorithms    ( 1h)
-    - [ ] 19. Dynamic Programming              ( 1h)
-    - [ ] 20. Complexity Classes               ( 1h)
-*** Work on Chaostoolkit
+*** TODO Site Reliability
     :PROPERTIES:
-    :ESTIMATED: 8
+    :ESTIMATED: 3
     :ACTUAL:
     :OWNER: gandalfdwite
-    :ID: DEV.1563199235
-    :TASKID: DEV.1563199235
+    :ID: WATCH.1564687028
+    :TASKID: WATCH.1564687028
     :END:
-    - [ ] 1. Understanding ChaosToolkit      ( 1h )
-    - [ ] 2. Issue Triaging                  ( 7h )
-** Emacs
-*** Org-capture
-    :PROPERTIES:
-    :ESTIMATED: 1.5
-    :ACTUAL:
-    :OWNER: gandalfdwite
-    :ID: READ.1562385851
-    :TASKID: READ.1562385851
-    :END:
-*** Org-agenda
-    :PROPERTIES:
-    :ESTIMATED: 1.5
-    :ACTUAL:
-    :OWNER:    gandalfdwite
-    :ID:       READ.1562385906
-    :TASKID:   READ.1562385906
-    :END:
-** Unix
-*** Unix Concepts & Applications by Sumitabha Das
-   :PROPERTIES:
-   :ESTIMATED: 35
-   :ACTUAL:
-   :OWNER: gandalfdwite
-   :ID: READ.1553532278
-   :TASKID: READ.1553532278
-   :END:
-* PLAN
+    - [ ] System design for Site Reliability    ( 3h )
