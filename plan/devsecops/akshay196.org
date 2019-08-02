@@ -14,53 +14,6 @@
 :END:
 Fifth Edition.
 Dan Mackin, Ben Whaley, Trent R. Hein, Garth Snyder, Evi Nemeth.
-- [ ] Chapter 17. Single Sign-On                        ( 2h)
-  - Core SSO elements
-  - LDAP: “lightweight” directory services
-  - Using directory services for login
-  - Alternative approaches
-- [ ] Chapter 18. Electronic Mail                       ( 2h)
-  - Mail system architecture
-  - Anatomy of a mail message
-  - The SMTP protocol
-  - Spam and malware
-  - Message privacy and encryption
-  - Mail aliases
-  - Email configuration
-  - sendmail
-  - Exim
-  - Postfix
-- [ ] Chapter 19. Web Hosting                           ( 2h)
-  - HTTP: the Hypertext Transfer Protocol
-  - Web software basics
-  - Web hosting in the cloud
-  - Apache httpd
-  - NGINX
-  - HAProxy
-- [ ] Chapter 20. Storage                               ( 3h)
-  - I just want to add a disk!
-  - Storage hardware
-  - Storage hardware interfaces
-  - Attachment and low-level management of drives
-  - The software side of storage: peeling the onion
-  - Disk partitioning
-  - Logical volume management
-  - RAID: redundant arrays of inexpensive disks
-  - Filesystems
-  - Traditional filesystems: UFS, ext4, and XFS
-  - Next-generation filesystems: ZFS and Btrfs
-  - ZFS: all your storage problems solved
-  - Btrfs: “ZFS lite” for Linux
-  - Data backup strategy
-- [ ] Chapter 21. The Network File System               ( 2h)
-  - Meet network file services
-  - The NFS approach
-  - Server-side NFS
-  - Client-side NFS
-  - Identity mapping for NFS version 4
-  - nfsstat: dump NFS statistics
-  - Dedicated NFS file servers
-  - Automatic mounting
 - [ ] Chapter 22. SMB                                   ( 2h)
   - Samba: SMB server for UNIX
   - Installing and configuring Samba
@@ -153,3 +106,74 @@ Dan Mackin, Ben Whaley, Trent R. Hein, Garth Snyder, Evi Nemeth.
 ** Emacs
 *** Triage Bugs
 * PLAN
+** August     2, 2019 - August    14, 2019 (13 days)
+   :PROPERTIES:
+   :wpd-akshay196: 1
+   :END:
+*** UNIX and Linux System Administration Handbook - Part III
+    :PROPERTIES:
+    :ESTIMATED: 11
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1555438527
+    :TASKID: READ.1555438527
+    :END:
+    - [ ] Chapter 17. Single Sign-On                        ( 2h)
+      - Core SSO elements
+      - LDAP: “lightweight” directory services
+      - Using directory services for login
+      - Alternative approaches
+    - [ ] Chapter 18. Electronic Mail                       ( 2h)
+      - Mail system architecture
+      - Anatomy of a mail message
+      - The SMTP protocol
+      - Spam and malware
+      - Message privacy and encryption
+      - Mail aliases
+      - Email configuration
+      - sendmail
+      - Exim
+      - Postfix
+    - [ ] Chapter 19. Web Hosting                           ( 2h)
+      - HTTP: the Hypertext Transfer Protocol
+      - Web software basics
+      - Web hosting in the cloud
+      - Apache httpd
+      - NGINX
+      - HAProxy
+    - [ ] Chapter 20. Storage                               ( 3h)
+      - I just want to add a disk!
+      - Storage hardware
+      - Storage hardware interfaces
+      - Attachment and low-level management of drives
+      - The software side of storage: peeling the onion
+      - Disk partitioning
+      - Logical volume management
+      - RAID: redundant arrays of inexpensive disks
+      - Filesystems
+      - Traditional filesystems: UFS, ext4, and XFS
+      - Next-generation filesystems: ZFS and Btrfs
+      - ZFS: all your storage problems solved
+      - Btrfs: “ZFS lite” for Linux
+      - Data backup strategy
+    - [ ] Chapter 21. The Network File System               ( 2h)
+      - Meet network file services
+      - The NFS approach
+      - Server-side NFS
+      - Client-side NFS
+      - Identity mapping for NFS version 4
+      - nfsstat: dump NFS statistics
+      - Dedicated NFS file servers
+      - Automatic mounting
+*** GNU Emacs bug triaging - Part II
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: OPS.1563244949
+    :TASKID: OPS.1563244949
+    :END:
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33092][#33092]]: 26.1; Re-running shell wipes font-lock from xterm-color
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33147][#33147]]: tex-mode: ${{{{a}}}}$ or more braces not highlighted
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32388][#32388]]: 26.1: ediff-merge-directories-with-ancestor and subdirectories
+    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=31306][#31306]]: 27.0.50; js-mode still missing ES2015 keywords

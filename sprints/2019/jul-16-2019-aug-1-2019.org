@@ -79,7 +79,8 @@
     - [X] Lesson 11: Understanding networking                          (50m)
     - [X] Lesson 12: Performance optimization                          (60m)
     - [X] Lesson 13: The future of Linux                               (23m)
-*** IN_PROGRESS GNU Emacs bug triaging [2/6]
+*** DONE GNU Emacs bug triaging - Part I [2/2]
+    CLOSED: [2019-08-02 Fri 11:20]
     :PROPERTIES:
     :ESTIMATED: 7
     :ACTUAL:   1.75
@@ -93,10 +94,6 @@
     :END:
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=35393][#35393]]: `help-echo' text propertized with `face' is not shown in that face
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33858][#33858]]: 26.1; Scrolling up fails
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33092][#33092]]: 26.1; Re-running shell wipes font-lock from xterm-color
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33147][#33147]]: tex-mode: ${{{{a}}}}$ or more braces not highlighted
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32388][#32388]]: 26.1: ediff-merge-directories-with-ancestor and subdirectories
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=31306][#31306]]: 27.0.50; js-mode still missing ES2015 keywords
 ** bhavin192
 *** IN_PROGRESS Mastering Distributed Tracing - II. Data Gathering Problem [1/5]
     :PROPERTIES:
