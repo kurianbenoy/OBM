@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2019-08-02 Fri>
   :wpd-akshay196: 1
+  :wpd-gandalfdwite: 1
   :END:
 ** akshay196
 *** UNIX and Linux System Administration Handbook - Part III
@@ -95,3 +96,37 @@
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33147][#33147]]: tex-mode: ${{{{a}}}}$ or more braces not highlighted
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32388][#32388]]: 26.1: ediff-merge-directories-with-ancestor and subdirectories
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=31306][#31306]]: 27.0.50; js-mode still missing ES2015 keywords
+** gandalfdwite
+*** TODO Work on Chaostoolkit Part II [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: DEV.1563199235
+    :TASKID: DEV.1563199235
+    :END:
+    - [ ] Working on Issue      ( 4h )
+      - Issue: #117 [[https://github.com/chaostoolkit/chaostoolkit/issues/117][Add --ignore option]]
+
+*** TODO Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1553531542
+    :TASKID: READ.1553531542
+    :END:
+
+    - [ ] 10. Sorting                          ( 2h)
+    - [ ] 11. Searching                        ( 2h)
+    - [ ] 12. Selection Algorithms (Medians)   ( 1h)
+    - [ ] 13. Symbol Tables                    ( 1h)
+*** TODO Site Reliability
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: WATCH.1564687028
+    :TASKID: WATCH.1564687028
+    :END:
+    - [ ] System design for Site Reliability    ( 3h )
