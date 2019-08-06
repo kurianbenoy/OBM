@@ -8,8 +8,8 @@
     :ESTIMATED: 3
     :ACTUAL:
     :OWNER: gandalfdwite
-    :ID: WATCH.1564687028
-    :TASKID: WATCH.1564687028
+    :ID: READ.1564687028
+    :TASKID: READ.1564687028
     :END:
     - [ ] System design for Site Reliability    ( 3h )
 *** Learning Terraform

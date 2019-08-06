@@ -97,13 +97,18 @@
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32388][#32388]]: 26.1: ediff-merge-directories-with-ancestor and subdirectories
     - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=31306][#31306]]: 27.0.50; js-mode still missing ES2015 keywords
 ** gandalfdwite
-*** TODO Work on Chaostoolkit Part II [0/1]
+*** IN_PROGRESS Work on Chaostoolkit Part II [0/1]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   4.80
     :OWNER: gandalfdwite
     :ID: DEV.1563199235
     :TASKID: DEV.1563199235
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-05 Mon 20:40]--[2019-08-05 Mon 21:45] =>  1:05
+    CLOCK: [2019-08-04 Sun 22:09]--[2019-08-04 Sun 23:40] =>  1:31
+    CLOCK: [2019-08-03 Sat 21:26]--[2019-08-03 Sat 23:38] =>  2:12
     :END:
     - [ ] Working on Issue      ( 4h )
       - Issue: #117 [[https://github.com/chaostoolkit/chaostoolkit/issues/117][Add --ignore option]]
@@ -126,7 +131,7 @@
     :ESTIMATED: 3
     :ACTUAL:
     :OWNER: gandalfdwite
-    :ID: WATCH.1564687028
-    :TASKID: WATCH.1564687028
+    :ID: READ.1564687028
+    :TASKID: READ.1564687028
     :END:
     - [ ] System design for Site Reliability    ( 3h )
