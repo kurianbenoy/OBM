@@ -130,3 +130,158 @@
     :TASKID: WATCH.1564687028
     :END:
     - [ ] System design for Site Reliability    ( 3h )
+** jasonbraganza
+*** Work at French, in the Fluent forever app - Part V [6/13]
+   :PROPERTIES:
+   :ESTIMATED: 11
+   :ACTUAL:   5.15
+   :OWNER: jasonbraganza
+   :ID: WRITE.1557903518
+   :TASKID: WRITE.1557903518
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-08-07 Wed 09:15]--[2019-08-07 Wed 09:47] =>  0:32
+   CLOCK: [2019-08-06 Tue 08:55]--[2019-08-06 Tue 09:45] =>  0:50
+   CLOCK: [2019-08-05 Mon 06:56]--[2019-08-05 Mon 08:02] =>  1:06
+   CLOCK: [2019-08-04 Sun 07:00]--[2019-08-04 Sun 08:10] =>  1:10
+   CLOCK: [2019-08-03 Sat 07:15]--[2019-08-03 Sat 08:15] =>  1:00
+   CLOCK: [2019-08-02 Fri 07:00]--[2019-08-02 Fri 08:03] =>  1:03
+   :END:
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+*** Write twice a week - 3 [0/4]
+   :PROPERTIES:
+   :ESTIMATED: 4
+   :ACTUAL:   0.00
+   :OWNER: jasonbraganza
+   :ID: WRITE.1559630427
+   :TASKID: WRITE.1559630427
+   :END:
+   :LOGBOOK:
+   :END:
+   - [ ] Write a short blog post. (1h)
+   - [ ] Write a short blog post. (1h)
+   - [ ] Write a short blog post. (1h)
+   - [ ] Write a short blog post. (1h)
+*** Read books - 2 [0/13]
+   :PROPERTIES:
+   :ESTIMATED: 3
+   :ACTUAL:   0.00
+   :OWNER: jasonbraganza
+   :ID: READ.1559630918
+   :TASKID: READ.1559630918
+   :END:
+   :LOGBOOK:
+   :END:
+   - [ ] Read (15m)
+   - [ ] Read (15m)
+   - [ ] Read (15m)
+   - [ ] Read (15m)
+   - [ ] Read (15m)
+   - [ ] Read (15m)
+   - [ ] Read (15m)
+   - [ ] Read (15m)
+   - [ ] Read (15m)
+   - [ ] Read (15m)
+   - [ ] Read (15m)
+   - [ ] Read (15m)
+   - [ ] Read (15m)
+*** NIOS - Geography [0/1] 
+**** Write Geo Tests [0/5]
+    :PROPERTIES:
+    :ESTIMATED: 7.5
+    :ACTUAL:
+    :OWNER: jasonbraganza
+    :ID: WRITE.1564476873
+    :TASKID: WRITE.1564476873
+    :END:
+    - [ ] Chapter 1, write into Anki. (1.5h)
+    - [ ] Chapter 2, write into Anki. (1.5h)
+    - [ ] Chapter 3, write into Anki. (1.5h)
+    - [ ] Chapter 4, write into Anki. (1.5h)
+    - [ ] Chapter 5, write into Anki. (1.5h)
+*** Python Practice [1/1]
+**** Mentor Assigned Problems - 1 [2/5]
+   :PROPERTIES:
+   :ESTIMATED: 10
+   :ACTUAL:   4.13
+   :OWNER: jasonbraganza
+   :ID: DEV.1564479096
+   :TASKID: DEV.1564479096
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-08-07 Wed 12:10]--[2019-08-07 Wed 12:35] =>  0:25
+   CLOCK: [2019-08-07 Wed 11:12]--[2019-08-07 Wed 12:00] =>  0:48
+   CLOCK: [2019-08-07 Wed 09:50]--[2019-08-07 Wed 10:50] =>  1:00
+   CLOCK: [2019-08-06 Tue 11:09]--[2019-08-06 Tue 12:21] =>  1:12
+   CLOCK: [2019-08-06 Tue 10:00]--[2019-08-06 Tue 10:43] =>  0:43
+   :END:
+   - [X] Tackle problem (2h)
+   - [X] Tackle problem (2h)
+   - [ ] Tackle problem (2h)
+   - [ ] Tackle problem (2h)
+   - [ ] Tackle problem (2h)
+**** DONE Python Jumpstart by Building 10 Apps [5/5]
+   :PROPERTIES:
+     :ESTIMATED: 5
+     :ACTUAL:   5.75
+     :OWNER: jasonbraganza
+     :ID: DEV.1564482384
+     :TASKID: DEV.1564482384
+     :END:
+   :LOGBOOK:
+   CLOCK: [2019-08-07 Wed 17:51]--[2019-08-07 Wed 18:58] =>  1:07
+   CLOCK: [2019-08-07 Wed 16:19]--[2019-08-07 Wed 16:32] =>  0:13
+   CLOCK: [2019-08-07 Wed 14:33]--[2019-08-07 Wed 15:24] =>  0:51
+   CLOCK: [2019-08-06 Tue 17:07]--[2019-08-06 Tue 17:20] =>  0:13
+   CLOCK: [2019-08-06 Tue 16:00]--[2019-08-06 Tue 17:07] =>  1:07
+   CLOCK: [2019-08-06 Tue 14:52]--[2019-08-06 Tue 15:25] =>  0:33
+   CLOCK: [2019-08-06 Tue 13:49]--[2019-08-06 Tue 14:50] =>  1:01
+   CLOCK: [2019-08-06 Tue 13:39]--[2019-08-06 Tue 13:49] =>  0:10
+   CLOCK: [2019-08-06 Tue 12:25]--[2019-08-06 Tue 12:55] =>  0:30
+   :END:
+   - [X] Tackle problem (1h)
+   - [X] Tackle problem (1h)
+   - [X] Tackle problem (1h)
+   - [X] Tackle problem (1h)
+   - [X] Tackle problem (1h)
+**** Read Lutz Learning Python [0/5]
+     :PROPERTIES:
+     :ESTIMATED: 5
+     :ACTUAL:
+     :OWNER: jasonbraganza
+     :ID: READ.1564479823
+     :TASKID: READ.1564479823
+     :END:
+   - [ ] Read Learning Python (1h)
+   - [ ] Read Learning Python (1h)
+   - [ ] Read Learning Python (1h)
+   - [ ] Read Learning Python (1h)
+   - [ ] Read Learning Python (1h)
+*** OSSU [0/1]
+**** Introduction to Computer Science and Programming Using Python (Exercises) - Part I [0/1]
+   :PROPERTIES:
+   :ESTIMATED: 2
+   :ACTUAL:   0.00
+   :OWNER: jasonbraganza
+   :ID: DEV.1564118176
+   :TASKID: DEV.1564118176
+   :END:
+   :LOGBOOK:
+   :END:
+     - [ ] Chapter 11 [0/4]
+       - [ ] Exercise 1 
+       - [ ] Exercise 2 
+       - [ ] Exercise 3 
+       - [ ] Exercise 4 
