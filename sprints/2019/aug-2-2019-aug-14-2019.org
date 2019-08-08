@@ -211,7 +211,7 @@
     - [ ] Chapter 3, write into Anki. (1.5h)
     - [ ] Chapter 4, write into Anki. (1.5h)
     - [ ] Chapter 5, write into Anki. (1.5h)
-*** Python Practice [1/1]
+*** Python Practice [1/3]
 **** Mentor Assigned Problems - 1 [2/5]
    :PROPERTIES:
    :ESTIMATED: 10
@@ -256,15 +256,18 @@
    - [X] Tackle problem (1h)
    - [X] Tackle problem (1h)
    - [X] Tackle problem (1h)
-**** Read Lutz Learning Python [0/5]
+**** Read Lutz Learning Python [1/5]
      :PROPERTIES:
      :ESTIMATED: 5
-     :ACTUAL:
+     :ACTUAL:   1.03
      :OWNER: jasonbraganza
      :ID: READ.1564479823
      :TASKID: READ.1564479823
      :END:
-   - [ ] Read Learning Python (1h)
+     :LOGBOOK:
+     CLOCK: [2019-08-08 Thu 07:29]--[2019-08-08 Thu 08:31] =>  1:02
+     :END:
+   - [X] Read Learning Python (1h)
    - [ ] Read Learning Python (1h)
    - [ ] Read Learning Python (1h)
    - [ ] Read Learning Python (1h)
