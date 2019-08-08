@@ -29,13 +29,16 @@
   :wpd-gandalfdwite: 1
   :END:
 ** akshay196
-*** UNIX and Linux System Administration Handbook - Part III
+*** IN_PROGRESS UNIX and Linux System Administration Handbook - Part III
     :PROPERTIES:
     :ESTIMATED: 11
-    :ACTUAL:
+    :ACTUAL:   0.48
     :OWNER: akshay196
     :ID: READ.1555438527
     :TASKID: READ.1555438527
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-07 Wed 22:12]--[2019-08-07 Wed 22:41] =>  0:29
     :END:
     - [ ] Chapter 17. Single Sign-On                        ( 2h)
       - Core SSO elements
@@ -84,18 +87,24 @@
       - nfsstat: dump NFS statistics
       - Dedicated NFS file servers
       - Automatic mounting
-*** GNU Emacs bug triaging - Part II
+*** DONE GNU Emacs bug triaging - Part II
+    CLOSED: [2019-08-06 Tue 21:42]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   2.08
     :OWNER: akshay196
     :ID: OPS.1563244949
     :TASKID: OPS.1563244949
     :END:
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33092][#33092]]: 26.1; Re-running shell wipes font-lock from xterm-color
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33147][#33147]]: tex-mode: ${{{{a}}}}$ or more braces not highlighted
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32388][#32388]]: 26.1: ediff-merge-directories-with-ancestor and subdirectories
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=31306][#31306]]: 27.0.50; js-mode still missing ES2015 keywords
+    :LOGBOOK:
+    CLOCK: [2019-08-06 Tue 20:51]--[2019-08-06 Tue 21:42] =>  0:51
+    CLOCK: [2019-08-05 Mon 22:06]--[2019-08-05 Mon 22:59] =>  0:53
+    CLOCK: [2019-08-03 Sat 23:13]--[2019-08-03 Sat 23:34] =>  0:21
+    :END:
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33092][#33092]]: 26.1; Re-running shell wipes font-lock from xterm-color
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33147][#33147]]: tex-mode: ${{{{a}}}}$ or more braces not highlighted
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32388][#32388]]: 26.1: ediff-merge-directories-with-ancestor and subdirectories
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=31306][#31306]]: 27.0.50; js-mode still missing ES2015 keywords
 ** gandalfdwite
 *** TODO Work on Chaostoolkit Part II [0/1]
     :PROPERTIES:
