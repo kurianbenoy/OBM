@@ -27,6 +27,7 @@
   :SPRINTSTART: <2019-08-02 Fri>
   :wpd-akshay196: 1
   :wpd-gandalfdwite: 1
+  :wpd-jasonbraganza: 4
   :END:
 ** akshay196
 *** IN_PROGRESS UNIX and Linux System Administration Handbook - Part III
@@ -288,19 +289,3 @@
    - [ ] Read Learning Python (1h)
    - [ ] Read Learning Python (1h)
    - [ ] Read Learning Python (1h)
-*** OSSU [0/1]
-**** Introduction to Computer Science and Programming Using Python (Exercises) - Part I [0/1]
-   :PROPERTIES:
-   :ESTIMATED: 2
-   :ACTUAL:   0.00
-   :OWNER: jasonbraganza
-   :ID: DEV.1564118176
-   :TASKID: DEV.1564118176
-   :END:
-   :LOGBOOK:
-   :END:
-     - [ ] Chapter 11 [0/4]
-       - [ ] Exercise 1 
-       - [ ] Exercise 2 
-       - [ ] Exercise 3 
-       - [ ] Exercise 4 
