@@ -175,15 +175,16 @@
     :END:
     - [ ] System design for Site Reliability    ( 3h )
 ** jasonbraganza
-*** Work at French, in the Fluent forever app - Part V [7/13]
+*** Work at French, in the Fluent forever app - Part V [8/13]
    :PROPERTIES:
    :ESTIMATED: 11
-   :ACTUAL:   6.43
+   :ACTUAL:   7.43
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-08-09 Fri 08:06]--[2019-08-09 Fri 09:06] =>  0:00
    CLOCK: [2019-08-08 Thu 06:30]--[2019-08-08 Thu 07:15] =>  0:45
    CLOCK: [2019-08-07 Wed 09:15]--[2019-08-07 Wed 09:47] =>  0:32
    CLOCK: [2019-08-06 Tue 08:55]--[2019-08-06 Tue 09:45] =>  0:50
@@ -199,7 +200,7 @@
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
