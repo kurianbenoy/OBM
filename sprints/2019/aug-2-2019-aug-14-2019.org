@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2019-08-02 Fri>
   :wpd-akshay196: 1
+  :wpd-bhavin192: 1  
   :wpd-gandalfdwite: 1
   :wpd-jasonbraganza: 4
   :END:
@@ -106,6 +107,34 @@
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33147][#33147]]: tex-mode: ${{{{a}}}}$ or more braces not highlighted
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32388][#32388]]: 26.1: ediff-merge-directories-with-ancestor and subdirectories
     - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=31306][#31306]]: 27.0.50; js-mode still missing ES2015 keywords
+** bhavin192
+*** Write blog post about Python Pune
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1563295962
+    :TASKID:   WRITE.1563295962
+    :END:
+*** Attend #23: Stateful apps on Kubernetes
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       EVENT.1565024608
+    :TASKID:   EVENT.1565024608
+    :END:
+    https://www.meetup.com/Kubernetes-Pune/events/263578205/
+*** Attend Microservice fundamentals
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1565011109
+    :TASKID:   READ.1565011109
+    :END:
+    https://learning.oreilly.com/live-training/courses/microservice-fundamentals/0636920279778/
+
 ** gandalfdwite
 *** IN_PROGRESS Work on Chaostoolkit Part II [0/1]
     :PROPERTIES:
