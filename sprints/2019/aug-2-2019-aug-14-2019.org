@@ -34,20 +34,24 @@
 *** IN_PROGRESS UNIX and Linux System Administration Handbook - Part III
     :PROPERTIES:
     :ESTIMATED: 11
-    :ACTUAL:   0.48
+    :ACTUAL:   4.52
     :OWNER: akshay196
     :ID: READ.1555438527
     :TASKID: READ.1555438527
     :END:
     :LOGBOOK:
+    CLOCK: [2019-08-11 Sun 21:04]--[2019-08-11 Sun 22:22] =>  1:18
+    CLOCK: [2019-08-11 Sun 10:42]--[2019-08-11 Sun 11:55] =>  1:13
+    CLOCK: [2019-08-09 Fri 23:45]--[2019-08-10 Sat 00:28] =>  0:43
+    CLOCK: [2019-08-09 Fri 00:04]--[2019-08-09 Fri 00:52] =>  0:48
     CLOCK: [2019-08-07 Wed 22:12]--[2019-08-07 Wed 22:41] =>  0:29
     :END:
-    - [ ] Chapter 17. Single Sign-On                        ( 2h)
+    - [X] Chapter 17. Single Sign-On                        ( 2h)
       - Core SSO elements
       - LDAP: “lightweight” directory services
       - Using directory services for login
       - Alternative approaches
-    - [ ] Chapter 18. Electronic Mail                       ( 2h)
+    - [X] Chapter 18. Electronic Mail                       ( 2h)
       - Mail system architecture
       - Anatomy of a mail message
       - The SMTP protocol
