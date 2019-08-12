@@ -190,16 +190,19 @@
     :END:
     - [ ] System design for Site Reliability    ( 3h )
 ** jasonbraganza
-*** Work at French, in the Fluent forever app - Part V [8/13]
+*** Work at French, in the Fluent forever app - Part V [11/13]
    :PROPERTIES:
    :ESTIMATED: 11
-   :ACTUAL:   7.43
+   :ACTUAL:   10.32
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
-   CLOCK: [2019-08-09 Fri 08:06]--[2019-08-09 Fri 09:06] =>  0:00
+   CLOCK: [2019-08-12 Mon 06:45]--[2019-08-12 Mon 07:35] =>  0:50
+   CLOCK: [2019-08-11 Sun 10:30]--[2019-08-11 Sun 11:15] =>  0:45
+   CLOCK: [2019-08-10 Sat 06:32]--[2019-08-10 Sat 07:50] =>  1:18
+   CLOCK: [2019-08-09 Fri 08:06]--[2019-08-09 Fri 09:06] =>  1:00
    CLOCK: [2019-08-08 Thu 06:30]--[2019-08-08 Thu 07:15] =>  0:45
    CLOCK: [2019-08-07 Wed 09:15]--[2019-08-07 Wed 09:47] =>  0:32
    CLOCK: [2019-08-06 Tue 08:55]--[2019-08-06 Tue 09:45] =>  0:50
@@ -216,25 +219,26 @@
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-*** Write twice a week - 3 [2/4]
+*** Write twice a week - 3 [3/4]
    :PROPERTIES:
    :ESTIMATED: 4
-   :ACTUAL:   1.40
+   :ACTUAL:   2.48
    :OWNER: jasonbraganza
    :ID: WRITE.1559630427
    :TASKID: WRITE.1559630427
    :END:
    :LOGBOOK:
+   CLOCK: [2019-08-12 Mon 13:30]--[2019-08-12 Mon 14:35] =>  1:05
    CLOCK: [2019-08-08 Thu 09:06]--[2019-08-08 Thu 10:30] =>  1:24
    :END:
    - [X] Write a short blog post. (1h)
    - [X] Write a short blog post. (1h)
-   - [ ] Write a short blog post. (1h)
+   - [X] Write a short blog post. (1h)
    - [ ] Write a short blog post. (1h)
 *** Read books - 2 [0/13]
    :PROPERTIES:
