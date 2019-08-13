@@ -190,15 +190,16 @@
     :END:
     - [ ] System design for Site Reliability    ( 3h )
 ** jasonbraganza
-*** Work at French, in the Fluent forever app - Part V [11/13]
+*** Work at French, in the Fluent forever app - Part V [12/13]
    :PROPERTIES:
    :ESTIMATED: 11
-   :ACTUAL:   10.32
+   :ACTUAL:   11.27
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-08-13 Tue 09:00]--[2019-08-13 Tue 09:57] =>  0:00
    CLOCK: [2019-08-12 Mon 06:45]--[2019-08-12 Mon 07:35] =>  0:50
    CLOCK: [2019-08-11 Sun 10:30]--[2019-08-11 Sun 11:15] =>  0:45
    CLOCK: [2019-08-10 Sat 06:32]--[2019-08-10 Sat 07:50] =>  1:18
@@ -222,25 +223,28 @@
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-*** Write twice a week - 3 [3/4]
+*** DONE Write twice a week - 3 [4/4]
+   CLOSED: [2019-08-13 Tue 11:20]
    :PROPERTIES:
    :ESTIMATED: 4
-   :ACTUAL:   2.48
+   :ACTUAL:   3.82
    :OWNER: jasonbraganza
    :ID: WRITE.1559630427
    :TASKID: WRITE.1559630427
    :END:
    :LOGBOOK:
+   CLOCK: [2019-08-13 Tue 10:00]--[2019-08-13 Tue 11:20] =>  1:20
    CLOCK: [2019-08-12 Mon 13:30]--[2019-08-12 Mon 14:35] =>  1:05
    CLOCK: [2019-08-08 Thu 09:06]--[2019-08-08 Thu 10:30] =>  1:24
    :END:
    - [X] Write a short blog post. (1h)
    - [X] Write a short blog post. (1h)
    - [X] Write a short blog post. (1h)
-   - [ ] Write a short blog post. (1h)
-*** Read books - 2 [0/13]
+   - [X] Write a short blog post. (1h)
+*** DONE Read books - 2 [13/13]
+   CLOSED: [2019-08-13 Tue 00:35]
    :PROPERTIES:
    :ESTIMATED: 3
    :ACTUAL:   0.00
@@ -249,20 +253,21 @@
    :TASKID: READ.1559630918
    :END:
    :LOGBOOK:
+   CLOCK: [2019-08-12 Mon 20:00]--[2019-08-13 Tue 00:35] =>  4:35
    :END:
-   - [ ] Read (15m)
-   - [ ] Read (15m)
-   - [ ] Read (15m)
-   - [ ] Read (15m)
-   - [ ] Read (15m)
-   - [ ] Read (15m)
-   - [ ] Read (15m)
-   - [ ] Read (15m)
-   - [ ] Read (15m)
-   - [ ] Read (15m)
-   - [ ] Read (15m)
-   - [ ] Read (15m)
-   - [ ] Read (15m)
+   - [X] Read (15m)
+   - [X] Read (15m)
+   - [X] Read (15m)
+   - [X] Read (15m)
+   - [X] Read (15m)
+   - [X] Read (15m)
+   - [X] Read (15m)
+   - [X] Read (15m)
+   - [X] Read (15m)
+   - [X] Read (15m)
+   - [X] Read (15m)
+   - [X] Read (15m)
+   - [X] Read (15m)
 *** NIOS - Geography [0/1] 
 **** Write Geo Tests [0/5]
     :PROPERTIES:
@@ -299,6 +304,7 @@
    - [ ] Tackle problem (2h)
    - [ ] Tackle problem (2h)
 **** DONE Python Jumpstart by Building 10 Apps [5/5]
+   CLOSED: [2019-08-07 Wed 18:58]
    :PROPERTIES:
      :ESTIMATED: 5
      :ACTUAL:   5.75
