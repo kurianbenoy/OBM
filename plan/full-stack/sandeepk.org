@@ -188,17 +188,17 @@
 
 ** August    31, 2019 - September 12, 2019 (13 days)
    :PROPERTIES:
-   :wpd-akshay196: 1
+   :wpd-sandeepk:
    :END:
-
+   
 ** September 13, 2019 - September 29, 2019 (17 days)
    :PROPERTIES:
-   :wpd-akshay196: 1
+   :wpd-sandeepk:
    :END:
 
 ** Spetember 30, 2019 - October   12, 2019 (13 days)
    :PROPERTIES:
-   :wpd-akshay196: 1
+   :wpd-sandeepk:
    :END:
 
 ** October   13, 2019 - October   28, 2019 (16 days)
