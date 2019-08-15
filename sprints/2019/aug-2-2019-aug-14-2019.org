@@ -220,127 +220,126 @@
     - [X] System design for Site Reliability    ( 3h )
 ** jasonbraganza
 *** DONE Work at French, in the Fluent forever app - Part V [13/13]
-   CLOSED: [2019-08-14 Wed 08:22]
-   :PROPERTIES:
+    CLOSED: [2019-08-14 Wed 08:22]
+    :PROPERTIES:
    :ESTIMATED: 11
    :ACTUAL:   12.63
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
-   :LOGBOOK:
-   CLOCK: [2019-08-14 Wed 07:00]--[2019-08-14 Wed 08:22] =>  1:22
-   CLOCK: [2019-08-13 Tue 09:00]--[2019-08-13 Tue 09:57] =>  0:00
-   CLOCK: [2019-08-12 Mon 06:45]--[2019-08-12 Mon 07:35] =>  0:50
-   CLOCK: [2019-08-11 Sun 10:30]--[2019-08-11 Sun 11:15] =>  0:45
-   CLOCK: [2019-08-10 Sat 06:32]--[2019-08-10 Sat 07:50] =>  1:18
-   CLOCK: [2019-08-09 Fri 08:06]--[2019-08-09 Fri 09:06] =>  1:00
-   CLOCK: [2019-08-08 Thu 06:30]--[2019-08-08 Thu 07:15] =>  0:45
-   CLOCK: [2019-08-07 Wed 09:15]--[2019-08-07 Wed 09:47] =>  0:32
-   CLOCK: [2019-08-06 Tue 08:55]--[2019-08-06 Tue 09:45] =>  0:50
-   CLOCK: [2019-08-05 Mon 06:56]--[2019-08-05 Mon 08:02] =>  1:06
-   CLOCK: [2019-08-04 Sun 07:00]--[2019-08-04 Sun 08:10] =>  1:10
-   CLOCK: [2019-08-03 Sat 07:15]--[2019-08-03 Sat 08:15] =>  1:00
-   CLOCK: [2019-08-02 Fri 07:00]--[2019-08-02 Fri 08:03] =>  1:03
-   :END:
-   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    :LOGBOOK:
+    CLOCK: [2019-08-14 Wed 07:00]--[2019-08-14 Wed 08:22] =>  1:22
+    CLOCK: [2019-08-13 Tue 09:00]--[2019-08-13 Tue 09:57] =>  0:00
+    CLOCK: [2019-08-12 Mon 06:45]--[2019-08-12 Mon 07:35] =>  0:50
+    CLOCK: [2019-08-11 Sun 10:30]--[2019-08-11 Sun 11:15] =>  0:45
+    CLOCK: [2019-08-10 Sat 06:32]--[2019-08-10 Sat 07:50] =>  1:18
+    CLOCK: [2019-08-09 Fri 08:06]--[2019-08-09 Fri 09:06] =>  1:00
+    CLOCK: [2019-08-08 Thu 06:30]--[2019-08-08 Thu 07:15] =>  0:45
+    CLOCK: [2019-08-07 Wed 09:15]--[2019-08-07 Wed 09:47] =>  0:32
+    CLOCK: [2019-08-06 Tue 08:55]--[2019-08-06 Tue 09:45] =>  0:50
+    CLOCK: [2019-08-05 Mon 06:56]--[2019-08-05 Mon 08:02] =>  1:06
+    CLOCK: [2019-08-04 Sun 07:00]--[2019-08-04 Sun 08:10] =>  1:10
+    CLOCK: [2019-08-03 Sat 07:15]--[2019-08-03 Sat 08:15] =>  1:00
+    CLOCK: [2019-08-02 Fri 07:00]--[2019-08-02 Fri 08:03] =>  1:03
+    :END:
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
 *** DONE Write twice a week - 3 [4/4]
-   CLOSED: [2019-08-13 Tue 11:20]
-   :PROPERTIES:
-   :ESTIMATED: 4
-   :ACTUAL:   3.82
-   :OWNER: jasonbraganza
-   :ID: WRITE.1559630427
-   :TASKID: WRITE.1559630427
-   :END:
-   :LOGBOOK:
-   CLOCK: [2019-08-13 Tue 10:00]--[2019-08-13 Tue 11:20] =>  1:20
-   CLOCK: [2019-08-12 Mon 13:30]--[2019-08-12 Mon 14:35] =>  1:05
-   CLOCK: [2019-08-08 Thu 09:06]--[2019-08-08 Thu 10:30] =>  1:24
-   :END:
-   - [X] Write a short blog post. (1h)
-   - [X] Write a short blog post. (1h)
-   - [X] Write a short blog post. (1h)
-   - [X] Write a short blog post. (1h)
+    CLOSED: [2019-08-13 Tue 11:20]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:   3.82
+    :OWNER: jasonbraganza
+    :ID: WRITE.1559630427
+    :TASKID: WRITE.1559630427
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-13 Tue 10:00]--[2019-08-13 Tue 11:20] =>  1:20
+    CLOCK: [2019-08-12 Mon 13:30]--[2019-08-12 Mon 14:35] =>  1:05
+    CLOCK: [2019-08-08 Thu 09:06]--[2019-08-08 Thu 10:30] =>  1:24
+    :END:
+    - [X] Write a short blog post. (1h)
+    - [X] Write a short blog post. (1h)
+    - [X] Write a short blog post. (1h)
+    - [X] Write a short blog post. (1h)
 *** DONE Read books - 2 [13/13]
-   CLOSED: [2019-08-13 Tue 00:35]
-   :PROPERTIES:
-   :ESTIMATED: 3
-   :ACTUAL:   0.00
-   :OWNER: jasonbraganza
-   :ID: READ.1559630918
-   :TASKID: READ.1559630918
-   :END:
-   :LOGBOOK:
-   CLOCK: [2019-08-12 Mon 20:00]--[2019-08-13 Tue 00:35] =>  4:35
-   :END:
-   - [X] Read (15m)
-   - [X] Read (15m)
-   - [X] Read (15m)
-   - [X] Read (15m)
-   - [X] Read (15m)
-   - [X] Read (15m)
-   - [X] Read (15m)
-   - [X] Read (15m)
-   - [X] Read (15m)
-   - [X] Read (15m)
-   - [X] Read (15m)
-   - [X] Read (15m)
-   - [X] Read (15m)
-*** DONE Python Practice [2/2]
-**** DONE Python Jumpstart by Building 10 Apps [5/5]
-   CLOSED: [2019-08-07 Wed 18:58]
-   :PROPERTIES:
-     :ESTIMATED: 5
-     :ACTUAL:   5.75
-     :OWNER: jasonbraganza
-     :ID: DEV.1564482384
-     :TASKID: DEV.1564482384
-     :END:
-   :LOGBOOK:
-   CLOCK: [2019-08-07 Wed 17:51]--[2019-08-07 Wed 18:58] =>  1:07
-   CLOCK: [2019-08-07 Wed 16:19]--[2019-08-07 Wed 16:32] =>  0:13
-   CLOCK: [2019-08-07 Wed 14:33]--[2019-08-07 Wed 15:24] =>  0:51
-   CLOCK: [2019-08-06 Tue 17:07]--[2019-08-06 Tue 17:20] =>  0:13
-   CLOCK: [2019-08-06 Tue 16:00]--[2019-08-06 Tue 17:07] =>  1:07
-   CLOCK: [2019-08-06 Tue 14:52]--[2019-08-06 Tue 15:25] =>  0:33
-   CLOCK: [2019-08-06 Tue 13:49]--[2019-08-06 Tue 14:50] =>  1:01
-   CLOCK: [2019-08-06 Tue 13:39]--[2019-08-06 Tue 13:49] =>  0:10
-   CLOCK: [2019-08-06 Tue 12:25]--[2019-08-06 Tue 12:55] =>  0:30
-   :END:
-   - [X] Tackle problem (1h)
-   - [X] Tackle problem (1h)
-   - [X] Tackle problem (1h)
-   - [X] Tackle problem (1h)
-   - [X] Tackle problem (1h)
-**** DONE Read Lutz Learning Python [5/5]
-     CLOSED: [2019-08-13 Tue 17:03]
-     :PROPERTIES:
-     :ESTIMATED: 5
-     :ACTUAL:   5.97
-     :OWNER: jasonbraganza
-     :ID: READ.1564479823
-     :TASKID: READ.1564479823
-     :END:
-     :LOGBOOK:
-     CLOCK: [2019-08-13 Tue 14:30]--[2019-08-13 Tue 17:03] =>  2:33
-     CLOCK: [2019-08-12 Mon 15:02]--[2019-08-12 Mon 17:25] =>  2:23
-     CLOCK: [2019-08-08 Thu 07:29]--[2019-08-08 Thu 08:31] =>  1:02
-     :END:
-   - [X] Read Learning Python (1h)
-   - [X] Read Learning Python (1h)
-   - [X] Read Learning Python (1h)
-   - [X] Read Learning Python (1h)
-   - [X] Read Learning Python (1h)
+    CLOSED: [2019-08-13 Tue 00:35]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:   0.00
+    :OWNER: jasonbraganza
+    :ID: READ.1559630918
+    :TASKID: READ.1559630918
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-12 Mon 20:00]--[2019-08-13 Tue 00:35] =>  4:35
+    :END:
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+*** DONE Python Jumpstart by Building 10 Apps [5/5]
+    CLOSED: [2019-08-07 Wed 18:58]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:   5.75
+    :OWNER: jasonbraganza
+    :ID: DEV.1564482384
+    :TASKID: DEV.1564482384
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-07 Wed 17:51]--[2019-08-07 Wed 18:58] =>  1:07
+    CLOCK: [2019-08-07 Wed 16:19]--[2019-08-07 Wed 16:32] =>  0:13
+    CLOCK: [2019-08-07 Wed 14:33]--[2019-08-07 Wed 15:24] =>  0:51
+    CLOCK: [2019-08-06 Tue 17:07]--[2019-08-06 Tue 17:20] =>  0:13
+    CLOCK: [2019-08-06 Tue 16:00]--[2019-08-06 Tue 17:07] =>  1:07
+    CLOCK: [2019-08-06 Tue 14:52]--[2019-08-06 Tue 15:25] =>  0:33
+    CLOCK: [2019-08-06 Tue 13:49]--[2019-08-06 Tue 14:50] =>  1:01
+    CLOCK: [2019-08-06 Tue 13:39]--[2019-08-06 Tue 13:49] =>  0:10
+    CLOCK: [2019-08-06 Tue 12:25]--[2019-08-06 Tue 12:55] =>  0:30
+    :END:
+    - [X] Tackle problem (1h)
+    - [X] Tackle problem (1h)
+    - [X] Tackle problem (1h)
+    - [X] Tackle problem (1h)
+    - [X] Tackle problem (1h)
+*** DONE Read Lutz Learning Python [5/5]
+    CLOSED: [2019-08-13 Tue 17:03]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:   5.97
+    :OWNER: jasonbraganza
+    :ID: READ.1564479823
+    :TASKID: READ.1564479823
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-13 Tue 14:30]--[2019-08-13 Tue 17:03] =>  2:33
+    CLOCK: [2019-08-12 Mon 15:02]--[2019-08-12 Mon 17:25] =>  2:23
+    CLOCK: [2019-08-08 Thu 07:29]--[2019-08-08 Thu 08:31] =>  1:02
+    :END:
+    - [X] Read Learning Python (1h)
+    - [X] Read Learning Python (1h)
+    - [X] Read Learning Python (1h)
+    - [X] Read Learning Python (1h)
+    - [X] Read Learning Python (1h)
