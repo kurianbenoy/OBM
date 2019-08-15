@@ -169,23 +169,6 @@
     :END:
 
 * PLAN
-** August    15, 2019 - August    30, 2019 (16 days)
-   :PROPERTIES:
-   :wpd-sandeepk: 1
-   :END:
-*** [#B] Dive into Pyhton3 [/4]
-    :PROPERTIES:
-    :ESTIMATED: 16 
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: READ.1559639223
-    :TASKID: READ.1559639223
-    :END:
-    - [ ] Chapter 2 Native Datatypes     (3h)
-    - [ ] Chpater 3 Comprehensions       (4h)
-    - [ ] Chapter 4 Strings              (6h)
-    - [ ] Chapter 5 Regular Expressions  (3h)
-
 ** August    31, 2019 - September 12, 2019 (13 days)
    :PROPERTIES:
    :wpd-sandeepk:
