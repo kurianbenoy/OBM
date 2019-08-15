@@ -13,6 +13,29 @@
    :ID: READ.1559638295
    :TASKID: READ.1559638295
    :END:
+   - [ ] Asymptotic analysis (Big-O notation) (5h)
+   - [ ] Arrays (5h)
+   - [ ] Strings (8h)
+   - [ ] Stack and Queue (10h)
+   - [ ] Basic math operations (addition, subtraction, multiplication, di$
+   - [ ] Euclids GCD Algorithm
+   - [ ] Prime Numbers, divisibility of numbers
+   - [ ] Basic Recursion
+   - [ ] Greedy Algorithms
+   - [ ] Dynamic programming (Basic DP)
+   - [ ] Naive string searching
+   - [ ] Sorting
+   - [ ] Binary Search
+   - [ ] Mocke Test 1,2,3,4
+   - [ ] Heaps (priority queue)
+   - [ ] Disjoint Set Union
+   - [ ] Segment Trees
+   - [ ] Binary Index Tree (Fenwick tree)
+   - [ ] Trees (traversals)
+   - [ ] Finding Lowest Common Ancestors (O(log N) solution where N is nu$
+   - [ ] Depth First Search, Breadth First Search (Finding connected comp$
+   - [ ] Shortest-path algorithms (Dijkstra, Bellman-Ford, Floyd-Warshall$
+   - [ ] Bellman Ford Algorithm
 
 ** Programming Languages
 *** [#C] CSS [/]
@@ -61,7 +84,7 @@
     :END:
 
 ** Books
-*** Books to read [/]
+*** Books to read [1/5]
     :PROPERTIES:
     :ESTIMATED: 
     :ACTUAL:
@@ -69,7 +92,7 @@
     :ID: READ.1553504274
     :TASKID: READ.1553504274
     :END:
-    - [ ] Sapiens A Breif History of HumanKind.
+    - [X] Sapiens A Breif History of HumanKind.
     - [ ] Start with Why: How great Leaders Inspires Everyone To Take Action
     - [ ] The Personal MBA:A World-Class Busniess Education in a Single Volume
     - [ ] Atomic Habits
@@ -91,7 +114,7 @@
     - [ ] Blog about Google Cloud Platform VPC(Virtual Private Network)       (4h)
     - [ ] Load Balancer Setup
     - [ ] Database certificate generation and PyCharm Linkage
-
+      
 ** Database
 *** MongoDB
     :PROPERTIES:
@@ -146,11 +169,38 @@
     :END:
 
 * PLAN
-** August     2, 2019 - August    14, 2019 (13 days)
 ** August    15, 2019 - August    30, 2019 (16 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+*** [#B] Dive into Pyhton3 [/4]
+    :PROPERTIES:
+    :ESTIMATED: 16 
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1559639223
+    :TASKID: READ.1559639223
+    :END:
+    - [ ] Chapter 2 Native Datatypes     (3h)
+    - [ ] Chpater 3 Comprehensions       (4h)
+    - [ ] Chapter 4 Strings              (6h)
+    - [ ] Chapter 5 Regular Expressions  (3h)
+
 ** August    31, 2019 - September 12, 2019 (13 days)
+   :PROPERTIES:
+   :wpd-sandeepk:
+   :END:
+   
 ** September 13, 2019 - September 29, 2019 (17 days)
+   :PROPERTIES:
+   :wpd-sandeepk:
+   :END:
+
 ** Spetember 30, 2019 - October   12, 2019 (13 days)
+   :PROPERTIES:
+   :wpd-sandeepk:
+   :END:
+
 ** October   13, 2019 - October   28, 2019 (16 days)
 ** October   29, 2019 - November  11, 2019 (14 days)
 ** November  12, 2019 - November  27, 2019 (16 days)
@@ -161,5 +211,5 @@
 ** January   26, 2020 - February   8, 2020 (14 days)
 ** February   9, 2020 - February  24, 2020 (16 days)
 ** February  25, 2020 - March      8, 2020 (13 days)
-
+   
 
