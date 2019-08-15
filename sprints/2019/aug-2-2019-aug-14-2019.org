@@ -205,17 +205,23 @@
     :ID: READ.1564687028
     :TASKID: READ.1564687028
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-07 Wed 21:30]--[2019-08-08 Thu 00:30] =>  3:00
+    :END:
+    - [X] System design for Site Reliability    ( 3h )
     - [X] System design for Site Reliability    ( 3h )
 ** jasonbraganza
-*** Work at French, in the Fluent forever app - Part V [12/13]
+*** DONE Work at French, in the Fluent forever app - Part V [13/13]
+   CLOSED: [2019-08-14 Wed 08:22]
    :PROPERTIES:
    :ESTIMATED: 11
-   :ACTUAL:   11.27
+   :ACTUAL:   12.63
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
    :LOGBOOK:
+   CLOCK: [2019-08-14 Wed 07:00]--[2019-08-14 Wed 08:22] =>  1:22
    CLOCK: [2019-08-13 Tue 09:00]--[2019-08-13 Tue 09:57] =>  0:00
    CLOCK: [2019-08-12 Mon 06:45]--[2019-08-12 Mon 07:35] =>  0:50
    CLOCK: [2019-08-11 Sun 10:30]--[2019-08-11 Sun 11:15] =>  0:45
@@ -241,7 +247,7 @@
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-   - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+   - [X] Complete 1 review session & add 5 words to vocabulary (1h)
 *** DONE Write twice a week - 3 [4/4]
    CLOSED: [2019-08-13 Tue 11:20]
    :PROPERTIES:
@@ -285,41 +291,7 @@
    - [X] Read (15m)
    - [X] Read (15m)
    - [X] Read (15m)
-*** NIOS - Geography [0/1] 
-**** Write Geo Tests [0/5]
-    :PROPERTIES:
-    :ESTIMATED: 7.5
-    :ACTUAL:
-    :OWNER: jasonbraganza
-    :ID: WRITE.1564476873
-    :TASKID: WRITE.1564476873
-    :END:
-    - [ ] Chapter 1, write into Anki. (1.5h)
-    - [ ] Chapter 2, write into Anki. (1.5h)
-    - [ ] Chapter 3, write into Anki. (1.5h)
-    - [ ] Chapter 4, write into Anki. (1.5h)
-    - [ ] Chapter 5, write into Anki. (1.5h)
-*** Python Practice [1/3]
-**** Mentor Assigned Problems - 1 [2/5]
-   :PROPERTIES:
-   :ESTIMATED: 10
-   :ACTUAL:   4.13
-   :OWNER: jasonbraganza
-   :ID: DEV.1564479096
-   :TASKID: DEV.1564479096
-   :END:
-   :LOGBOOK:
-   CLOCK: [2019-08-07 Wed 12:10]--[2019-08-07 Wed 12:35] =>  0:25
-   CLOCK: [2019-08-07 Wed 11:12]--[2019-08-07 Wed 12:00] =>  0:48
-   CLOCK: [2019-08-07 Wed 09:50]--[2019-08-07 Wed 10:50] =>  1:00
-   CLOCK: [2019-08-06 Tue 11:09]--[2019-08-06 Tue 12:21] =>  1:12
-   CLOCK: [2019-08-06 Tue 10:00]--[2019-08-06 Tue 10:43] =>  0:43
-   :END:
-   - [X] Tackle problem (2h)
-   - [X] Tackle problem (2h)
-   - [ ] Tackle problem (2h)
-   - [ ] Tackle problem (2h)
-   - [ ] Tackle problem (2h)
+*** DONE Python Practice [2/2]
 **** DONE Python Jumpstart by Building 10 Apps [5/5]
    CLOSED: [2019-08-07 Wed 18:58]
    :PROPERTIES:
@@ -345,25 +317,22 @@
    - [X] Tackle problem (1h)
    - [X] Tackle problem (1h)
    - [X] Tackle problem (1h)
-**** Read Lutz Learning Python [1/5]
+**** DONE Read Lutz Learning Python [5/5]
+     CLOSED: [2019-08-13 Tue 17:03]
      :PROPERTIES:
      :ESTIMATED: 5
-     :ACTUAL:   1.03
+     :ACTUAL:   5.97
      :OWNER: jasonbraganza
      :ID: READ.1564479823
      :TASKID: READ.1564479823
      :END:
      :LOGBOOK:
+     CLOCK: [2019-08-13 Tue 14:30]--[2019-08-13 Tue 17:03] =>  2:33
+     CLOCK: [2019-08-12 Mon 15:02]--[2019-08-12 Mon 17:25] =>  2:23
      CLOCK: [2019-08-08 Thu 07:29]--[2019-08-08 Thu 08:31] =>  1:02
      :END:
    - [X] Read Learning Python (1h)
-   - [ ] Read Learning Python (1h)
-   - [ ] Read Learning Python (1h)
-   - [ ] Read Learning Python (1h)
-   - [ ] Read Learning Python (1h)
-=======
-    :LOGBOOK:
-    CLOCK: [2019-08-07 Wed 21:30]--[2019-08-08 Thu 00:30] =>  3:00
-    :END:
-    - [X] System design for Site Reliability    ( 3h )
->>>>>>> [gandalfdwite] clocked timings for sprint tasks
+   - [X] Read Learning Python (1h)
+   - [X] Read Learning Python (1h)
+   - [X] Read Learning Python (1h)
+   - [X] Read Learning Python (1h)
