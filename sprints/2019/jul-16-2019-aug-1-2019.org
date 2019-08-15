@@ -30,7 +30,6 @@
   :wpd-bhavin192: 1
   :wpd-gandalfdwite: 1
   :wpd-jasonbraganza: 3
-  :wpd-RJ722: 1.1
   :wpd-sandeepk: 1
   :END:
 ** akshay196
@@ -418,55 +417,6 @@
        - [X] Exercise 4 
    - [X] Week 6 [1/1]
      - [X] All exercises
-** RJ722
-*** IN_PROGRESS Watch first lecture of fastai part-2
-    :PROPERTIES:
-    :ESTIMATED: 4
-    :ACTUAL:   4.83
-    :OWNER: RJ722
-    :ID: TASK.1562243970
-    :TASKID: TASK.1562243970
-    :END:
-    :LOGBOOK:
-    CLOCK: [2019-07-22 Mon 15:24]--[2019-07-22 Mon 17:28] =>  2:04
-    CLOCK: [2019-07-22 Mon 14:06]--[2019-07-22 Mon 14:30] =>  0:24
-    CLOCK: [2019-07-22 Mon 11:40]--[2019-07-22 Mon 13:13] =>  1:33
-    CLOCK: [2019-07-21 Sun 23:14]--[2019-07-21 Sun 23:28] =>  0:14
-    CLOCK: [2019-07-21 Sun 19:11]--[2019-07-21 Sun 19:46] =>  0:35
-    :END:
-*** IN_PROGRESS Write 2 blog posts [1/2]
-    :PROPERTIES:
-    :ESTIMATED: 4
-    :ACTUAL:
-    :OWNER: RJ722
-    :ID: WRITE.1558159950
-    :TASKID: WRITE.1558159950
-    :END:
-    :LOGBOOK:
-    CLOCK: [2019-07-22 Mon 23:42]--[2019-07-23 Tue 01:20] =>  1:38
-    :END:
-    - [X] Blog Post 1
-    - [ ] Blog Post 2
-*** IN_PROGRESS Read first 6 chapters of "Grokking Deep Learning" by Andrew Trask [2/6]
-    :PROPERTIES:
-    :ESTIMATED: 12
-    :ACTUAL:   0.80
-    :OWNER: RJ722
-    :ID: READ.1563523155
-    :TASKID: READ.1563523155
-    :END:
-    :LOGBOOK:
-    CLOCK: [2019-07-23 Tue 12:46]--[2019-07-23 Tue 13:00] =>  0:14
-    CLOCK: [2019-07-21 Sun 23:31]--[2019-07-22 Mon 00:04] =>  0:33
-    CLOCK: [2019-07-19 Fri 16:09]--[2019-07-19 Fri 16:10] =>  0:01
-    :END:
-    - [X] Introducing Deep Learning
-    - [X] Fundamental Concepts
-    - [ ] Introduction to Neural Prediction
-    - [ ] Introduction to Neural Learning
-    - [ ] Learning Multiple Weights at a time
-    - [ ] Building your first neural network
-
 ** sandeepk
 *** DONE Project Stack NEWS - Part IV [1/1]
     CLOSED: [2019-08-01]
