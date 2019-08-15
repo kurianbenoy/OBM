@@ -26,23 +26,39 @@
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2019-08-02 Fri>
   :wpd-akshay196: 1
+  :wpd-bhavin192: 1  
   :wpd-gandalfdwite: 1
+  :wpd-jasonbraganza: 4
   :END:
 ** akshay196
-*** UNIX and Linux System Administration Handbook - Part III
+*** DONE UNIX and Linux System Administration Handbook - Part III
+    CLOSED: [2019-08-14 Wed 19:42]
     :PROPERTIES:
     :ESTIMATED: 11
-    :ACTUAL:
+    :ACTUAL:   10.03
     :OWNER: akshay196
     :ID: READ.1555438527
     :TASKID: READ.1555438527
     :END:
-    - [ ] Chapter 17. Single Sign-On                        ( 2h)
+    :LOGBOOK:
+    CLOCK: [2019-08-14 Wed 18:35]--[2019-08-14 Wed 19:42] =>  1:07
+    CLOCK: [2019-08-14 Wed 16:10]--[2019-08-14 Wed 16:36] =>  0:26
+    CLOCK: [2019-08-13 Tue 20:13]--[2019-08-13 Tue 21:02] =>  0:49
+    CLOCK: [2019-08-13 Tue 15:25]--[2019-08-13 Tue 16:33] =>  1:08
+    CLOCK: [2019-08-12 Mon 21:15]--[2019-08-12 Mon 21:56] =>  0:41
+    CLOCK: [2019-08-12 Mon 19:05]--[2019-08-12 Mon 20:25] =>  1:20
+    CLOCK: [2019-08-11 Sun 21:04]--[2019-08-11 Sun 22:22] =>  1:18
+    CLOCK: [2019-08-11 Sun 10:42]--[2019-08-11 Sun 11:55] =>  1:13
+    CLOCK: [2019-08-09 Fri 23:45]--[2019-08-10 Sat 00:28] =>  0:43
+    CLOCK: [2019-08-09 Fri 00:04]--[2019-08-09 Fri 00:52] =>  0:48
+    CLOCK: [2019-08-07 Wed 22:12]--[2019-08-07 Wed 22:41] =>  0:29
+    :END:
+    - [X] Chapter 17. Single Sign-On                        ( 2h)
       - Core SSO elements
       - LDAP: “lightweight” directory services
       - Using directory services for login
       - Alternative approaches
-    - [ ] Chapter 18. Electronic Mail                       ( 2h)
+    - [X] Chapter 18. Electronic Mail                       ( 2h)
       - Mail system architecture
       - Anatomy of a mail message
       - The SMTP protocol
@@ -53,14 +69,14 @@
       - sendmail
       - Exim
       - Postfix
-    - [ ] Chapter 19. Web Hosting                           ( 2h)
+    - [X] Chapter 19. Web Hosting                           ( 2h)
       - HTTP: the Hypertext Transfer Protocol
       - Web software basics
       - Web hosting in the cloud
       - Apache httpd
       - NGINX
       - HAProxy
-    - [ ] Chapter 20. Storage                               ( 3h)
+    - [X] Chapter 20. Storage                               ( 3h)
       - I just want to add a disk!
       - Storage hardware
       - Storage hardware interfaces
@@ -75,7 +91,7 @@
       - ZFS: all your storage problems solved
       - Btrfs: “ZFS lite” for Linux
       - Data backup strategy
-    - [ ] Chapter 21. The Network File System               ( 2h)
+    - [X] Chapter 21. The Network File System               ( 2h)
       - Meet network file services
       - The NFS approach
       - Server-side NFS
@@ -84,49 +100,246 @@
       - nfsstat: dump NFS statistics
       - Dedicated NFS file servers
       - Automatic mounting
-*** GNU Emacs bug triaging - Part II
+*** DONE GNU Emacs bug triaging - Part II
+    CLOSED: [2019-08-06 Tue 21:42]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   2.08
     :OWNER: akshay196
     :ID: OPS.1563244949
     :TASKID: OPS.1563244949
     :END:
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33092][#33092]]: 26.1; Re-running shell wipes font-lock from xterm-color
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33147][#33147]]: tex-mode: ${{{{a}}}}$ or more braces not highlighted
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32388][#32388]]: 26.1: ediff-merge-directories-with-ancestor and subdirectories
-    - [ ] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=31306][#31306]]: 27.0.50; js-mode still missing ES2015 keywords
+    :LOGBOOK:
+    CLOCK: [2019-08-06 Tue 20:51]--[2019-08-06 Tue 21:42] =>  0:51
+    CLOCK: [2019-08-05 Mon 22:06]--[2019-08-05 Mon 22:59] =>  0:53
+    CLOCK: [2019-08-03 Sat 23:13]--[2019-08-03 Sat 23:34] =>  0:21
+    :END:
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33092][#33092]]: 26.1; Re-running shell wipes font-lock from xterm-color
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=33147][#33147]]: tex-mode: ${{{{a}}}}$ or more braces not highlighted
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=32388][#32388]]: 26.1: ediff-merge-directories-with-ancestor and subdirectories
+    - [X] [[https://debbugs.gnu.org/cgi/bugreport.cgi?bug=31306][#31306]]: 27.0.50; js-mode still missing ES2015 keywords
+** bhavin192
+*** DONE Write blog post about Python Pune
+    CLOSED: [2019-08-13 Tue 20:50]
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:   6.48
+    :OWNER:    bhavin192
+    :ID:       WRITE.1563295962
+    :TASKID:   WRITE.1563295962
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-13 Tue 20:31]--[2019-08-13 Tue 20:50] =>  0:19
+    CLOCK: [2019-08-12 Mon 21:38]--[2019-08-12 Mon 23:02] =>  1:24
+    CLOCK: [2019-08-12 Mon 19:16]--[2019-08-12 Mon 20:25] =>  1:09
+    CLOCK: [2019-08-12 Mon 09:27]--[2019-08-12 Mon 10:13] =>  0:46
+    CLOCK: [2019-08-11 Sun 20:13]--[2019-08-11 Sun 21:06] =>  0:53
+    CLOCK: [2019-08-09 Fri 16:50]--[2019-08-09 Fri 17:02] =>  0:12
+    CLOCK: [2019-08-06 Tue 19:37]--[2019-08-06 Tue 20:20] =>  0:43
+    CLOCK: [2019-08-05 Mon 19:32]--[2019-08-05 Mon 20:35] =>  1:03
+    :END:
+*** DONE Attend #23: Stateful apps on Kubernetes
+    CLOSED: [2019-08-10 Sat 13:45]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:   3.53
+    :OWNER:    bhavin192
+    :ID:       EVENT.1565024608
+    :TASKID:   EVENT.1565024608
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-10 Sat 10:13]--[2019-08-10 Sat 13:45] =>  3:32
+    :END:
+    https://www.meetup.com/Kubernetes-Pune/events/263578205/
+*** DONE Attend Microservice fundamentals
+    CLOSED: [2019-08-13 Tue 20:36]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:   3.13
+    :OWNER:    bhavin192
+    :ID:       READ.1565011109
+    :TASKID:   READ.1565011109
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-13 Tue 17:28]--[2019-08-13 Tue 20:36] =>  3:08
+    :END:
+    https://learning.oreilly.com/live-training/courses/microservice-fundamentals/0636920279778/
+
 ** gandalfdwite
-*** TODO Work on Chaostoolkit Part II [0/1]
+*** DONE Work on Chaostoolkit Part II [1/1]
+    CLOSED: [2019-08-13 Tue 22:48]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   5.60
     :OWNER: gandalfdwite
     :ID: DEV.1563199235
     :TASKID: DEV.1563199235
     :END:
-    - [ ] Working on Issue      ( 4h )
+    :LOGBOOK:
+    CLOCK: [2019-08-06 Tue 21:23]--[2019-08-06 Tue 22:11] =>  0:48
+    CLOCK: [2019-08-05 Mon 20:40]--[2019-08-05 Mon 21:45] =>  1:05
+    CLOCK: [2019-08-04 Sun 22:09]--[2019-08-04 Sun 23:40] =>  1:31
+    CLOCK: [2019-08-03 Sat 21:26]--[2019-08-03 Sat 23:38] =>  2:12
+    :END:
+    - [X] Working on Issue      ( 4h )
       - Issue: #117 [[https://github.com/chaostoolkit/chaostoolkit/issues/117][Add --ignore option]]
 
-*** TODO Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
+*** DONE Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [4/4]
+    CLOSED: [2019-08-13 Tue 22:48]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:
+    :ACTUAL:   4.37
     :OWNER: gandalfdwite
     :ID: READ.1553531542
     :TASKID: READ.1553531542
     :END:
-
-    - [ ] 10. Sorting                          ( 2h)
-    - [ ] 11. Searching                        ( 2h)
-    - [ ] 12. Selection Algorithms (Medians)   ( 1h)
-    - [ ] 13. Symbol Tables                    ( 1h)
-*** TODO Site Reliability
+    :LOGBOOK:
+    CLOCK: [2019-08-13 Tue 21:18]--[2019-08-13 Tue 22:47] =>  1:29
+    CLOCK: [2019-08-12 Mon 19:50]--[2019-08-12 Mon 20:55] =>  1:05
+    CLOCK: [2019-08-11 Sun 12:17]--[2019-08-11 Sun 14:30] =>  2:13
+    CLOCK: [2019-08-09 Fri 21:56]--[2019-08-10 Sat 00:05] =>  2:09
+    :END:
+    
+    - [X] 10. Sorting                          ( 2h)
+    - [X] 11. Searching                        ( 2h)
+    - [X] 12. Selection Algorithms (Medians)   ( 1h)
+    - [X] 13. Symbol Tables                    ( 1h)
+*** DONE Site Reliability
+    CLOSED: [2019-08-10 Sat 09:41]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   3.00
     :OWNER: gandalfdwite
-    :ID: WATCH.1564687028
-    :TASKID: WATCH.1564687028
+    :ID: READ.1564687028
+    :TASKID: READ.1564687028
     :END:
-    - [ ] System design for Site Reliability    ( 3h )
+    :LOGBOOK:
+    CLOCK: [2019-08-07 Wed 21:30]--[2019-08-08 Thu 00:30] =>  3:00
+    :END:
+    - [X] System design for Site Reliability    ( 3h )
+    - [X] System design for Site Reliability    ( 3h )
+** jasonbraganza
+*** DONE Work at French, in the Fluent forever app - Part V [13/13]
+    CLOSED: [2019-08-14 Wed 08:22]
+    :PROPERTIES:
+   :ESTIMATED: 11
+   :ACTUAL:   12.63
+   :OWNER: jasonbraganza
+   :ID: WRITE.1557903518
+   :TASKID: WRITE.1557903518
+   :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-14 Wed 07:00]--[2019-08-14 Wed 08:22] =>  1:22
+    CLOCK: [2019-08-13 Tue 09:00]--[2019-08-13 Tue 09:57] =>  0:00
+    CLOCK: [2019-08-12 Mon 06:45]--[2019-08-12 Mon 07:35] =>  0:50
+    CLOCK: [2019-08-11 Sun 10:30]--[2019-08-11 Sun 11:15] =>  0:45
+    CLOCK: [2019-08-10 Sat 06:32]--[2019-08-10 Sat 07:50] =>  1:18
+    CLOCK: [2019-08-09 Fri 08:06]--[2019-08-09 Fri 09:06] =>  1:00
+    CLOCK: [2019-08-08 Thu 06:30]--[2019-08-08 Thu 07:15] =>  0:45
+    CLOCK: [2019-08-07 Wed 09:15]--[2019-08-07 Wed 09:47] =>  0:32
+    CLOCK: [2019-08-06 Tue 08:55]--[2019-08-06 Tue 09:45] =>  0:50
+    CLOCK: [2019-08-05 Mon 06:56]--[2019-08-05 Mon 08:02] =>  1:06
+    CLOCK: [2019-08-04 Sun 07:00]--[2019-08-04 Sun 08:10] =>  1:10
+    CLOCK: [2019-08-03 Sat 07:15]--[2019-08-03 Sat 08:15] =>  1:00
+    CLOCK: [2019-08-02 Fri 07:00]--[2019-08-02 Fri 08:03] =>  1:03
+    :END:
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+*** DONE Write twice a week - 3 [4/4]
+    CLOSED: [2019-08-13 Tue 11:20]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:   3.82
+    :OWNER: jasonbraganza
+    :ID: WRITE.1559630427
+    :TASKID: WRITE.1559630427
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-13 Tue 10:00]--[2019-08-13 Tue 11:20] =>  1:20
+    CLOCK: [2019-08-12 Mon 13:30]--[2019-08-12 Mon 14:35] =>  1:05
+    CLOCK: [2019-08-08 Thu 09:06]--[2019-08-08 Thu 10:30] =>  1:24
+    :END:
+    - [X] Write a short blog post. (1h)
+    - [X] Write a short blog post. (1h)
+    - [X] Write a short blog post. (1h)
+    - [X] Write a short blog post. (1h)
+*** DONE Read books - 2 [13/13]
+    CLOSED: [2019-08-13 Tue 00:35]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:   0.00
+    :OWNER: jasonbraganza
+    :ID: READ.1559630918
+    :TASKID: READ.1559630918
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-12 Mon 20:00]--[2019-08-13 Tue 00:35] =>  4:35
+    :END:
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+*** DONE Python Jumpstart by Building 10 Apps [5/5]
+    CLOSED: [2019-08-07 Wed 18:58]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:   5.75
+    :OWNER: jasonbraganza
+    :ID: DEV.1564482384
+    :TASKID: DEV.1564482384
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-07 Wed 17:51]--[2019-08-07 Wed 18:58] =>  1:07
+    CLOCK: [2019-08-07 Wed 16:19]--[2019-08-07 Wed 16:32] =>  0:13
+    CLOCK: [2019-08-07 Wed 14:33]--[2019-08-07 Wed 15:24] =>  0:51
+    CLOCK: [2019-08-06 Tue 17:07]--[2019-08-06 Tue 17:20] =>  0:13
+    CLOCK: [2019-08-06 Tue 16:00]--[2019-08-06 Tue 17:07] =>  1:07
+    CLOCK: [2019-08-06 Tue 14:52]--[2019-08-06 Tue 15:25] =>  0:33
+    CLOCK: [2019-08-06 Tue 13:49]--[2019-08-06 Tue 14:50] =>  1:01
+    CLOCK: [2019-08-06 Tue 13:39]--[2019-08-06 Tue 13:49] =>  0:10
+    CLOCK: [2019-08-06 Tue 12:25]--[2019-08-06 Tue 12:55] =>  0:30
+    :END:
+    - [X] Tackle problem (1h)
+    - [X] Tackle problem (1h)
+    - [X] Tackle problem (1h)
+    - [X] Tackle problem (1h)
+    - [X] Tackle problem (1h)
+*** DONE Read Lutz Learning Python [5/5]
+    CLOSED: [2019-08-13 Tue 17:03]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:   5.97
+    :OWNER: jasonbraganza
+    :ID: READ.1564479823
+    :TASKID: READ.1564479823
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-08-13 Tue 14:30]--[2019-08-13 Tue 17:03] =>  2:33
+    CLOCK: [2019-08-12 Mon 15:02]--[2019-08-12 Mon 17:25] =>  2:23
+    CLOCK: [2019-08-08 Thu 07:29]--[2019-08-08 Thu 08:31] =>  1:02
+    :END:
+    - [X] Read Learning Python (1h)
+    - [X] Read Learning Python (1h)
+    - [X] Read Learning Python (1h)
+    - [X] Read Learning Python (1h)
+    - [X] Read Learning Python (1h)
