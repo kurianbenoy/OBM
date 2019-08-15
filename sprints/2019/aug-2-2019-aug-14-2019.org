@@ -158,44 +158,54 @@
     https://learning.oreilly.com/live-training/courses/microservice-fundamentals/0636920279778/
 
 ** gandalfdwite
-*** IN_PROGRESS Work on Chaostoolkit Part II [0/1]
+*** DONE Work on Chaostoolkit Part II [1/1]
+    CLOSED: [2019-08-13 Tue 22:48]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:   4.80
+    :ACTUAL:   5.60
     :OWNER: gandalfdwite
     :ID: DEV.1563199235
     :TASKID: DEV.1563199235
     :END:
     :LOGBOOK:
+    CLOCK: [2019-08-06 Tue 21:23]--[2019-08-06 Tue 22:11] =>  0:48
     CLOCK: [2019-08-05 Mon 20:40]--[2019-08-05 Mon 21:45] =>  1:05
     CLOCK: [2019-08-04 Sun 22:09]--[2019-08-04 Sun 23:40] =>  1:31
     CLOCK: [2019-08-03 Sat 21:26]--[2019-08-03 Sat 23:38] =>  2:12
     :END:
-    - [ ] Working on Issue      ( 4h )
+    - [X] Working on Issue      ( 4h )
       - Issue: #117 [[https://github.com/chaostoolkit/chaostoolkit/issues/117][Add --ignore option]]
 
-*** TODO Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
+*** DONE Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [4/4]
+    CLOSED: [2019-08-13 Tue 22:48]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:
+    :ACTUAL:   4.37
     :OWNER: gandalfdwite
     :ID: READ.1553531542
     :TASKID: READ.1553531542
     :END:
-
-    - [ ] 10. Sorting                          ( 2h)
-    - [ ] 11. Searching                        ( 2h)
-    - [ ] 12. Selection Algorithms (Medians)   ( 1h)
-    - [ ] 13. Symbol Tables                    ( 1h)
-*** TODO Site Reliability
+    :LOGBOOK:
+    CLOCK: [2019-08-13 Tue 21:18]--[2019-08-13 Tue 22:47] =>  1:29
+    CLOCK: [2019-08-12 Mon 19:50]--[2019-08-12 Mon 20:55] =>  1:05
+    CLOCK: [2019-08-11 Sun 12:17]--[2019-08-11 Sun 14:30] =>  2:13
+    CLOCK: [2019-08-09 Fri 21:56]--[2019-08-10 Sat 00:05] =>  2:09
+    :END:
+    
+    - [X] 10. Sorting                          ( 2h)
+    - [X] 11. Searching                        ( 2h)
+    - [X] 12. Selection Algorithms (Medians)   ( 1h)
+    - [X] 13. Symbol Tables                    ( 1h)
+*** DONE Site Reliability
+    CLOSED: [2019-08-10 Sat 09:41]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   3.00
     :OWNER: gandalfdwite
     :ID: READ.1564687028
     :TASKID: READ.1564687028
     :END:
-    - [ ] System design for Site Reliability    ( 3h )
+    - [X] System design for Site Reliability    ( 3h )
 ** jasonbraganza
 *** Work at French, in the Fluent forever app - Part V [12/13]
    :PROPERTIES:
@@ -351,3 +361,9 @@
    - [ ] Read Learning Python (1h)
    - [ ] Read Learning Python (1h)
    - [ ] Read Learning Python (1h)
+=======
+    :LOGBOOK:
+    CLOCK: [2019-08-07 Wed 21:30]--[2019-08-08 Thu 00:30] =>  3:00
+    :END:
+    - [X] System design for Site Reliability    ( 3h )
+>>>>>>> [gandalfdwite] clocked timings for sprint tasks
