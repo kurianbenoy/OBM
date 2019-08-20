@@ -73,7 +73,7 @@
     - [ ] Tackle problem (1h)
     - [ ] Tackle problem (1h)
     - [ ] Tackle problem (1h)
-*** Read Lutz Learning Python - 2 [0/6]
+*** IN_PROGRESS Read Lutz Learning Python - 2 [0/6]
     :PROPERTIES:
     :ESTIMATED: 6
     :ACTUAL:  
@@ -89,15 +89,16 @@
     - [ ] Read Learning Python (1h)
     - [ ] Read Learning Python (1h)
     - [ ] Read Learning Python (1h)
-*** IN_PROGRESS Work at French, in the Fluent forever app - Part VI [5/16]
+*** IN_PROGRESS Work at French, in the Fluent forever app - Part VI [6/16]
     :PROPERTIES:
    :ESTIMATED: 16
-   :ACTUAL:   5.83
+   :ACTUAL:   7.02
    :OWNER: jasonbraganza
    :ID: WRITE.1557903518
    :TASKID: WRITE.1557903518
    :END:
     :LOGBOOK:
+    CLOCK: [2019-08-20 Tue 07:30]--[2019-08-20 Tue 08:41] =>  1:11
     CLOCK: [2019-08-19 Mon 07:30]--[2019-08-19 Mon 08:15] =>  0:45
     CLOCK: [2019-08-18 Sun 06:15]--[2019-08-18 Sun 07:30] =>  1:15
     CLOCK: [2019-08-17 Sat 07:00]--[2019-08-17 Sat 08:20] =>  1:20
@@ -109,7 +110,7 @@
     - [X] Complete 1 review session & add 5 words to vocabulary (1h)
     - [X] Complete 1 review session & add 5 words to vocabulary (1h)
     - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
     - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
     - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
     - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
