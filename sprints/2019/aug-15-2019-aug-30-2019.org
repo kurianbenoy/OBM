@@ -81,33 +81,38 @@
     - [ ] Tackle problem (1h)
     - [ ] Tackle problem (1h)
     - [ ] Tackle problem (1h)
-*** IN_PROGRESS Read Lutz Learning Python - 2 [3/6]
+*** DONE Read Lutz Learning Python - 2 [6/6]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:   2.92
+    :ACTUAL:   7.45
     :OWNER: jasonbraganza
     :ID: READ.1564479823
     :TASKID: READ.1564479823
     :END:      
     :LOGBOOK:
+    CLOCK: [2019-08-23 Fri 21:27]--[2019-08-23 Fri 21:49] =>  0:22
+    CLOCK: [2019-08-23 Fri 17:40]--[2019-08-23 Fri 19:32] =>  1:52
+    CLOCK: [2019-08-23 Fri 16:19]--[2019-08-23 Fri 17:27] =>  1:08
+    CLOCK: [2019-08-23 Fri 14:26]--[2019-08-23 Fri 15:58] =>  1:32
     CLOCK: [2019-08-22 Thu 16:20]--[2019-08-22 Thu 18:45] =>  2:25
     CLOCK: [2019-08-20 TUe 14:30]--[2019-08-20 Tue 15:00] =>  0:30
     :END:
     - [X] Read Learning Python (1h)
     - [X] Read Learning Python (1h)
     - [X] Read Learning Python (1h)
-    - [ ] Read Learning Python (1h)
-    - [ ] Read Learning Python (1h)
-    - [ ] Read Learning Python (1h)
-*** IN_PROGRESS Work at French, in the Fluent forever app - Part VI [7/16]
+    - [X] Read Learning Python (1h)
+    - [X] Read Learning Python (1h)
+    - [X] Read Learning Python (1h)
+*** IN_PROGRESS Work at French, in the Fluent forever app - Part VI [8/16]
     :PROPERTIES:
     :ESTIMATED: 16
-    :ACTUAL:   9.15
+    :ACTUAL:   9.98
     :OWNER: jasonbraganza
     :ID: WRITE.1557903518
     :TASKID: WRITE.1557903518
     :END:
     :LOGBOOK:
+    CLOCK: [2019-08-23 Fri 07:40]--[2019-08-23 Fri 08:30] =>  0:50
     CLOCK: [2019-08-22 Thu 07:00]--[2019-08-22 Thu 08:08] =>  1:08
     CLOCK: [2019-08-21 Wed 06:30]--[2019-08-21 Wed 07:30] =>  1:00
     CLOCK: [2019-08-20 Tue 07:30]--[2019-08-20 Tue 08:41] =>  1:11
@@ -124,7 +129,7 @@
     - [X] Complete 1 review session & add 5 words to vocabulary (1h)
     - [X] Complete 1 review session & add 5 words to vocabulary (1h)
     - [X] Complete 1 review session & add 5 words to vocabulary (1h)
-    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
     - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
     - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
     - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
