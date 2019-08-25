@@ -82,6 +82,7 @@
     - [ ] Tackle problem (1h)
     - [ ] Tackle problem (1h)
 *** DONE Read Lutz Learning Python - 2 [6/6]
+    CLOSED: [2019-08-25 Sun 19:40]
     :PROPERTIES:
     :ESTIMATED: 6
     :ACTUAL:   15.65
