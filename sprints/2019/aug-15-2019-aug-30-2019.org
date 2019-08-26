@@ -148,18 +148,19 @@
     - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
     - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
     - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-*** Write twice a week - 4 [0/4]
+*** IN_PROGRESS Write twice a week - 4 [2/4]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:   
+    :ACTUAL:   1.67
     :OWNER: jasonbraganza
     :ID: WRITE.1559630427
     :TASKID: WRITE.1559630427
     :END:
     :LOGBOOK:
+    CLOCK: [2019-08-26 Mon 09:00]--[2019-08-26 Mon 10:40] =>  1:40
     :END:
-    - [ ] Write a short blog post. (1h)
-    - [ ] Write a short blog post. (1h)
+    - [X] Write a short blog post. (1h)
+    - [X] Write a short blog post. (1h)
     - [ ] Write a short blog post. (1h)
     - [ ] Write a short blog post. (1h)
 *** Read books - 3 [0/16]
