@@ -110,15 +110,16 @@
     - [X] Read Learning Python (1h)
     - [X] Read Learning Python (1h)
     - [X] Read Learning Python (1h)
-*** IN_PROGRESS Work at French, in the Fluent forever app - Part VI [13/16]
+*** IN_PROGRESS Work at French, in the Fluent forever app - Part VI [14/16]
     :PROPERTIES:
     :ESTIMATED: 16
-    :ACTUAL:   14.30
+    :ACTUAL:   15.58
     :OWNER: jasonbraganza
     :ID: WRITE.1557903518
     :TASKID: WRITE.1557903518
     :END:
     :LOGBOOK:
+    CLOCK: [2019-08-28 Wed 09:38]--[2019-08-28 Wed 10:55] =>  1:17
     CLOCK: [2019-08-27 Tue 07:10]--[2019-08-27 Tue 08:22] =>  1:12
     CLOCK: [2019-08-26 Mon 06:30]--[2019-08-26 Mon 07:32] =>  1:02
     CLOCK: [2019-08-25 Sun 07:30]--[2019-08-25 Sun 08:55] =>  1:25
@@ -146,50 +147,54 @@
     - [X] Complete 1 review session & add 5 words to vocabulary (1h)
     - [X] Complete 1 review session & add 5 words to vocabulary (1h)
     - [X] Complete 1 review session & add 5 words to vocabulary (1h)
+    - [X] Complete 1 review session & add 5 words to vocabulary (1h)
     - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
     - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-    - [ ] Complete 1 review session & add 5 words to vocabulary (1h)
-*** IN_PROGRESS Write twice a week - 4 [2/4]
+*** DONE Write twice a week - 4 [4/4]
+    CLOSED: [2019-08-28 Wed 19:41]1
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:   1.67
+    :ACTUAL:   3.85
     :OWNER: jasonbraganza
     :ID: WRITE.1559630427
     :TASKID: WRITE.1559630427
     :END:
     :LOGBOOK:
+    CLOCK: [2019-08-28 Wed 17:30]--[2019-08-28 Wed 19:41] =>  2:11
     CLOCK: [2019-08-26 Mon 09:00]--[2019-08-26 Mon 10:40] =>  1:40
     :END:
     - [X] Write a short blog post. (1h)
     - [X] Write a short blog post. (1h)
-    - [ ] Write a short blog post. (1h)
-    - [ ] Write a short blog post. (1h)
-*** Read books - 3 [0/16]
+    - [X] Write a short blog post. (1h)
+    - [X] Write a short blog post. (1h)
+*** DONE Read books - 3 [16/16]
+    CLOSED: [2019-08-28 Wed 17:22]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:   0.00
+    :ACTUAL:   6.37
     :OWNER: jasonbraganza
     :ID: READ.1559630918
     :TASKID: READ.1559630918
-    :END:
+    :END:      
     :LOGBOOK:
+    CLOCK: [2019-08-28 Wed 11:00]--[2019-08-28 Wed 17:22] =>  6:22
     :END:
-    - [ ] Read (15m)
-    - [ ] Read (15m)
-    - [ ] Read (15m)
-    - [ ] Read (15m)
-    - [ ] Read (15m)
-    - [ ] Read (15m)
-    - [ ] Read (15m)
-    - [ ] Read (15m)
-    - [ ] Read (15m)
-    - [ ] Read (15m)
-    - [ ] Read (15m)
-    - [ ] Read (15m)
-    - [ ] Read (15m)
-    - [ ] Read (15m)
-    - [ ] Read (15m)
-    - [ ] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
+    - [X] Read (15m)
 ** sandeepk
 *** [#B] Dive into Python3 [0/4]
     :PROPERTIES:
