@@ -3,15 +3,26 @@
 #+TAGS: dev ops read meeting
 * GOALS
 ** DevOps
-*** Site Reliability
+*** Kubernetes Security
     :PROPERTIES:
     :ESTIMATED: 3
     :ACTUAL:
     :OWNER: gandalfdwite
-    :ID: READ.1564687028
-    :TASKID: READ.1564687028
+    :ID: OPS.1567104795
+    :TASKID: OPS.1567104795
     :END:
-    - [ ] System design for Site Reliability    ( 3h )
+    - [ ] Live Online Training      ( 3h )
+      - [[https://learning.oreilly.com/live-training/courses/kubernetes-security-attacking-and-defending-kubernetes/0636920295549/][Link Here]]
+*** Using Prometheus for Black Box monitoring
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: OPS.1567104720
+    :TASKID: OPS.1567104720
+    :END:
+    - [ ] Live Online Training       ( 3h )
+      - [[https://learning.oreilly.com/live-training/courses/spotlight-on-cloud-using-prometheus-for-black-box-monitoring-with-aaron-wieczorek/0636920296447/][Link Here]]
 *** Learning Terraform
     :PROPERTIES:
     :ESTIMATED: 10
@@ -33,23 +44,48 @@
     :ID: READ.1553531542
     :TASKID: READ.1553531542
     :END:
-    - [ ] 14. Hashing                          ( 2h)
-    - [ ] 15. String Algorithms                ( 2h)
-    - [ ] 16. Algorithms Design Techniques     ( 1h)
-    - [ ] 17. Greedy Algorithms                ( 2h)
     - [ ] 18. Divide and Conquer Algorithms    ( 1h)
     - [ ] 19. Dynamic Programming              ( 1h)
     - [ ] 20. Complexity Classes               ( 1h)
-*** Work on Chaostoolkit
-    :PROPERTIES:
-    :ESTIMATED: 12
-    :ACTUAL:
-    :OWNER: gandalfdwite
-    :ID: DEV.1563199235
-    :TASKID: DEV.1563199235
-    :END:
-    - [ ] 3. Working on Issue     ( 4h )
 
 ** Emacs
 ** Unix
 * PLAN
+** August    31, 2019 - September 12, 2019 (13 days)
+   :PROPERTIES:
+   :wpd-gandalfdwite: 1
+   :END:
+
+*** TODO Kubernetes Security [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: OPS.1567104795
+    :TASKID: OPS.1567104795
+    :END:
+    - [ ] Live Online Training      ( 3h )
+      - [[https://learning.oreilly.com/live-training/courses/kubernetes-security-attacking-and-defending-kubernetes/0636920295549/][Link Here]]
+*** TODO Using Prometheus for Black Box monitoring [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: OPS.1567104720
+    :TASKID: OPS.1567104720
+    :END:
+    - [ ] Live Online Training       ( 3h )
+      - [[https://learning.oreilly.com/live-training/courses/spotlight-on-cloud-using-prometheus-for-black-box-monitoring-with-aaron-wieczorek/0636920296447/][Link Here]]
+
+*** TODO Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 30
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1553531542
+    :TASKID: READ.1553531542
+    :END:
+    - [ ] 14. Hashing                          ( 2h)
+    - [ ] 15. String Algorithms                ( 2h)
+    - [ ] 16. Algorithms Design Techniques     ( 1h)
+    - [ ] 17. Greedy Algorithms                ( 2h)
