@@ -1,0 +1,63 @@
+#+TITLE: August 31, 2019 - September 12, 2019 (13 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 13
+  :SPRINTSTART: <2019-08-31 Sat>
+  :wpd-gandalfdwite: 1
+  :END:
+** gandalfdwite
+*** TODO Kubernetes Security [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: OPS.1567104795
+    :TASKID: OPS.1567104795
+    :END:
+    - [ ] Live Online Training      ( 3h )
+      - [[https://learning.oreilly.com/live-training/courses/kubernetes-security-attacking-and-defending-kubernetes/0636920295549/][Link Here]]
+*** TODO Using Prometheus for Black Box monitoring [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: OPS.1567104720
+    :TASKID: OPS.1567104720
+    :END:
+    - [ ] Live Online Training       ( 3h )
+      - [[https://learning.oreilly.com/live-training/courses/spotlight-on-cloud-using-prometheus-for-black-box-monitoring-with-aaron-wieczorek/0636920296447/][Link Here]]
+
+*** TODO Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 30
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1553531542
+    :TASKID: READ.1553531542
+    :END:
+    - [ ] 14. Hashing                          ( 2h)
+    - [ ] 15. String Algorithms                ( 2h)
+    - [ ] 16. Algorithms Design Techniques     ( 1h)
+    - [ ] 17. Greedy Algorithms                ( 2h)
