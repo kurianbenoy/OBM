@@ -119,9 +119,6 @@ have the notion of time.
 Upcoming Sprints
 ================
 
-* August     2, 2019 - August    14, 2019 (13 days)
-* August    15, 2019 - August    30, 2019 (16 days)
-* August    31, 2019 - September 12, 2019 (13 days)
 * September 13, 2019 - September 29, 2019 (17 days)
 * Spetember 30, 2019 - October   12, 2019 (13 days)
 * October   13, 2019 - October   28, 2019 (16 days)
