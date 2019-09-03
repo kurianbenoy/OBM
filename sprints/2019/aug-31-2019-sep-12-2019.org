@@ -27,7 +27,31 @@
   :SPRINTSTART: <2019-08-31 Sat>
   :wpd-gandalfdwite: 1
   :wpd-sandeepk: 1
+  :wpd-akshay196: 1
   :END:
+** akshay196
+*** Automate the Boring Stuff with Python - Part I [0/13]
+    :PROPERTIES:
+    :ESTIMATED: 13
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1567504631
+    :TASKID: READ.1567504631
+    :END:
+    - [ ] Chapter  1. Pyton Basics                                            (1h)
+    - [ ] Chapter  2. Flow Control                                            (1h)
+    - [ ] Chapter  3. Functions                                               (1h)
+    - [ ] Chapter  4. Lists                                                   (1h)
+    - [ ] Chapter  5. Dictionaries and Structuring Data                       (1h)
+    - [ ] Chapter  6. Manipulating Strings                                    (1h)
+    - [ ] Chapter  7. Pattern Matching with Regular Expressions               (1h)
+    - [ ] Chapter  8. Reading and Writing Files                               (1h)
+    - [ ] Chapter  9. Organizing Files                                        (1h)
+    - [ ] Chapter 10. Debugging                                               (1h)
+    - [ ] Chapter 11. Web Scraping                                            (1h)
+    - [ ] Chapter 12. Working with Excel Spreadsheets                         (1h)
+    - [ ] Chapter 13. Working with PDF and word Documents                     (1h)
+
 ** gandalfdwite
 *** TODO Kubernetes Security [0/1]
     :PROPERTIES:

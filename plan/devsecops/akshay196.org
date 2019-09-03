@@ -100,6 +100,21 @@ Dan Mackin, Ben Whaley, Trent R. Hein, Garth Snyder, Evi Nemeth.
   - Legal issues
   - Organizations, conferences, and other resources
 *** Python
+**** Automate the Boring Stuff with Python
+     by Al Sweigart
+     :PROPERTIES:
+     :ESTIMATED: 18
+     :ACTUAL:
+     :OWNER: akshay196
+     :ID: READ.1567504483
+     :TASKID: READ.1567504483
+     :END:
+     - [ ] Chapter 14. Working with CSV Files and JSON Data                    (1h)
+     - [ ] Chapter 15. Keeping Time, Scheduling Tasks, and Launching Programs  (1h)
+     - [ ] Chapter 16. Sending Email and Text Messages                         (1h)
+     - [ ] Chapter 17. Manipulating Images                                     (1h)
+     - [ ] Chapter 18. Controlling the Keyboard and Mouse with GUI Automation  (1h)
+
 *** Automation with Ansible
 ** Development
 *** Ansible
