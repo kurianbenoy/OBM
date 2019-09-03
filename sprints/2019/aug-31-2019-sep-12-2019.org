@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2019-08-31 Sat>
   :wpd-gandalfdwite: 1
+  :wpd-sandeepk: 1
   :END:
 ** gandalfdwite
 *** TODO Kubernetes Security [0/1]
@@ -61,3 +62,25 @@
     - [ ] 16. Algorithms Design Techniques     ( 1h)
     - [ ] 17. Greedy Algorithms                ( 2h)
 
+** sandeepk
+*** Blog post to write [/1]
+    :PROPERTIES:
+    :ESTIMATED: 2h
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: WRITE.1560792221
+    :TASKID: WRITE.1560792221
+    :END:
+    - [ ] Blog on Chanakya Neeti book review. (2h)
+*** [#B] Dive into Pyhton3 [/4]
+    :PROPERTIES:
+    :ESTIMATED: 11
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1559639223
+    :TASKID: READ.1559639223
+    :END:
+    - [ ]  Chapter 6 - Closures & Generators   (3h)
+    - [ ]  Chapter 7 - Classes & Iterators     (3h)
+    - [ ]  Chapter 8 - Advanced Iterators      (3h)
+    - [ ]  Chapter 9 - Unit Testing            (2h)

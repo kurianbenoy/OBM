@@ -169,32 +169,6 @@
     :END:
 
 * PLAN
-** August    31, 2019 - September 12, 2019 (13 days)
-   :PROPERTIES:
-   :wpd-sandeepk: 1
-   :END:
-*** Blog post to write [/1]
-    :PROPERTIES:
-    :ESTIMATED: 2h
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: WRITE.1560792221
-    :TASKID: WRITE.1560792221
-    :END:
-    - [ ] Blog on Chanakya Neeti book review. (2h)
-*** [#B] Dive into Pyhton3 [/4]
-    :PROPERTIES:
-    :ESTIMATED: 11
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: READ.1559639223
-    :TASKID: READ.1559639223
-    :END:
-    - [ ]  Chapter 6 - Closures & Generators   (3h)
-    - [ ]  Chapter 7 - Classes & Iterators     (3h)
-    - [ ]  Chapter 8 - Advanced Iterators      (3h)
-    - [ ]  Chapter 9 - Unit Testing            (2h)
- 
 ** September 13, 2019 - September 29, 2019 (17 days)
    :PROPERTIES:
    :wpd-sandeepk:
