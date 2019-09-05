@@ -87,22 +87,31 @@
     - [ ] 17. Greedy Algorithms                ( 2h)
 
 ** sandeepk
-*** Blog post to write [/1]
+*** DONE Blog post to write [1/1]
     :PROPERTIES:
     :ESTIMATED: 2h
-    :ACTUAL:
+    :ACTUAL:   1.58
     :OWNER: sandeepk
     :ID: WRITE.1560792221
     :TASKID: WRITE.1560792221
     :END:
-    - [ ] Blog on Chanakya Neeti book review. (2h)
-*** [#B] Dive into Pyhton3 [/4]
+    :LOGBOOK:
+    CLOCK: [2019-09-03 Tue 23:30]--[2019-09-04 Wed 00:00] =>  0:30
+    CLOCK: [2019-09-02 Mon 18:10]--[2019-09-02 Mon 18:35] =>  0:25
+    CLOCK: [2019-09-01 Sun 16:20]--[2019-09-01 Sun 17:00] =>  0:40
+    :END:
+    - [X] Blog on Chanakya Neeti book review. (2h)
+*** IN_PROGRESS [#B] Dive into Pyhton3 [/4]
     :PROPERTIES:
     :ESTIMATED: 11
-    :ACTUAL:
+    :ACTUAL:   2.50
     :OWNER: sandeepk
     :ID: READ.1559639223
     :TASKID: READ.1559639223
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-09-03 Tue 21:30]--[2019-09-03 Tue 23:00] =>  1:30
+    CLOCK: [2019-09-02 Mon 20:30]--[2019-09-02 Mon 21:30] =>  1:00
     :END:
     - [ ]  Chapter 6 - Closures & Generators   (3h)
     - [ ]  Chapter 7 - Classes & Iterators     (3h)
