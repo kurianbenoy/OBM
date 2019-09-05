@@ -25,9 +25,9 @@
   :ID:       TASKS
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2019-08-31 Sat>
+  :wpd-akshay196: 1
   :wpd-gandalfdwite: 1
   :wpd-sandeepk: 1
-  :wpd-akshay196: 1
   :END:
 ** akshay196
 *** Automate the Boring Stuff with Python - Part I [0/13]
@@ -38,7 +38,7 @@
     :ID: READ.1567504631
     :TASKID: READ.1567504631
     :END:
-    - [ ] Chapter  1. Pyton Basics                                            (1h)
+    - [ ] Chapter  1. Python Basics                                            (1h)
     - [ ] Chapter  2. Flow Control                                            (1h)
     - [ ] Chapter  3. Functions                                               (1h)
     - [ ] Chapter  4. Lists                                                   (1h)
