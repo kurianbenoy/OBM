@@ -53,35 +53,48 @@
     - [ ] Chapter 13. Working with PDF and word Documents                     (1h)
 
 ** gandalfdwite
-*** TODO Kubernetes Security [0/1]
+*** DONE Kubernetes Security [1/1]
+    CLOSED: [2019-09-08 Sun 14:37]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   3.17
     :OWNER: gandalfdwite
     :ID: OPS.1567104795
     :TASKID: OPS.1567104795
     :END:
-    - [ ] Live Online Training      ( 3h )
+    :LOGBOOK:
+    CLOCK: [2019-09-06 Fri 23:27]--[2019-09-07 Sat 02:37] =>  3:10
+    :END:
+    - [X] Live Online Training      ( 3h )
       - [[https://learning.oreilly.com/live-training/courses/kubernetes-security-attacking-and-defending-kubernetes/0636920295549/][Link Here]]
-*** TODO Using Prometheus for Black Box monitoring [0/1]
+*** DONE Using Prometheus for Black Box monitoring [1/1]
+    CLOSED: [2019-09-06 Fri 23:27]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   3.00
     :OWNER: gandalfdwite
     :ID: OPS.1567104720
     :TASKID: OPS.1567104720
     :END:
-    - [ ] Live Online Training       ( 3h )
+    :LOGBOOK:
+    CLOCK: [2019-09-05 Thu 21:30]--[2019-09-06 Fri 00:30] =>  3:00
+    :END:
+    - [X] Live Online Training       ( 3h )
       - [[https://learning.oreilly.com/live-training/courses/spotlight-on-cloud-using-prometheus-for-black-box-monitoring-with-aaron-wieczorek/0636920296447/][Link Here]]
-*** TODO Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/4]
+*** IN_PROGRESS Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [1/4]
     :PROPERTIES:
     :ESTIMATED: 30
-    :ACTUAL:
+    :ACTUAL:   3.73
     :OWNER: gandalfdwite
     :ID: READ.1553531542
     :TASKID: READ.1553531542
     :END:
-    - [ ] 14. Hashing                          ( 2h)
+    :LOGBOOK:
+    CLOCK: [2019-09-04 Wed 23:24]--[2019-09-05 Thu 00:34] =>  1:10
+    CLOCK: [2019-09-03 Tue 21:34]--[2019-09-03 Tue 23:07] =>  1:33
+    CLOCK: [2019-09-02 Mon 13:34]--[2019-09-02 Mon 14:35] =>  1:01
+    :END:
+    - [X] 14. Hashing                          ( 2h)
     - [ ] 15. String Algorithms                ( 2h)
     - [ ] 16. Algorithms Design Techniques     ( 1h)
     - [ ] 17. Greedy Algorithms                ( 2h)
