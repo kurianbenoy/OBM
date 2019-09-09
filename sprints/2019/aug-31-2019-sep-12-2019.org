@@ -30,20 +30,29 @@
   :wpd-sandeepk: 1
   :END:
 ** akshay196
-*** Automate the Boring Stuff with Python - Part I [0/13]
+*** IN_PROGRESS Automate the Boring Stuff with Python - Part I [6/13]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:
+    :ACTUAL:   5.70
     :OWNER: akshay196
     :ID: READ.1567504631
     :TASKID: READ.1567504631
     :END:
-    - [ ] Chapter  1. Python Basics                                            (1h)
-    - [ ] Chapter  2. Flow Control                                            (1h)
-    - [ ] Chapter  3. Functions                                               (1h)
-    - [ ] Chapter  4. Lists                                                   (1h)
-    - [ ] Chapter  5. Dictionaries and Structuring Data                       (1h)
-    - [ ] Chapter  6. Manipulating Strings                                    (1h)
+    :LOGBOOK:
+    CLOCK: [2019-09-08 Sun 21:42]--[2019-09-08 Sun 22:37] =>  0:55
+    CLOCK: [2019-09-06 Fri 22:03]--[2019-09-06 Fri 22:37] =>  0:34
+    CLOCK: [2019-09-05 Thu 21:46]--[2019-09-05 Thu 23:00] =>  1:14
+    CLOCK: [2019-09-05 Thu 08:15]--[2019-09-05 Thu 09:01] =>  0:46
+    CLOCK: [2019-09-04 Wed 20:23]--[2019-09-04 Wed 21:36] =>  1:13
+    CLOCK: [2019-09-04 Wed 08:19]--[2019-09-04 Wed 09:02] =>  0:43
+    CLOCK: [2019-09-03 Tue 21:30]--[2019-09-03 Tue 21:47] =>  0:17
+    :END:
+    - [X] Chapter  1. Python Basics                                           (1h)
+    - [X] Chapter  2. Flow Control                                            (1h)
+    - [X] Chapter  3. Functions                                               (1h)
+    - [X] Chapter  4. Lists                                                   (1h)
+    - [X] Chapter  5. Dictionaries and Structuring Data                       (1h)
+    - [X] Chapter  6. Manipulating Strings                                    (1h)
     - [ ] Chapter  7. Pattern Matching with Regular Expressions               (1h)
     - [ ] Chapter  8. Reading and Writing Files                               (1h)
     - [ ] Chapter  9. Organizing Files                                        (1h)
