@@ -123,19 +123,21 @@
     CLOCK: [2019-09-01 Sun 16:20]--[2019-09-01 Sun 17:00] =>  0:40
     :END:
     - [X] Blog on Chanakya Neeti book review. (2h)
-*** IN_PROGRESS [#B] Dive into Pyhton3 [/4]
+*** IN_PROGRESS [#B] Dive into Pyhton3 [1/4]
     :PROPERTIES:
     :ESTIMATED: 11
-    :ACTUAL:   2.50
+    :ACTUAL:   4.00
     :OWNER: sandeepk
     :ID: READ.1559639223
     :TASKID: READ.1559639223
     :END:
     :LOGBOOK:
+    CLOCK: [2019-09-09 Mon 23:30]--[2019-09-10 Tue 00:30] =>  1:00
+    CLOCK: [2019-09-05 Thu 21:30]--[2019-09-05 Thu 22:00] =>  0:30
     CLOCK: [2019-09-03 Tue 21:30]--[2019-09-03 Tue 23:00] =>  1:30
     CLOCK: [2019-09-02 Mon 20:30]--[2019-09-02 Mon 21:30] =>  1:00
     :END:
-    - [ ]  Chapter 6 - Closures & Generators   (3h)
+    - [X]  Chapter 6 - Closures & Generators   (3h)
     - [ ]  Chapter 7 - Classes & Iterators     (3h)
     - [ ]  Chapter 8 - Advanced Iterators      (3h)
     - [ ]  Chapter 9 - Unit Testing            (2h)
