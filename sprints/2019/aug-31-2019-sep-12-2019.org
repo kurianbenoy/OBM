@@ -90,23 +90,27 @@
     :END:
     - [X] Live Online Training       ( 3h )
       - [[https://learning.oreilly.com/live-training/courses/spotlight-on-cloud-using-prometheus-for-black-box-monitoring-with-aaron-wieczorek/0636920296447/][Link Here]]
-*** IN_PROGRESS Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [1/4]
+*** DONE Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [4/4]
+    CLOSED: [2019-09-12 Thu 22:55]
     :PROPERTIES:
-    :ESTIMATED: 30
-    :ACTUAL:   3.73
+    :ESTIMATED: 7
+    :ACTUAL:   7.70
     :OWNER: gandalfdwite
     :ID: READ.1553531542
     :TASKID: READ.1553531542
     :END:
     :LOGBOOK:
+    CLOCK: [2019-09-12 Thu 21:41]--[2019-09-12 Thu 22:40] =>  0:59
+    CLOCK: [2019-09-11 Wed 22:53]--[2019-09-12 Thu 00:40] =>  1:47
+    CLOCK: [2019-09-10 Tue 20:48]--[2019-09-10 Tue 22:00] =>  1:12
     CLOCK: [2019-09-04 Wed 23:24]--[2019-09-05 Thu 00:34] =>  1:10
     CLOCK: [2019-09-03 Tue 21:34]--[2019-09-03 Tue 23:07] =>  1:33
     CLOCK: [2019-09-02 Mon 13:34]--[2019-09-02 Mon 14:35] =>  1:01
     :END:
     - [X] 14. Hashing                          ( 2h)
-    - [ ] 15. String Algorithms                ( 2h)
-    - [ ] 16. Algorithms Design Techniques     ( 1h)
-    - [ ] 17. Greedy Algorithms                ( 2h)
+    - [X] 15. String Algorithms                ( 2h)
+    - [X] 16. Algorithms Design Techniques     ( 1h)
+    - [X] 17. Greedy Algorithms                ( 2h)
 
 ** sandeepk
 *** DONE Blog post to write [1/1]
