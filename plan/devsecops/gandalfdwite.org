@@ -54,33 +54,3 @@
 ** Emacs
 ** Unix
 * PLAN
-** September 13, 2019 - September 29, 2019 (17 days)
-   :PROPERTIES:
-   :wpd-gandalfdwite: 1
-   :END:
-*** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/3]
-    :PROPERTIES:
-    :ESTIMATED: 30
-    :ACTUAL:
-    :OWNER: gandalfdwite
-    :ID: READ.1553531542
-    :TASKID: READ.1553531542
-    :END:
-    - [ ] 18. Divide and Conquer Algorithms    ( 1h)
-    - [ ] 19. Dynamic Programming              ( 1h)
-    - [ ] 20. Complexity Classes               ( 1h)
-
-*** Cloud Native DevOps [0/6]
-    :PROPERTIES:
-    :ESTIMATED: 34
-    :ACTUAL:
-    :OWNER: gandalfdwite
-    :ID: READ.1568308423
-    :TASKID: READ.1568308423
-    :END:
-    - [ ] 2. First Steps with Kubernetes       ( 2h )
-    - [ ] 3. Getting Kubernetes                ( 2h )
-    - [ ] 4. Workign with Kubernetes Object    ( 3h )
-    - [ ] 5. Managing Resources                ( 3h )
-    - [ ] 6. Operating Clusters                ( 2h )
-    - [ ] 7. Kubernetes Power Tools            ( 2h )
