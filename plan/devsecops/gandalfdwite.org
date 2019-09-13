@@ -3,26 +3,29 @@
 #+TAGS: dev ops read meeting
 * GOALS
 ** DevOps
-*** Kubernetes Security
+*** Cloud Native DevOps
     :PROPERTIES:
-    :ESTIMATED: 3
+    :ESTIMATED: 34
     :ACTUAL:
     :OWNER: gandalfdwite
-    :ID: OPS.1567104795
-    :TASKID: OPS.1567104795
+    :ID: READ.1568308423
+    :TASKID: READ.1568308423
     :END:
-    - [ ] Live Online Training      ( 3h )
-      - [[https://learning.oreilly.com/live-training/courses/kubernetes-security-attacking-and-defending-kubernetes/0636920295549/][Link Here]]
-*** Using Prometheus for Black Box monitoring
-    :PROPERTIES:
-    :ESTIMATED: 3
-    :ACTUAL:
-    :OWNER: gandalfdwite
-    :ID: OPS.1567104720
-    :TASKID: OPS.1567104720
-    :END:
-    - [ ] Live Online Training       ( 3h )
-      - [[https://learning.oreilly.com/live-training/courses/spotlight-on-cloud-using-prometheus-for-black-box-monitoring-with-aaron-wieczorek/0636920296447/][Link Here]]
+    - [ ] 2. First Steps with Kubernetes       ( 2h )
+    - [ ] 3. Getting Kubernetes                ( 2h )
+    - [ ] 4. Workign with Kubernetes Object    ( 3h )
+    - [ ] 5. Managing Resources                ( 3h )
+    - [ ] 6. Operating Clusters                ( 2h )
+    - [ ] 7. Kubernetes Power Tools            ( 2h )
+    - [ ] 8. Running Containers                ( 2h )
+    - [ ] 9. Managing Pods                     ( 2h )
+    - [ ] 10 Configuration and Secrets         ( 2h )
+    - [ ] 11 Security and Backups              ( 2h )
+    - [ ] 12. Deploying Kubernetes Applications ( 3h )
+    - [ ] 13. Development Workflow             ( 2h )
+    - [ ] 14. CD in Kubernetes                 ( 2h )
+    - [ ] 15. Observability and Monitoring     ( 2h )
+    - [ ] 16. Merics in Kubernetes             ( 3h )
 *** Learning Terraform
     :PROPERTIES:
     :ESTIMATED: 10
@@ -51,3 +54,33 @@
 ** Emacs
 ** Unix
 * PLAN
+** September 13, 2019 - September 29, 2019 (17 days)
+   :PROPERTIES:
+   :wpd-gandalfdwite: 1
+   :END:
+*** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/3]
+    :PROPERTIES:
+    :ESTIMATED: 30
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1553531542
+    :TASKID: READ.1553531542
+    :END:
+    - [ ] 18. Divide and Conquer Algorithms    ( 1h)
+    - [ ] 19. Dynamic Programming              ( 1h)
+    - [ ] 20. Complexity Classes               ( 1h)
+
+*** Cloud Native DevOps [0/6]
+    :PROPERTIES:
+    :ESTIMATED: 34
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1568308423
+    :TASKID: READ.1568308423
+    :END:
+    - [ ] 2. First Steps with Kubernetes       ( 2h )
+    - [ ] 3. Getting Kubernetes                ( 2h )
+    - [ ] 4. Workign with Kubernetes Object    ( 3h )
+    - [ ] 5. Managing Resources                ( 3h )
+    - [ ] 6. Operating Clusters                ( 2h )
+    - [ ] 7. Kubernetes Power Tools            ( 2h )
