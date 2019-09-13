@@ -100,25 +100,67 @@ Dan Mackin, Ben Whaley, Trent R. Hein, Garth Snyder, Evi Nemeth.
   - Legal issues
   - Organizations, conferences, and other resources
 *** Python
-**** Automate the Boring Stuff with Python
-     by Al Sweigart
-     :PROPERTIES:
-     :ESTIMATED: 18
-     :ACTUAL:
-     :OWNER: akshay196
-     :ID: READ.1567504483
-     :TASKID: READ.1567504483
-     :END:
-     - [ ] Chapter 14. Working with CSV Files and JSON Data                    (1h)
-     - [ ] Chapter 15. Keeping Time, Scheduling Tasks, and Launching Programs  (1h)
-     - [ ] Chapter 16. Sending Email and Text Messages                         (1h)
-     - [ ] Chapter 17. Manipulating Images                                     (1h)
-     - [ ] Chapter 18. Controlling the Keyboard and Mouse with GUI Automation  (1h)
-
 *** Automation with Ansible
 ** Development
 *** Ansible
 ** Emacs
 *** Triage Bugs
 * PLAN
-
+** September 13, 2019 - September 29, 2019 (17 days)
+   :PROPERTIES:
+   :wpd-akshay196: 1
+   :END:
+*** Automate the Boring Stuff with Python - Part II [0/5]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1567504631
+    :TASKID: READ.1567504631
+    :END:
+    - [ ] Chapter 14. Working with CSV Files and JSON Data                    (1h)
+    - [ ] Chapter 15. Keeping Time, Scheduling Tasks, and Launching Programs  (1h)
+    - [ ] Chapter 16. Sending Email and Text Messages                         (1h)
+    - [ ] Chapter 17. Manipulating Images                                     (1h)
+    - [ ] Chapter 18. Controlling the Keyboard and Mouse with GUI Automation  (1h)
+*** Design Patterns in the Real World, an Analysis-Based Approach
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1568391828
+    :TASKID: READ.1568391828
+    :END:
+    by Allen Holub
+    https://learning.oreilly.com/videos/design-patterns-in/9781491935828
+    - [ ] Introduction                                   (10m)
+    - [ ] What is A Design Pattern?                      (35m)
+    - [ ] Template Method                                (20m)
+    - [ ] Builder: Separating the UI from Domain Object  (30m)
+    - [ ] Singleton and Utility                          (60m)
+    - [ ] Abstract Factory                               (20m)
+    - [ ] Class and Abstract Adapters                    (15m)
+    - [ ] Decorator                                      (20m)
+    - [ ] Bridge                                         (15m)
+    - [ ] Facade                                         (15m)
+    - [ ] Prototype and Composite                        (30m)
+    - [ ] Flyweight and Flyweight Pool                   (30m)
+    - [ ] Proxy                                          (30m)
+    - [ ] Command                                        (30m)
+    - [ ] Strategy                                       (20m)
+    - [ ] The Chain of Responsibility                    (45m)
+    - [ ] Iterators (Internal and External)              (30m)
+    - [ ] Observer                                       (45m)
+    - [ ] Mediator                                       (25m)
+    - [ ] Memento                                        (30m)
+    - [ ] State                                          (15m)
+    - [ ] Active Object                                  (30m)
+*** The Little Book of Python Anti-Patterns
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1568393288
+    :TASKID: READ.1568393288
+    :END:
+    https://docs.quantifiedcode.com/python-anti-patterns/index.html
