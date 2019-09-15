@@ -33,33 +33,32 @@
 ** Attend meetups
 ** Write blog posts
 * PLAN
-** August     2, 2019 - August    14, 2019 (13 days)
+** September 13, 2019 - September 29, 2019 (17 days)
    :PROPERTIES:
    :wpd-bhavin192: 1
    :END:
-*** Write blog post about Python Pune
+*** Prepare slides and demo for Rootconf Pune
     :PROPERTIES:
-    :ESTIMATED: 7
+    :ESTIMATED: 8
     :ACTUAL:
     :OWNER:    bhavin192
-    :ID:       WRITE.1563295962
-    :TASKID:   WRITE.1563295962
+    :ID:       OPS.1568541676
+    :TASKID:   OPS.1568541676
     :END:
-*** Attend #23: Stateful apps on Kubernetes
+*** Kubernetes Security: Attacking and Defending Kubernetes
     :PROPERTIES:
-    :ESTIMATED: 3
+    :ESTIMATED: 4
     :ACTUAL:
     :OWNER:    bhavin192
-    :ID:       EVENT.1565024608
-    :TASKID:   EVENT.1565024608
+    :ID:       READ.1568541771
+    :TASKID:   READ.1568541771
     :END:
-    https://www.meetup.com/Kubernetes-Pune/events/263578205/
-*** Attend Microservice fundamentals
+    https://learning.oreilly.com/live-training/courses/kubernetes-security-attacking-and-defending-kubernetes/0636920295549/
+*** Blog post about creating PR to src.fedoraproject.org
     :PROPERTIES:
-    :ESTIMATED: 3
+    :ESTIMATED: 5
     :ACTUAL:
     :OWNER:    bhavin192
-    :ID:       READ.1565011109
-    :TASKID:   READ.1565011109
+    :ID:       WRITE.1568541846
+    :TASKID:   WRITE.1568541846
     :END:
-    https://learning.oreilly.com/live-training/courses/microservice-fundamentals/0636920279778/
