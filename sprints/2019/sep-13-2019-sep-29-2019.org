@@ -138,30 +138,36 @@
     - [ ] 6. Operating Clusters                ( 2h )
     - [ ] 7. Kubernetes Power Tools            ( 2h )
 ** sandeepk
-*** Blog post to write [1/4]
+*** IN_PROGRESS Blog post to write [/2]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   0.58
     :OWNER: sandeepk
     :ID: WRITE.1560792221
     :TASKID: WRITE.1560792221
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-09-16 Mon 20:30]--[2019-09-16 Mon 21:05] =>  0:35
+    :END:
     - [ ] Blog post on Closures   (2h)
     - [ ] Blog post on Generators (2h)
-*** [#B] Dive into Pyhton3 [/4]
+*** IN_PROGRESS [#B] Dive into Pyhton3 [/4]
     :PROPERTIES:
     :ESTIMATED: 11
-    :ACTUAL:
+    :ACTUAL:   1.00
     :OWNER: sandeepk
     :ID: READ.1559639223
     :TASKID: READ.1559639223
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-09-16 Mon 08:30]--[2019-09-16 Mon 09:30] =>  1:00
     :END:
     - [ ] Chapter 9 - Unit Testing  (2h)
     - [ ] Chapter 10 - Refactoring  (2h)
     - [ ] Chapter 11 - Files        (4h)
     - [ ] Chapter 12 - XML          (3h)
 
-*** 2PI[Slack Bot]
+*** 2PI[Slack Bot] [/2]
     :PROPERTIES:
     :ESTIMATED: 5
     :ACTUAL:
