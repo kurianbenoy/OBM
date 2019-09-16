@@ -25,8 +25,36 @@
   :ID:       TASKS
   :SPRINTLENGTH: 17
   :SPRINTSTART: <2019-09-13>
+  :wpd-bhavin192: 1
   :wpd-gandalfdwite: 1
   :END:
+** bhavin192
+*** Prepare slides and demo for Rootconf Pune
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       OPS.1568541676
+    :TASKID:   OPS.1568541676
+    :END:
+*** Kubernetes Security: Attacking and Defending Kubernetes
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1568541771
+    :TASKID:   READ.1568541771
+    :END:
+    https://learning.oreilly.com/live-training/courses/kubernetes-security-attacking-and-defending-kubernetes/0636920295549/
+*** Blog post about creating PR to src.fedoraproject.org
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1568541846
+    :TASKID:   WRITE.1568541846
+    :END:
+
 ** gandalfdwite
 *** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) [0/3]
     :PROPERTIES:
