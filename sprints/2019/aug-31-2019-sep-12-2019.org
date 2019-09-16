@@ -135,7 +135,8 @@
     CLOCK: [2019-09-01 Sun 16:20]--[2019-09-01 Sun 17:00] =>  0:40
     :END:
     - [X] Blog on Chanakya Neeti book review. (2h)
-*** IN_PROGRESS [#B] Dive into Pyhton3 [3/3]
+*** DONE [#B] Dive into Python3 [3/3]
+    CLOSED: [2019-09-13 Fri 00:00]
     :PROPERTIES:
     :ESTIMATED: 9
     :ACTUAL:   7.50
