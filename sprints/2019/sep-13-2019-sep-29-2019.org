@@ -28,6 +28,7 @@
   :wpd-akshay196: 1
   :wpd-bhavin192: 1
   :wpd-gandalfdwite: 1
+  :wpd-sandeepk: 1.176
   :END:
 ** akshay196
 *** Automate the Boring Stuff with Python - Part II [0/5]
@@ -136,3 +137,38 @@
     - [ ] 5. Managing Resources                ( 3h )
     - [ ] 6. Operating Clusters                ( 2h )
     - [ ] 7. Kubernetes Power Tools            ( 2h )
+** sandeepk
+*** Blog post to write [1/4]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: WRITE.1560792221
+    :TASKID: WRITE.1560792221
+    :END:
+    - [ ] Blog post on Closures   (2h)
+    - [ ] Blog post on Generators (2h)
+*** [#B] Dive into Pyhton3 [/4]
+    :PROPERTIES:
+    :ESTIMATED: 11
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1559639223
+    :TASKID: READ.1559639223
+    :END:
+    - [ ] Chapter 9 - Unit Testing  (2h)
+    - [ ] Chapter 10 - Refactoring  (2h)
+    - [ ] Chapter 11 - Files        (4h)
+    - [ ] Chapter 12 - XML          (3h)
+
+*** 2PI[Slack Bot]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1568559197
+    :TASKID: DEV.1568559197
+    :END:
+    - [ ] Repo Creation, Planning of the architecture.  (2h)
+    - [ ] Emacs setup for the project.                  (3h)
+
