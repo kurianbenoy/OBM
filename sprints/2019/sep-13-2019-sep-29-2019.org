@@ -138,18 +138,21 @@
     - [ ] 6. Operating Clusters                ( 2h )
     - [ ] 7. Kubernetes Power Tools            ( 2h )
 ** sandeepk
-*** IN_PROGRESS Blog post to write [/2]
+*** IN_PROGRESS Blog post to write [1/2]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:   0.58
+    :ACTUAL:   2.67
     :OWNER: sandeepk
     :ID: WRITE.1560792221
     :TASKID: WRITE.1560792221
     :END:
     :LOGBOOK:
+    CLOCK: [2019-09-17 Tue 23:30]--[2019-09-18 Wed 00:10] =>  0:40
+    CLOCK: [2019-09-17 Tue 20:30]--[2019-09-17 Tue 20:50] =>  0:20
+    CLOCK: [2019-09-17 Tue 09:00]--[2019-09-17 Tue 10:05] =>  1:05
     CLOCK: [2019-09-16 Mon 20:30]--[2019-09-16 Mon 21:05] =>  0:35
     :END:
-    - [ ] Blog post on Closures   (2h)
+    - [X] Blog post on Closures   (2h)
     - [ ] Blog post on Generators (2h)
 *** IN_PROGRESS [#B] Dive into Pyhton3 [/4]
     :PROPERTIES:
