@@ -154,7 +154,7 @@
     :END:
     - [X] Blog post on Closures   (2h)
     - [ ] Blog post on Generators (2h)
-*** IN_PROGRESS [#B] Dive into Pyhton3 [/4]
+*** IN_PROGRESS [#B] Dive into Python3 [/4]
     :PROPERTIES:
     :ESTIMATED: 11
     :ACTUAL:   1.00
