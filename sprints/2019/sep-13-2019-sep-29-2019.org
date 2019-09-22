@@ -176,20 +176,21 @@
     :END:
     - [X] Blog post on Closures   (2h)
     - [ ] Blog post on Generators (2h)
-*** IN_PROGRESS [#B] Dive into Python3 [1/4]
+*** IN_PROGRESS [#B] Dive into Python3 [2/4]
     :PROPERTIES:
     :ESTIMATED: 11
-    :ACTUAL:   2.00
+    :ACTUAL:   3.43
     :OWNER: sandeepk
     :ID: READ.1559639223
     :TASKID: READ.1559639223
     :END:
     :LOGBOOK:
+    CLOCK: [2019-09-22 Sun 23:30]--[2019-09-23 Mon 00:56] =>  1:26
     CLOCK: [2019-09-22 Sun 18:00]--[2019-09-22 Sun 19:00] =>  1:00
     CLOCK: [2019-09-16 Mon 08:30]--[2019-09-16 Mon 09:30] =>  1:00
     :END:
     - [X] Chapter 9 - Unit Testing  (2h)
-    - [ ] Chapter 10 - Refactoring  (2h)
+    - [X] Chapter 10 - Refactoring  (2h)
     - [ ] Chapter 11 - Files        (4h)
     - [ ] Chapter 12 - XML          (3h)
 
