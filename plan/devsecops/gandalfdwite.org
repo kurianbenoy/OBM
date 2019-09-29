@@ -50,7 +50,6 @@
    :PROPERTIES:
    :wpd-gandalfdwite: 1
    :END:
-
 *** TODO Cloud Native DevOps Part - II [0/5]
     :PROPERTIES:
     :ESTIMATED: 11
