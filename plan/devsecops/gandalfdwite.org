@@ -11,12 +11,6 @@
     :ID: READ.1568308423
     :TASKID: READ.1568308423
     :END:
-    - [ ] 2. First Steps with Kubernetes       ( 2h )
-    - [ ] 3. Getting Kubernetes                ( 2h )
-    - [ ] 4. Workign with Kubernetes Object    ( 3h )
-    - [ ] 5. Managing Resources                ( 3h )
-    - [ ] 6. Operating Clusters                ( 2h )
-    - [ ] 7. Kubernetes Power Tools            ( 2h )
     - [ ] 8. Running Containers                ( 2h )
     - [ ] 9. Managing Pods                     ( 2h )
     - [ ] 10 Configuration and Secrets         ( 2h )
@@ -39,18 +33,43 @@
     - [ ] Terraform With AWS          ( 3h )
     - [ ] Terraform With Azure        ( 3h )
 ** Python
-*** Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi)
-    :PROPERTIES:
-    :ESTIMATED: 30
-    :ACTUAL:
-    :OWNER: gandalfdwite
-    :ID: READ.1553531542
-    :TASKID: READ.1553531542
-    :END:
-    - [ ] 18. Divide and Conquer Algorithms    ( 1h)
-    - [ ] 19. Dynamic Programming              ( 1h)
-    - [ ] 20. Complexity Classes               ( 1h)
-
 ** Emacs
 ** Unix
+** Blog - pravaragdotcom
+*** Write a Blog Post
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER:    gandalfdwite
+    :ID:       DO.1569769174
+    :TASKID:   DO.1569769174
+    :END:
+    - [ ] Blog Post on using Argo             ( 2h )
 * PLAN
+** Spetember 30, 2019 - October   12, 2019 (13 days)
+   :PROPERTIES:
+   :wpd-gandalfdwite: 1
+   :END:
+
+*** TODO Cloud Native DevOps Part - II [0/5]
+    :PROPERTIES:
+    :ESTIMATED: 11
+    :ACTUAL:   0.00
+    :OWNER: gandalfdwite
+    :ID: READ.1568308423
+    :TASKID: READ.1568308423
+    :END:
+    - [ ] 8. Running Containers                ( 2h )
+    - [ ] 9. Managing Pods                     ( 2h )
+    - [ ] 10 Configuration and Secrets         ( 2h )
+    - [ ] 11 Security and Backups              ( 2h )
+    - [ ] 12. Deploying Kubernetes Applications ( 3h )
+*** TODO Write a Blog Post [0/1]
+   :PROPERTIES:
+   :ESTIMATED: 2
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: DO.1569769174
+   :TASKID: DO.1569769174
+   :END:
+   - [ ] Blog Post on using Argo             ( 2h )

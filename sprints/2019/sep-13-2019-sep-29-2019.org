@@ -136,26 +136,33 @@
     :TASKID:   WRITE.1568541846
     :END:
 ** gandalfdwite
-*** TODO Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) Part-VII [0/3]
+*** DONE Data Structure and Algorithmic Thinking with Python (By Narsimha Karumanchi) Part-VII [3/3]
+    CLOSED: [2019-09-29 Sun 20:21]
     :PROPERTIES:
     :ESTIMATED: 3.0
-    :ACTUAL:   0.00
+    :ACTUAL:   3.33
     :OWNER: gandalfdwite
     :ID: READ.1553531542
     :TASKID: READ.1553531542
     :END:
-    - [ ] 18. Divide and Conquer Algorithms    ( 1h)
-    - [ ] 19. Dynamic Programming              ( 1h)
-    - [ ] 20. Complexity Classes               ( 1h)
-*** IN_PROGRESS Cloud Native DevOps - Part I [5/6]
+    :LOGBOOK:
+    CLOCK: [2019-09-29 Sun 14:03]--[2019-09-29 Sun 16:19] =>  2:16
+    CLOCK: [2019-09-28 Sat 20:15]--[2019-09-28 Sat 21:19] =>  1:04
+    :END:
+    - [X] 18. Divide and Conquer Algorithms    ( 1h)
+    - [X] 19. Dynamic Programming              ( 1h)
+    - [X] 20. Complexity Classes               ( 1h)
+*** DONE Cloud Native DevOps - Part I [6/6]
+    CLOSED: [2019-09-28 Sat 12:46]
     :PROPERTIES:
     :ESTIMATED: 14.0
-    :ACTUAL:   14.12
+    :ACTUAL:   15.20
     :OWNER: gandalfdwite
     :ID: READ.1568308423
     :TASKID: READ.1568308423
     :END:
     :LOGBOOK:
+    CLOCK: [2019-09-27 Fri 23:40]--[2019-09-28 Sat 00:45] =>  1:05
     CLOCK: [2019-09-26 Thu 21:29]--[2019-09-26 Thu 22:30] =>  1:01
     CLOCK: [2019-09-25 Wed 23:00]--[2019-09-26 Thu 00:16] =>  1:16
     CLOCK: [2019-09-24 Tue 23:30]--[2019-09-25 Wed 00:41] =>  1:11
@@ -174,7 +181,7 @@
     - [X] 4. Working with Kubernetes Object    ( 3h )
     - [X] 5. Managing Resources                ( 3h )
     - [X] 6. Operating Clusters                ( 2h )
-    - [ ] 7. Kubernetes Power Tools            ( 2h )
+    - [X] 7. Kubernetes Power Tools            ( 2h )
 ** sandeepk
 *** IN_PROGRESS Blog post to write [1/2]
     :PROPERTIES:
