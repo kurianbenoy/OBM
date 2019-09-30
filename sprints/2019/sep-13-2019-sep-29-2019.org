@@ -55,45 +55,70 @@
     - [X] Chapter 16. Sending Email and Text Messages                         (1h)
     - [X] Chapter 17. Manipulating Images                                     (1h)
     - [X] Chapter 18. Controlling the Keyboard and Mouse with GUI Automation  (1h)
-*** Design Patterns in the Real World, an Analysis-Based Approach
+*** DONE Design Patterns in the Real World, an Analysis-Based Approach [22/22]
+    CLOSED: [2019-09-29 Sun 21:22]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:
+    :ACTUAL:   7.87
     :OWNER: akshay196
     :ID: READ.1568391828
     :TASKID: READ.1568391828
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-09-29 Sun 21:07]--[2019-09-29 Sun 21:21] =>  0:14
+    CLOCK: [2019-09-29 Sun 20:38]--[2019-09-29 Sun 21:00] =>  0:22
+    CLOCK: [2019-09-29 Sun 17:06]--[2019-09-29 Sun 17:29] =>  0:23
+    CLOCK: [2019-09-29 Sun 15:46]--[2019-09-29 Sun 15:59] =>  0:13
+    CLOCK: [2019-09-29 Sun 14:41]--[2019-09-29 Sun 15:08] =>  0:27
+    CLOCK: [2019-09-29 Sun 09:58]--[2019-09-29 Sun 10:13] =>  0:15
+    CLOCK: [2019-09-28 Sat 23:27]--[2019-09-29 Sun 00:10] =>  0:43
+    CLOCK: [2019-09-28 Sat 21:49]--[2019-09-28 Sat 22:19] =>  0:30
+    CLOCK: [2019-09-28 Sat 16:01]--[2019-09-28 Sat 16:23] =>  0:22
+    CLOCK: [2019-09-27 Fri 20:24]--[2019-09-27 Fri 20:44] =>  0:20
+    CLOCK: [2019-09-25 Wed 20:06]--[2019-09-25 Wed 20:50] =>  0:44
+    CLOCK: [2019-09-24 Tue 07:15]--[2019-09-24 Tue 07:29] =>  0:14
+    CLOCK: [2019-09-23 Mon 22:05]--[2019-09-23 Mon 22:54] =>  0:49
+    CLOCK: [2019-09-23 Mon 07:32]--[2019-09-23 Mon 08:14] =>  0:42
+    CLOCK: [2019-09-22 Sun 17:51]--[2019-09-22 Sun 18:06] =>  0:15
+    CLOCK: [2019-09-21 Sat 11:53]--[2019-09-21 Sat 13:04] =>  1:11
+    CLOCK: [2019-09-19 Thu 23:28]--[2019-09-19 Thu 23:36] =>  0:08
+    :END:
     by Allen Holub
     https://learning.oreilly.com/videos/design-patterns-in/9781491935828
-    - [ ] Introduction                                   (10m)
-    - [ ] What is A Design Pattern?                      (35m)
-    - [ ] Template Method                                (20m)
-    - [ ] Builder: Separating the UI from Domain Object  (30m)
-    - [ ] Singleton and Utility                          (60m)
-    - [ ] Abstract Factory                               (20m)
-    - [ ] Class and Abstract Adapters                    (15m)
-    - [ ] Decorator                                      (20m)
-    - [ ] Bridge                                         (15m)
-    - [ ] Facade                                         (15m)
-    - [ ] Prototype and Composite                        (30m)
-    - [ ] Flyweight and Flyweight Pool                   (30m)
-    - [ ] Proxy                                          (30m)
-    - [ ] Command                                        (30m)
-    - [ ] Strategy                                       (20m)
-    - [ ] The Chain of Responsibility                    (45m)
-    - [ ] Iterators (Internal and External)              (30m)
-    - [ ] Observer                                       (45m)
-    - [ ] Mediator                                       (25m)
-    - [ ] Memento                                        (30m)
-    - [ ] State                                          (15m)
-    - [ ] Active Object                                  (30m)
-*** The Little Book of Python Anti-Patterns
+    - [X] Introduction                                   (10m)
+    - [X] What is A Design Pattern?                      (35m)
+    - [X] Template Method                                (20m)
+    - [X] Builder: Separating the UI from Domain Object  (30m)
+    - [X] Singleton and Utility                          (60m)
+    - [X] Abstract Factory                               (20m)
+    - [X] Class and Abstract Adapters                    (15m)
+    - [X] Decorator                                      (20m)
+    - [X] Bridge                                         (15m)
+    - [X] Facade                                         (15m)
+    - [X] Prototype and Composite                        (30m)
+    - [X] Flyweight and Flyweight Pool                   (30m)
+    - [X] Proxy                                          (30m)
+    - [X] Command                                        (30m)
+    - [X] Strategy                                       (20m)
+    - [X] The Chain of Responsibility                    (45m)
+    - [X] Iterators (Internal and External)              (30m)
+    - [X] Observer                                       (45m)
+    - [X] Mediator                                       (25m)
+    - [X] Memento                                        (30m)
+    - [X] State                                          (15m)
+    - [X] Active Object                                  (30m)
+*** DONE The Little Book of Python Anti-Patterns
+    CLOSED: [2019-09-30 Mon 08:01]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   1.87
     :OWNER: akshay196
     :ID: READ.1568393288
     :TASKID: READ.1568393288
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-09-30 Mon 07:02]--[2019-09-30 Mon 08:01] =>  0:59
+    CLOCK: [2019-09-29 Sun 21:46]--[2019-09-29 Sun 22:39] =>  0:53
     :END:
     https://docs.quantifiedcode.com/python-anti-patterns/index.html
 ** bhavin192
@@ -232,4 +257,3 @@
     :END:
     - [ ] Repo Creation, Planning of the architecture.  (2h)
     - [ ] Emacs setup for the project.                  (3h)
-
