@@ -1,0 +1,53 @@
+#+TITLE: September 30, 2019 - October 12, 2019 (13 days)
+#+AUTHOR: dgplug.org
+#+EMAIL: users@lists.dgplug.org
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 13
+  :SPRINTSTART: <2019-09-30 Mon>
+  :wpd-akshay196: 1
+  :END:
+** akshay196
+*** Mastering Python Design Patterns - Part I [0/13]
+    :PROPERTIES:
+    :ESTIMATED: 13
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1569864940
+    :TASKID: READ.1569864940
+    :END:
+    Second Edition. by Sakis Kasampalis, Kamon Ayeva.
+    https://learning.oreilly.com/library/view/mastering-python-design/9781788837484/
+    - [ ] The factory method                               (1h)
+    - [ ] The abstract factory                             (1h)
+    - [ ] The Builder Pattern                              (1h)
+    - [ ] The prototype pattern                            (1h)
+    - [ ] Singleton                                        (1h)
+    - [ ] The Adapter Pattern                              (1h)
+    - [ ] The Decorator Pattern                            (1h)
+    - [ ] The Bridge Pattern                               (1h)
+    - [ ] The Facade Pattern                               (1h)
+    - [ ] The flyweight pattern                            (1h)
+    - [ ] The model-view-controller pattern                (1h)
+    - [ ] The proxy pattern                                (1h)
+    - [ ] The Chain of Responsibility Pattern              (1h)
