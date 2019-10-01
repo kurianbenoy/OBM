@@ -131,30 +131,3 @@ Dan Mackin, Ben Whaley, Trent R. Hein, Garth Snyder, Evi Nemeth.
 ** Emacs
 *** Triage Bugs
 * PLAN
-** Spetember 30, 2019 - October   12, 2019 (13 days)
-   :PROPERTIES:
-   :wpd-akshay196: 1
-   :END:
-*** Mastering Python Design Patterns - Part I [0/13]
-    :PROPERTIES:
-    :ESTIMATED: 13
-    :ACTUAL:
-    :OWNER: akshay196
-    :ID: READ.1569864940
-    :TASKID: READ.1569864940
-    :END:
-    Second Edition. by Sakis Kasampalis, Kamon Ayeva.
-    https://learning.oreilly.com/library/view/mastering-python-design/9781788837484/
-    - [ ] The factory method                               (1h)
-    - [ ] The abstract factory                             (1h)
-    - [ ] The Builder Pattern                              (1h)
-    - [ ] The prototype pattern                            (1h)
-    - [ ] Singleton                                        (1h)
-    - [ ] The Adapter Pattern                              (1h)
-    - [ ] The Decorator Pattern                            (1h)
-    - [ ] The Bridge Pattern                               (1h)
-    - [ ] The Facade Pattern                               (1h)
-    - [ ] The flyweight pattern                            (1h)
-    - [ ] The model-view-controller pattern                (1h)
-    - [ ] The proxy pattern                                (1h)
-    - [ ] The Chain of Responsibility Pattern              (1h)
