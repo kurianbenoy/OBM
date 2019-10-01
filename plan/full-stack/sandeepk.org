@@ -171,11 +171,51 @@
 * PLAN
 ** September 30, 2019 - October   12, 2019 (13 days)
    :PROPERTIES:
-   :wpd-sandeepk:
+   :wpd-sandeepk: 1.84
    :END:
+*** 2PI Research [Slack Bot] [/2]
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1569958301
+    :TASKID: READ.1569958301
+    :END:
+    - [ ] https://api.slack.com/tutorials/tags/python                             (4h)
+    - [ ] https://www.fullstackpython.com/blog/build-first-slack-bot-python.html  (3h)
+*** 2PI Development [Slack Bot]  [/3]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: DEV.1568559197
+    :TASKID: DEV.1568559197
+    :END:
+    - [ ] Repo Creation, Planning of the architecture.  (2h)
+    - [ ] Emacs setup for the project.                  (3h)
+    - [ ] Env Setup                                     (1h)
+
+*** [#B] Dive into Python3 [/3]
+    :PROPERTIES:
+    :ESTIMATED: 11 
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1559639223
+    :TASKID: READ.1559639223
+    :END:
+    - [ ] Serializing Python Objects              (3h)
+    - [ ] HTTP Web Services                       (4h)
+    - [ ] Case Study: Porting chardet to Python 3 (4h)
+
 ** October   13, 2019 - October   28, 2019 (16 days)
 ** October   29, 2019 - November  11, 2019 (14 days)
+   :PROPERTIES:
+   :wpd-sandeepk:
+   :END:
 ** November  12, 2019 - November  27, 2019 (16 days)
+   :PROPERTIES:
+   :wpd-sandeepk:
+   :END:
 ** November  28, 2019 - December  11, 2019 (14 days)
 ** December  12, 2019 - December  26, 2019 (15 days)
 ** December  27, 2019 - January    9, 2020 (14 days)
