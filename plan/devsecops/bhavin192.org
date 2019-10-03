@@ -33,23 +33,3 @@
 ** Attend meetups
 ** Write blog posts
 * PLAN
-** Spetember 30, 2019 - October   12, 2019 (13 days)
-   :PROPERTIES:
-   :wpd-bhavin192: 1
-   :END:
-*** Write blog post about Rootconf Pune 2019
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       WRITE.1570037533
-    :TASKID:   WRITE.1570037533
-    :END:
-*** Attend PyCon India 2019
-    :PROPERTIES:
-    :ESTIMATED: 8
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       EVENT.1570037556
-    :TASKID:   EVENT.1570037556
-    :END:

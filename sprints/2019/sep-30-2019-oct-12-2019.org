@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2019-09-30 Mon>
   :wpd-akshay196: 1
+  :wpd-bhavin192: 1
   :END:
 ** akshay196
 *** Mastering Python Design Patterns - Part I [0/13]
@@ -51,3 +52,20 @@
     - [ ] The model-view-controller pattern                (1h)
     - [ ] The proxy pattern                                (1h)
     - [ ] The Chain of Responsibility Pattern              (1h)
+** bhavin192
+*** Write blog post about Rootconf Pune 2019
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1570037533
+    :TASKID:   WRITE.1570037533
+    :END:
+*** Attend PyCon India 2019
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       EVENT.1570037556
+    :TASKID:   EVENT.1570037556
+    :END:
