@@ -27,6 +27,7 @@
   :SPRINTSTART: <2019-09-30 Mon>
   :wpd-akshay196: 1
   :wpd-bhavin192: 1
+  :wpd-gandalfdwite: 1
   :wpd-sandeepk: 1.84
   :END:
 ** akshay196
@@ -70,6 +71,30 @@
     :ID:       EVENT.1570037556
     :TASKID:   EVENT.1570037556
     :END:
+** gandalfdwite
+*** TODO Cloud Native DevOps Part - II [0/5]
+    :PROPERTIES:
+    :ESTIMATED: 11
+    :ACTUAL:   0.00
+    :OWNER: gandalfdwite
+    :ID: READ.1568308423
+    :TASKID: READ.1568308423
+    :END:
+    - [ ] 8. Running Containers                ( 2h )
+    - [ ] 9. Managing Pods                     ( 2h )
+    - [ ] 10 Configuration and Secrets         ( 2h )
+    - [ ] 11 Security and Backups              ( 2h )
+    - [ ] 12. Deploying Kubernetes Applications ( 3h )
+*** TODO Write a Blog Post [0/1]
+   :PROPERTIES:
+   :ESTIMATED: 2
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: DO.1569769174
+   :TASKID: DO.1569769174
+   :END:
+   - [ ] Blog Post on using Argo             ( 2h )
+
 ** sandeepk
 *** 2PI Research [Slack Bot] [0/2]
     :PROPERTIES:
