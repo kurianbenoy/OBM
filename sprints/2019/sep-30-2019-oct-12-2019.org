@@ -31,29 +31,34 @@
   :wpd-sandeepk: 1.84
   :END:
 ** akshay196
-*** Mastering Python Design Patterns - Part I [0/13]
+*** DONE Mastering Python Design Patterns - Part I [7/7]
+    CLOSED: [2019-10-14 Mon 13:31]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:
+    :ACTUAL:   4.30
     :OWNER: akshay196
     :ID: READ.1569864940
     :TASKID: READ.1569864940
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-10-10 Thu 20:30]--[2019-10-10 Thu 20:59] =>  0:29
+    CLOCK: [2019-10-09 Wed 18:41]--[2019-10-09 Wed 19:13] =>  0:32
+    CLOCK: [2019-10-09 Wed 07:58]--[2019-10-09 Wed 08:43] =>  0:45
+    CLOCK: [2019-10-08 Tue 07:01]--[2019-10-08 Tue 07:43] =>  0:42
+    CLOCK: [2019-10-06 Sun 14:53]--[2019-10-06 Sun 15:29] =>  0:36
+    CLOCK: [2019-10-04 Fri 07:30]--[2019-10-04 Fri 07:57] =>  0:27
+    CLOCK: [2019-10-02 Wed 20:34]--[2019-10-02 Wed 21:18] =>  0:44
+    CLOCK: [2019-10-02 Wed 10:39]--[2019-10-02 Wed 10:42] =>  0:03
+    :END:
     Second Edition. by Sakis Kasampalis, Kamon Ayeva.
     https://learning.oreilly.com/library/view/mastering-python-design/9781788837484/
-    - [ ] The factory method                               (1h)
-    - [ ] The abstract factory                             (1h)
-    - [ ] The Builder Pattern                              (1h)
-    - [ ] The prototype pattern                            (1h)
-    - [ ] Singleton                                        (1h)
-    - [ ] The Adapter Pattern                              (1h)
-    - [ ] The Decorator Pattern                            (1h)
-    - [ ] The Bridge Pattern                               (1h)
-    - [ ] The Facade Pattern                               (1h)
-    - [ ] The flyweight pattern                            (1h)
-    - [ ] The model-view-controller pattern                (1h)
-    - [ ] The proxy pattern                                (1h)
-    - [ ] The Chain of Responsibility Pattern              (1h)
+    - [X] The factory method                               (1h)
+    - [X] The abstract factory                             (1h)
+    - [X] The Builder Pattern                              (1h)
+    - [X] The prototype pattern                            (1h)
+    - [X] Singleton                                        (1h)
+    - [X] The Adapter Pattern                              (1h)
+    - [X] The Decorator Pattern                            (1h)
 ** bhavin192
 *** Write blog post about Rootconf Pune 2019
     :PROPERTIES:
@@ -128,6 +133,3 @@
     - [ ] Serializing Python Objects              (3h)
     - [ ] HTTP Web Services                       (4h)
     - [ ] Case Study: Porting chardet to Python 3 (4h)
-
-=======
-
