@@ -60,21 +60,17 @@
     - [X] The Adapter Pattern                              (1h)
     - [X] The Decorator Pattern                            (1h)
 ** bhavin192
-*** Write blog post about Rootconf Pune 2019
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       WRITE.1570037533
-    :TASKID:   WRITE.1570037533
-    :END:
-*** Attend PyCon India 2019
+*** DONE Attend PyCon India 2019
+    CLOSED: [2019-10-12 Sat 18:30]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:
+    :ACTUAL:   11.08
     :OWNER:    bhavin192
     :ID:       EVENT.1570037556
     :TASKID:   EVENT.1570037556
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-10-12 Sat 07:45]--[2019-10-12 Sat 18:50] => 11:05
     :END:
 ** gandalfdwite
 *** TODO Cloud Native DevOps Part - II [0/5]
