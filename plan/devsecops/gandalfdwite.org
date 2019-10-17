@@ -46,29 +46,3 @@
     :END:
     - [ ] Blog Post on using Argo             ( 2h )
 * PLAN
-** Spetember 30, 2019 - October   12, 2019 (13 days)
-   :PROPERTIES:
-   :wpd-gandalfdwite: 1
-   :END:
-*** TODO Cloud Native DevOps Part - II [0/5]
-    :PROPERTIES:
-    :ESTIMATED: 11
-    :ACTUAL:   0.00
-    :OWNER: gandalfdwite
-    :ID: READ.1568308423
-    :TASKID: READ.1568308423
-    :END:
-    - [ ] 8. Running Containers                ( 2h )
-    - [ ] 9. Managing Pods                     ( 2h )
-    - [ ] 10 Configuration and Secrets         ( 2h )
-    - [ ] 11 Security and Backups              ( 2h )
-    - [ ] 12. Deploying Kubernetes Applications ( 3h )
-*** TODO Write a Blog Post [0/1]
-   :PROPERTIES:
-   :ESTIMATED: 2
-   :ACTUAL:
-   :OWNER: gandalfdwite
-   :ID: DO.1569769174
-   :TASKID: DO.1569769174
-   :END:
-   - [ ] Blog Post on using Argo             ( 2h )

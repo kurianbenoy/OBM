@@ -27,49 +27,75 @@
   :SPRINTSTART: <2019-09-30 Mon>
   :wpd-akshay196: 1
   :wpd-bhavin192: 1
+  :wpd-gandalfdwite: 1
   :wpd-sandeepk: 1.84
   :END:
 ** akshay196
-*** Mastering Python Design Patterns - Part I [0/13]
+*** DONE Mastering Python Design Patterns - Part I [7/7]
+    CLOSED: [2019-10-14 Mon 13:31]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:
+    :ACTUAL:   4.30
     :OWNER: akshay196
     :ID: READ.1569864940
     :TASKID: READ.1569864940
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-10-10 Thu 20:30]--[2019-10-10 Thu 20:59] =>  0:29
+    CLOCK: [2019-10-09 Wed 18:41]--[2019-10-09 Wed 19:13] =>  0:32
+    CLOCK: [2019-10-09 Wed 07:58]--[2019-10-09 Wed 08:43] =>  0:45
+    CLOCK: [2019-10-08 Tue 07:01]--[2019-10-08 Tue 07:43] =>  0:42
+    CLOCK: [2019-10-06 Sun 14:53]--[2019-10-06 Sun 15:29] =>  0:36
+    CLOCK: [2019-10-04 Fri 07:30]--[2019-10-04 Fri 07:57] =>  0:27
+    CLOCK: [2019-10-02 Wed 20:34]--[2019-10-02 Wed 21:18] =>  0:44
+    CLOCK: [2019-10-02 Wed 10:39]--[2019-10-02 Wed 10:42] =>  0:03
+    :END:
     Second Edition. by Sakis Kasampalis, Kamon Ayeva.
     https://learning.oreilly.com/library/view/mastering-python-design/9781788837484/
-    - [ ] The factory method                               (1h)
-    - [ ] The abstract factory                             (1h)
-    - [ ] The Builder Pattern                              (1h)
-    - [ ] The prototype pattern                            (1h)
-    - [ ] Singleton                                        (1h)
-    - [ ] The Adapter Pattern                              (1h)
-    - [ ] The Decorator Pattern                            (1h)
-    - [ ] The Bridge Pattern                               (1h)
-    - [ ] The Facade Pattern                               (1h)
-    - [ ] The flyweight pattern                            (1h)
-    - [ ] The model-view-controller pattern                (1h)
-    - [ ] The proxy pattern                                (1h)
-    - [ ] The Chain of Responsibility Pattern              (1h)
+    - [X] The factory method                               (1h)
+    - [X] The abstract factory                             (1h)
+    - [X] The Builder Pattern                              (1h)
+    - [X] The prototype pattern                            (1h)
+    - [X] Singleton                                        (1h)
+    - [X] The Adapter Pattern                              (1h)
+    - [X] The Decorator Pattern                            (1h)
 ** bhavin192
-*** Write blog post about Rootconf Pune 2019
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       WRITE.1570037533
-    :TASKID:   WRITE.1570037533
-    :END:
-*** Attend PyCon India 2019
+*** DONE Attend PyCon India 2019
+    CLOSED: [2019-10-12 Sat 18:30]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:
+    :ACTUAL:   11.08
     :OWNER:    bhavin192
     :ID:       EVENT.1570037556
     :TASKID:   EVENT.1570037556
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-10-12 Sat 07:45]--[2019-10-12 Sat 18:50] => 11:05
+    :END:
+** gandalfdwite
+*** TODO Cloud Native DevOps Part - II [0/5]
+    :PROPERTIES:
+    :ESTIMATED: 11
+    :ACTUAL:   0.00
+    :OWNER: gandalfdwite
+    :ID: READ.1568308423
+    :TASKID: READ.1568308423
+    :END:
+    - [ ] 8. Running Containers                ( 2h )
+    - [ ] 9. Managing Pods                     ( 2h )
+    - [ ] 10 Configuration and Secrets         ( 2h )
+    - [ ] 11 Security and Backups              ( 2h )
+    - [ ] 12. Deploying Kubernetes Applications ( 3h )
+*** TODO Write a Blog Post [0/1]
+   :PROPERTIES:
+   :ESTIMATED: 2
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: DO.1569769174
+   :TASKID: DO.1569769174
+   :END:
+   - [ ] Blog Post on using Argo             ( 2h )
+
 ** sandeepk
 *** DONE 2PI Research [Slack Bot] [2/2]
     :PROPERTIES:
@@ -103,5 +129,6 @@
     :END:
     - [X] Serializing Python Objects              (3h)
     - [X] HTTP Web Services                       (4h)
+
 
 
