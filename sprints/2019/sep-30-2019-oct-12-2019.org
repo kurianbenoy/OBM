@@ -73,28 +73,49 @@
     CLOCK: [2019-10-12 Sat 07:45]--[2019-10-12 Sat 18:50] => 11:05
     :END:
 ** gandalfdwite
-*** TODO Cloud Native DevOps Part - II [0/5]
+*** DONE Cloud Native DevOps Part - II [5/5]
+    CLOSED: [2019-10-10 Thu 18:45]
     :PROPERTIES:
     :ESTIMATED: 11
-    :ACTUAL:   0.00
+    :ACTUAL:   12.12
     :OWNER: gandalfdwite
     :ID: READ.1568308423
     :TASKID: READ.1568308423
     :END:
-    - [ ] 8. Running Containers                ( 2h )
-    - [ ] 9. Managing Pods                     ( 2h )
-    - [ ] 10 Configuration and Secrets         ( 2h )
-    - [ ] 11 Security and Backups              ( 2h )
-    - [ ] 12. Deploying Kubernetes Applications ( 3h )
-*** TODO Write a Blog Post [0/1]
+    :LOGBOOK:
+    CLOCK: [2019-10-09 Wed 22:25]--[2019-10-09 Wed 14:49] => -7:36
+    CLOCK: [2019-10-07 Mon 19:15]--[2019-10-07 Mon 20:49] =>  1:34
+    CLOCK: [2019-10-08 Tue 11:07]--[2019-10-08 Tue 12:49] =>  1:42
+    CLOCK: [2019-10-07 Mon 19:15]--[2019-10-07 Mon 20:49] =>  1:34
+    CLOCK: [2019-10-06 Sun 14:45]--[2019-10-06 Sun 16:15] =>  1:30
+    CLOCK: [2019-10-05 Sat 10:15]--[2019-10-05 Sat 11:49] =>  1:34
+    CLOCK: [2019-10-04 Fri 17:35]--[2019-10-04 Fri 18:49] =>  1:14
+    CLOCK: [2019-10-02 Wed 19:00]--[2019-10-02 Wed 21:15] =>  2:15
+    CLOCK: [2019-10-01 Tue 23:15]--[2019-10-02 Wed 00:15] =>  1:00
+    CLOCK: [2019-09-30 Mon 21:07]--[2019-09-30 Mon 22:25] =>  1:18
+
+
+    :END:
+    - [X] 8. Running Containers                ( 2h )
+    - [X] 9. Managing Pods                     ( 2h )
+    - [X] 10 Configuration and Secrets         ( 2h )
+    - [X] 11 Security and Backups              ( 2h )
+    - [X] 12. Deploying Kubernetes Applications ( 3h )
+*** DONE Write a Blog Post [1/1]
+    CLOSED: [2019-10-17 Thu 00:45]
    :PROPERTIES:
    :ESTIMATED: 2
-   :ACTUAL:
+   :ACTUAL:   2.48
    :OWNER: gandalfdwite
    :ID: DO.1569769174
    :TASKID: DO.1569769174
    :END:
-   - [ ] Blog Post on using Argo             ( 2h )
+   :LOGBOOK:
+   CLOCK: [2019-10-16 Wed 23:03]--[2019-10-17 Thu 00:22] =>  1:19
+   CLOCK: [2019-10-11 Fri 18:45]--[2019-10-11 Fri 19:55] =>  1:10
+   :END:
+
+   - [X] Blog Post on using Argo             ( 2h )
 
 ** sandeepk
 *** DONE 2PI Research [Slack Bot] [2/2]
