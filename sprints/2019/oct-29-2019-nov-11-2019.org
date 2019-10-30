@@ -26,6 +26,7 @@
   :SPRINTLENGTH: 14
   :SPRINTSTART: <2019-10-29 Tue>
   :wpd-akshay196: 1
+  :wpd-bhavin192: 1
   :wpd-gandalfdwite: 1
   :END:
 ** akshay196
@@ -53,6 +54,24 @@
     - [ ] The Circuit Breaker pattern                      (1h)
     - [ ] The Cache-Aside pattern                          (1h)
     - [ ] Throttling                                       (1h)
+** bhavin192
+*** Work on [[https://github.com/jaegertracing/jaeger-operator/issues/487][jaegertracing/jaeger-operator/#487]]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       OPS.1572333551
+    :TASKID:   OPS.1572333551
+    :END:
+*** Attend EmacsConf 2019
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       EVENT.1572333631
+    :TASKID:   EVENT.1572333631
+    :END:
+    https://emacsconf.org/2019/schedule
 ** gandalfdwite
 *** TODO Cloud Native DevOps - Part - III [0/4]
     :PROPERTIES:
