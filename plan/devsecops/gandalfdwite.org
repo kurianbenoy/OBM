@@ -42,28 +42,3 @@
 ** Blog - pravaragdotcom
 *** Write a Blog Post
 * PLAN
-** October   29, 2019 - November  11, 2019 (14 days)
-   :PROPERTIES:
-   :wpd-gandalfdwite: 1
-   :END:
-*** TODO Cloud Native DevOps - Part - III [0/4]
-    :PROPERTIES:
-    :ESTIMATED: 9
-    :ACTUAL:
-    :OWNER:    gandalfdwite
-    :ID:       READ.1568308423
-    :TASKID:   READ.1568308423
-    :END:
-     - [ ] 13. Development Workflow             ( 2h )
-     - [ ] 14. CD in Kubernetes                 ( 2h )
-     - [ ] 15. Observability and Monitoring     ( 2h )
-     - [ ] 16. Merics in Kubernetes             ( 3h )
-*** TODO EmacsConf 2019 [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER:    gandalfdwite
-    :ID:       EVENT.1572287595
-    :TASKID:   EVENT.1572287595
-    :END:
-     - [ ] Attend EmacsConf on 2nd November 2019 (online)   ( 5h )
