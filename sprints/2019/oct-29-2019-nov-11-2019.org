@@ -30,18 +30,23 @@
   :wpd-gandalfdwite: 1
   :END:
 ** akshay196
-*** Mastering Python Design Patterns - Part II [0/14]
+*** IN_PROGRESS Mastering Python Design Patterns - Part II [2/14]
     :PROPERTIES:
-    :ESTIMATED:
-    :ACTUAL:
+    :ESTIMATED:  14
+    :ACTUAL:   2.00
     :OWNER: akshay196
     :ID: READ.1569864940
     :TASKID: READ.1569864940
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-11-04 Mon 08:10]--[2019-11-04 Mon 08:34] =>  0:24
+    CLOCK: [2019-11-01 Fri 23:36]--[2019-11-02 Sat 00:00] =>  0:24
+    CLOCK: [2019-10-31 Thu 23:35]--[2019-11-01 Fri 00:47] =>  1:12
+    :END:
     Second Edition. by Sakis Kasampalis, Kamon Ayeva.
     https://learning.oreilly.com/library/view/mastering-python-design/9781788837484/
-    - [ ] The Command Pattern                              (1h)
-    - [ ] The Observer Pattern                             (1h)
+    - [X] The Command Pattern                              (1h)
+    - [X] The Observer Pattern                             (1h)
     - [ ] The State Pattern                                (1h)
     - [ ] Interpreter pattern                              (1h)
     - [ ] Strategy pattern                                 (1h)
