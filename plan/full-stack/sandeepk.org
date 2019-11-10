@@ -150,7 +150,7 @@
     :TASKID: READ.1553504753
     :END:
 ** Projects
-*** [#A] Stacknews [/]
+*** DONE [#A] Stacknews [/]
     :PROPERTIES:
     :ESTIMATED: 
     :ACTUAL:
@@ -169,19 +169,70 @@
     :END:
 
 * PLAN
-** October   13, 2019 - October   28, 2019 (16 days)
-** October   29, 2019 - November  11, 2019 (14 days)
-   :PROPERTIES:
-   :wpd-sandeepk:
-   :END:
 ** November  12, 2019 - November  27, 2019 (16 days)
    :PROPERTIES:
-   :wpd-sandeepk:
+   :wpd-sandeepk: 1
    :END:
+*** Fluent Python Part I [/1]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1573385682
+    :TASKID: READ.1573385682
+    :END:
+    - [ ] Chapter-6  Design Patterns with First-Class Functions (6h)
+
+*** Data Structure Part I [/3]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1573385745
+    :TASKID: READ.1573385745
+    :END:
+    - [ ] Arrays  (4h)
+    - [ ] Maths   (3h)
+    - [ ] Strings (3h)
+
 ** November  28, 2019 - December  11, 2019 (14 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+*** Fluent Python Part II [/1]
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1573385682
+    :TASKID: READ.1573385682
+    :END:
+    - [ ] Chapter-7 Function Decorators and Closures (5h)
+
+*** Data Structure Part II [/3]
+    :PROPERTIES:
+    :ESTIMATED: 9
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1573385745
+    :TASKID: READ.1573385745
+    :END:
+    - [ ] Linked List        (2h)
+    - [ ] Stacks and Queues  (3h)
+    - [ ] Backtracking       (4h)
+
 ** December  12, 2019 - December  26, 2019 (15 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
 ** December  27, 2019 - January    9, 2020 (14 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
 ** January   10, 2020 - January   25, 2020 (16 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
 ** January   26, 2020 - February   8, 2020 (14 days)
 ** February   9, 2020 - February  24, 2020 (16 days)
 ** February  25, 2020 - March      8, 2020 (13 days)
