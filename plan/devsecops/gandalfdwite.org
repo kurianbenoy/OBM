@@ -3,18 +3,15 @@
 #+TAGS: dev ops read meeting
 * GOALS
 ** DevOps
-*** Cloud Native DevOps
+*** TODO Attend RootConf Hyderabad [0/1]
     :PROPERTIES:
-    :ESTIMATED: 34
+    :ESTIMATED: 3
     :ACTUAL:
     :OWNER: gandalfdwite
-    :ID: READ.1568308423
-    :TASKID: READ.1568308423
+    :ID: EVENT.1573404914
+    :TASKID: EVENT.1573404914
     :END:
-    - [ ] 13. Development Workflow             ( 2h )
-    - [ ] 14. CD in Kubernetes                 ( 2h )
-    - [ ] 15. Observability and Monitoring     ( 2h )
-    - [ ] 16. Merics in Kubernetes             ( 3h )
+    - [ ] Attend RootConf Hyderabad on 16th November   ( 3h )
 *** Learning Terraform
     :PROPERTIES:
     :ESTIMATED: 10
@@ -29,16 +26,55 @@
     - [ ] Terraform With Azure        ( 3h )
 ** Python
 ** Emacs
-*** EmacsConf 2019
+** Linux
+*** TODO Linux Under the Hood [0/13]
     :PROPERTIES:
-    :ESTIMATED: 5
+    :ESTIMATED: 24
     :ACTUAL:
     :OWNER: gandalfdwite
-    :ID: EVENT.1572287595
-    :TASKID: EVENT.1572287595
+    :ID: READ.1573405076
+    :TASKID: READ.1573405076
     :END:
-    - [ ] Attend EmacsConf on 2nd November 2019 (online)   ( 5h )
-** Unix
+    - [ ] 1. How Linux is organized                      ( 2h )
+    - [ ] 2. About C code, scripts and compiled programs ( 3h )
+    - [ ] 3. Understanding linux commands                ( 2h )
+    - [ ] 4. Understaning Linux boot process             ( 2h )
+    - [ ] 5. Understanding Linux storage                 ( 3h )
+    - [ ] 6. Understanding memory management             ( 1h )
+    - [ ] 7. Understanding processes                     ( 2h )
+    - [ ] 8. Security                                    ( 3h )
+    - [ ] 9. Hardware Initilization                      ( 1h )
+    - [ ] 10. Looking closer at the kernel               ( 2h )
+    - [ ] 11. Networking                                 ( 1h )
+    - [ ] 12. Performance optimization                   ( 1h )
+    - [ ] 13. Future of Linux                            ( 1h )
 ** Blog - pravaragdotcom
 *** Write a Blog Post
 * PLAN
+** November  12, 2019 - November  27, 2019 (16 days)
+   :PROPERTIES:
+   :wpd-gandalfdwite: 1
+   :END:
+*** TODO Attend RootConf Hyderabad [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: EVENT.1573404914
+    :TASKID: EVENT.1573404914
+    :END:
+    - [ ] Attend RootConf Hyderabad on 16th November   ( 3h )
+*** TODO Linux Under the Hood (Part - I) [0/6]
+    :PROPERTIES:
+    :ESTIMATED: 24
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1573405076
+    :TASKID: READ.1573405076
+    :END:
+    - [ ] 1. How Linux is organized                      ( 2h )
+    - [ ] 2. About C code, scripts and compiled programs ( 3h )
+    - [ ] 3. Understanding linux commands                ( 2h )
+    - [ ] 4. Understaning Linux boot process             ( 2h )
+    - [ ] 5. Understanding Linux storage                 ( 3h )
+    - [ ] 6. Understanding memory management             ( 1h )
