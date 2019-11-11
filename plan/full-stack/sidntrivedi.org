@@ -1,27 +1,28 @@
 #+AUTHOR: Siddhant N Trivedi
 #+EMAIL: sidntrivedi012@gmail.com
-#+TAGS: READ WRITE DEV MEETING EVENT* GOALS
-* Programming Language
-*** Javascript
-**** Eloquent Javascript[0/21](https://eloquentjavascript.net)
-   :PROPERTIES:
-   :ESTIMATED: 
-   :ACTUAL:
-   :OWNER: sidntrivedi
-   :ID: READ.1573482054
-   :TASKID: READ.1573482054
-   :END: 
-**** You Don't Know JS(https://github.com/getify/You-Dont-Know-JS)
-* Computer Networks
-*** Computer Networking by Kurose[0/8]
-   :PROPERTIES:
-   :ESTIMATED: 
-   :ACTUAL:
-   :OWNER: sidntrivedi
-   :ID: READ.1573482623
-   :TASKID: READ.1573482623
-   :END:
-* Blog 
+#+TAGS: READ WRITE DEV MEETING EVENT
+* GOALS
+** Programming Language
+**** Javascript
+***** Eloquent Javascript [0/21] (https://eloquentjavascript.net)
+      :PROPERTIES:
+      :ESTIMATED:
+      :ACTUAL:
+      :OWNER:    sidntrivedi
+      :ID:       READ.1573482054
+      :TASKID:   READ.1573482054
+      :END:
+***** You Don't Know JS(https://github.com/getify/You-Dont-Know-JS)
+** Computer Networks
+*** Computer Networking by Kurose [0/8]
+    :PROPERTIES:
+    :ESTIMATED:
+    :ACTUAL:
+    :OWNER:    sidntrivedi
+    :ID:       READ.1573482623
+    :TASKID:   READ.1573482623
+    :END:
+** Blog
 *** Write one blog.
     :PROPERTIES:
     :ESTIMATED:
@@ -35,14 +36,14 @@
    :PROPERTIES:
    :wpd-sidntrivedi: 1
    :END:
-*** TODO Eloquent Javascript[0/7](https://eloquentjavascript.net)
+*** TODO Eloquent Javascript [0/7] (https://eloquentjavascript.net)
     :PROPERTIES:
     :ESTIMATED: 7
     :ACTUAL:
     :OWNER:    sidntrivedi
     :ID:       READ.1573482054
     :TASKID:   READ.1573482054
-    :END: 
+    :END:
     - [ ] Values, Types, and Operators
     - [ ] Program Structure
     - [ ] Functions
@@ -50,7 +51,7 @@
     - [ ] Higher-order Functions
     - [ ] The Secret Life of Objects
     - [ ] Project: A Robot 
-*** TODO Computer Networking by Kurose[0/1]
+*** TODO Computer Networking by Kurose [0/1]
    :PROPERTIES:
    :ESTIMATED: 7
    :ACTUAL:
