@@ -1,98 +1,78 @@
 #+AUTHOR: Siddhant N Trivedi
 #+EMAIL: sidntrivedi012@gmail.com
-#+TAGS: READ WRITE DEV MEETING EVENT
-* GOALS
-** Learning
-*** Programming Language
-**** Learn Javascript
-***** Eloquent Javascript
-      :PROPERTIES:
-      :ESTIMATED: 
-      :ACTUAL:
-      :OWNER: sidntrivedi
-      :ID: READ.1559963113
-      :TASKID: READ.1559963113
-      :END:
-      - [ ] Bugs and Errors
-      - [ ] Regular Expressions
-      - [ ] Modules
-      - [ ] Asynchronous Programming
-      - [ ] Project: A Programming Language
-      - [ ] (Part 2: Browser)JavaScript and the Browser
-      - [ ] The Document Object Model
-      - [ ] Handling Events
-      - [ ] Project: A Platform Game
-      - [ ] Drawing on Canvas
-      - [ ] HTTP and Forms
-      - [ ] Project: A Pixel Art Editor
-      - [ ] (Part 3: Node)Node.js
-      - [ ] Project: Skill-Sharing Website
-*** Systems
-** Development
-*** Wesbos JS30
-*** Freecodecamp Javascript Projects
-** Contribute to F/OSS Projects
-*** spectral-workbench.js
+#+TAGS: READ WRITE DEV MEETING EVENT* GOALS
+* Programming Language
+*** Javascript
+**** Eloquent Javascript[0/21](https://eloquentjavascript.net)
    :PROPERTIES:
    :ESTIMATED: 
    :ACTUAL:
    :OWNER: sidntrivedi
-   :ID: DEV.1559964268
-   :TASKID: DEV.1559964268
-   :END:
-    - [ ] Work on one issue of the project.
-** Attend Meetups
-*** India Linux Users Group-Delhi
-    :PROPERTIES:
+   :ID: READ.1573482054
+   :TASKID: READ.1573482054
+   :END: 
+**** You Don't Know JS(https://github.com/getify/You-Dont-Know-JS)
+* Computer Networks
+*** Computer Networking by Kurose[0/8]
+   :PROPERTIES:
    :ESTIMATED: 
    :ACTUAL:
    :OWNER: sidntrivedi
-   :ID: EVENT.1554616564
-   :TASKID: EVENT.1554616564
+   :ID: READ.1573482623
+   :TASKID: READ.1573482623
    :END:
-*** Mozilla Delhi/NCR
+* Blog 
+*** Write one blog.
     :PROPERTIES:
-   :ESTIMATED: 
-   :ACTUAL:
-   :OWNER: sidntrivedi
-   :ID: EVENT.1554616642
-   :TASKID: EVENT.1554616642
-   :END:
-*** JS-Lovers
-    :PROPERTIES:
-   :ESTIMATED: 
-   :ACTUAL:
-   :OWNER: sidntrivedi
-   :ID: EVENT.1554616586
-   :TASKID: EVENT.1554616586
-   :END:
-** Weekly Blog Writing
-*** Blog https://sidntrivedi.me
-    :PROPERTIES:
-    :ESTIMATED: 
+    :ESTIMATED:
     :ACTUAL:
-    :OWNER: sidntrivedi
-    :ID: WRITE.1539072660
-    :TASKID: WRITE.1539072660
-    :END:     
-    - [ ] Write one blog every week.
+    :OWNER:    sidntrivedi
+    :ID:       WRITE.1573380388
+    :TASKID:   WRITE.1573380388
+    :END:
 * PLAN
-** June      17, 2019 - July       3, 2019 (17 days)
-** July       4, 2019 - July      15, 2019 (12 days)
-** July      16, 2019 - August     1, 2019 (17 days)
-** August     2, 2019 - August    14, 2019 (13 days)
-** August    15, 2019 - August    30, 2019 (16 days)
-** August    31, 2019 - September 12, 2019 (13 days)
-** September 13, 2019 - September 29, 2019 (17 days)
-** Spetember 30, 2019 - October   12, 2019 (13 days)
-** October   13, 2019 - October   28, 2019 (16 days)
-** October   29, 2019 - November  11, 2019 (14 days)
 ** November  12, 2019 - November  27, 2019 (16 days)
+   :PROPERTIES:
+   :wpd-sidntrivedi: 1
+   :END:
+*** TODO Eloquent Javascript[0/7](https://eloquentjavascript.net)
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER:    sidntrivedi
+    :ID:       READ.1573482054
+    :TASKID:   READ.1573482054
+    :END: 
+    - [ ] Values, Types, and Operators
+    - [ ] Program Structure
+    - [ ] Functions
+    - [ ] Data Structures: Objects and Arrays
+    - [ ] Higher-order Functions
+    - [ ] The Secret Life of Objects
+    - [ ] Project: A Robot 
+*** TODO Computer Networking by Kurose[0/1]
+   :PROPERTIES:
+   :ESTIMATED: 7
+   :ACTUAL:
+   :OWNER: sidntrivedi
+   :ID: READ.1573482623
+   :TASKID: READ.1573482623
+   :END:
+   - [ ] Computer Networks & the Internet
+   - [ ] Application Layer
+*** TODO Write Pycon India Blog[0/1].
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER:    sidntrivedi
+    :ID:       WRITE.1573380388
+    :TASKID:   WRITE.1573380388
+    :END:
 ** November  28, 2019 - December  11, 2019 (14 days)
 ** December  12, 2019 - December  26, 2019 (15 days)
 ** December  27, 2019 - January    9, 2020 (14 days)
 ** January   10, 2020 - January   25, 2020 (16 days)
 ** January   26, 2020 - February   8, 2020 (14 days)
 ** February   9, 2020 - February  24, 2020 (16 days)
-** February  25, 2020 - March      8, 2020 (13 days)
+** February  25, 2020 - March      8, 2020 (13 day
    
