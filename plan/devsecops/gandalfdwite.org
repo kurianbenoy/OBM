@@ -51,30 +51,3 @@
 ** Blog - pravaragdotcom
 *** Write a Blog Post
 * PLAN
-** November  12, 2019 - November  27, 2019 (16 days)
-   :PROPERTIES:
-   :wpd-gandalfdwite: 1
-   :END:
-*** TODO Attend RootConf Hyderabad [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 3
-    :ACTUAL:
-    :OWNER: gandalfdwite
-    :ID: EVENT.1573404914
-    :TASKID: EVENT.1573404914
-    :END:
-    - [ ] Attend RootConf Hyderabad on 16th November   ( 3h )
-*** TODO Linux Under the Hood (Part - I) [0/6]
-    :PROPERTIES:
-    :ESTIMATED: 24
-    :ACTUAL:
-    :OWNER: gandalfdwite
-    :ID: READ.1573405076
-    :TASKID: READ.1573405076
-    :END:
-    - [ ] 1. How Linux is organized                      ( 2h )
-    - [ ] 2. About C code, scripts and compiled programs ( 3h )
-    - [ ] 3. Understanding linux commands                ( 2h )
-    - [ ] 4. Understaning Linux boot process             ( 2h )
-    - [ ] 5. Understanding Linux storage                 ( 3h )
-    - [ ] 6. Understanding memory management             ( 1h )
