@@ -24,7 +24,9 @@
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2019-11-12 Tue>
   :wpd-gandalfdwite: 1
+  :wpd-sandeepk: 1
   :END:
+** gandalfdwite
 *** TODO Attend RootConf Hyderabad [0/1]
     :PROPERTIES:
     :ESTIMATED: 3
@@ -48,3 +50,26 @@
     - [ ] 4. Understaning Linux boot process             ( 2h )
     - [ ] 5. Understanding Linux storage                 ( 3h )
     - [ ] 6. Understanding memory management             ( 1h )
+** sandeepk
+*** Fluent Python Part I [/1]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1573385682
+    :TASKID: READ.1573385682
+    :END:
+    - [ ] Chapter-6  Design Patterns with First-Class Functions (6h)
+*** Data Structure Part I [/3]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1573385745
+    :TASKID: READ.1573385745
+    :END:
+    - [ ] Arrays  (4h)
+    - [ ] Maths   (3h)
+    - [ ] Strings (3h)
+
+

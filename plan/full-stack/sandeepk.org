@@ -169,32 +169,6 @@
     :END:
 
 * PLAN
-** November  12, 2019 - November  27, 2019 (16 days)
-   :PROPERTIES:
-   :wpd-sandeepk: 1
-   :END:
-*** Fluent Python Part I [/1]
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: READ.1573385682
-    :TASKID: READ.1573385682
-    :END:
-    - [ ] Chapter-6  Design Patterns with First-Class Functions (6h)
-
-*** Data Structure Part I [/3]
-    :PROPERTIES:
-    :ESTIMATED: 10
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: READ.1573385745
-    :TASKID: READ.1573385745
-    :END:
-    - [ ] Arrays  (4h)
-    - [ ] Maths   (3h)
-    - [ ] Strings (3h)
-
 ** November  28, 2019 - December  11, 2019 (14 days)
    :PROPERTIES:
    :wpd-sandeepk: 1
