@@ -25,6 +25,7 @@
   :SPRINTSTART: <2019-11-12 Tue>
   :wpd-gandalfdwite: 1
   :wpd-sandeepk: 1
+  :wpd-sidntrivedi: 1
   :END:
 ** gandalfdwite
 *** TODO Attend RootConf Hyderabad [0/1]
@@ -72,4 +73,37 @@
     - [ ] Maths   (3h)
     - [ ] Strings (3h)
 
-
+** sidntrivedi
+*** TODO Eloquent Javascript [0/7] (https://eloquentjavascript.net)
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER:    sidntrivedi
+    :ID:       READ.1573482054
+    :TASKID:   READ.1573482054
+    :END:
+    - [ ] Values, Types, and Operators
+    - [ ] Program Structure
+    - [ ] Functions
+    - [ ] Data Structures: Objects and Arrays
+    - [ ] Higher-order Functions
+    - [ ] The Secret Life of Objects
+    - [ ] Project: A Robot
+*** TODO Computer Networking by Kurose [0/1]
+   :PROPERTIES:
+   :ESTIMATED: 7
+   :ACTUAL:
+   :OWNER: sidntrivedi
+   :ID: READ.1573482623
+   :TASKID: READ.1573482623
+   :END:
+   - [ ] Computer Networks & the Internet
+   - [ ] Application Layer
+*** TODO Write Pycon India Blog[0/1].
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER:    sidntrivedi
+    :ID:       WRITE.1573380388
+    :TASKID:   WRITE.1573380388
+    :END:
