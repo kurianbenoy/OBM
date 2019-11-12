@@ -100,9 +100,71 @@ Dan Mackin, Ben Whaley, Trent R. Hein, Garth Snyder, Evi Nemeth.
   - Legal issues
   - Organizations, conferences, and other resources
 *** Python
+**** Test-Driven Development with Python
+     2nd Edition
+     By Harry J.W. Percival
+     https://learning.oreilly.com/library/view/test-driven-development-with/9781491958698/
+     :PROPERTIES:
+     :ESTIMATED:
+     :ACTUAL:
+     :OWNER: akshay196
+     :ID: READ.1573574122
+     :TASKID: READ.1573574122
+     :END:
+     - [ ] Chapter 13. Validation at the Database Layer                                              (1h)
+     - [ ] Chapter 14. A Simple Form                                                                 (1h)
+     - [ ] Chapter 15. More Advanced Forms                                                           (1h)
+     - [ ] Chapter 16. Dipping Our Toes, Very Tentatively, into JavaScript                           (1h)
+     - [ ] Chapter 17. Deploying Our New Code                                                        (1h)
+     - [ ] Chapter 18. User Authentication, Spiking, and De-Spiking                                  (1h)
+     - [ ] Chapter 19. Using Mocks to Test External Dependencies or Reduce Duplication               (1h)
+     - [ ] Chapter 20. Test Fixtures and a Decorator for Explicit Waits                              (1h)
+     - [ ] Chapter 21. Server-Side Debugging                                                         (1h)
+     - [ ] Chapter 22. Finishing "My Lists": Outside-In TDD                                          (1h)
+     - [ ] Chapter 23. Test Isolation, and "Listening to Your Tests"                                 (2h)
+     - [ ] Chapter 24. Continuous Integration (CI)                                                   (1h)
+     - [ ] Chapter 25. The Token Social Bit, the Page Pattern, and an Exercise for the Reader        (1h)
+     - [ ] Chapter 26. Fast Tests, Slow Tests, and Hot Lava                                          (1h)
+
 *** Automation with Ansible
 ** Development
 *** Ansible
 ** Emacs
 *** Triage Bugs
 * PLAN
+** November  12, 2019 - November  27, 2019 (16 days)
+   :PROPERTIES:
+   :wpd-akshay196: 1
+   :END:
+*** Mastering Python’s pytest
+    https://learning.oreilly.com/live-training/courses/mastering-pythons-pytest/0636920324614/
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1573573996
+    :TASKID: READ.1573573996
+    :END:
+*** Test-Driven Development with Python
+    2nd Edition
+    By Harry J.W. Percival
+    https://learning.oreilly.com/library/view/test-driven-development-with/9781491958698/
+    :PROPERTIES:
+    :ESTIMATED: 13
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1573574122
+    :TASKID: READ.1573574122
+    :END:
+    - [ ] Chapter 01. Getting Django Set Up Using a Functional Test                                 (1h)
+    - [ ] Chapter 02. Extending Our Functional Test Using the unittest Module                       (1h)
+    - [ ] Chapter 03. Testing a Simple Home Page with Unit Tests                                    (1h)
+    - [ ] Chapter 04. What Are We Doing with All These Tests? (And, Refactoring)                    (1h)
+    - [ ] Chapter 05. Saving User Input: Testing the Database                                       (1h)
+    - [ ] Chapter 06. Improving Functional Tests: Ensuring Isolation and Removing Voodoo Sleeps     (1h)
+    - [ ] Chapter 07. Working Incrementally                                                         (2h)
+    - [ ] Chapter 08. Prettification: Layout and Styling, and What to Test About It                 (1h)
+    - [ ] Chapter 09. Testing Deployment Using a Staging Site                                       (1h)
+    - [ ] Chapter 10. Getting to a Production-Ready Deployment                                      (1h)
+    - [ ] Chapter 11. Automating Deployment with Fabric                                             (1h)
+    - [ ] Chapter 12. Splitting Our Tests into Multiple Files, and a Generic Wait Helper            (1h)
