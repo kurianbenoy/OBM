@@ -23,10 +23,45 @@
   :ID:       TASKS
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2019-11-12 Tue>
+  :wpd-akshay196: 1
   :wpd-gandalfdwite: 1
   :wpd-sandeepk: 1
   :wpd-sidntrivedi: 1
   :END:
+** akshay196
+*** Mastering Python’s pytest
+    https://learning.oreilly.com/live-training/courses/mastering-pythons-pytest/0636920324614/
+    :PROPERTIES:
+    :ESTIMATED: 3
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1573573996
+    :TASKID: READ.1573573996
+    :END:
+*** Test-Driven Development with Python
+    2nd Edition
+    By Harry J.W. Percival
+    https://learning.oreilly.com/library/view/test-driven-development-with/9781491958698/
+    :PROPERTIES:
+    :ESTIMATED: 13
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1573574122
+    :TASKID: READ.1573574122
+    :END:
+    - [ ] Chapter 01. Getting Django Set Up Using a Functional Test                                 (1h)
+    - [ ] Chapter 02. Extending Our Functional Test Using the unittest Module                       (1h)
+    - [ ] Chapter 03. Testing a Simple Home Page with Unit Tests                                    (1h)
+    - [ ] Chapter 04. What Are We Doing with All These Tests? (And, Refactoring)                    (1h)
+    - [ ] Chapter 05. Saving User Input: Testing the Database                                       (1h)
+    - [ ] Chapter 06. Improving Functional Tests: Ensuring Isolation and Removing Voodoo Sleeps     (1h)
+    - [ ] Chapter 07. Working Incrementally                                                         (2h)
+    - [ ] Chapter 08. Prettification: Layout and Styling, and What to Test About It                 (1h)
+    - [ ] Chapter 09. Testing Deployment Using a Staging Site                                       (1h)
+    - [ ] Chapter 10. Getting to a Production-Ready Deployment                                      (1h)
+    - [ ] Chapter 11. Automating Deployment with Fabric                                             (1h)
+    - [ ] Chapter 12. Splitting Our Tests into Multiple Files, and a Generic Wait Helper            (1h)
+
 ** gandalfdwite
 *** TODO Attend RootConf Hyderabad [0/1]
     :PROPERTIES:
