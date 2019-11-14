@@ -29,15 +29,19 @@
   :wpd-sidntrivedi: 1
   :END:
 ** akshay196
-*** Mastering Python’s pytest
-    https://learning.oreilly.com/live-training/courses/mastering-pythons-pytest/0636920324614/
+*** DONE Mastering Python’s pytest
+    CLOSED: [2019-11-13 Wed 21:41]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   3.18
     :OWNER: akshay196
     :ID: READ.1573573996
     :TASKID: READ.1573573996
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-11-13 Wed 18:30]--[2019-11-13 Wed 21:41] =>  3:11
+    :END:
+    https://learning.oreilly.com/live-training/courses/mastering-pythons-pytest/0636920324614/
 *** Test-Driven Development with Python
     2nd Edition
     By Harry J.W. Percival
