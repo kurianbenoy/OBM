@@ -33,24 +33,3 @@
 ** Attend meetups
 ** Write blog posts
 * PLAN
-** November 12-27, 2019 (16 days)
-   :PROPERTIES:
-   :wpd-bhavin192: 1
-   :END:
-*** CKAD exam preparation [0/8]
-    :PROPERTIES:
-    :ESTIMATED: 16
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       OPS.1573711071
-    :TASKID:   OPS.1573711071
-    :END:
-    https://github.com/dgkanatsios/CKAD-exercises
-    - [ ] Core Concepts (13%)                (3.0h)
-    - [ ] Multi-container Pods (10%)         (0.5h)
-    - [ ] Pod design (20%)                   (3.0h)
-    - [ ] Configuration (18%)                (2.0h)
-    - [ ] Observability (18%)                (1.0h)
-    - [ ] Services and Networking (13%)      (1.0h)
-    - [ ] State Persistence (8%)             (2.0h)
-    - [ ] Practice                           (3.5h)

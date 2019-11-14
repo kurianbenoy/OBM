@@ -24,6 +24,7 @@
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2019-11-12 Tue>
   :wpd-akshay196: 1
+  :wpd-bhavin192: 1
   :wpd-gandalfdwite: 1
   :wpd-sandeepk: 1
   :wpd-sidntrivedi: 1
@@ -61,6 +62,25 @@
     - [ ] Chapter 10. Getting to a Production-Ready Deployment                                      (1h)
     - [ ] Chapter 11. Automating Deployment with Fabric                                             (1h)
     - [ ] Chapter 12. Splitting Our Tests into Multiple Files, and a Generic Wait Helper            (1h)
+
+** bhavin192
+*** CKAD exam preparation [0/8]
+    :PROPERTIES:
+    :ESTIMATED: 16
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       OPS.1573711071
+    :TASKID:   OPS.1573711071
+    :END:
+    https://github.com/dgkanatsios/CKAD-exercises
+    - [ ] Core Concepts (13%)                (3.0h)
+    - [ ] Multi-container Pods (10%)         (0.5h)
+    - [ ] Pod design (20%)                   (3.0h)
+    - [ ] Configuration (18%)                (2.0h)
+    - [ ] Observability (18%)                (1.0h)
+    - [ ] Services and Networking (13%)      (1.0h)
+    - [ ] State Persistence (8%)             (2.0h)
+    - [ ] Practice                           (3.5h)
 
 ** gandalfdwite
 *** TODO Attend RootConf Hyderabad [0/1]
