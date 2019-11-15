@@ -5,7 +5,7 @@
 ** Become Kaggle double 
 ** Become a google code-in mentor
 ** Practise 250 algorithimc problems
-** Help with DVC(my current open source org) and CloudCV
+* Help with DVC(my current open source org) and CloudCV
 ** Speak in one national/international conference
 ** Become a google code-in mentor
 ** Attend meetups
