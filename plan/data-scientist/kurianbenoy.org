@@ -5,9 +5,38 @@
 ** Become Kaggle double 
 ** Become a google code-in mentor
 ** Practise 250 algorithimc problems
-* Help with DVC(my current open source org) and CloudCV
+** Help with DVC(my current open source org) and CloudCV
 ** Speak in one national/international conference
 ** Become a google code-in mentor
 ** Attend meetups
 ** Write blog posts
 * PLAN
+** Read Cracking the Coding interview
+   :PROPERTIES:
+   :ESTIMATED: 8
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: READ.1573947970
+   :TASKID: READ.1573947970
+   :END:
+   - [ ] Trees chapter (3h)
+   - [ ] Bit Manipulation (2h)
+   - [ ] Dynamic Programming
+** Onboard GCI participants and create tasks for TF
+   :PROPERTIES:
+   :ESTIMATED: 5
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: DEV.1573948136
+   :TASKID: DEV.1573948136
+   :END:
+   - [ ] Understand Swift4TF codebase (2h)
+   - [ ] Create task for GCI (3h)
+** Write a new kaggle kernel on Kaggle survey 2019
+   :PROPERTIES:
+   :ESTIMATED: 5
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: DEV.1573948303
+   :TASKID: DEV.1573948303
+   :END:
