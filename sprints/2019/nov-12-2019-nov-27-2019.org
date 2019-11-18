@@ -64,12 +64,15 @@
 *** IN_PROGRESS Data Structure Part I [/3]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:
+    :ACTUAL:   2.08
     :OWNER: sandeepk
     :ID: READ.1573385745
     :TASKID: READ.1573385745
     :END:
     :LOGBOOK:
+    CLOCK: [2019-11-18 Mon 09:35]--[2019-11-18 Mon 10:05] =>  0:30
+    CLOCK: [2019-11-15 Fri 09:30]--[2019-11-15 Fri 10:00] =>  0:30
+    CLOCK: [2019-11-14 Thu 09:35]--[2019-11-14 Thu 10:00] =>  0:25
     CLOCK: [2019-11-13 Wed 09:10]--[2019-11-13 Wed 09:50] =>  0:40
     :END:
     - [ ] Arrays  (4h)
