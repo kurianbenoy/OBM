@@ -73,13 +73,16 @@
     - [ ] Chapter 12. Splitting Our Tests into Multiple Files, and a Generic Wait Helper            (1h)
 
 ** bhavin192
-*** CKAD exam preparation [0/8]
+*** IN_PROGRESS CKAD exam preparation [0/8]
     :PROPERTIES:
     :ESTIMATED: 16
-    :ACTUAL:
+    :ACTUAL:   0.83
     :OWNER:    bhavin192
     :ID:       OPS.1573711071
     :TASKID:   OPS.1573711071
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-11-17 Sun 18:51]--[2019-11-17 Sun 19:41] =>  0:50
     :END:
     https://github.com/dgkanatsios/CKAD-exercises
     - [ ] Core Concepts (13%)                (3.0h)
