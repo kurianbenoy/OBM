@@ -44,15 +44,19 @@
     CLOCK: [2019-11-13 Wed 18:30]--[2019-11-13 Wed 21:41] =>  3:11
     :END:
     https://learning.oreilly.com/live-training/courses/mastering-pythons-pytest/0636920324614/
-*** IN_PROGRESS Test-Driven Development with Python - Part I [3/12]
+*** IN_PROGRESS Test-Driven Development with Python - Part I [4/12]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:   2.45
+    :ACTUAL:   4.30
     :OWNER: akshay196
     :ID: READ.1573574122
     :TASKID: READ.1573574122
     :END:
     :LOGBOOK:
+    CLOCK: [2019-11-21 Thu 09:07]--[2019-11-21 Thu 09:37] =>  0:30
+    CLOCK: [2019-11-20 Wed 08:20]--[2019-11-20 Wed 09:23] =>  1:03
+    CLOCK: [2019-11-19 Tue 07:45]--[2019-11-19 Tue 07:57] =>  0:12
+    CLOCK: [2019-11-18 Mon 21:40]--[2019-11-18 Mon 21:46] =>  0:06
     CLOCK: [2019-11-17 Sun 20:31]--[2019-11-17 Sun 21:33] =>  1:02
     CLOCK: [2019-11-17 Sun 09:15]--[2019-11-17 Sun 09:54] =>  0:39
     CLOCK: [2019-11-15 Fri 19:36]--[2019-11-15 Fri 20:22] =>  0:46
@@ -63,7 +67,7 @@
     - [X] Chapter 01. Getting Django Set Up Using a Functional Test                                 (1h)
     - [X] Chapter 02. Extending Our Functional Test Using the unittest Module                       (1h)
     - [X] Chapter 03. Testing a Simple Home Page with Unit Tests                                    (1h)
-    - [ ] Chapter 04. What Are We Doing with All These Tests? (And, Refactoring)                    (1h)
+    - [X] Chapter 04. What Are We Doing with All These Tests? (And, Refactoring)                    (1h)
     - [ ] Chapter 05. Saving User Input: Testing the Database                                       (1h)
     - [ ] Chapter 06. Improving Functional Tests: Ensuring Isolation and Removing Voodoo Sleeps     (1h)
     - [ ] Chapter 07. Working Incrementally                                                         (2h)
