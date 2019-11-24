@@ -78,15 +78,20 @@
     - [ ] Chapter 12. Splitting Our Tests into Multiple Files, and a Generic Wait Helper            (1h)
 
 ** bhavin192
-*** IN_PROGRESS CKAD exam preparation [2/8]
+*** IN_PROGRESS CKAD exam preparation [3/8]
     :PROPERTIES:
     :ESTIMATED: 16
-    :ACTUAL:   2.52
+    :ACTUAL:   5.60
     :OWNER:    bhavin192
     :ID:       OPS.1573711071
     :TASKID:   OPS.1573711071
     :END:
     :LOGBOOK:
+    CLOCK: [2019-11-24 Sun 20:06]--[2019-11-24 Sun 21:11] =>  1:05
+    CLOCK: [2019-11-23 Sat 22:35]--[2019-11-23 Sat 23:20] =>  0:45
+    CLOCK: [2019-11-23 Sat 19:18]--[2019-11-23 Sat 19:25] =>  0:07
+    CLOCK: [2019-11-23 Sat 17:51]--[2019-11-23 Sat 18:18] =>  0:27
+    CLOCK: [2019-11-23 Sat 16:34]--[2019-11-23 Sat 17:15] =>  0:41
     CLOCK: [2019-11-20 Wed 20:11]--[2019-11-20 Wed 20:31] =>  0:20
     CLOCK: [2019-11-19 Tue 21:07]--[2019-11-19 Tue 22:17] =>  1:10
     CLOCK: [2019-11-19 Tue 20:07]--[2019-11-19 Tue 20:18] =>  0:11
@@ -95,7 +100,7 @@
     https://github.com/dgkanatsios/CKAD-exercises
     - [X] Core Concepts (13%)                (3.0h)
     - [X] Multi-container Pods (10%)         (0.5h)
-    - [ ] Pod design (20%)                   (3.0h)
+    - [X] Pod design (20%)                   (3.0h)
     - [ ] Configuration (18%)                (2.0h)
     - [ ] Observability (18%)                (1.0h)
     - [ ] Services and Networking (13%)      (1.0h)
