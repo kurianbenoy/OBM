@@ -44,15 +44,19 @@
     CLOCK: [2019-11-13 Wed 18:30]--[2019-11-13 Wed 21:41] =>  3:11
     :END:
     https://learning.oreilly.com/live-training/courses/mastering-pythons-pytest/0636920324614/
-*** IN_PROGRESS Test-Driven Development with Python - Part I [3/12]
+*** IN_PROGRESS Test-Driven Development with Python - Part I [4/12]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:   2.45
+    :ACTUAL:   4.30
     :OWNER: akshay196
     :ID: READ.1573574122
     :TASKID: READ.1573574122
     :END:
     :LOGBOOK:
+    CLOCK: [2019-11-21 Thu 09:07]--[2019-11-21 Thu 09:37] =>  0:30
+    CLOCK: [2019-11-20 Wed 08:20]--[2019-11-20 Wed 09:23] =>  1:03
+    CLOCK: [2019-11-19 Tue 07:45]--[2019-11-19 Tue 07:57] =>  0:12
+    CLOCK: [2019-11-18 Mon 21:40]--[2019-11-18 Mon 21:46] =>  0:06
     CLOCK: [2019-11-17 Sun 20:31]--[2019-11-17 Sun 21:33] =>  1:02
     CLOCK: [2019-11-17 Sun 09:15]--[2019-11-17 Sun 09:54] =>  0:39
     CLOCK: [2019-11-15 Fri 19:36]--[2019-11-15 Fri 20:22] =>  0:46
@@ -63,7 +67,7 @@
     - [X] Chapter 01. Getting Django Set Up Using a Functional Test                                 (1h)
     - [X] Chapter 02. Extending Our Functional Test Using the unittest Module                       (1h)
     - [X] Chapter 03. Testing a Simple Home Page with Unit Tests                                    (1h)
-    - [ ] Chapter 04. What Are We Doing with All These Tests? (And, Refactoring)                    (1h)
+    - [X] Chapter 04. What Are We Doing with All These Tests? (And, Refactoring)                    (1h)
     - [ ] Chapter 05. Saving User Input: Testing the Database                                       (1h)
     - [ ] Chapter 06. Improving Functional Tests: Ensuring Isolation and Removing Voodoo Sleeps     (1h)
     - [ ] Chapter 07. Working Incrementally                                                         (2h)
@@ -74,20 +78,23 @@
     - [ ] Chapter 12. Splitting Our Tests into Multiple Files, and a Generic Wait Helper            (1h)
 
 ** bhavin192
-*** IN_PROGRESS CKAD exam preparation [0/8]
+*** IN_PROGRESS CKAD exam preparation [2/8]
     :PROPERTIES:
     :ESTIMATED: 16
-    :ACTUAL:   0.83
+    :ACTUAL:   2.52
     :OWNER:    bhavin192
     :ID:       OPS.1573711071
     :TASKID:   OPS.1573711071
     :END:
     :LOGBOOK:
+    CLOCK: [2019-11-20 Wed 20:11]--[2019-11-20 Wed 20:31] =>  0:20
+    CLOCK: [2019-11-19 Tue 21:07]--[2019-11-19 Tue 22:17] =>  1:10
+    CLOCK: [2019-11-19 Tue 20:07]--[2019-11-19 Tue 20:18] =>  0:11
     CLOCK: [2019-11-17 Sun 18:51]--[2019-11-17 Sun 19:41] =>  0:50
     :END:
     https://github.com/dgkanatsios/CKAD-exercises
-    - [ ] Core Concepts (13%)                (3.0h)
-    - [ ] Multi-container Pods (10%)         (0.5h)
+    - [X] Core Concepts (13%)                (3.0h)
+    - [X] Multi-container Pods (10%)         (0.5h)
     - [ ] Pod design (20%)                   (3.0h)
     - [ ] Configuration (18%)                (2.0h)
     - [ ] Observability (18%)                (1.0h)
