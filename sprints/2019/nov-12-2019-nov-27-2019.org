@@ -159,22 +159,27 @@
     :TASKID: READ.1573385682
     :END:
     - [ ] Chapter-6  Design Patterns with First-Class Functions (6h)
-*** IN_PROGRESS Data Structure Part I [/3]
+*** IN_PROGRESS Data Structure Part I [2/3]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:   2.08
+    :ACTUAL:   5.27
     :OWNER: sandeepk
     :ID: READ.1573385745
     :TASKID: READ.1573385745
     :END:
     :LOGBOOK:
+    CLOCK: [2019-11-25 Mon 11:25]--[2019-11-25 Mon 12:40] =>  1:15
+    CLOCK: [2019-11-22 Fri 00:04]--[2019-11-22 Fri 00:40] =>  0:36
+    CLOCK: [2019-11-21 Thu 23:50]--[2019-11-22 Fri 00:40] =>  0:50
+    CLOCK: [2019-11-20 Wed 00:00]--[2019-11-20 Wed 00:30] =>  0:30
+    CLOCK: [2019-11-19 Tue 00:00]--[2019-11-19 Tue 00:00] =>  0:00
     CLOCK: [2019-11-18 Mon 09:35]--[2019-11-18 Mon 10:05] =>  0:30
     CLOCK: [2019-11-15 Fri 09:30]--[2019-11-15 Fri 10:00] =>  0:30
     CLOCK: [2019-11-14 Thu 09:35]--[2019-11-14 Thu 10:00] =>  0:25
     CLOCK: [2019-11-13 Wed 09:10]--[2019-11-13 Wed 09:50] =>  0:40
     :END:
-    - [ ] Arrays  (4h)
-    - [ ] Maths   (3h)
+    - [X] Arrays  (4h)
+    - [X] Maths   (3h)
     - [ ] Strings (3h)
 
 ** sidntrivedi
