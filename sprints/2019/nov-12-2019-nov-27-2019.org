@@ -45,6 +45,9 @@
     :ID: READ.1573405076
     :TASKID: READ.1573405076
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-11-12 Tue 13:42]--[2019-11-12 Tue 14:33] =>  0:51
+    :END:
     - [ ] 1. How Linux is organized                      ( 2h )
     - [ ] 2. About C code, scripts and compiled programs ( 3h )
     - [ ] 3. Understanding linux commands                ( 2h )
