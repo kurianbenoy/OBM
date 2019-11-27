@@ -28,32 +28,46 @@
   :wpd-sidntrivedi: 1
   :END:
 ** gandalfdwite
-*** TODO Attend RootConf Hyderabad [0/1]
+*** DONE Attend RootConf Hyderabad [1/1]
+    CLOSED: [2019-11-26 Tue 04:48]
     :PROPERTIES:
     :ESTIMATED: 3
-    :ACTUAL:
+    :ACTUAL:   6.05
     :OWNER: gandalfdwite
     :ID: EVENT.1573404914
     :TASKID: EVENT.1573404914
     :END:
-    - [ ] Attend RootConf Hyderabad on 16th November   ( 3h )
-*** TODO Linux Under the Hood (Part - I) [0/6]
+    :LOGBOOK:
+    CLOCK: [2019-11-16 Sat 10:05]--[2019-11-16 Sat 16:08] =>  6:03
+    :END:
+    - [X] Attend RootConf Hyderabad on 16th November   ( 3h )
+*** IN_PROGRESS Linux Under the Hood (Part - I) [6/6]
     :PROPERTIES:
-    :ESTIMATED: 24
-    :ACTUAL:
+    :ESTIMATED: 13
+    :ACTUAL:   13.13
     :OWNER: gandalfdwite
     :ID: READ.1573405076
     :TASKID: READ.1573405076
     :END:
     :LOGBOOK:
+    CLOCK: [2019-11-26 Tue 15:31]--[2019-11-26 Tue 16:34] =>  1:03
+    CLOCK: [2019-11-25 Mon 19:00]--[2019-11-25 Mon 20:35] =>  1:35
+    CLOCK: [2019-11-24 Sun 20:07]--[2019-11-24 Sun 21:15] =>  1:08
+    CLOCK: [2019-11-23 Sat 18:15]--[2019-11-23 Sat 19:30] =>  1:15
+    CLOCK: [2019-11-20 Wed 21:10]--[2019-11-20 Wed 22:25] =>  1:15
+    CLOCK: [2019-11-19 Tue 23:00]--[2019-11-20 Wed 00:05] =>  1:05
+    CLOCK: [2019-11-18 Mon 21:30]--[2019-11-18 Mon 22:45] =>  1:15
+    CLOCK: [2019-11-17 Sun 14:01]--[2019-11-17 Sun 15:05] =>  1:04
+    CLOCK: [2019-11-14 Thu 23:03]--[2019-11-15 Fri 00:25] =>  1:22
+    CLOCK: [2019-11-13 Wed 19:15]--[2019-11-13 Wed 20:30] =>  1:15
     CLOCK: [2019-11-12 Tue 13:42]--[2019-11-12 Tue 14:33] =>  0:51
     :END:
-    - [ ] 1. How Linux is organized                      ( 2h )
-    - [ ] 2. About C code, scripts and compiled programs ( 3h )
-    - [ ] 3. Understanding linux commands                ( 2h )
-    - [ ] 4. Understaning Linux boot process             ( 2h )
-    - [ ] 5. Understanding Linux storage                 ( 3h )
-    - [ ] 6. Understanding memory management             ( 1h )
+    - [X] 1. How Linux is organized                      ( 2h )
+    - [X] 2. About C code, scripts and compiled programs ( 3h )
+    - [X] 3. Understanding linux commands                ( 2h )
+    - [X] 4. Understaning Linux boot process             ( 2h )
+    - [X] 5. Understanding Linux storage                 ( 3h )
+    - [X] 6. Understanding memory management             ( 1h )
 ** sandeepk
 *** Fluent Python Part I [/1]
     :PROPERTIES:
