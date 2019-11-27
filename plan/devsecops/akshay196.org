@@ -100,6 +100,32 @@ Dan Mackin, Ben Whaley, Trent R. Hein, Garth Snyder, Evi Nemeth.
   - Legal issues
   - Organizations, conferences, and other resources
 *** Python
+**** Test-Driven Development with Python
+     2nd Edition
+     By Harry J.W. Percival
+     https://learning.oreilly.com/library/view/test-driven-development-with/9781491958698/
+     :PROPERTIES:
+     :ESTIMATED:
+     :ACTUAL:
+     :OWNER: akshay196
+     :ID: READ.1573574122
+     :TASKID: READ.1573574122
+     :END:
+     - [ ] Chapter 13. Validation at the Database Layer                                              (1h)
+     - [ ] Chapter 14. A Simple Form                                                                 (1h)
+     - [ ] Chapter 15. More Advanced Forms                                                           (1h)
+     - [ ] Chapter 16. Dipping Our Toes, Very Tentatively, into JavaScript                           (1h)
+     - [ ] Chapter 17. Deploying Our New Code                                                        (1h)
+     - [ ] Chapter 18. User Authentication, Spiking, and De-Spiking                                  (1h)
+     - [ ] Chapter 19. Using Mocks to Test External Dependencies or Reduce Duplication               (1h)
+     - [ ] Chapter 20. Test Fixtures and a Decorator for Explicit Waits                              (1h)
+     - [ ] Chapter 21. Server-Side Debugging                                                         (1h)
+     - [ ] Chapter 22. Finishing "My Lists": Outside-In TDD                                          (1h)
+     - [ ] Chapter 23. Test Isolation, and "Listening to Your Tests"                                 (2h)
+     - [ ] Chapter 24. Continuous Integration (CI)                                                   (1h)
+     - [ ] Chapter 25. The Token Social Bit, the Page Pattern, and an Exercise for the Reader        (1h)
+     - [ ] Chapter 26. Fast Tests, Slow Tests, and Hot Lava                                          (1h)
+
 *** Automation with Ansible
 ** Development
 *** Ansible

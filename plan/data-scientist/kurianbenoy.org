@@ -1,0 +1,13 @@
+#+AUTHOR:Kurian Benoy 
+#+EMAIL: kurian.bkk@gmail.com
+#+TAGS: read write dev ops event meeting # Need to be category
+* GOALS
+** Become Kaggle double 
+** Become a google code-in mentor
+** Practise 250 algorithimc problems
+** Help with DVC(my current open source org) and CloudCV
+** Speak in one national/international conference
+** Become a google code-in mentor
+** Attend meetups
+** Write blog posts
+* PLAN

@@ -73,15 +73,17 @@
     - [X] The Cache-Aside pattern                          (1h)
     - [X] Throttling                                       (1h)
 ** bhavin192
-*** IN_PROGRESS Work on [[https://github.com/jaegertracing/jaeger-operator/issues/487][jaegertracing/jaeger-operator/#487]]
+*** DONE Work on [[https://github.com/jaegertracing/jaeger-operator/issues/487][jaegertracing/jaeger-operator/#487]]
+    CLOSED: [2019-11-11 Mon 22:56]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:   6.28
+    :ACTUAL:   7.03
     :OWNER:    bhavin192
     :ID:       OPS.1572333551
     :TASKID:   OPS.1572333551
     :END:
     :LOGBOOK:
+    CLOCK: [2019-11-11 Mon 22:11]--[2019-11-11 Mon 22:56] =>  0:45
     CLOCK: [2019-11-08 Fri 22:56]--[2019-11-08 Fri 23:01] =>  0:05
     CLOCK: [2019-11-08 Fri 19:16]--[2019-11-08 Fri 20:21] =>  1:05
     CLOCK: [2019-11-07 Thu 15:05]--[2019-11-07 Thu 15:23] =>  0:18
