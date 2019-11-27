@@ -121,14 +121,28 @@
     CLOCK: [2019-11-16 Sat 10:05]--[2019-11-16 Sat 16:08] =>  6:03
     :END:
     - [X] Attend RootConf Hyderabad on 16th November   ( 3h )
-*** IN_PROGRESS Linux Under the Hood (Part - I) [6/6]
+*** DONE Linux Under the Hood (Part - I) [6/6]
+    CLOSED: [2019-11-27 Wed 09:12]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:   13.13
+    :ACTUAL:   14.13
     :OWNER: gandalfdwite
     :ID: READ.1573405076
     :TASKID: READ.1573405076
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-11-26 Tue 21:13]--[2019-11-26 Tue 22:59] =>  1:46
+    CLOCK: [2019-11-23 Sat 18:00]--[2019-11-23 Sat 19:10] =>  1:10
+    CLOCK: [2019-11-22 Fri 20:00]--[2019-11-22 Fri 21:05] =>  1:05
+    CLOCK: [2019-11-20 Wed 22:05]--[2019-11-20 Wed 23:10] =>  1:05
+    CLOCK: [2019-11-19 Tue 23:00]--[2019-11-20 Wed 00:10] =>  1:10
+    CLOCK: [2019-11-18 Mon 20:03]--[2019-11-18 Mon 21:10] =>  1:07
+    CLOCK: [2019-11-17 Sun 13:00]--[2019-11-17 Sun 15:25] =>  2:25
+    CLOCK: [2019-11-14 Thu 17:25]--[2019-11-14 Thu 18:59] =>  1:34
+    CLOCK: [2019-11-13 Wed 21:00]--[2019-11-13 Wed 22:30] =>  1:30
+    CLOCK: [2019-11-12 Tue 19:14]--[2019-11-12 Tue 20:30] =>  1:16
+    :END:
+
     - [ ] 1. How Linux is organized                      ( 2h )
     - [ ] 2. About C code, scripts and compiled programs ( 3h )
     - [ ] 3. Understanding linux commands                ( 2h )
