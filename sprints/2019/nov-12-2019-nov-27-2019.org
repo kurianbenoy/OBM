@@ -165,7 +165,7 @@
     :ID: DEV.1573948303
     :TASKID: DEV.1573948303
     :END:
->>>>>>> 1b144ead633b46bf9c02e3cc1fd6ae75b365d7c6
+
 ** sandeepk
 *** Fluent Python Part I [/1]
     :PROPERTIES:
