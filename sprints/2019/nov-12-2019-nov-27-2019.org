@@ -87,15 +87,22 @@
     - [X] Chapter 10. Getting to a Production-Ready Deployment                                      (1h)
 
 ** bhavin192
-*** IN_PROGRESS CKAD exam preparation [3/8]
+*** DONE CKAD exam preparation [8/8]
+    CLOSED: [2019-11-27 Wed 23:55]
     :PROPERTIES:
     :ESTIMATED: 16
-    :ACTUAL:   5.60
+    :ACTUAL:   10.93
     :OWNER:    bhavin192
     :ID:       OPS.1573711071
     :TASKID:   OPS.1573711071
     :END:
     :LOGBOOK:
+    CLOCK: [2019-11-27 Wed 22:32]--[2019-11-27 Wed 23:55] =>  1:23
+    CLOCK: [2019-11-27 Wed 21:24]--[2019-11-27 Wed 22:08] =>  0:44
+    CLOCK: [2019-11-27 Wed 19:50]--[2019-11-27 Wed 20:03] =>  0:13
+    CLOCK: [2019-11-26 Tue 22:23]--[2019-11-26 Tue 23:40] =>  1:17
+    CLOCK: [2019-11-26 Tue 19:45]--[2019-11-26 Tue 20:26] =>  0:41
+    CLOCK: [2019-11-25 Mon 18:15]--[2019-11-25 Mon 19:17] =>  1:02
     CLOCK: [2019-11-24 Sun 20:06]--[2019-11-24 Sun 21:11] =>  1:05
     CLOCK: [2019-11-23 Sat 22:35]--[2019-11-23 Sat 23:20] =>  0:45
     CLOCK: [2019-11-23 Sat 19:18]--[2019-11-23 Sat 19:25] =>  0:07
@@ -110,11 +117,11 @@
     - [X] Core Concepts (13%)                (3.0h)
     - [X] Multi-container Pods (10%)         (0.5h)
     - [X] Pod design (20%)                   (3.0h)
-    - [ ] Configuration (18%)                (2.0h)
-    - [ ] Observability (18%)                (1.0h)
-    - [ ] Services and Networking (13%)      (1.0h)
-    - [ ] State Persistence (8%)             (2.0h)
-    - [ ] Practice                           (3.5h)
+    - [X] Configuration (18%)                (2.0h)
+    - [X] Observability (18%)                (1.0h)
+    - [X] Services and Networking (13%)      (1.0h)
+    - [X] State Persistence (8%)             (2.0h)
+    - [X] Practice                           (3.5h)
 
 ** gandalfdwite
 *** DONE Attend RootConf Hyderabad [1/1]
