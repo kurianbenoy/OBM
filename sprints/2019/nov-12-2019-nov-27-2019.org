@@ -199,15 +199,17 @@
     :TASKID: READ.1573385682
     :END:
     - [ ] Chapter-6  Design Patterns with First-Class Functions (6h)
-*** IN_PROGRESS Data Structure Part I [2/3]
+*** DONE Data Structure Part I [3/3]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:   5.27
+    :ACTUAL:   6.68
     :OWNER: sandeepk
     :ID: READ.1573385745
     :TASKID: READ.1573385745
     :END:
     :LOGBOOK:
+    CLOCK: [2019-11-27 Wed 20:00]--[2019-11-27 Wed 20:40] =>  0:40
+    CLOCK: [2019-11-26 Tue 20:10]--[2019-11-26 Tue 20:55] =>  0:45
     CLOCK: [2019-11-25 Mon 11:25]--[2019-11-25 Mon 12:40] =>  1:15
     CLOCK: [2019-11-22 Fri 00:04]--[2019-11-22 Fri 00:40] =>  0:36
     CLOCK: [2019-11-21 Thu 23:50]--[2019-11-22 Fri 00:40] =>  0:50
@@ -220,7 +222,7 @@
     :END:
     - [X] Arrays  (4h)
     - [X] Maths   (3h)
-    - [ ] Strings (3h)
+    - [X] Strings (3h)
 
 ** sidntrivedi
 *** TODO Eloquent Javascript [0/7] (https://eloquentjavascript.net)
