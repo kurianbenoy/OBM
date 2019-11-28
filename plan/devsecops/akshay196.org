@@ -106,31 +106,3 @@ Dan Mackin, Ben Whaley, Trent R. Hein, Garth Snyder, Evi Nemeth.
 ** Emacs
 *** Triage Bugs
 * PLAN
-** November  28, 2019 - December  11, 2019 (14 days)
-   :PROPERTIES:
-   :wpd-akshay196: 1
-   :END:
-*** Test-Driven Development with Python - Part II [0/16]
-    :PROPERTIES:
-    :ESTIMATED: 14
-    :ACTUAL:
-    :OWNER: akshay196
-    :ID: READ.1573574122
-    :TASKID: READ.1573574122
-    :END:
-    - [ ] Chapter 11. Automating Deployment with Fabric                                             (30m)
-    - [ ] Chapter 12. Splitting Our Tests into Multiple Files, and a Generic Wait Helper            (30m)
-    - [ ] Chapter 13. Validation at the Database Layer                                              ( 1h)
-    - [ ] Chapter 14. A Simple Form                                                                 ( 1h)
-    - [ ] Chapter 15. More Advanced Forms                                                           ( 1h)
-    - [ ] Chapter 16. Dipping Our Toes, Very Tentatively, into JavaScript                           ( 1h)
-    - [ ] Chapter 17. Deploying Our New Code                                                        (30m)
-    - [ ] Chapter 18. User Authentication, Spiking, and De-Spiking                                  ( 1h)
-    - [ ] Chapter 19. Using Mocks to Test External Dependencies or Reduce Duplication               ( 1h)
-    - [ ] Chapter 20. Test Fixtures and a Decorator for Explicit Waits                              (30m)
-    - [ ] Chapter 21. Server-Side Debugging                                                         ( 1h)
-    - [ ] Chapter 22. Finishing "My Lists": Outside-In TDD                                          ( 1h)
-    - [ ] Chapter 23. Test Isolation, and "Listening to Your Tests"                                 ( 1h)
-    - [ ] Chapter 24. Continuous Integration (CI)                                                   ( 1h)
-    - [ ] Chapter 25. The Token Social Bit, the Page Pattern, and an Exercise for the Reader        ( 1h)
-    - [ ] Chapter 26. Fast Tests, Slow Tests, and Hot Lava                                          ( 1h)
