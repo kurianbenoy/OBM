@@ -33,3 +33,52 @@
 ** Attend meetups
 ** Write blog posts
 * PLAN
+** November 28, 2019 - December 11, 2019 (14 days)
+   :PROPERTIES:
+   :wpd-bhavin192: 1
+   :END:
+*** Certified Kubernetes Application Developer exam [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       OPS.1575116208
+    :TASKID:   OPS.1575116208
+    :END:
+     https://www.cncf.io/certification/ckad/
+     - [ ] Practice	 (2h)
+     - [ ] Exam		 (2h)
+*** Watch EmacsConf 2019 videos [0/14]
+    :PROPERTIES:
+    :ESTIMATED: 4.5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1575285614
+    :TASKID:   READ.1575285614
+    :END:
+    - [ ] [[https://media.emacsconf.org/2019/02.html][Emacs Community Update - Sacha Chua]]                            (10m)
+    - [ ] [[https://media.emacsconf.org/2019/12.html][Ledger-mode - Quiliro Ordóñez]]                                  (15m)
+    - [ ] [[https://media.emacsconf.org/2019/14.html][Magit deep dive - Jonathan Chu]]                                 (50m)
+    - [ ] [[https://media.emacsconf.org/2019/19.html][How Emacs became my awesome Java editing environment -
+      Torstein Krause Johansen]]                                           (15m)
+    - [ ] [[https://media.emacsconf.org/2019/20.html][Automate your workflow as a game developer - Jānis Mancēvičs]]   (10m)
+    - [ ] [[https://media.emacsconf.org/2019/22.html][Packaging emacs packages for Debian - David Bremner]]            (10m)
+    - [ ] [[https://media.emacsconf.org/2019/24.html][GNU Emacs as software freedom in practice - Greg Farough]]       (25m)
+    - [ ] [[https://media.emacsconf.org/2019/26.html][Emacs: The Editor for the Next Forty Years - Perry
+      E. Metzger]]                                                         (65m)
+    - [ ] [[https://media.emacsconf.org/2019/27.html][How to record executable notes with eev - and how to play
+      them back - Eduardo Ochs]]                                           (20m)
+    - [ ] [[https://media.emacsconf.org/2019/28.html][Play and control your music with Emacs - Damien Cassou]]         (10m)
+    - [ ] [[https://media.emacsconf.org/2019/29.html][Restclient and org-mode for Api Documentation and Testing -
+      Mackenzie Bligh]]                                                    (10m)
+    - [ ] [[https://media.emacsconf.org/2019/30.html][Equake mode - Ben Slade]]                                        (10m)
+    - [ ] [[https://media.emacsconf.org/2019/31.html][Don't wait! Write your own (yas)snippet - Tony Aldon]]           (10m)
+    - [ ] [[https://media.emacsconf.org/2019/32.html][VSCode is Better than Emacs - Zaiste]]                           (10m)
+*** Write blog post about EmacsConf 2019
+    :PROPERTIES:
+    :ESTIMATED: 5.5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1575286599
+    :TASKID:   WRITE.1575286599
+    :END:
