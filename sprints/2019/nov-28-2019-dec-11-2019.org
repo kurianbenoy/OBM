@@ -27,17 +27,22 @@
   :wpd-sandeepk: 1.2
   :END:
 ** akshay196
-*** Test-Driven Development with Python - Part II [0/16]
+*** IN_PROGRESS Test-Driven Development with Python - Part II [3/16]
     :PROPERTIES:
     :ESTIMATED: 14
-    :ACTUAL:
+    :ACTUAL:   3.02
     :OWNER: akshay196
     :ID: READ.1573574122
     :TASKID: READ.1573574122
     :END:
-    - [ ] Chapter 11. Automating Deployment with Fabric                                             (30m)
-    - [ ] Chapter 12. Splitting Our Tests into Multiple Files, and a Generic Wait Helper            (30m)
-    - [ ] Chapter 13. Validation at the Database Layer                                              ( 1h)
+    :LOGBOOK:
+    CLOCK: [2019-12-02 Mon 08:39]--[2019-12-02 Mon 09:45] =>  1:06
+    CLOCK: [2019-11-30 Sat 09:43]--[2019-11-30 Sat 11:02] =>  1:19
+    CLOCK: [2019-11-29 Fri 08:22]--[2019-11-29 Fri 08:58] =>  0:36
+    :END:
+    - [X] Chapter 11. Automating Deployment with Fabric                                             (30m)
+    - [X] Chapter 12. Splitting Our Tests into Multiple Files, and a Generic Wait Helper            (30m)
+    - [X] Chapter 13. Validation at the Database Layer                                              ( 1h)
     - [ ] Chapter 14. A Simple Form                                                                 ( 1h)
     - [ ] Chapter 15. More Advanced Forms                                                           ( 1h)
     - [ ] Chapter 16. Dipping Our Toes, Very Tentatively, into JavaScript                           ( 1h)
