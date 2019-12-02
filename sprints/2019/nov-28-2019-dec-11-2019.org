@@ -61,25 +61,33 @@
     :TASKID: READ.1573385682
     :END:
     - [ ] Chapter-6  Design Patterns with First-Class Functions (6h)
-*** Data Structure Part II [/3]
+*** IN_PROGRESS Data Structure Part II [/3]
     :PROPERTIES:
     :ESTIMATED: 9
-    :ACTUAL:
+    :ACTUAL:   0.33
     :OWNER: sandeepk
     :ID: READ.1573385745
     :TASKID: READ.1573385745
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-12-02 Mon 09:50]--[2019-12-02 Mon 10:10] =>  0:20
+    :END:
     - [ ] Linked List        (2h)
     - [ ] Stacks and Queues  (3h)
     - [ ] Backtracking       (4h)
-*** Project Billion [/3]
+*** IN_PROGRESS Project Billion [2/3]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:
+    :ACTUAL:   1.83
     :OWNER: sandeepk
     :ID: OPS.1574962798
     :TASKID: OPS.1574962798
     :END:
-    - [ ] GCP Instance Creation, App deployment and Database Setup.  (1h)
-    - [ ] Remote Connection Setup for Database.                      (30m)
+    :LOGBOOK:
+    CLOCK: [2019-11-30 Sat 18:00]--[2019-11-30 Sat 19:00] =>  1:00
+    CLOCK: [2019-11-29 Fri 20:50]--[2019-11-29 Fri 21:10] =>  0:20
+    CLOCK: [2019-11-28 Thu 20:00]--[2019-11-28 Thu 20:30] =>  0:30
+    :END:
+    - [X] GCP Instance Creation, App deployment and Database Setup.  (1h)
+    - [X] Remote Connection Setup for Database.                      (30m)
     - [ ] Cron job setup for Database update and event notification. (30m)
