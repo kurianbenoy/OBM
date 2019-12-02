@@ -24,6 +24,7 @@
   :SPRINTLENGTH: 14
   :SPRINTSTART: <2019-11-28 Thu>
   :wpd-akshay196: 1
+  :wpd-sandeepk: 1.2
   :END:
 ** akshay196
 *** Test-Driven Development with Python - Part II [0/16]
@@ -50,3 +51,35 @@
     - [ ] Chapter 24. Continuous Integration (CI)                                                   ( 1h)
     - [ ] Chapter 25. The Token Social Bit, the Page Pattern, and an Exercise for the Reader        ( 1h)
     - [ ] Chapter 26. Fast Tests, Slow Tests, and Hot Lava                                          ( 1h)
+** sandeepk
+*** Fluent Python Part II [/1]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1573385682
+    :TASKID: READ.1573385682
+    :END:
+    - [ ] Chapter-6  Design Patterns with First-Class Functions (6h)
+*** Data Structure Part II [/3]
+    :PROPERTIES:
+    :ESTIMATED: 9
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1573385745
+    :TASKID: READ.1573385745
+    :END:
+    - [ ] Linked List        (2h)
+    - [ ] Stacks and Queues  (3h)
+    - [ ] Backtracking       (4h)
+*** Project Billion [/3]
+    :PROPERTIES:
+    :ESTIMATED: 2
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: OPS.1574962798
+    :TASKID: OPS.1574962798
+    :END:
+    - [ ] GCP Instance Creation, App deployment and Database Setup.  (1h)
+    - [ ] Remote Connection Setup for Database.                      (30m)
+    - [ ] Cron job setup for Database update and event notification. (30m)

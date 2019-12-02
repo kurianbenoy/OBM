@@ -190,15 +190,6 @@
     :END:
 
 ** sandeepk
-*** Fluent Python Part I [/1]
-    :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: READ.1573385682
-    :TASKID: READ.1573385682
-    :END:
-    - [ ] Chapter-6  Design Patterns with First-Class Functions (6h)
 *** DONE Data Structure Part I [3/3]
     CLOSED: [2019-11-27 Wed 20:40]
     :PROPERTIES:
