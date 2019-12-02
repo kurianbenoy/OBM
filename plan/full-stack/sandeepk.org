@@ -169,32 +169,6 @@
     :END:
 
 * PLAN
-** November  28, 2019 - December  11, 2019 (14 days)
-   :PROPERTIES:
-   :wpd-sandeepk: 1
-   :END:
-*** Fluent Python Part II [/1]
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: READ.1573385682
-    :TASKID: READ.1573385682
-    :END:
-    - [ ] Chapter-7 Function Decorators and Closures (5h)
-
-*** Data Structure Part II [/3]
-    :PROPERTIES:
-    :ESTIMATED: 9
-    :ACTUAL:
-    :OWNER: sandeepk
-    :ID: READ.1573385745
-    :TASKID: READ.1573385745
-    :END:
-    - [ ] Linked List        (2h)
-    - [ ] Stacks and Queues  (3h)
-    - [ ] Backtracking       (4h)
-
 ** December  12, 2019 - December  26, 2019 (15 days)
    :PROPERTIES:
    :wpd-sandeepk: 1
