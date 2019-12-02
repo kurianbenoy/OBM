@@ -19,24 +19,15 @@
    :ID: READ.1573947970
    :TASKID: READ.1573947970
    :END:
-   - [ ] Trees chapter (3h)
-   - [ ] Bit Manipulation (2h)
-   - [ ] Dynamic Programming
-** Onboard GCI participants and create tasks for TF
+   - [ ] Trees and graphs (4h)
+   - [ ] Dynamic progrmaming and recurssion (4h)
+** onboard GCI participants | mentor work - Part 2
    :PROPERTIES:
-   :ESTIMATED: 5
+   :ESTIMATED: 8
    :ACTUAL:
    :OWNER: kurianbenoy
-   :ID: DEV.1573948136
-   :TASKID: DEV.1573948136
+   :ID: DEV.1575302444
+   :TASKID: DEV.1575302444
    :END:
-   - [ ] Understand Swift4TF codebase (2h)
-   - [ ] Create task for GCI (3h)
-** Write a new kaggle kernel on Kaggle survey 2019
-   :PROPERTIES:
-   :ESTIMATED: 5
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: DEV.1573948303
-   :TASKID: DEV.1573948303
-   :END:
+   - [ ] Understand Swift4TF codebase, first PR (4h)
+   - [ ] Help GCI participants (4h)
