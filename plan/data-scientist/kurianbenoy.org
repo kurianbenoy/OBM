@@ -11,17 +11,36 @@
 ** Attend meetups
 ** Write blog posts
 * PLAN
-** Read Cracking the Coding interview
+** November 28,2019 - December 11, 2019(14 days)
+   :PROPERTIES:
+   :wpd-kurianbenoy: 1.5
+   :END:
+*** Deep Learning with Pytorch
+   :PROPERTIES:
+   :ESTIMATED: 12
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: READ.1575047741
+   :TASKID: READ.1575047741
+ :END:
+  - [ ] Chapter2: It starts with a Tensor(2h)
+  - [ ] Chapter 3: Real World representation with Tensors(3h)
+  - [ ] Chapter 4: Mechanism of Learning(5h)
+  - [ ] Chapter 5: Using a NN to fit data(2h)
+	
+*** READ CTCI 
    :PROPERTIES:
    :ESTIMATED: 8
    :ACTUAL:
    :OWNER: kurianbenoy
-   :ID: READ.1573947970
-   :TASKID: READ.1573947970
+   :ID: DEV.1575048222
+   :TASKID: DEV.1575048222
    :END:
-   - [ ] Trees and graphs (4h)
-   - [ ] Dynamic progrmaming and recurssion (4h)
-** onboard GCI participants | mentor work - Part 2
+  - [ ] Trees and graphs (4h)
+  - [ ] Dynamic progrmaming and recurssion (4h)
+
+	
+*** onboard GCI participants | mentor work - Part 2
    :PROPERTIES:
    :ESTIMATED: 8
    :ACTUAL:
