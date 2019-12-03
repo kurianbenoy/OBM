@@ -128,19 +128,20 @@
     - [ ] Linked List        (2h)
     - [ ] Stacks and Queues  (3h)
     - [ ] Backtracking       (4h)
-*** IN_PROGRESS Project Billion [2/3]
+*** DONE Project Billion [3/3]
     :PROPERTIES:
     :ESTIMATED: 2
-    :ACTUAL:   1.83
+    :ACTUAL:   3.00
     :OWNER: sandeepk
     :ID: OPS.1574962798
     :TASKID: OPS.1574962798
     :END:
     :LOGBOOK:
+    CLOCK: [2019-12-04 Wed 00:05]--[2019-12-04 Wed 01:15] =>  1:10
     CLOCK: [2019-11-30 Sat 18:00]--[2019-11-30 Sat 19:00] =>  1:00
     CLOCK: [2019-11-29 Fri 20:50]--[2019-11-29 Fri 21:10] =>  0:20
     CLOCK: [2019-11-28 Thu 20:00]--[2019-11-28 Thu 20:30] =>  0:30
     :END:
     - [X] GCP Instance Creation, App deployment and Database Setup.  (1h)
     - [X] Remote Connection Setup for Database.                      (30m)
-    - [ ] Cron job setup for Database update and event notification. (30m)
+    - [X] Cron job setup for Database update and event notification. (30m)
