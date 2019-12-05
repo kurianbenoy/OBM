@@ -125,18 +125,20 @@
 *** IN_PROGRESS READ CTCI  [0/4]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:   3.75
+    :ACTUAL:   5.06
     :OWNER: kurianbenoy
     :ID: READ.1575048222
     :TASKID: READ.1575048222
     :END:
     :LOGBOOK:
+    CLOCK: [2019-12-05 Thu 20:45]--[2019-12-05 Thu 21:15] =>  0:30
+    CLOCK: [2019-12-05 Thu 13:26]--[2019-12-05 Thu 14:00] =>  0:34
     CLOCK: [2019-12-05 Thu 08:24]--[2019-12-05 Thu 09:25] =>  1:01
     CLOCK: [2019-12-04 Wed 16:00]--[2019-12-04 Wed 16:45] =>  0:45
     CLOCK: [2019-12-03 Tue 22:00]--[2019-12-03 Tue 23:00] =>  1:00
     CLOCK: [2019-12-02 Mon 16:00]--[2019-12-02 Mon 18:00] =>  2:00
     :END:
-    - [ ] Trees and graphs                  (4h)
+    - [X] Trees and graphs                  (4h)
     - [ ] Dynamic progrmaming and recursion (4h)
 *** Onboard GCI participants | Mentor work Part II
     :PROPERTIES:
