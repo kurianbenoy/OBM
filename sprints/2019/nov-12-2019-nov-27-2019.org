@@ -165,37 +165,6 @@
     - [ ] 4. Understaning Linux boot process             ( 2h )
     - [ ] 5. Understanding Linux storage                 ( 3h )
     - [ ] 6. Understanding memory management             ( 1h )
-** kurianbenoy
-*** Read Cracking the Coding interview [0/3]
-    :PROPERTIES:
-    :ESTIMATED: 8
-    :ACTUAL:
-    :OWNER: kurianbenoy
-    :ID: READ.1573947970
-    :TASKID: READ.1573947970
-    :END:
-    - [ ] Trees chapter       (3h)
-    - [ ] Bit Manipulation    (2h)
-    - [ ] Dynamic Programming (3h)
-*** Onboard GCI participants and create tasks for TF [0/2]
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER: kurianbenoy
-    :ID: DEV.1573948136
-    :TASKID: DEV.1573948136
-    :END:
-    - [ ] Understand Swift4TF codebase (2h)
-    - [ ] Create task for GCI (3h)
-*** Write a new kaggle kernel on Kaggle survey 2019
-    :PROPERTIES:
-    :ESTIMATED: 5
-    :ACTUAL:
-    :OWNER: kurianbenoy
-    :ID: DEV.1573948303
-    :TASKID: DEV.1573948303
-    :END:
-
 ** sandeepk
 *** DONE Data Structure Part I [3/3]
     CLOSED: [2019-11-27 Wed 20:40]
