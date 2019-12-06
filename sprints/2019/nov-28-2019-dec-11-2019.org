@@ -178,20 +178,22 @@
     CLOCK: [2019-12-04 Wed 20:05]--[2019-12-04 Wed 20:35] =>  0:30
     :END:
     - [ ] Chapter-6  Design Patterns with First-Class Functions (6h)
-*** IN_PROGRESS Data Structure Part II [/3]
+*** IN_PROGRESS Data Structure Part II [1/3]
     :PROPERTIES:
     :ESTIMATED: 9
-    :ACTUAL:   1.43
+    :ACTUAL:   2.13
     :OWNER: sandeepk
     :ID: READ.1573385745
     :TASKID: READ.1573385745
     :END:
     :LOGBOOK:
+    CLOCK: [2019-12-06 Fri 22:47]--[2019-12-06 Fri 23:10] =>  0:23
+    CLOCK: [2019-12-06 Fri 22:21]--[2019-12-06 Fri 22:40] =>  0:19
     CLOCK: [2019-12-05 Thu 20:19]--[2019-12-05 Thu 20:50] =>  0:31
     CLOCK: [2019-12-03 Tue 09:30]--[2019-12-03 Tue 10:05] =>  0:35
     CLOCK: [2019-12-02 Mon 09:50]--[2019-12-02 Mon 10:10] =>  0:20
     :END:
-    - [ ] Linked List        (2h)
+    - [X] Linked List        (2h)
     - [ ] Stacks and Queues  (3h)
     - [ ] Backtracking       (4h)
 *** DONE Project Billion [3/3]
