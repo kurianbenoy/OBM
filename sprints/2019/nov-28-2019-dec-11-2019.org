@@ -29,15 +29,18 @@
   :wpd-sandeepk: 1.2
   :END:
 ** akshay196
-*** IN_PROGRESS Test-Driven Development with Python - Part II [3/16]
+*** IN_PROGRESS Test-Driven Development with Python - Part II [5/16]
     :PROPERTIES:
     :ESTIMATED: 14
-    :ACTUAL:   3.02
+    :ACTUAL:   5.53
     :OWNER: akshay196
     :ID: READ.1573574122
     :TASKID: READ.1573574122
     :END:
     :LOGBOOK:
+    CLOCK: [2019-12-05 Thu 08:39]--[2019-12-05 Thu 09:23] =>  0:44
+    CLOCK: [2019-12-04 Wed 20:40]--[2019-12-04 Wed 21:41] =>  1:01
+    CLOCK: [2019-12-03 Tue 09:02]--[2019-12-03 Tue 09:48] =>  0:46
     CLOCK: [2019-12-02 Mon 08:39]--[2019-12-02 Mon 09:45] =>  1:06
     CLOCK: [2019-11-30 Sat 09:43]--[2019-11-30 Sat 11:02] =>  1:19
     CLOCK: [2019-11-29 Fri 08:22]--[2019-11-29 Fri 08:58] =>  0:36
@@ -45,8 +48,8 @@
     - [X] Chapter 11. Automating Deployment with Fabric                                             (30m)
     - [X] Chapter 12. Splitting Our Tests into Multiple Files, and a Generic Wait Helper            (30m)
     - [X] Chapter 13. Validation at the Database Layer                                              ( 1h)
-    - [ ] Chapter 14. A Simple Form                                                                 ( 1h)
-    - [ ] Chapter 15. More Advanced Forms                                                           ( 1h)
+    - [X] Chapter 14. A Simple Form                                                                 ( 1h)
+    - [X] Chapter 15. More Advanced Forms                                                           ( 1h)
     - [ ] Chapter 16. Dipping Our Toes, Very Tentatively, into JavaScript                           ( 1h)
     - [ ] Chapter 17. Deploying Our New Code                                                        (30m)
     - [ ] Chapter 18. User Authentication, Spiking, and De-Spiking                                  ( 1h)
@@ -59,27 +62,39 @@
     - [ ] Chapter 25. The Token Social Bit, the Page Pattern, and an Exercise for the Reader        ( 1h)
     - [ ] Chapter 26. Fast Tests, Slow Tests, and Hot Lava                                          ( 1h)
 ** bhavin192
-*** Certified Kubernetes Application Developer exam [0/2]
+*** DONE Certified Kubernetes Application Developer exam [2/2]
+    CLOSED: [2019-11-30 Sat 14:02]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   4.02
     :OWNER:    bhavin192
     :ID:       OPS.1575116208
     :TASKID:   OPS.1575116208
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-11-30 Sat 11:34]--[2019-11-30 Sat 14:02] =>  2:28
+    CLOCK: [2019-11-29 Fri 22:35]--[2019-11-29 Fri 23:01] =>  0:26
+    CLOCK: [2019-11-29 Fri 18:55]--[2019-11-29 Fri 20:02] =>  1:07
+    :END:
      https://www.cncf.io/certification/ckad/
-     - [ ] Practice	 (2h)
-     - [ ] Exam		 (2h)
-*** Watch EmacsConf 2019 videos [0/14]
+     - [X] Practice	 (2h)
+     - [X] Exam		 (2h)
+*** IN_PROGRESS Watch EmacsConf 2019 videos [2/14]
     :PROPERTIES:
     :ESTIMATED: 4.5
-    :ACTUAL:
+    :ACTUAL:   0.58
     :OWNER:    bhavin192
     :ID:       READ.1575285614
     :TASKID:   READ.1575285614
     :END:
-    - [ ] [[https://media.emacsconf.org/2019/02.html][Emacs Community Update - Sacha Chua]]                            (10m)
-    - [ ] [[https://media.emacsconf.org/2019/12.html][Ledger-mode - Quiliro Ordóñez]]                                  (15m)
+    :LOGBOOK:
+    CLOCK: [2019-12-03 Tue 20:51]--[2019-12-03 Tue 20:57] =>  0:06
+    CLOCK: [2019-12-03 Tue 07:51]--[2019-12-03 Tue 08:08] =>  0:17
+    CLOCK: [2019-12-02 Mon 21:51]--[2019-12-02 Mon 21:58] =>  0:07
+    CLOCK: [2019-12-02 Mon 19:35]--[2019-12-02 Mon 19:40] =>  0:05
+    :END:
+    - [X] [[https://media.emacsconf.org/2019/02.html][Emacs Community Update - Sacha Chua]]                            (10m)
+    - [X] [[https://media.emacsconf.org/2019/12.html][Ledger-mode - Quiliro Ordóñez]]                                  (15m)
     - [ ] [[https://media.emacsconf.org/2019/14.html][Magit deep dive - Jonathan Chu]]                                 (50m)
     - [ ] [[https://media.emacsconf.org/2019/19.html][How Emacs became my awesome Java editing environment -
       Torstein Krause Johansen]]                                           (15m)
@@ -125,17 +140,20 @@
 *** IN_PROGRESS READ CTCI  [0/4]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:   3.75
+    :ACTUAL:   5.83
     :OWNER: kurianbenoy
     :ID: READ.1575048222
     :TASKID: READ.1575048222
     :END:
     :LOGBOOK:
+    CLOCK: [2019-12-05 Thu 20:45]--[2019-12-05 Thu 21:15] =>  0:30
+    CLOCK: [2019-12-05 Thu 13:26]--[2019-12-05 Thu 14:00] =>  0:34
+    CLOCK: [2019-12-05 Thu 08:24]--[2019-12-05 Thu 09:25] =>  1:01
     CLOCK: [2019-12-04 Wed 16:00]--[2019-12-04 Wed 16:45] =>  0:45
     CLOCK: [2019-12-03 Tue 22:00]--[2019-12-03 Tue 23:00] =>  1:00
     CLOCK: [2019-12-02 Mon 16:00]--[2019-12-02 Mon 18:00] =>  2:00
     :END:
-    - [ ] Trees and graphs                  (4h)
+    - [X] Trees and graphs                  (4h)
     - [ ] Dynamic progrmaming and recursion (4h)
 *** Onboard GCI participants | Mentor work Part II
     :PROPERTIES:
