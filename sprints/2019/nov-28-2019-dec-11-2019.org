@@ -130,11 +130,16 @@
     :TASKID: READ.1575047741
     :END:
     :LOGBOOK:
-    CLOCK: [2019-12-01 Sun 12:00]--[2019-12-01 Sun 13:00] =>  1:00
+    CLOCK: [2019-12-07 Sat 17:58]--[2019-12-07 Sat 18:38] =>  0:40
+    CLOCK: [2019-12-06 Fri 14:15]--[2019-12-06 Fri 15:05] =>  0:50
     CLOCK: [2019-11-30 Sat 08:00]--[2019-11-30 Sat 09:30] =>  1:30
+    CLOCK: [2019-12-01 Sun 12:00]--[2019-12-01 Sun 13:00] =>  1:00
+    CLOCK: [2019-12-06 Fri 08:55]--[2019-12-06 Fri 09:55] =>  1:00
+    :END:
+    ::LOGBOOK:
     :END:
      - [X] Chapter2: It starts with a Tensor                 (2h)
-     - [ ] Chapter 3: Real World representation with Tensors (3h)
+     - [X] Chapter 3: Real World representation with Tensors (3h)
      - [ ] Chapter 4: Mechanism of Learning                  (5h)
      - [ ] Chapter 5: Using a NN to fit data                 (2h)
 *** IN_PROGRESS READ CTCI  [0/4]
@@ -155,7 +160,7 @@
     :END:
     - [X] Trees and graphs                  (4h)
     - [ ] Dynamic progrmaming and recursion (4h)
-*** Onboard GCI participants | Mentor work Part II
+*** IN_PROGRESS Onboard GCI participants | Mentor work Part II
     :PROPERTIES:
     :ESTIMATED: 8
     :ACTUAL:
@@ -163,8 +168,13 @@
     :ID: PROJECT.1575302444
     :TASKID: PROJECT.1575302444
     :END:
+    :LOGBOOK:
+    CLOCK: [2019-12-07 Sat 13:18]--[2019-12-07 Sat 13:41] =>  0:23
+    CLOCK: [2019-12-07 Sat 07:42]--[2019-12-07 Sat 08:44] =>  1:02
+    CLOCK: [2019-12-06 Fri 06:59]--[2019-12-06 Fri 07:54] =>  0:55
+    :END:
     - [ ] Understand Swift4TF codebase, first PR (4h)
-    - [ ] Help GCI participants                  (4h)
+    - [X] Help GCI participants                  (4h)
 ** sandeepk
 *** Fluent Python Part II [/1]
     :PROPERTIES:
