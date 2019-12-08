@@ -136,12 +136,10 @@
     CLOCK: [2019-12-01 Sun 12:00]--[2019-12-01 Sun 13:00] =>  1:00
     CLOCK: [2019-12-06 Fri 08:55]--[2019-12-06 Fri 09:55] =>  1:00
     :END:
-    ::LOGBOOK:
-    :END:
-     - [X] Chapter2: It starts with a Tensor                 (2h)
-     - [X] Chapter 3: Real World representation with Tensors (3h)
-     - [ ] Chapter 4: Mechanism of Learning                  (5h)
-     - [ ] Chapter 5: Using a NN to fit data                 (2h)
+    - [X] Chapter2: It starts with a Tensor                 (2h)
+    - [X] Chapter 3: Real World representation with Tensors (3h)
+    - [ ] Chapter 4: Mechanism of Learning                  (5h)
+    - [ ] Chapter 5: Using a NN to fit data                 (2h)
 *** IN_PROGRESS READ CTCI  [0/4]
     :PROPERTIES:
     :ESTIMATED: 8
