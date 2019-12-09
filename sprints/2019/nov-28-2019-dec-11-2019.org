@@ -124,7 +124,7 @@
 *** IN_PROGRESS Deep Learning with Pytorch [1/4]
     :PROPERTIES:
     :ESTIMATED: 12
-    :ACTUAL:   2.50
+    :ACTUAL:   5.00
     :OWNER: kurianbenoy
     :ID: READ.1575047741
     :TASKID: READ.1575047741
@@ -161,7 +161,7 @@
 *** IN_PROGRESS Onboard GCI participants | Mentor work Part II
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:
+    :ACTUAL:   2.33
     :OWNER: kurianbenoy
     :ID: PROJECT.1575302444
     :TASKID: PROJECT.1575302444
