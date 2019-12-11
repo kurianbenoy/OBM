@@ -3,15 +3,6 @@
 #+TAGS: dev ops read meeting
 * GOALS
 ** DevOps
-*** TODO Attend RootConf Hyderabad [0/1]
-    :PROPERTIES:
-    :ESTIMATED: 3
-    :ACTUAL:
-    :OWNER: gandalfdwite
-    :ID: EVENT.1573404914
-    :TASKID: EVENT.1573404914
-    :END:
-    - [ ] Attend RootConf Hyderabad on 16th November   ( 3h )
 *** Learning Terraform
     :PROPERTIES:
     :ESTIMATED: 10
@@ -35,12 +26,6 @@
     :ID: READ.1573405076
     :TASKID: READ.1573405076
     :END:
-    - [ ] 1. How Linux is organized                      ( 2h )
-    - [ ] 2. About C code, scripts and compiled programs ( 3h )
-    - [ ] 3. Understanding linux commands                ( 2h )
-    - [ ] 4. Understaning Linux boot process             ( 2h )
-    - [ ] 5. Understanding Linux storage                 ( 3h )
-    - [ ] 6. Understanding memory management             ( 1h )
     - [ ] 7. Understanding processes                     ( 2h )
     - [ ] 8. Security                                    ( 3h )
     - [ ] 9. Hardware Initilization                      ( 1h )
@@ -49,5 +34,42 @@
     - [ ] 12. Performance optimization                   ( 1h )
     - [ ] 13. Future of Linux                            ( 1h )
 ** Blog - pravaragdotcom
-*** Write a Blog Post
+*** Write a blog post on TravisCI
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER:    gandalfdwite
+    :ID:       WRITE.1576074953
+    :TASKID:   WRITE.1576074953
+    :END:
 * PLAN
+** December  12, 2019 - December  26, 2019 (15 days)
+   :PROPERTIES:
+   :wpd-gandalfdwite: 1
+   :END:
+*** TODO Linux Under the Hood [0/7]
+    :PROPERTIES:
+    :ESTIMATED: 11
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1573405076
+    :TASKID: READ.1573405076
+    :END:
+    - [ ] 7. Understanding processes                     ( 2h )
+    - [ ] 8. Security                                    ( 3h )
+    - [ ] 9. Hardware Initilization                      ( 1h )
+    - [ ] 10. Looking closer at the kernel               ( 2h )
+    - [ ] 11. Networking                                 ( 1h )
+    - [ ] 12. Performance optimization                   ( 1h )
+    - [ ] 13. Future of Linux                            ( 1h )
+
+*** TODO Write a blog post on TravisCI [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER:    gandalfdwite
+    :ID:       WRITE.1576074953
+    :TASKID:   WRITE.1576074953
+    :END:
+
+    - [ ] Write blog post       ( 4h )
