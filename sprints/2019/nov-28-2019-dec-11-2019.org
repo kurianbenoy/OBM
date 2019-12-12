@@ -177,18 +177,21 @@
     - [ ] Understand Swift4TF codebase, first PR (4h)
     - [X] Help GCI participants                  (4h)
 ** sandeepk
-*** IN_PROGRESS Fluent Python Part II [/1]
+*** DONE Fluent Python Part II [1/1]
+    CLOSED: <2019-12-11 Wed 21:55>
     :PROPERTIES:
-    :ESTIMATED: 6
-    :ACTUAL:   0.50
+    :ESTIMATED: 2
+    :ACTUAL:   2.00
     :OWNER: sandeepk
     :ID: READ.1573385682
     :TASKID: READ.1573385682
     :END:
     :LOGBOOK:
+    CLOCK: [2019-12-11 Wed 20:55]--[2019-12-11 Wed 21:55] =>  1:00
+    CLOCK: [2019-12-10 Tue 20:30]--[2019-12-10 Tue 21:00] =>  0:30
     CLOCK: [2019-12-04 Wed 20:05]--[2019-12-04 Wed 20:35] =>  0:30
     :END:
-    - [ ] Chapter-6  Design Patterns with First-Class Functions (6h)
+    - [X] Chapter-6  Design Patterns with First-Class Functions Part I (6h)
 *** DONE Data Structure Part II [3/3]
     CLOSED: [2019-12-10 Tue 01:45]
     :PROPERTIES:
