@@ -1,4 +1,3 @@
-
 #+AUTHOR:Kurian Benoy 
 #+EMAIL: kurian.bkk@gmail.com
 #+TAGS: read write dev ops event meeting # Need to be category
@@ -52,7 +51,7 @@
    :ID: PROJECT.1576217906
    :TASKID: PROJECT.1576217906
    :END:
-***x Learn Emacs(https://geeksocket.in/posts/entering-church-emacs/#references)
+*** Learn Emacs(https://geeksocket.in/posts/entering-church-emacs/#references)
    :PROPERTIES:
    :ESTIMATED: 4
    :ACTUAL:
