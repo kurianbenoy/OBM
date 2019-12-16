@@ -33,3 +33,33 @@
 ** Attend meetups
 ** Write blog posts
 * PLAN
+** December 12-26, 2019 (15 days)
+   :PROPERTIES:
+   :wpd-bhavin192: 1
+   :END:
+*** Write blog post about EmacsConf 2019
+    :PROPERTIES:
+    :ESTIMATED: 4.5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1575286599
+    :TASKID:   WRITE.1575286599
+    :END:
+*** Write blog post about Ansible [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1576502914
+    :TASKID:   WRITE.1576502914
+    :END:
+    - [ ] Update the workstation setup playbook
+    - [ ] Write the blog post
+*** Mastering Distributed Tracing - chapter 8
+    :PROPERTIES:
+    :ESTIMATED: 2.5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1562555265
+    :TASKID:   READ.1562555265
+    :END:
