@@ -24,6 +24,7 @@
   :SPRINTLENGTH: 15
   :SPRINTSTART: <2019-12-12 Thu>
   :wpd-gandalfdwite: 1
+  :wpd-sandeepk: 1
   :END:
 ** gandalfdwite
 *** TODO Linux Under the Hood [0/7]
@@ -52,3 +53,29 @@
     :END:
 
     - [ ] Write blog post       ( 4h )
+** sandeepk
+*** Fluent Python Part III [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1573385682
+    :TASKID: READ.1573385682
+    :END:
+    :LOGBOOK:
+    :END:
+    - [ ] Chapter-6  Design Patterns with First-Class Functions Part II (4h)
+*** OAuth Training [/4]
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1576157663
+    :TASKID: READ.1576157663
+    :END:
+    :LOGBOOK:
+    :END:
+    - [ ] Watch OAuth Videos  (3h)
+    - [ ] Exercise 1          (2h)
+    - [ ] Exercise 2          (1h)
+    - [ ] Exercise 3          (1h)
