@@ -17,14 +17,15 @@
    :END:
 *** Swift course(FASTAI course)
   :PROPERTIES:
-  :ESTIMATED: 6
+  :ESTIMATED: 8
   :ACTUAL:
   :OWNER: kurianbenoy
   :ID: DEV.1576217466
   :TASKID: DEV.1576217466
   :END:
-  - [ ] Lesson 13 (3h)
-  - [ ] Lesson 14 (3h)
+  - [X] Lesson 13 (3h)
+  - [X] Lesson 14 (3h)
+  - [ ] Blog post about Swift language and first tutorial
 *** Read CTCI Part 2
    :PROPERTIES:
    :ESTIMATED: 6
@@ -43,15 +44,7 @@
    :ID: WRITE.1576217766
    :TASKID: WRITE.1576217766
    :END:
-*** Onboard GCI participants | mentor work Part 3
-   :PROPERTIES:
-   :ESTIMATED: 3
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: PROJECT.1576217906
-   :TASKID: PROJECT.1576217906
-   :END:
-*** Learn Emacs(https://geeksocket.in/posts/entering-church-emacs/#references)
+*** Learn Emacs
    :PROPERTIES:
    :ESTIMATED: 4
    :ACTUAL:
@@ -59,4 +52,5 @@
    :ID: READ.1576218020
    :TASKID: READ.1576218020
    :END:
-  
+   https://geeksocket.in/posts/entering-church-emacs/#references
+   
