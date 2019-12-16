@@ -155,7 +155,8 @@
     - [X] Chapter 3: Real World representation with Tensors (3h)
     - [X] Chapter 4: Mechanism of Learning                  (5h)
     - [X] Chapter 5: Using a NN to fit data                 (2h)
-*** IN_PROGRESS READ CTCI  [1/2]
+*** DONE READ CTCI - Part I  [1/1]
+    CLOSED: [2019-12-11 Wed 23:00]
     :PROPERTIES:
     :ESTIMATED: 8
     :ACTUAL:   5.83
@@ -172,8 +173,8 @@
     CLOCK: [2019-12-02 Mon 16:00]--[2019-12-02 Mon 18:00] =>  2:00
     :END:
     - [X] Trees and graphs                  (4h)
-    - [ ] Dynamic progrmaming and recursion (4h)
-*** IN_PROGRESS Onboard GCI participants | Mentor work Part II
+*** DONE Onboard GCI participants | Mentor work Part II
+    CLOSED: [2019-12-11 Wed 23:00]
     :PROPERTIES:
     :ESTIMATED: 8
     :ACTUAL:   2.33
@@ -186,7 +187,6 @@
     CLOCK: [2019-12-07 Sat 07:42]--[2019-12-07 Sat 08:44] =>  1:02
     CLOCK: [2019-12-06 Fri 06:59]--[2019-12-06 Fri 07:54] =>  0:55
     :END:
-    - [ ] Understand Swift4TF codebase, first PR (4h)
     - [X] Help GCI participants                  (4h)
 ** sandeepk
 *** IN_PROGRESS Fluent Python Part II [/1]
