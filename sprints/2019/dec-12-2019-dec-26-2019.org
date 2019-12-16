@@ -23,8 +23,29 @@
   :ID:       TASKS
   :SPRINTLENGTH: 15
   :SPRINTSTART: <2019-12-12 Thu>
+  :wpd-akshay196: 1
   :wpd-gandalfdwite: 1
   :END:
+** akshay196
+*** The Pragmatic Programmer: your journey to mastery [0/9]
+    :PROPERTIES:
+    :ESTIMATED: 15
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1576169089
+    :TASKID: READ.1576169089
+    :END:
+    20th Anniversary Edition, 2nd Edition
+    https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/
+    - [ ] Chapter 1. A Pragmatic Philosophy        (2h)
+    - [ ] Chapter 2. A Pragmatic Approach          (2h)
+    - [ ] Chapter 3. The Basic Tools               (2h)
+    - [ ] Chapter 4. Pragmatic Paranoia            (2h)
+    - [ ] Chapter 5. Bend, or Break                (2h)
+    - [ ] Chapter 6. Concurrency                   (1h)
+    - [ ] Chapter 7. While You Are Coding          (2h)
+    - [ ] Chapter 8. Before the Project            (1h)
+    - [ ] Chapter 9. Pragmatic Projects            (1h)
 ** gandalfdwite
 *** TODO Linux Under the Hood [0/7]
     :PROPERTIES:

@@ -106,26 +106,3 @@ Dan Mackin, Ben Whaley, Trent R. Hein, Garth Snyder, Evi Nemeth.
 ** Emacs
 *** Triage Bugs
 * PLAN
-** December  12, 2019 - December  26, 2019 (15 days)
-   :PROPERTIES:
-   :wpd-akshay196: 1
-   :END:
-*** The Pragmatic Programmer: your journey to mastery
-    :PROPERTIES:
-    :ESTIMATED: 15
-    :ACTUAL:
-    :OWNER: akshay196
-    :ID: READ.1576169089
-    :TASKID: READ.1576169089
-    :END:
-    20th Anniversary Edition, 2nd Edition
-    https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/
-    - [ ] Chapter 1. A Pragmatic Philosophy        (2h)
-    - [ ] Chapter 2. A Pragmatic Approach          (2h)
-    - [ ] Chapter 3. The Basic Tools               (2h)
-    - [ ] Chapter 4. Pragmatic Paranoia            (2h)
-    - [ ] Chapter 5. Bend, or Break                (2h)
-    - [ ] Chapter 6. Concurrency                   (1h)
-    - [ ] Chapter 7. While You Are Coding          (2h)
-    - [ ] Chapter 8. Before the Project            (1h)
-    - [ ] Chapter 9. Pragmatic Projects            (1h)
