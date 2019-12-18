@@ -24,6 +24,7 @@
   :SPRINTLENGTH: 15
   :SPRINTSTART: <2019-12-12 Thu>
   :wpd-akshay196: 1
+  :wpd-bhavin192: 1
   :wpd-gandalfdwite: 1
   :wpd-kurianbenoy: 1
   :wpd-sandeepk: 1
@@ -48,6 +49,34 @@
     - [ ] Chapter 7. While You Are Coding          (2h)
     - [ ] Chapter 8. Before the Project            (1h)
     - [ ] Chapter 9. Pragmatic Projects            (1h)
+** bhavin192
+*** Write blog post about EmacsConf 2019
+    :PROPERTIES:
+    :ESTIMATED: 4.5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1575286599
+    :TASKID:   WRITE.1575286599
+    :END:
+*** Write blog post about Ansible [0/2]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1576502914
+    :TASKID:   WRITE.1576502914
+    :END:
+    - [ ] Update the workstation setup playbook
+    - [ ] Write the blog post
+*** Mastering Distributed Tracing - chapter 8
+    :PROPERTIES:
+    :ESTIMATED: 2.5
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1562555265
+    :TASKID:   READ.1562555265
+    :END:
+
 ** gandalfdwite
 *** TODO Linux Under the Hood [0/7]
     :PROPERTIES:
