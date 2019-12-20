@@ -116,17 +116,24 @@
 
     - [ ] Write blog post       ( 4h )
 ** kurianbenoy
-*** Swift course(FASTAI course)
+*** DONE Swift course(FASTAI course)
   :PROPERTIES:
   :ESTIMATED: 8
-  :ACTUAL:
+  :ACTUAL: 7.13
   :OWNER: kurianbenoy
   :ID: DEV.1576217466
   :TASKID: DEV.1576217466
   :END:
+  :LOGBOOK:
+  CLOCK: [2019-12-19 Thu 13:06]--[2019-12-19 Thu 14:23] =>  1:17
+  CLOCK: [2019-12-19 Thu 10:18]--[2019-12-19 Thu 10:39] =>  0:21
+  CLOCK: [2019-12-14 Sat 07:00]--[2019-12-14 Sat 10:00] =>  3:00
+  CLOCK: [2019-12-15 Sun 15:00]--[2019-12-15 Sun 17:30] =>  2:30
+  :END:
   - [X] Lesson 13 (3h)
   - [X] Lesson 14 (3h)
-  - [ ] Blog post about Swift language and first tutorial
+  - [X] Blog post about Swift language and first tutorial
+    https://kurianbenoy.github.io/2019-12-19-swift4tensorflowintro/
 *** Read CTCI Part 2
    :PROPERTIES:
    :ESTIMATED: 6
@@ -148,10 +155,16 @@
 *** Learn Emacs
    :PROPERTIES:
    :ESTIMATED: 4
-   :ACTUAL:
+   :ACTUAL: 2.166
    :OWNER: kurianbenoy
    :ID: READ.1576218020
    :TASKID: READ.1576218020
+   :END:
+   :LOGBOOK:
+   CLOCK: [2019-12-20 Fri 22:39]--[2019-12-20 Fri 23:07] =>  0:28
+   CLOCK: [2019-12-20 Fri 21:42]--[2019-12-20 Fri 22:30] =>  0:48
+   CLOCK: [2019-12-17 Tue 19:35]--[2019-12-17 Tue 19:42] =>  0:07
+   CLOCK: [2019-12-17 Tue 14:38]--[2019-12-17 Tue 15:25] =>  0:47
    :END:
    https://geeksocket.in/posts/entering-church-emacs/#references
 ** sandeepk
