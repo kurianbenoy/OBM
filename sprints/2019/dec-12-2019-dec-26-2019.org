@@ -212,18 +212,23 @@
    :END:
    https://geeksocket.in/posts/entering-church-emacs/#references
 ** sandeepk
-*** IN_PROGRESS Fluent Python Part III [0/1]
+*** DONE Fluent Python Part III[1/1]
+    CLOSED: [2019-12-24 Tue 00:12]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:   1.02
+    :ACTUAL:   4.72
     :OWNER: sandeepk
     :ID: READ.1573385682
     :TASKID: READ.1573385682
     :END:
     :LOGBOOK:
+    CLOCK: [2019-12-23 Mon 23:30]--[2019-12-24 Tue 00:12] =>  0:42
+    CLOCK: [2019-12-23 Mon 07:30]--[2019-12-23 Mon 08:50] =>  1:20
+    CLOCK: [2019-12-21 Sat 18:00]--[2019-12-21 Sat 18:40] =>  0:40
+    CLOCK: [2019-12-21 Sat 12:00]--[2019-12-21 Sat 13:00] =>  1:00
     CLOCK: [2019-12-18 Wed 20:44]--[2019-12-18 Wed 21:45] =>  1:01
     :END:
-    - [ ] Chapter-6  Design Patterns with First-Class Functions Part II (4h)
+    - [X] Chapter-6  Design Patterns with First-Class Functions Part II (4h)
 *** IN_PROGRESS OAuth Training [/4]
     :PROPERTIES:
     :ESTIMATED: 7
