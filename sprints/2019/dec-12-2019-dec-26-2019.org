@@ -30,15 +30,20 @@
   :wpd-sandeepk: 1
   :END:
 ** akshay196
-*** IN_PROGRESS The Pragmatic Programmer: your journey to mastery [2/9]
+*** IN_PROGRESS The Pragmatic Programmer: your journey to mastery [3/9]
     :PROPERTIES:
     :ESTIMATED: 15
-    :ACTUAL:   7.62
+    :ACTUAL:   11.07
     :OWNER: akshay196
     :ID: READ.1576169089
     :TASKID: READ.1576169089
     :END:
     :LOGBOOK:
+    CLOCK: [2019-12-23 Mon 12:59]--[2019-12-23 Mon 13:34] =>  0:35
+    CLOCK: [2019-12-23 Mon 06:54]--[2019-12-23 Mon 07:42] =>  0:48
+    CLOCK: [2019-12-22 Sun 06:51]--[2019-12-22 Sun 07:15] =>  0:24
+    CLOCK: [2019-12-21 Sat 21:28]--[2019-12-21 Sat 22:16] =>  0:48
+    CLOCK: [2019-12-19 Thu 22:29]--[2019-12-19 Thu 23:21] =>  0:52
     CLOCK: [2019-12-19 Thu 07:56]--[2019-12-19 Thu 08:30] =>  0:34
     CLOCK: [2019-12-18 Wed 20:41]--[2019-12-18 Wed 20:52] =>  0:11
     CLOCK: [2019-12-18 Wed 08:30]--[2019-12-18 Wed 09:03] =>  0:33
@@ -53,7 +58,7 @@
     https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/
     - [X] Chapter 1. A Pragmatic Philosophy        (2h)
     - [X] Chapter 2. A Pragmatic Approach          (2h)
-    - [ ] Chapter 3. The Basic Tools               (2h)
+    - [X] Chapter 3. The Basic Tools               (2h)
     - [ ] Chapter 4. Pragmatic Paranoia            (2h)
     - [ ] Chapter 5. Bend, or Break                (2h)
     - [ ] Chapter 6. Concurrency                   (1h)
