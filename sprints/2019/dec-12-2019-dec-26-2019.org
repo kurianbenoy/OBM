@@ -66,21 +66,42 @@
     - [ ] Chapter 8. Before the Project            (1h)
     - [ ] Chapter 9. Pragmatic Projects            (1h)
 ** bhavin192
-*** Write blog post about EmacsConf 2019
+*** DONE Write blog post about EmacsConf 2019
+    CLOSED: [2019-12-19 Thu 18:12]
     :PROPERTIES:
     :ESTIMATED: 4.5
-    :ACTUAL:
+    :ACTUAL:   4.83
     :OWNER:    bhavin192
     :ID:       WRITE.1575286599
     :TASKID:   WRITE.1575286599
     :END:
-*** Write blog post about Ansible [0/2]
+    :LOGBOOK:
+    CLOCK: [2019-12-19 Thu 18:05]--[2019-12-19 Thu 18:12] =>  0:07
+    CLOCK: [2019-12-19 Thu 14:30]--[2019-12-19 Thu 14:40] =>  0:10
+    CLOCK: [2019-12-18 Wed 23:15]--[2019-12-19 Thu 00:27] =>  1:12
+    CLOCK: [2019-12-18 Wed 19:35]--[2019-12-18 Wed 21:28] =>  1:53
+    CLOCK: [2019-12-17 Tue 20:05]--[2019-12-17 Tue 20:46] =>  0:41
+    CLOCK: [2019-12-17 Tue 19:20]--[2019-12-17 Tue 19:26] =>  0:06
+    CLOCK: [2019-12-16 Mon 21:15]--[2019-12-16 Mon 21:21] =>  0:06
+    CLOCK: [2019-12-16 Mon 19:28]--[2019-12-16 Mon 20:03] =>  0:35
+    :END:
+*** IN_PROGRESS Write blog post about Ansible [0/2]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:
+    :ACTUAL:   6.98
     :OWNER:    bhavin192
     :ID:       WRITE.1576502914
     :TASKID:   WRITE.1576502914
+    :END:
+    :LOGBOOK:
+    CLOCK: [2019-12-22 Sun 20:01]--[2019-12-22 Sun 20:12] =>  0:11
+    CLOCK: [2019-12-22 Sun 18:51]--[2019-12-22 Sun 19:56] =>  1:05
+    CLOCK: [2019-12-22 Sun 17:21]--[2019-12-22 Sun 18:29] =>  1:08
+    CLOCK: [2019-12-22 Sun 13:57]--[2019-12-22 Sun 15:16] =>  1:19
+    CLOCK: [2019-12-21 Sat 23:40]--[2019-12-22 Sun 00:52] =>  1:12
+    CLOCK: [2019-12-21 Sat 11:59]--[2019-12-21 Sat 12:48] =>  0:49
+    CLOCK: [2019-12-21 Sat 11:16]--[2019-12-21 Sat 11:40] =>  0:24
+    CLOCK: [2019-12-20 Fri 23:47]--[2019-12-21 Sat 00:38] =>  0:51
     :END:
     - [ ] Update the workstation setup playbook
     - [ ] Write the blog post
