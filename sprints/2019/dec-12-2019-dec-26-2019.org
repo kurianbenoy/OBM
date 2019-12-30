@@ -30,15 +30,22 @@
   :wpd-sandeepk: 1
   :END:
 ** akshay196
-*** IN_PROGRESS The Pragmatic Programmer: your journey to mastery [3/9]
+*** DONE The Pragmatic Programmer: your journey to mastery - Part I [4/4]
+    CLOSED: [2019-12-26 Thu 19:35]
     :PROPERTIES:
     :ESTIMATED: 15
-    :ACTUAL:   11.07
+    :ACTUAL:   14.13
     :OWNER: akshay196
     :ID: READ.1576169089
     :TASKID: READ.1576169089
     :END:
     :LOGBOOK:
+    CLOCK: [2019-12-26 Thu 18:26]--[2019-12-26 Thu 19:35] =>  1:09
+    CLOCK: [2019-12-25 Wed 14:50]--[2019-12-25 Wed 14:53] =>  0:03
+    CLOCK: [2019-12-25 Wed 14:34]--[2019-12-25 Wed 14:40] =>  0:06
+    CLOCK: [2019-12-25 Wed 07:16]--[2019-12-25 Wed 07:30] =>  0:14
+    CLOCK: [2019-12-25 Wed 00:07]--[2019-12-25 Wed 00:33] =>  0:26
+    CLOCK: [2019-12-23 Mon 23:21]--[2019-12-24 Tue 00:27] =>  1:06
     CLOCK: [2019-12-23 Mon 12:59]--[2019-12-23 Mon 13:34] =>  0:35
     CLOCK: [2019-12-23 Mon 06:54]--[2019-12-23 Mon 07:42] =>  0:48
     CLOCK: [2019-12-22 Sun 06:51]--[2019-12-22 Sun 07:15] =>  0:24
@@ -59,12 +66,7 @@
     - [X] Chapter 1. A Pragmatic Philosophy        (2h)
     - [X] Chapter 2. A Pragmatic Approach          (2h)
     - [X] Chapter 3. The Basic Tools               (2h)
-    - [ ] Chapter 4. Pragmatic Paranoia            (2h)
-    - [ ] Chapter 5. Bend, or Break                (2h)
-    - [ ] Chapter 6. Concurrency                   (1h)
-    - [ ] Chapter 7. While You Are Coding          (2h)
-    - [ ] Chapter 8. Before the Project            (1h)
-    - [ ] Chapter 9. Pragmatic Projects            (1h)
+    - [X] Chapter 4. Pragmatic Paranoia            (2h)
 ** bhavin192
 *** DONE Write blog post about EmacsConf 2019
     CLOSED: [2019-12-19 Thu 18:12]
