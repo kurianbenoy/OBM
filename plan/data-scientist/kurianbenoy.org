@@ -11,23 +11,3 @@
 ** Attend meetups
 ** Write blog posts
 * PLAN
-** December 27, 2019 - January 9, 2020(14 days)
-   :PROPERTIES:
-   :wpd-kurianbenoy: 1
-   :END:
-*** Compete in Kaggle DSBowl competition
-   :PROPERTIES:
-   :ESTIMATED: 10
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: DEV.1577503181
-   :TASKID: DEV.1577503181
-   :END:
-** Prepare for GATE 2020
-   :PROPERTIES:
-   :ESTIMATED: 5
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: READ.1577503246
-   :TASKID: READ.1577503246
-   :END:
