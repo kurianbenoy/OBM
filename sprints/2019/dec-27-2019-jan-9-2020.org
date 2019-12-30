@@ -23,8 +23,32 @@
   :ID:       TASKS
   :SPRINTLENGTH: 14
   :SPRINTSTART: <2019-12-27 Wed>
+  :wpd-akshay196: 1
   :wpd-kurianbenoy: 1
   :END:
+** akshay196
+*** The Pragmatic Programmer: your journey to mastery - Part II
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1576169089
+    :TASKID: READ.1576169089
+    :END:
+    - [ ] Chapter 5. Bend, or Break                (2h)
+    - [ ] Chapter 6. Concurrency                   (2h)
+    - [ ] Chapter 7. While You Are Coding          (2h)
+    - [ ] Chapter 8. Before the Project            (2h)
+    - [ ] Chapter 9. Pragmatic Projects            (2h)
+*** Jupyter Notebook Foundations
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1577713184
+    :TASKID: READ.1577713184
+    :END:
+    https://learning.oreilly.com/live-training/courses/jupyter-notebook-foundations/0636920348528/
 ** kurianbenoy
 *** Compete in Kaggle DSBowl competition
     :PROPERTIES:
