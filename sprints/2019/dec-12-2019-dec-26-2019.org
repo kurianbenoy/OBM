@@ -87,15 +87,20 @@
     CLOCK: [2019-12-16 Mon 21:15]--[2019-12-16 Mon 21:21] =>  0:06
     CLOCK: [2019-12-16 Mon 19:28]--[2019-12-16 Mon 20:03] =>  0:35
     :END:
-*** IN_PROGRESS Write blog post about Ansible [0/2]
+*** DONE Write blog post about Ansible [2/2]
+    CLOSED: [2019-12-26 Thu 23:21]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:   6.98
+    :ACTUAL:   9.05
     :OWNER:    bhavin192
     :ID:       WRITE.1576502914
     :TASKID:   WRITE.1576502914
     :END:
     :LOGBOOK:
+    CLOCK: [2019-12-26 Thu 22:46]--[2019-12-26 Thu 23:21] =>  0:35
+    CLOCK: [2019-12-26 Thu 20:05]--[2019-12-26 Thu 21:04] =>  0:59
+    CLOCK: [2019-12-23 Mon 19:31]--[2019-12-23 Mon 19:45] =>  0:14
+    CLOCK: [2019-12-23 Mon 18:45]--[2019-12-23 Mon 19:01] =>  0:16
     CLOCK: [2019-12-22 Sun 20:01]--[2019-12-22 Sun 20:12] =>  0:11
     CLOCK: [2019-12-22 Sun 18:51]--[2019-12-22 Sun 19:56] =>  1:05
     CLOCK: [2019-12-22 Sun 17:21]--[2019-12-22 Sun 18:29] =>  1:08
@@ -105,16 +110,8 @@
     CLOCK: [2019-12-21 Sat 11:16]--[2019-12-21 Sat 11:40] =>  0:24
     CLOCK: [2019-12-20 Fri 23:47]--[2019-12-21 Sat 00:38] =>  0:51
     :END:
-    - [ ] Update the workstation setup playbook
-    - [ ] Write the blog post
-*** Mastering Distributed Tracing - chapter 8
-    :PROPERTIES:
-    :ESTIMATED: 2.5
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       READ.1562555265
-    :TASKID:   READ.1562555265
-    :END:
+    - [X] Update the workstation setup playbook
+    - [X] Write the blog post
 
 ** gandalfdwite
 *** TODO Linux Under the Hood [0/7]
