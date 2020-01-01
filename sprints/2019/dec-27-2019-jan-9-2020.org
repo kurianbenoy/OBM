@@ -34,6 +34,10 @@
     :ID: DEV.1577503181
     :TASKID: DEV.1577503181
     :END:
+    :LOGBOOK:
+    CLOCK: [2020-01-01 Wed 22:17]--[2020-01-01 Wed 22:23] =>  0:06
+    CLOCK: [2019-12-31 Tue 16:57]--[2019-12-31 Tue 17:39] =>  0:42
+    :END:
 *** Prepare for GATE 2020
     :PROPERTIES:
     :ESTIMATED: 5
@@ -42,3 +46,7 @@
     :ID: READ.1577503246
     :TASKID: READ.1577503246
     :END:
+    :LOGBOOK:
+    CLOCK: [2020-01-01 Wed 23:01]--[2020-01-01 Wed 23:49] =>  0:48
+    :END:
+    
