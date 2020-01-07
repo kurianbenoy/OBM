@@ -29,7 +29,7 @@
 *** Compete in Kaggle DSBowl competition
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL: 3.282
+    :ACTUAL:   3.28
     :OWNER: kurianbenoy
     :ID: DEV.1577503181
     :TASKID: DEV.1577503181
@@ -45,7 +45,7 @@
 *** Prepare for GATE 2020
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL: 4.2
+    :ACTUAL:   3.17
     :OWNER: kurianbenoy
     :ID: READ.1577503246
     :TASKID: READ.1577503246
