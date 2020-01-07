@@ -41,32 +41,3 @@
     :TASKID:   WRITE.1577718004
     :END:
 * PLAN
-** December  27, 2019 - January    9, 2020 (14 days)
-   :PROPERTIES:
-   :wpd-bhavin192: 1
-   :END:
-*** Rootconf Delhi talk preparation
-    :PROPERTIES:
-    :ESTIMATED: 9
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       WRITE.1577717861
-    :TASKID:   WRITE.1577717861
-    :END:
-    [[https://hasgeek.com/rootconf/2020-delhi/proposals/your-journey-from-vm-based-deployments-to-kubernet-a3zt2mqvj3vpQmMWDbc6mT][Mapping the journey from VM-based deployments to Kubernetes]]
-*** Mastering Distributed Tracing - chapter 8
-    :PROPERTIES:
-    :ESTIMATED: 2.5
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       READ.1562555265
-    :TASKID:   READ.1562555265
-    :END:
-*** Write blog post about Helm v3 - Part I
-    :PROPERTIES:
-    :ESTIMATED: 2.5
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       WRITE.1577718004
-    :TASKID:   WRITE.1577718004
-    :END:
