@@ -32,4 +32,12 @@
        - 15. Afterword                                          (12m)
 ** Attend meetups
 ** Write blog posts
+*** Write blog post about Helm v3
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1577718004
+    :TASKID:   WRITE.1577718004
+    :END:
 * PLAN
