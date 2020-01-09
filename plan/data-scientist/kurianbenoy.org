@@ -11,3 +11,48 @@
 ** Attend meetups
 ** Write blog posts
 * PLAN
+** January   10, 2020 - January   25, 2020 (16 days)
+   :PROPERTIES:
+   :wpd-kurianbenoy:4
+   :END
+*** Compete in Kaggle DSBowl competition - Part2
+   :PROPERTIES:
+   :ESTIMATED: 15
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: DEV.1578594699
+   :TASKID: DEV.1578594699
+   :END:
+   - [ ] Try lightGM model
+   - [ ] Stack top scoring models
+   - [ ] Create local CV
+*** Prepare for GATE 2020
+   :PROPERTIES:
+   :ESTIMATED: 26
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: READ.1578594810
+   :TASKID: READ.1578594810
+   :END:
+   - [ ] TOC
+   - [ ] 
+*** Read CTCI part-3
+   :PROPERTIES:
+   :ESTIMATED: 5
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: READ.1578594906
+   :TASKID: READ.1578594906
+   :END:
+   - [ ] Dynammic Programming
+*** Project: Malayalam text to speech system
+   :PROPERTIES:
+   :ESTIMATED: 18
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: DEV.1578595021
+   :TASKID: DEV.1578595021
+   :END:
+   - [ ] Write survey paper
+   - [ ] complete making inital TTS system
+
