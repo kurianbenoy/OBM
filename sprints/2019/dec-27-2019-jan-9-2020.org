@@ -51,22 +51,38 @@
     :END:
     https://learning.oreilly.com/live-training/courses/jupyter-notebook-foundations/0636920348528/
 ** bhavin192
-*** Rootconf Delhi talk preparation
+*** DONE Rootconf Delhi talk preparation
+    CLOSED: [2020-01-06 Tue 20:05]
     :PROPERTIES:
     :ESTIMATED: 9
-    :ACTUAL:
+    :ACTUAL:   9.08
     :OWNER:    bhavin192
     :ID:       WRITE.1577717861
     :TASKID:   WRITE.1577717861
     :END:
+    :LOGBOOK:
+    CLOCK: [2020-01-06 Mon 19:07]--[2020-01-06 Mon 20:05] =>  0:58
+    CLOCK: [2020-01-05 Sun 21:53]--[2020-01-05 Sun 22:32] =>  0:39
+    CLOCK: [2020-01-05 Sun 19:29]--[2020-01-05 Sun 20:02] =>  0:33
+    CLOCK: [2020-01-05 Sun 18:05]--[2020-01-05 Sun 19:07] =>  1:02
+    CLOCK: [2020-01-05 Sun 15:55]--[2020-01-05 Sun 16:02] =>  0:07
+    CLOCK: [2020-01-05 Sun 13:25]--[2020-01-05 Sun 14:37] =>  1:12
+    CLOCK: [2020-01-04 Sat 10:30]--[2020-01-04 Sat 12:45] =>  2:15
+    CLOCK: [2020-01-02 Thu 20:06]--[2020-01-02 Thu 20:38] =>  0:32
+    CLOCK: [2019-12-31 Tue 18:52]--[2019-12-31 Tue 20:01] =>  1:09
+    CLOCK: [2019-12-30 Mon 20:45]--[2019-12-30 Mon 21:23] =>  0:38
+    :END:
     [[https://hasgeek.com/rootconf/2020-delhi/proposals/your-journey-from-vm-based-deployments-to-kubernet-a3zt2mqvj3vpQmMWDbc6mT][Mapping the journey from VM-based deployments to Kubernetes]]
-*** Mastering Distributed Tracing - chapter 8
+*** IN_PROGRESS Mastering Distributed Tracing - chapter 8
     :PROPERTIES:
     :ESTIMATED: 2.5
-    :ACTUAL:
+    :ACTUAL:   0.52
     :OWNER:    bhavin192
     :ID:       READ.1562555265
     :TASKID:   READ.1562555265
+    :END:
+    :LOGBOOK:
+    CLOCK: [2020-01-08 Wed 19:59]--[2020-01-08 Wed 20:30] =>  0:31
     :END:
 *** Write blog post about Helm v3 - Part I
     :PROPERTIES:
