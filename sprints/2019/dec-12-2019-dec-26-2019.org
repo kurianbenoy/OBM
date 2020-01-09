@@ -4,19 +4,79 @@
 * REPORTS
 ** SCRUM BOARD
 #+BEGIN: block-update-board
+| TODO | NEXT | IN_PROGRESS | WAITING | DONE                                                          | CANCELED |
+|------+------+-------------+---------+---------------------------------------------------------------+----------|
+|      |      |             |         | READ.1576169089. The Pragmatic Programmer: your (2019-12-26)  |          |
+|      |      |             |         | WRITE.1576502914. Write blog post about Ansible (2019-12-26)  |          |
+|      |      |             |         | WRITE.1576074953. Write a blog post on TravisCI (2019-12-26)  |          |
+|      |      |             |         | DEV.1576217466. Swift course(FASTAI course) (2019-12-26)      |          |
+|      |      |             |         | WRITE.1576217766. Pytorch kaggle kernel & dlwpt  (2019-12-26) |          |
+|      |      |             |         | READ.1576218020. Learn Emacs (2019-12-26)                     |          |
+|      |      |             |         | READ.1576157663. OAuth Training (2019-12-26)                  |          |
+|      |      |             |         | READ.1573385682. Fluent Python Part III (2019-12-24)          |          |
+|      |      |             |         | READ.1573405076. Linux Under the Hood (2019-12-22)            |          |
+|      |      |             |         | WRITE.1575286599. Write blog post about EmacsCon (2019-12-19) |          |
 #+END:
 ** DEVELOPER SUMMARY
 #+BEGIN: block-update-summary
+| NAME         | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|--------------+-----------+--------+------+-----------+--------------+------------|
+| Sandeepk     |        13 |   8.55 |   13 |         0 |   2020-01-09 | ########## |
+| Kurianbenoy  |        16 | 16.946 |   16 |         0 |   2020-01-09 | ########## |
+| Gandalfdwite |        15 |  15.74 |   15 |         0 |   2020-01-09 | ########## |
+| Bhavin192    |      12.5 |  13.88 | 12.5 |         0 |   2020-01-09 | ########## |
+| Akshay196    |        15 |  14.13 |   15 |         0 |   2020-01-09 | ########## |
 #+END:
 ** BURNDOWN CHART
 #+BEGIN: block-update-graph
+
 #+END:
 ** BURNDOWN LIST
-#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:15]"
 #+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED                                                                                                   |
+|-----+------------+--------+-------+-------------------------------------------------------------------------------------------------------------------|
+|   1 | 2019-12-12 |   71.5 |    67 |                                                                                                                   |
+|   2 | 2019-12-13 |   71.5 |    62 |                                                                                                                   |
+|   3 | 2019-12-14 |   71.5 |    57 |                                                                                                                   |
+|   4 | 2019-12-15 |   71.5 |    52 |                                                                                                                   |
+|   5 | 2019-12-16 |   71.5 |    48 |                                                                                                                   |
+|   6 | 2019-12-17 |   71.5 |    43 |                                                                                                                   |
+|   7 | 2019-12-18 |   71.5 |    38 |                                                                                                                   |
+|   8 | 2019-12-19 |   67.0 |    33 | WRITE.1575286599                                                                                                  |
+|   9 | 2019-12-20 |   67.0 |    29 |                                                                                                                   |
+|  10 | 2019-12-21 |   67.0 |    24 |                                                                                                                   |
+|  11 | 2019-12-22 |   56.0 |    19 | READ.1573405076                                                                                                   |
+|  12 | 2019-12-23 |   56.0 |    14 |                                                                                                                   |
+|  13 | 2019-12-24 |   48.0 |    10 | READ.1573385682                                                                                                   |
+|  14 | 2019-12-25 |   48.0 |     5 |                                                                                                                   |
+|  15 | 2019-12-26 |    0.0 |     0 | READ.1576157663 READ.1576218020 WRITE.1576217766 DEV.1576217466 WRITE.1576074953 WRITE.1576502914 READ.1576169089 |
 #+END:
 ** TASK LIST
 #+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                                       | TASKID           | OWNER        | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|------------------------------------------------------------+------------------+--------------+----------+------+-----------+--------|
+| TASKS                                                      |                  |              | B        |      |      71.5 | 69.246 |
+|------------------------------------------------------------+------------------+--------------+----------+------+-----------+--------|
+| akshay196                                                  |                  |              | B        |      |        15 |  14.13 |
+| The Pragmatic Programmer: your journey to mastery - Part I | READ.1576169089  | akshay196    | B        | DONE |        15 |  14.13 |
+|------------------------------------------------------------+------------------+--------------+----------+------+-----------+--------|
+| bhavin192                                                  |                  |              | B        |      |      12.5 |  13.88 |
+| Write blog post about EmacsConf 2019                       | WRITE.1575286599 | bhavin192    | B        | DONE |       4.5 |   4.83 |
+| Write blog post about Ansible                              | WRITE.1576502914 | bhavin192    | B        | DONE |         8 |   9.05 |
+|------------------------------------------------------------+------------------+--------------+----------+------+-----------+--------|
+| gandalfdwite                                               |                  |              | B        |      |        15 |  15.74 |
+| Linux Under the Hood                                       | READ.1573405076  | gandalfdwite | B        | DONE |        11 |  11.57 |
+| Write a blog post on TravisCI                              | WRITE.1576074953 | gandalfdwite | B        | DONE |         4 |   4.17 |
+|------------------------------------------------------------+------------------+--------------+----------+------+-----------+--------|
+| kurianbenoy                                                |                  |              | B        |      |        16 | 16.946 |
+| Swift course(FASTAI course)                                | DEV.1576217466   | kurianbenoy  | B        | DONE |         8 |   7.13 |
+| Pytorch kaggle kernel & dlwpt -exercise                    | WRITE.1576217766 | kurianbenoy  | B        | DONE |         4 |  6.783 |
+| Learn Emacs                                                | READ.1576218020  | kurianbenoy  | B        | DONE |         4 |  3.033 |
+|------------------------------------------------------------+------------------+--------------+----------+------+-----------+--------|
+| sandeepk                                                   |                  |              | B        |      |        13 |   8.55 |
+| Fluent Python Part III                                     | READ.1573385682  | sandeepk     | B        | DONE |         8 |   4.72 |
+| OAuth Training                                             | READ.1576157663  | sandeepk     | B        | DONE |         5 |   3.83 |
 #+END:
 * TASKS
   :PROPERTIES:
@@ -160,14 +220,15 @@
     - [X] Write blog post       ( 4h )
 ** kurianbenoy
 *** DONE Swift course(FASTAI course)
-  :PROPERTIES:
+    CLOSED: [2019-12-26 Sun 23:00]
+    :PROPERTIES:
   :ESTIMATED: 8
   :ACTUAL: 7.13
   :OWNER: kurianbenoy
   :ID: DEV.1576217466
   :TASKID: DEV.1576217466
   :END:
-  :LOGBOOK:
+    :LOGBOOK:
   CLOCK: [2019-12-19 Thu 13:06]--[2019-12-19 Thu 14:23] =>  1:17
   CLOCK: [2019-12-19 Thu 10:18]--[2019-12-19 Thu 10:39] =>  0:21
   CLOCK: [2019-12-14 Sat 07:00]--[2019-12-14 Sat 10:00] =>  3:00
@@ -177,31 +238,16 @@
   - [X] Lesson 14 (3h)
   - [X] Blog post about Swift language and first tutorial
     https://kurianbenoy.github.io/2019-12-19-swift4tensorflowintro/
-*** Read CTCI Part 2
-   :PROPERTIES:
-   :ESTIMATED: 6
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: READ.1576217585
-   :TASKID: READ.1576217585
-   :END:
-   :LOGBOOK:
-   CLOCK: [2019-12-26 Thu 07:51]--[2019-12-26 Thu 08:33] =>  0:42
-   CLOCK: [2019-12-25 Wed 10:47]--[2019-12-25 Wed 10:48] =>  0:01
-   CLOCK: [2019-12-25 Wed 08:15]--[2019-12-25 Wed 08:35] => 0:15
-   CLOCK: [2019-12-23 Mon 13:48]--[2019-12-23 Mon 13:58] =>  0:10
-   :END:
-   - [ ] Recurssion and Dynamic Programming
-   - [ ] Sorting and Searching
 *** DONE Pytorch kaggle kernel & dlwpt -exercise
-   :PROPERTIES:
+    CLOSED: [2019-12-26 Sun 23:00]
+    :PROPERTIES:
    :ESTIMATED: 4
    :ACTUAL: 6.783
    :OWNER: kurianbenoy
    :ID: WRITE.1576217766
    :TASKID: WRITE.1576217766
    :END:
-   :LOGBOOK:
+    :LOGBOOK:
    CLOCK: [2019-12-23 Mon 07:46]--[2019-12-23 Mon 08:49] =>  1:03
    CLOCK: [2019-12-23 Mon 07:00]--[2019-12-23 Mon 07:46] =>  0:46
    CLOCK: [2019-12-22 Sun 22:35]--[2019-12-23 Mon 00:10] =>  1:35
@@ -212,14 +258,15 @@
    CLOCK: [2019-12-21 Sat 00:04]--[2019-12-21 Sat 00:56] =>  0:52
    :END:
 *** DONE Learn Emacs
-   :PROPERTIES:
+    CLOSED: [2019-12-26 Sun 23:00]
+    :PROPERTIES:
    :ESTIMATED: 4
    :ACTUAL: 3.033
    :OWNER: kurianbenoy
    :ID: READ.1576218020
    :TASKID: READ.1576218020
    :END:
-   :LOGBOOK:
+    :LOGBOOK:
    CLOCK: [2019-12-25 Wed 10:48]--[2019-12-25 Wed 11:15] =>  0:28
    CLOCK: [2019-12-25 Wed 07:35]--[2019-12-25 Wed 08:13] =>  0:38
    CLOCK: [2019-12-24 Tue 10:32]--[2019-12-24 Tue 11:34] =>  1:02
@@ -228,7 +275,7 @@
    CLOCK: [2019-12-17 Tue 19:35]--[2019-12-17 Tue 19:42] =>  0:07
    CLOCK: [2019-12-17 Tue 14:38]--[2019-12-17 Tue 15:25] =>  0:47
    :END:
-   https://geeksocket.in/posts/entering-church-emacs/#references
+    https://geeksocket.in/posts/entering-church-emacs/#references
 ** sandeepk
 *** DONE Fluent Python Part III [1/1]
     CLOSED: [2019-12-24 Tue 00:12]
