@@ -73,24 +73,19 @@
     CLOCK: [2019-12-30 Mon 20:45]--[2019-12-30 Mon 21:23] =>  0:38
     :END:
     [[https://hasgeek.com/rootconf/2020-delhi/proposals/your-journey-from-vm-based-deployments-to-kubernet-a3zt2mqvj3vpQmMWDbc6mT][Mapping the journey from VM-based deployments to Kubernetes]]
-*** IN_PROGRESS Mastering Distributed Tracing - chapter 8
+*** DONE Mastering Distributed Tracing - chapter 8
+    CLOSED: [2020-01-09 Thu 23:58]
     :PROPERTIES:
     :ESTIMATED: 2.5
-    :ACTUAL:   0.52
+    :ACTUAL:   2.45
     :OWNER:    bhavin192
     :ID:       READ.1562555265
     :TASKID:   READ.1562555265
     :END:
     :LOGBOOK:
+    CLOCK: [2020-01-09 Thu 23:14]--[2020-01-09 Thu 23:58] =>  0:44
+    CLOCK: [2020-01-09 Thu 19:33]--[2020-01-09 Thu 20:45] =>  1:12
     CLOCK: [2020-01-08 Wed 19:59]--[2020-01-08 Wed 20:30] =>  0:31
-    :END:
-*** Write blog post about Helm v3 - Part I
-    :PROPERTIES:
-    :ESTIMATED: 2.5
-    :ACTUAL:
-    :OWNER:    bhavin192
-    :ID:       WRITE.1577718004
-    :TASKID:   WRITE.1577718004
     :END:
 ** kurianbenoy
 *** Compete in Kaggle DSBowl competition
