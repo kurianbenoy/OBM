@@ -28,26 +28,45 @@
   :wpd-kurianbenoy: 1
   :END:
 ** akshay196
-*** The Pragmatic Programmer: your journey to mastery - Part II
+*** DONE The Pragmatic Programmer: your journey to mastery - Part II
+    CLOSED: [2020-01-09 Thu 20:40]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:
+    :ACTUAL:   10.68
     :OWNER: akshay196
     :ID: READ.1576169089
     :TASKID: READ.1576169089
     :END:
-    - [ ] Chapter 5. Bend, or Break                (2h)
-    - [ ] Chapter 6. Concurrency                   (2h)
-    - [ ] Chapter 7. While You Are Coding          (2h)
-    - [ ] Chapter 8. Before the Project            (2h)
-    - [ ] Chapter 9. Pragmatic Projects            (2h)
-*** Jupyter Notebook Foundations
+    :LOGBOOK:
+    CLOCK: [2020-01-09 Thu 19:37]--[2020-01-09 Thu 20:40] =>  1:03
+    CLOCK: [2020-01-08 Wed 20:25]--[2020-01-08 Wed 22:20] =>  1:55
+    CLOCK: [2020-01-07 Tue 22:15]--[2020-01-07 Tue 23:31] =>  1:16
+    CLOCK: [2020-01-07 Tue 06:51]--[2020-01-07 Tue 08:26] =>  1:35
+    CLOCK: [2020-01-05 Sun 09:35]--[2020-01-05 Sun 10:39] =>  1:04
+    CLOCK: [2020-01-04 Sat 08:46]--[2020-01-04 Sat 09:27] =>  0:41
+    CLOCK: [2020-01-03 Fri 07:08]--[2020-01-03 Fri 07:33] =>  0:25
+    CLOCK: [2020-01-02 Thu 08:06]--[2020-01-02 Thu 08:45] =>  0:39
+    CLOCK: [2020-01-01 Wed 22:22]--[2020-01-01 Wed 22:40] =>  0:18
+    CLOCK: [2020-01-01 Wed 20:39]--[2020-01-01 Wed 21:23] =>  0:44
+    CLOCK: [2019-12-31 Tue 20:38]--[2019-12-31 Tue 21:16] =>  0:38
+    CLOCK: [2019-12-31 Tue 08:00]--[2019-12-31 Tue 08:23] =>  0:23
+    :END:
+    - [X] Chapter 5. Bend, or Break                (2h)
+    - [X] Chapter 6. Concurrency                   (2h)
+    - [X] Chapter 7. While You Are Coding          (2h)
+    - [X] Chapter 8. Before the Project            (2h)
+    - [X] Chapter 9. Pragmatic Projects            (2h)
+*** DONE Jupyter Notebook Foundations
+    CLOSED: [2020-01-06 Mon 23:55]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   3.55
     :OWNER: akshay196
     :ID: READ.1577713184
     :TASKID: READ.1577713184
+    :END:
+    :LOGBOOK:
+    CLOCK: [2020-01-06 Mon 20:22]--[2020-01-06 Mon 23:55] =>  3:33
     :END:
     https://learning.oreilly.com/live-training/courses/jupyter-notebook-foundations/0636920348528/
 ** bhavin192
