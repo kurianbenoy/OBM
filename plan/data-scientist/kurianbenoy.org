@@ -26,7 +26,7 @@
    - [ ] Try lightGM model
    - [ ] Stack top scoring models
    - [ ] Create local CV
-*** Prepare for GATE 2020
+*** Prepare for GATE 2020 - Part2
    :PROPERTIES:
    :ESTIMATED: 26
    :ACTUAL:
@@ -35,7 +35,10 @@
    :TASKID: READ.1578594810
    :END:
    - [ ] TOC
-   - [ ] 
+   - [ ] Compiler design
+   - [ ] Databases
+   - [ ] Digital Logic
+   - [ ] Datastructures and programming
 *** Read CTCI part-3
    :PROPERTIES:
    :ESTIMATED: 5
