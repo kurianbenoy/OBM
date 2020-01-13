@@ -23,9 +23,37 @@
   :ID:       TASKS
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2020-01-10 Fri>
+  :wpd-bhavin192: 1
   :wpd-gandalfdwite: 1
   :wpd-kurianbenoy: 4
   :END:
+** bhavin192
+*** Write blog post about Helm v3
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       WRITE.1577718004
+    :TASKID:   WRITE.1577718004
+    :END:
+*** CNCF Project Webinar: A Conversation about Helm 3
+    :PROPERTIES:
+    :ESTIMATED: 1
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       EVENT.1578852275
+    :TASKID:   EVENT.1578852275
+    :END:
+    [[https://zoom.us/webinar/register/1515768748019/WN_NhXnvAT_RQiNJr7LMn4ILA]]
+*** Attend Rootconf Delhi 2020
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       EVENT.1578852044
+    :TASKID:   EVENT.1578852044
+    :END:
+
 ** gandalfdwite
 *** Blog Post on year 2019 and OBM
    :PROPERTIES:
