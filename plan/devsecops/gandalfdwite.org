@@ -3,6 +3,21 @@
 #+TAGS: dev ops read meeting
 * GOALS
 ** DevOps
+*** Containerize pravarag dot com
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: DEV.1578812553
+    :TASKID: DEV.1578812553
+    :END:
+    - [ ] Write Nginx based dockerfiles     ( 2h )
+    - [ ] CI/CD pipeline to enable code     ( 4h )
+          changes and updating docker
+          images
+    - [ ] Write K8s based deployment specs  ( 4h )
+          as helm charts
+    - [ ] CI/CD to update Helm charts       ( 2h )
 *** Learning Terraform
     :PROPERTIES:
     :ESTIMATED: 10
@@ -18,28 +33,42 @@
 ** Python
 ** Emacs
 ** Linux
-*** TODO Linux Under the Hood [0/13]
+** Blog - pravaragdotcom
+*** Blog Post on year 2019 and OBM
+   :PROPERTIES:
+   :ESTIMATED: 4
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: WRITE.1578812481
+   :TASKID: WRITE.1578812481
+   :END:
+   - [ ] Write blog post on year 2019    ( 4h )
+* PLAN
+** January   10, 2020 - January   25, 2020 (16 days)
+   :PROPERTIES:
+   :wpd-gandalfdwite: 1
+   :END:
+*** Blog Post on year 2019 and OBM
+   :PROPERTIES:
+   :ESTIMATED: 4
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: WRITE.1578812481
+   :TASKID: WRITE.1578812481
+   :END:
+   - [ ] Write blog post on year 2019    ( 4h )
+*** Containerize pravarag dot com
     :PROPERTIES:
-    :ESTIMATED: 24
+    :ESTIMATED: 10
     :ACTUAL:
     :OWNER: gandalfdwite
-    :ID: READ.1573405076
-    :TASKID: READ.1573405076
+    :ID: DEV.1578812553
+    :TASKID: DEV.1578812553
     :END:
-    - [ ] 7. Understanding processes                     ( 2h )
-    - [ ] 8. Security                                    ( 3h )
-    - [ ] 9. Hardware Initilization                      ( 1h )
-    - [ ] 10. Looking closer at the kernel               ( 2h )
-    - [ ] 11. Networking                                 ( 1h )
-    - [ ] 12. Performance optimization                   ( 1h )
-    - [ ] 13. Future of Linux                            ( 1h )
-** Blog - pravaragdotcom
-*** Write a blog post on TravisCI
-    :PROPERTIES:
-    :ESTIMATED: 4
-    :ACTUAL:
-    :OWNER:    gandalfdwite
-    :ID:       WRITE.1576074953
-    :TASKID:   WRITE.1576074953
-    :END:
-* PLAN
+    - [ ] Write Nginx based dockerfiles     ( 2h )
+    - [ ] CI/CD pipeline to enable code     ( 4h )
+          changes and updating docker
+          images
+    - [ ] Write K8s based deployment specs  ( 4h )
+          as helm charts
+    - [ ] CI/CD to update Helm charts       ( 2h )
