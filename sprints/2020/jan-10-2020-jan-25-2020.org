@@ -23,8 +23,35 @@
   :ID:       TASKS
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2020-01-10 Fri>
+  :wpd-gandalfdwite: 1
   :wpd-kurianbenoy: 4
   :END:
+** gandalfdwite
+*** Blog Post on year 2019 and OBM
+   :PROPERTIES:
+   :ESTIMATED: 4
+   :ACTUAL:
+   :OWNER: gandalfdwite
+   :ID: WRITE.1578812481
+   :TASKID: WRITE.1578812481
+   :END:
+   - [ ] Write blog post on year 2019    ( 4h )
+*** Containerize pravarag dot com
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: DEV.1578812553
+    :TASKID: DEV.1578812553
+    :END:
+    - [ ] Write Nginx based dockerfiles     ( 2h )
+    - [ ] CI/CD pipeline to enable code     ( 4h )
+          changes and updating docker
+          images
+    - [ ] Write K8s based deployment specs  ( 4h )
+          as helm charts
+    - [ ] CI/CD to update Helm charts       ( 2h )
+
 ** kurianbenoy
 *** Compete in Kaggle DSBowl competition - Part2
     :PROPERTIES:
