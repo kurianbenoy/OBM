@@ -82,14 +82,15 @@
 
 ** kurianbenoy
 *** IN_PROGRESS Compete in Kaggle DSBowl competition - Part2
-    :PROPERTIES:
-    :ESTIMATED: 15
-    :ACTUAL:
-    :OWNER: kurianbenoy
-    :ID: DEV.1578594699
-    :TASKID: DEV.1578594699
-    :END:
-    :LOGBOOK:
+   :PROPERTIES:
+   :ESTIMATED: 15
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: DEV.1578594699
+   :TASKID: DEV.1578594699
+   :END:
+   :LOGBOOK:
+    CLOCK: [2020-01-16 Thu 11:20]--[2020-01-16 Thu 11:56] =>  0:36
     CLOCK: [2020-01-15 Wed 12:39]--[2020-01-15 Wed 13:48] =>  1:09
     CLOCK: [2020-01-14 Tue 19:30]--[2020-01-14 Tue 22:13] =>  2:47
     CLOCK: [2020-01-13 Mon 15:33]--[2020-01-13 Mon 16:15] =>  0:42
@@ -100,43 +101,44 @@
     CLOCK: [2020-01-10 Fri 12:24]--[2020-01-10 Fri 13:30] =>  1:06
     CLOCK: [2020-01-10 Fri 11:19]--[2020-01-10 Fri 12:00] =>  0:41
     :END:
-    - [ ] Try lightGM model
-    - [ ] Stack top scoring models
-    - [ ] Create local CV
+   - [ ] Try lightGM model
+   - [ ] Stack top scoring models
+   - [ ] Create local CV
 *** IN_PROGRESS Prepare for GATE 2020 - Part2
-    :PROPERTIES:
-    :ESTIMATED: 26
-    :ACTUAL:
-    :OWNER: kurianbenoy
-    :ID: READ.1578594810
-    :TASKID: READ.1578594810
-    :END:
-    :LOGBOOK:
-    CLOCK: [2020-01-16 Thu 05:07]--[2020-01-16 Thu 06:25] =>  1:18
-    CLOCK: [2020-01-14 Tue 17:32]--[2020-01-14 Tue 18:00] =>  0:28
-    CLOCK: [2020-01-14 Tue 17:28]--[2020-01-14 Tue 17:32] =>  0:04
-    CLOCK: [2020-01-14 Tue 15:56]--[2020-01-14 Tue 16:24] =>  0:28
-    CLOCK: [2020-01-14 Tue 15:46]--[2020-01-14 Tue 15:56] =>  0:10
-    CLOCK: [2020-01-14 Tue 05:44]--[2020-01-14 Tue 07:19] =>  1:35
-    CLOCK: [2020-01-13 Mon 23:01]--[2020-01-14 Tue 00:50] =>  1:49
-    CLOCK: [2020-01-13 Mon 21:52]--[2020-01-13 Mon 22:05] =>  0:13
-    CLOCK: [2020-01-13 Mon 08:08]--[2020-01-13 Mon 08:22] =>  0:14
-    CLOCK: [2020-01-13 Mon 07:08]--[2020-01-12 Mon 07:15] =>  0:07
-    CLOCK: [2020-01-13 Mon 06:28]--[2020-01-13 Mon 07:02] =>  0:34
-    CLOCK: [2020-01-12 Sun 23:22]--[2020-01-13 Mon 00:16] =>  0:54
-    CLOCK: [2020-01-12 Sun 22:42]--[2020-01-12 Sun 23:00] =>  0:18
-    CLOCK: [2020-01-12 Sun 21:09]--[2020-01-12 Sun 21:16] =>  0:07
-    CLOCK: [2020-01-12 Sun 20:35]--[2020-01-12 Sun 21:05] =>  0:30
-    CLOCK: [2020-01-12 Sun 19:08]--[2020-01-12 Sun 20:31] =>  1:23
-    CLOCK: [2020-01-12 Sun 10:17]--[2020-01-12 Sun 10:57] =>  0:40
-    CLOCK: [2020-01-12 Sun 08:57]--[2020-01-12 Sun 09:37] =>  0:40
-    CLOCK: [2020-01-11 Sat 19:43]--[2020-01-11 Sat 20:47] =>  1:04
-    CLOCK: [2020-01-11 Sat 18:10]--[2020-01-11 Sat 19:31] =>  1:21
-    CLOCK: [2020-01-10 Fri 10:44]--[2020-01-10 Fri 11:13] =>  0:29
-    CLOCK: [2020-01-10 Fri 10:06]--[2020-01-10 Fri 10:20] =>  0:14
-    CLOCK: [2020-01-10 Fri 09:21]--[2020-01-10 Fri 10:00] =>  0:39
-    CLOCK: [2020-01-10 Fri 08:49]--[2020-01-10 Fri 09:21] =>  0:32
-    :END:
+   :PROPERTIES:
+   :ESTIMATED: 26
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: READ.1578594810
+   :TASKID: READ.1578594810
+   :END:
+   :LOGBOOK:
+   CLOCK: [2020-01-16 Thu 06:50]--[2020-01-16 Thu 07:36] =>  0:46
+   CLOCK: [2020-01-16 Thu 05:07]--[2020-01-16 Thu 06:25] =>  1:18
+   CLOCK: [2020-01-14 Tue 17:32]--[2020-01-14 Tue 18:00] =>  0:28
+   CLOCK: [2020-01-14 Tue 17:28]--[2020-01-14 Tue 17:32] =>  0:04
+   CLOCK: [2020-01-14 Tue 15:56]--[2020-01-14 Tue 16:24] =>  0:28
+   CLOCK: [2020-01-14 Tue 15:46]--[2020-01-14 Tue 15:56] =>  0:10
+   CLOCK: [2020-01-14 Tue 05:44]--[2020-01-14 Tue 07:19] =>  1:35
+   CLOCK: [2020-01-13 Mon 23:01]--[2020-01-14 Tue 00:50] =>  1:49
+   CLOCK: [2020-01-13 Mon 21:52]--[2020-01-13 Mon 22:05] =>  0:13
+   CLOCK: [2020-01-13 Mon 08:08]--[2020-01-13 Mon 08:22] =>  0:14
+   CLOCK: [2020-01-13 Mon 07:08]--[2020-01-12 Mon 07:15] =>  0:07
+   CLOCK: [2020-01-13 Mon 06:28]--[2020-01-13 Mon 07:02] =>  0:34
+   CLOCK: [2020-01-12 Sun 23:22]--[2020-01-13 Mon 00:16] =>  0:54
+   CLOCK: [2020-01-12 Sun 22:42]--[2020-01-12 Sun 23:00] =>  0:18
+   CLOCK: [2020-01-12 Sun 21:09]--[2020-01-12 Sun 21:16] =>  0:07
+   CLOCK: [2020-01-12 Sun 20:35]--[2020-01-12 Sun 21:05] =>  0:30
+   CLOCK: [2020-01-12 Sun 19:08]--[2020-01-12 Sun 20:31] =>  1:23
+   CLOCK: [2020-01-12 Sun 10:17]--[2020-01-12 Sun 10:57] =>  0:40
+   CLOCK: [2020-01-12 Sun 08:57]--[2020-01-12 Sun 09:37] =>  0:40
+   CLOCK: [2020-01-11 Sat 19:43]--[2020-01-11 Sat 20:47] =>  1:04
+   CLOCK: [2020-01-11 Sat 18:10]--[2020-01-11 Sat 19:31] =>  1:21
+   CLOCK: [2020-01-10 Fri 10:44]--[2020-01-10 Fri 11:13] =>  0:29
+   CLOCK: [2020-01-10 Fri 10:06]--[2020-01-10 Fri 10:20] =>  0:14
+   CLOCK: [2020-01-10 Fri 09:21]--[2020-01-10 Fri 10:00] =>  0:39
+   CLOCK: [2020-01-10 Fri 08:49]--[2020-01-10 Fri 09:21] =>  0:32
+   :END:
     - [ ] TOC
     - [ ] Compiler design
     - [ ] Databases
@@ -152,22 +154,24 @@
     :END:
     - [ ] Dynammic Programming
 *** IN_PROGRESS Project: Malayalam text to speech system
-    :PROPERTIES:
+   :PROPERTIES:
     :ESTIMATED: 18
     :ACTUAL:
     :OWNER: kurianbenoy
     :ID: DEV.1578595021
     :TASKID: DEV.1578595021
     :END:
-    :LOGBOOK:
-    CLOCK: [2020-01-15 Wed 22:49]--[2020-01-15 Wed 15:30] =>  0:11
-    CLOCK: [2020-01-15 Wed 15:46]--[2020-01-15 Wed 15:56] =>  0:10
-    CLOCK: [2020-01-15 Wed 15:11]--[2020-01-15 Wed 15:14] =>  0:03
-    CLOCK: [2020-01-15 Wed 14:05]--[2020-01-15 Wed 15:05] =>  1:00 
-    CLOCK: [2020-01-13 Mon 13:42]--[2020-01-13 Mon 13:56] =>  0:14
-    CLOCK: [2020-01-11 Sat 15:06]--[2020-01-11 Sat 16:30] =>  1:24
-    CLOCK: [2020-01-10 Fri 15:41]--[2020-01-10 Fri 23:24] =>  7:43
-    :END:
-    - [ ] Write survey paper
-    - [ ] complete making inital TTS system
+   :LOGBOOK:
+   CLOCK: [2020-01-16 Thu 11:56]--[2020-01-16 Thu 12:30] =>  0:34
+   CLOCK: [2020-01-16 Thu 10:06]--[2020-01-16 Thu 11:20] =>  1:14
+   CLOCK: [2020-01-15 Wed 22:49]--[2020-01-15 Wed 15:30] =>  0:11
+   CLOCK: [2020-01-15 Wed 15:46]--[2020-01-15 Wed 15:56] =>  0:10
+   CLOCK: [2020-01-15 Wed 15:11]--[2020-01-15 Wed 15:14] =>  0:03
+   CLOCK: [2020-01-15 Wed 14:05]--[2020-01-15 Wed 15:05] =>  1:00 
+   CLOCK: [2020-01-13 Mon 13:42]--[2020-01-13 Mon 13:56] =>  0:14
+   CLOCK: [2020-01-11 Sat 15:06]--[2020-01-11 Sat 16:30] =>  1:24
+   CLOCK: [2020-01-10 Fri 15:41]--[2020-01-10 Fri 23:24] =>  7:43
+   :END:
+   - [ ] Write survey paper
+   - [ ] complete making inital TTS system
 
