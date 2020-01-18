@@ -28,7 +28,7 @@
   :wpd-kurianbenoy: 4
   :END:
 ** bhavin192
-*** Write blog post about Helm v3
+*** IN_PROGRESS Write blog post about Helm v3
     :PROPERTIES:
     :ESTIMATED: 8
     :ACTUAL:
@@ -36,7 +36,11 @@
     :ID:       WRITE.1577718004
     :TASKID:   WRITE.1577718004
     :END:
-*** CNCF Project Webinar: A Conversation about Helm 3
+    :LOGBOOK:
+    CLOCK: [2020-01-15 Wed 20:15]--[2020-01-15 Wed 21:00] =>  0:45
+    :END:
+*** DONE CNCF Project Webinar: A Conversation about Helm 3
+    CLOSED: [2020-01-15 Wed 00:33]
     :PROPERTIES:
     :ESTIMATED: 1
     :ACTUAL:
@@ -44,14 +48,21 @@
     :ID:       EVENT.1578852275
     :TASKID:   EVENT.1578852275
     :END:
+    :LOGBOOK:
+    CLOCK: [2020-01-14 Tue 23:29]--[2020-01-15 Wed 00:33] =>  1:04
+    :END:
     [[https://zoom.us/webinar/register/1515768748019/WN_NhXnvAT_RQiNJr7LMn4ILA]]
-*** Attend Rootconf Delhi 2020
+*** DONE Attend Rootconf Delhi 2020
+    CLOSED: [2020-01-18 Sat 17:30]
     :PROPERTIES:
     :ESTIMATED: 7
     :ACTUAL:
     :OWNER:    bhavin192
     :ID:       EVENT.1578852044
     :TASKID:   EVENT.1578852044
+    :END:
+    :LOGBOOK:
+    CLOCK: [2020-01-18 Sat 09:30]--[2020-01-18 Sat 17:30] =>  8:00
     :END:
 
 ** gandalfdwite
