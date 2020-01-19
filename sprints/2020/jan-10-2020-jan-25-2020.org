@@ -84,26 +84,29 @@
 *** IN_PROGRESS Compete in Kaggle DSBowl competition - Part2
    :PROPERTIES:
    :ESTIMATED: 15
-   :ACTUAL:
+   :ACTUAL: 18
    :OWNER: kurianbenoy
    :ID: DEV.1578594699
    :TASKID: DEV.1578594699
    :END:
    :LOGBOOK:
-    CLOCK: [2020-01-16 Thu 11:20]--[2020-01-16 Thu 11:56] =>  0:36
-    CLOCK: [2020-01-15 Wed 12:39]--[2020-01-15 Wed 13:48] =>  1:09
-    CLOCK: [2020-01-14 Tue 19:30]--[2020-01-14 Tue 22:13] =>  2:47
-    CLOCK: [2020-01-13 Mon 15:33]--[2020-01-13 Mon 16:15] =>  0:42
-    CLOCK: [2020-01-13 Mon 15:01]--[2020-01-13 Mon 15:30] =>  0:29
-    CLOCK: [2020-01-13 Mon 05:44]--[2020-01-13 Mon 06:05] =>  0:21
-    CLOCK: [2020-01-12 Sun 08:21]--[2020-01-12 Sun 08:57] =>  0:36
-    CLOCK: [2020-01-11 Sat 21:32]--[2020-01-11 Sat 23:59] =>  2:27
-    CLOCK: [2020-01-10 Fri 12:24]--[2020-01-10 Fri 13:30] =>  1:06
-    CLOCK: [2020-01-10 Fri 11:19]--[2020-01-10 Fri 12:00] =>  0:41
-    :END:
-   - [ ] Try lightGM model
+   CLOCK: [2020-01-19 Sun 10:02]--[2020-01-19 Sun 11:42] =>  1:40
+   CLOCK: [2020-01-19 Sun 08:08]--[2020-01-19 Sun 09:40] =>  1:32
+   CLOCK: [2020-01-18 Sat 20:05]--[2020-01-18 Sat 23:59] =>  3:54
+   CLOCK: [2020-01-16 Thu 11:20]--[2020-01-16 Thu 11:56] =>  0:36
+   CLOCK: [2020-01-15 Wed 12:39]--[2020-01-15 Wed 13:48] =>  1:09
+   CLOCK: [2020-01-14 Tue 19:30]--[2020-01-14 Tue 22:13] =>  2:47
+   CLOCK: [2020-01-13 Mon 15:33]--[2020-01-13 Mon 16:15] =>  0:42
+   CLOCK: [2020-01-13 Mon 15:01]--[2020-01-13 Mon 15:30] =>  0:29
+   CLOCK: [2020-01-13 Mon 05:44]--[2020-01-13 Mon 06:05] =>  0:21
+   CLOCK: [2020-01-12 Sun 08:21]--[2020-01-12 Sun 08:57] =>  0:36
+   CLOCK: [2020-01-11 Sat 21:32]--[2020-01-11 Sat 23:59] =>  2:27
+   CLOCK: [2020-01-10 Fri 12:24]--[2020-01-10 Fri 13:30] =>  1:06
+   CLOCK: [2020-01-10 Fri 11:19]--[2020-01-10 Fri 12:00] =>  0:41
+   :END:
+   - [X] Try lightGM model
    - [ ] Stack top scoring models
-   - [ ] Create local CV
+   - [X] Create local CV
 *** IN_PROGRESS Prepare for GATE 2020 - Part2
    :PROPERTIES:
    :ESTIMATED: 26
@@ -111,8 +114,14 @@
    :OWNER: kurianbenoy
    :ID: READ.1578594810
    :TASKID: READ.1578594810
+   :ORDERED:  t
    :END:
    :LOGBOOK:
+   CLOCK: [2020-01-19 Sun 20:26]
+   CLOCK: [2020-01-18 Sat 16:36]--[2020-01-18 Sat 17:37] =>  1:01
+   CLOCK: [2020-01-18 Sat 14:30]--[2020-01-18 Sat 16:07] =>  1:37
+   CLOCK: [2020-01-17 Fri 04:53]--[2020-01-17 Fri 06:03] =>  1:10
+   CLOCK: [2020-01-16 Thu 21:18]--[2020-01-16 Thu 23:18] =>  2:00
    CLOCK: [2020-01-16 Thu 06:50]--[2020-01-16 Thu 07:36] =>  0:46
    CLOCK: [2020-01-16 Thu 05:07]--[2020-01-16 Thu 06:25] =>  1:18
    CLOCK: [2020-01-14 Tue 17:32]--[2020-01-14 Tue 18:00] =>  0:28
@@ -140,7 +149,7 @@
    CLOCK: [2020-01-10 Fri 08:49]--[2020-01-10 Fri 09:21] =>  0:32
    :END:
     - [ ] TOC
-    - [ ] Compiler design
+    - [X] Compiler design
     - [ ] Databases
     - [ ] Digital Logic
     - [ ] Datastructures and programming
@@ -162,6 +171,8 @@
     :TASKID: DEV.1578595021
     :END:
    :LOGBOOK:
+   CLOCK: [2020-01-18 Sat 04:41]--[2020-01-18 Sat 07:02] =>  2:21
+   CLOCK: [2020-01-17 Fri 10:01]--[2020-01-17 Fri 15:32] =>  5:31
    CLOCK: [2020-01-16 Thu 11:56]--[2020-01-16 Thu 12:30] =>  0:34
    CLOCK: [2020-01-16 Thu 10:06]--[2020-01-16 Thu 11:20] =>  1:14
    CLOCK: [2020-01-15 Wed 22:49]--[2020-01-15 Wed 15:30] =>  0:11
