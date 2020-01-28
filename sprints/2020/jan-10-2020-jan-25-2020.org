@@ -92,7 +92,7 @@
     - [ ] CI/CD to update Helm charts       ( 2h )
 
 ** kurianbenoy
-*** IN_PROGRESS Compete in Kaggle DSBowl competition - Part2
+*** DONE IN_PROGRESS Compete in Kaggle DSBowl competition - Part2
    :PROPERTIES:
    :ESTIMATED: 15
    :ACTUAL: 18
@@ -101,6 +101,7 @@
    :TASKID: DEV.1578594699
    :END:
    :LOGBOOK:
+   CLOCK: [2020-01-20 Mon 21:53]--[2020-01-20 Mon 23:20] =>  1:27
    CLOCK: [2020-01-19 Sun 23:38]--[2020-01-19 Sun 23:50] =>  0:12
    CLOCK: [2020-01-19 Sun 10:02]--[2020-01-19 Sun 11:42] =>  1:40
    CLOCK: [2020-01-19 Sun 08:08]--[2020-01-19 Sun 09:40] =>  1:32
@@ -126,9 +127,14 @@
    :OWNER: kurianbenoy
    :ID: READ.1578594810
    :TASKID: READ.1578594810
-   :ORDERED:  t
    :END:
    :LOGBOOK:
+   CLOCK: [2020-01-22 Wed 19:58]--[2020-01-22 Wed 20:22] =>  0:24
+   CLOCK: [2020-01-21 Tue 19:43]--[2020-01-21 Tue 21:00] =>  1:17
+   CLOCK: [2020-01-21 Tue 06:33]--[2020-01-21 Tue 06:49] =>  0:16
+   CLOCK: [2020-01-21 Tue 04:52]--[2020-01-21 Tue 06:24] =>  1:32
+   CLOCK: [2020-01-20 Mon 20:20]--[2020-01-20 Mon 21:05] =>  0:45
+   CLOCK: [2020-01-20 Mon 19:34]--[2020-01-20 Mon 20:14] =>  0:40
    CLOCK: [2020-01-20 Mon 05:10]--[2020-01-20 Mon 07:10] =>  2:00
    CLOCK: [2020-01-19 Sun 22:58]--[2020-01-19 Sun 23:31] =>  0:33
    CLOCK: [2020-01-19 Sun 20:26]--[2020-01-19 Sun 22:20] =>  1:56
@@ -167,13 +173,16 @@
     - [ ] Databases
     - [ ] Digital Logic
     - [ ] Datastructures and programming
-*** Read CTCI part-3
+*** IN_PROGRESS Read CTCI part-3
     :PROPERTIES:
     :ESTIMATED: 5
     :ACTUAL:
     :OWNER: kurianbenoy
     :ID: READ.1578594906
     :TASKID: READ.1578594906
+    :END:
+    :LOGBOOK:
+    CLOCK: [2020-01-21 Tue 10:24]--[2020-01-21 Tue 10:42] =>  0:18
     :END:
     - [ ] Dynammic Programming
 *** IN_PROGRESS Project: Malayalam text to speech system
@@ -185,6 +194,14 @@
     :TASKID: DEV.1578595021
     :END:
    :LOGBOOK:
+   CLOCK: [2020-01-23 Thu 10:58]--[2020-01-23 Thu 13:58] =>  3:00
+   CLOCK: [2020-01-23 Thu 04:51]--[2020-01-23 Thu 07:03] =>  2:12
+   CLOCK: [2020-01-22 Wed 13:50]--[2020-01-22 Wed 16:05] =>  2:15
+   CLOCK: [2020-01-22 Wed 06:55]--[2020-01-22 Wed 07:20] =>  0:25
+   CLOCK: [2020-01-21 Tue 15:30]--[2020-01-21 Tue 16:15] =>  0:45
+   CLOCK: [2020-01-21 Tue 13:45]--[2020-01-21 Tue 15:00] =>  1:15
+   CLOCK: [2020-01-21 Tue 10:30]--[2020-01-21 Tue 11:20] =>  0:50
+   CLOCK: [2020-01-20 Mon 14:20]--[2020-01-20 Mon 16:02] =>  1:42
    CLOCK: [2020-01-20 Mon 09:00]--[2020-01-20 Mon 09:33] =>  0:33
    CLOCK: [2020-01-18 Sat 04:41]--[2020-01-18 Sat 07:02] =>  2:21
    CLOCK: [2020-01-17 Fri 10:01]--[2020-01-17 Fri 15:32] =>  5:31
