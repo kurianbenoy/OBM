@@ -27,22 +27,32 @@
   :wpd-gandalfdwite: 1
   :END:
 ** akshay196
-*** Red Hat Certified System Administrator (RHCSA) Training [0/15]
+*** IN_PROGRESS Red Hat Certified System Administrator (RHCSA) Training [8/15]
     :PROPERTIES:
     :ESTIMATED: 15
-    :ACTUAL:
+    :ACTUAL:   6.88
     :OWNER: akshay196
     :ID: READ.1579937417
     :TASKID: READ.1579937417
     :END:
-    - [ ] Chapter  1
-    - [ ] Chapter  2
-    - [ ] Chapter  3
-    - [ ] Chapter  4
-    - [ ] Chapter  5
-    - [ ] Chapter  6
-    - [ ] Chapter  7
-    - [ ] Chapter  8
+    :LOGBOOK:
+    CLOCK: [2020-01-30 Thu 07:47]--[2020-01-30 Thu 09:00] =>  1:13
+    CLOCK: [2020-01-29 Wed 22:31]--[2020-01-29 Wed 22:50] =>  0:19
+    CLOCK: [2020-01-29 Wed 07:05]--[2020-01-29 Wed 08:06] =>  1:01
+    CLOCK: [2020-01-28 Tue 23:22]--[2020-01-28 Tue 23:43] =>  0:21
+    CLOCK: [2020-01-28 Tue 21:57]--[2020-01-28 Tue 23:07] =>  1:10
+    CLOCK: [2020-01-28 Tue 06:40]--[2020-01-28 Tue 07:37] =>  0:57
+    CLOCK: [2020-01-27 Mon 20:30]--[2020-01-27 Mon 21:05] =>  0:35
+    CLOCK: [2020-01-27 Mon 07:17]--[2020-01-27 Mon 08:34] =>  1:17
+    :END:
+    - [X] Chapter  1
+    - [X] Chapter  2
+    - [X] Chapter  3
+    - [X] Chapter  4
+    - [X] Chapter  5
+    - [X] Chapter  6
+    - [X] Chapter  7
+    - [X] Chapter  8
     - [ ] Chapter  9
     - [ ] Chapter 10
     - [ ] Chapter 11
