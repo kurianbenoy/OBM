@@ -200,8 +200,8 @@
     - [X] Compiler design
     - [X] Databases
     - [ ] Digital Logic
-    - [X] Datastructures and programming
-*** IN_PROGRESS Read CTCI part-3
+    - [X] Datastructures and programming*
+*** DONE IN_PROGRESS Read CTCI part-3
     :PROPERTIES:
     :ESTIMATED: 5
     :ACTUAL:
@@ -210,11 +210,12 @@
     :TASKID: READ.1578594906
     :END:
     :LOGBOOK:
+    CLOCK: [2020-01-31 Fri 07:10]--[2020-01-31 Fri 08:30] =>  1:20
     CLOCK: [2020-01-28 Tue 07:00]--[2020-01-28 Tue 08:15] =>  1:15
     CLOCK: [2020-01-21 Tue 10:24]--[2020-01-21 Tue 10:42] =>  0:18
     :END:
     - [ ] Dynammic Programming
-*** IN_PROGRESS Project: Malayalam text to speech system
+*** DONE Project: Malayalam text to speech system
    :PROPERTIES:
     :ESTIMATED: 18
     :ACTUAL:
@@ -223,7 +224,7 @@
     :TASKID: DEV.1578595021
     :END:
    :LOGBOOK:
-   CLOCK: [2020-01-28 Tue 12:43]
+   CLOCK: [2020-01-28 Tue 12:43]--[2020-01-28 Tue 14:30] =>  1:47
    CLOCK: [2020-01-23 Thu 10:58]--[2020-01-23 Thu 13:58] =>  3:00
    CLOCK: [2020-01-23 Thu 04:51]--[2020-01-23 Thu 07:03] =>  2:12
    CLOCK: [2020-01-22 Wed 13:50]--[2020-01-22 Wed 16:05] =>  2:15
@@ -245,6 +246,7 @@
    CLOCK: [2020-01-11 Sat 15:06]--[2020-01-11 Sat 16:30] =>  1:24
    CLOCK: [2020-01-10 Fri 15:41]--[2020-01-10 Fri 23:24] =>  7:43
    :END:
-   - [ ] Write survey paper
-   - [ ] complete making inital TTS system
+   - [X] Write survey paper
+   - [X] complete making inital TTS system
 
+     
