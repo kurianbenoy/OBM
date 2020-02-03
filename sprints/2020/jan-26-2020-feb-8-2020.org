@@ -27,15 +27,23 @@
   :wpd-gandalfdwite: 1
   :END:
 ** akshay196
-*** IN_PROGRESS Red Hat Certified System Administrator (RHCSA) Training [8/15]
+*** DONE Red Hat Certified System Administrator (RHCSA) Training [15/15]
+    CLOSED: [2020-02-02 Sun 16:48]
     :PROPERTIES:
     :ESTIMATED: 15
-    :ACTUAL:   6.88
+    :ACTUAL:   13.07
     :OWNER: akshay196
     :ID: READ.1579937417
     :TASKID: READ.1579937417
     :END:
     :LOGBOOK:
+    CLOCK: [2020-02-02 Sun 16:29]--[2020-02-02 Sun 16:48] =>  0:19
+    CLOCK: [2020-02-02 Sun 15:34]--[2020-02-02 Sun 16:09] =>  0:35
+    CLOCK: [2020-02-02 Sun 07:57]--[2020-02-02 Sun 08:36] =>  0:39
+    CLOCK: [2020-02-01 Sat 17:24]--[2020-02-01 Sat 18:45] =>  1:21
+    CLOCK: [2020-01-31 Fri 22:24]--[2020-01-31 Fri 22:49] =>  0:25
+    CLOCK: [2020-01-31 Fri 07:43]--[2020-01-31 Fri 09:06] =>  1:23
+    CLOCK: [2020-01-30 Thu 22:52]--[2020-01-31 Fri 00:21] =>  1:29
     CLOCK: [2020-01-30 Thu 07:47]--[2020-01-30 Thu 09:00] =>  1:13
     CLOCK: [2020-01-29 Wed 22:31]--[2020-01-29 Wed 22:50] =>  0:19
     CLOCK: [2020-01-29 Wed 07:05]--[2020-01-29 Wed 08:06] =>  1:01
@@ -53,23 +61,27 @@
     - [X] Chapter  6
     - [X] Chapter  7
     - [X] Chapter  8
-    - [ ] Chapter  9
-    - [ ] Chapter 10
-    - [ ] Chapter 11
-    - [ ] Chapter 12
-    - [ ] Chapter 13
-    - [ ] Chapter 14
-    - [ ] Chapter 15
-*** Red Hat Certified Engineer (RHCE) Training [0/13]
+    - [X] Chapter  9
+    - [X] Chapter 10
+    - [X] Chapter 11
+    - [X] Chapter 12
+    - [X] Chapter 13
+    - [X] Chapter 14
+    - [X] Chapter 15
+*** IN_PROGRESS Red Hat Certified Engineer (RHCE) Training [2/13]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:
+    :ACTUAL:   1.23
     :OWNER: akshay196
     :ID: READ.1579937451
     :TASKID: READ.1579937451
     :END:
-    - [ ] Chapter  1
-    - [ ] Chapter  2
+    :LOGBOOK:
+    CLOCK: [2020-02-03 Mon 21:25]--[2020-02-03 Mon 21:51] =>  0:26
+    CLOCK: [2020-02-03 Mon 20:24]--[2020-02-03 Mon 21:12] =>  0:48
+    :END:
+    - [X] Chapter  1
+    - [X] Chapter  2
     - [ ] Chapter  3
     - [ ] Chapter  4
     - [ ] Chapter  5
