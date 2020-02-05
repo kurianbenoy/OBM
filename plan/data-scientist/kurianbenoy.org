@@ -15,7 +15,6 @@
    :PROPERTIES:
    :wpd-kurianbenoy: 3
    :END:
-
 *** Malayalam TTS Project -2
    :PROPERTIES:
    :ESTIMATED: 14
@@ -24,7 +23,7 @@
    :ID: DEV.1580731550
    :TASKID: DEV.1580731550
    :END:
-** Kaggle Bengali CV competition
+*** Kaggle Bengali CV competition
    :PROPERTIES:
    :ESTIMATED: 10
    :ACTUAL:
@@ -32,7 +31,7 @@
    :ID: DEV.1580731595
    :TASKID: DEV.1580731595
    :END:
-** Write a blog post
+*** Write a blog post
    :PROPERTIES:
    :ESTIMATED: 5
    :ACTUAL:
@@ -40,7 +39,7 @@
    :ID: WRITE.1580731639
    :TASKID: WRITE.1580731639
    :END:
-** 7 habits of highly effective people
+*** 7 habits of highly effective people
    :PROPERTIES:
    :ESTIMATED: 6
    :ACTUAL:
