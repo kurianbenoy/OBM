@@ -11,39 +11,3 @@
 ** Attend meetups
 ** Write blog posts
 * PLAN
-** January   26, 2020 - February   8, 2020 (14 days)
-   :PROPERTIES:
-   :wpd-kurianbenoy: 3
-   :END:
-*** Malayalam TTS Project -2
-   :PROPERTIES:
-   :ESTIMATED: 14
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: DEV.1580731550
-   :TASKID: DEV.1580731550
-   :END:
-*** Kaggle Bengali CV competition
-   :PROPERTIES:
-   :ESTIMATED: 10
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: DEV.1580731595
-   :TASKID: DEV.1580731595
-   :END:
-*** Write a blog post
-   :PROPERTIES:
-   :ESTIMATED: 5
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: WRITE.1580731639
-   :TASKID: WRITE.1580731639
-   :END:
-*** 7 habits of highly effective people
-   :PROPERTIES:
-   :ESTIMATED: 6
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: READ.1580731688
-   :TASKID: READ.1580731688
-   :END:

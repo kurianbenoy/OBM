@@ -25,6 +25,7 @@
   :SPRINTSTART: <2020-01-26 Sun>
   :wpd-akshay196: 2
   :wpd-gandalfdwite: 1
+  :wpd-kurianbenoy: 3
   :END:
 ** akshay196
 *** IN_PROGRESS Red Hat Certified System Administrator (RHCSA) Training [8/15]
@@ -106,3 +107,36 @@
     :TASKID: WRITE.1580179018
     :END:
     - [ ] Blog post on Containerizing pravarag dot com   ( 4h )
+** kurianbenoy
+*** Malayalam TTS Project -2
+   :PROPERTIES:
+   :ESTIMATED: 14
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: DEV.1580731550
+   :TASKID: DEV.1580731550
+   :END:
+*** Kaggle Bengali CV competition
+   :PROPERTIES:
+   :ESTIMATED: 10
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: DEV.1580731595
+   :TASKID: DEV.1580731595
+   :END:
+*** Write a blog post
+   :PROPERTIES:
+   :ESTIMATED: 5
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: WRITE.1580731639
+   :TASKID: WRITE.1580731639
+   :END:
+*** 7 habits of highly effective people
+   :PROPERTIES:
+   :ESTIMATED: 6
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: READ.1580731688
+   :TASKID: READ.1580731688
+   :END:
