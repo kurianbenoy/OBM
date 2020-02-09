@@ -69,31 +69,38 @@
     - [X] Chapter 13
     - [X] Chapter 14
     - [X] Chapter 15
-*** IN_PROGRESS Red Hat Certified Engineer (RHCE) Training [2/13]
+*** DONE Red Hat Certified Engineer (RHCE) Training [13/13]
+    CLOSED: [2020-02-08 Sat 23:55]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:   1.23
+    :ACTUAL:   10.05
     :OWNER: akshay196
     :ID: READ.1579937451
     :TASKID: READ.1579937451
     :END:
     :LOGBOOK:
+    CLOCK: [2020-02-08 Sat 20:55]--[2020-02-08 Sat 23:55] =>  3:00
+    CLOCK: [2020-02-07 Fri 17:40]--[2020-02-07 Fri 19:00] =>  1:20
+    CLOCK: [2020-02-07 Fri 07:53]--[2020-02-07 Fri 09:50] =>  1:57
+    CLOCK: [2020-02-06 Thu 07:23]--[2020-02-06 Thu 08:04] =>  0:41
+    CLOCK: [2020-02-05 Wed 06:59]--[2020-02-05 Wed 08:20] =>  1:21
+    CLOCK: [2020-02-04 Tue 07:11]--[2020-02-04 Tue 07:41] =>  0:30
     CLOCK: [2020-02-03 Mon 21:25]--[2020-02-03 Mon 21:51] =>  0:26
     CLOCK: [2020-02-03 Mon 20:24]--[2020-02-03 Mon 21:12] =>  0:48
     :END:
     - [X] Chapter  1
     - [X] Chapter  2
-    - [ ] Chapter  3
-    - [ ] Chapter  4
-    - [ ] Chapter  5
-    - [ ] Chapter  6
-    - [ ] Chapter  7
-    - [ ] Chapter  8
-    - [ ] Chapter  9
-    - [ ] Chapter 10
-    - [ ] Chapter 11
-    - [ ] Chapter 12
-    - [ ] Chapter 13
+    - [X] Chapter  3
+    - [X] Chapter  4
+    - [X] Chapter  5
+    - [X] Chapter  6
+    - [X] Chapter  7
+    - [X] Chapter  8
+    - [X] Chapter  9
+    - [X] Chapter 10
+    - [X] Chapter 11
+    - [X] Chapter 12
+    - [X] Chapter 13
 ** gandalfdwite
 *** Learn OCaml for Emacs Bug Triaging Part I - [0/6]
     :PROPERTIES:
