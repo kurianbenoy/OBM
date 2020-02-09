@@ -119,11 +119,32 @@ have the notion of time.
 Upcoming Sprints
 ================
 
-* December  27, 2019 - January    9, 2020 (14 days)
-* January   10, 2020 - January   25, 2020 (16 days)
-* January   26, 2020 - February   8, 2020 (14 days)
-* February   9, 2020 - February  24, 2020 (16 days)
-* February  25, 2020 - March      8, 2020 (13 days)
+* February   25, 2020 - March      8, 2020 (13 days)
+* March       9, 2020 - March     24, 2020 (16 days)
+* March      25, 2020 - April      7, 2020 (14 days)
+* April       8, 2020 - April     23, 2020 (16 days)
+* April      24, 2020 - May        6, 2020 (13 days)
+* May         7, 2020 - May       23, 2020 (17 days)
+* May        24, 2020 - June       4, 2020 (12 days)
+* June        5, 2020 - June      21, 2020 (17 days)
+* June       22, 2020 - July       4, 2020 (13 days)
+* July        5, 2020 - July      21, 2020 (17 days)
+* July       22, 2020 - August     2, 2020 (12 days)
+* August      3, 2020 - August    19, 2020 (17 days)
+* August     20, 2020 - September  1, 2020 (13 days)
+* September   2, 2020 - September 17, 2020 (16 days)
+* Sepetmeber 18, 2020 - September 30, 2020 (13 days)
+* October     1, 2020 - October   17, 2020 (17 days)
+* October    18, 2020 - October   30, 2020 (13 days)
+* October    31, 2020 - November  15, 2020 (16 days)
+* November   16, 2020 - November  28, 2020 (13 days)
+* November   29, 2020 - December  15, 2020 (17 days)
+* December   16, 2020 - December  28, 2020 (13 days)
+* December   29, 2020 - January   13, 2021 (16 days)
+* January    14, 2021 - January   27, 2021 (14 days)
+* January    28, 2021 - February  12, 2021 (16 days)
+* February   13, 2021 - February  25, 2021 (13 days)
+* February   26, 2021 - March     13, 2021 (16 days)
 
 Contact
 =======
