@@ -3,6 +3,21 @@
 #+TAGS: dev ops read meeting
 * GOALS
 ** DevOps
+*** Containerize pravarag dot com
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: DEV.1578812553
+    :TASKID: DEV.1578812553
+    :END:
+    - [ ] Write Nginx based dockerfiles     ( 2h )
+    - [ ] CI/CD pipeline to enable code     ( 4h )
+          changes and updating docker
+          images
+    - [ ] Write K8s based deployment specs  ( 4h )
+          as helm charts
+    - [ ] CI/CD to update Helm charts       ( 2h )
 *** Learning Terraform
     :PROPERTIES:
     :ESTIMATED: 10
@@ -17,29 +32,25 @@
     - [ ] Terraform With Azure        ( 3h )
 ** Python
 ** Emacs
-** Linux
-*** TODO Linux Under the Hood [0/13]
+*** Learn OCaml for Emacs Bug Triaging
     :PROPERTIES:
-    :ESTIMATED: 24
+    :ESTIMATED: 14
     :ACTUAL:
     :OWNER: gandalfdwite
-    :ID: READ.1573405076
-    :TASKID: READ.1573405076
+    :ID: READ.1580178290
+    :TASKID: READ.1580178290
     :END:
-    - [ ] 7. Understanding processes                     ( 2h )
-    - [ ] 8. Security                                    ( 3h )
-    - [ ] 9. Hardware Initilization                      ( 1h )
-    - [ ] 10. Looking closer at the kernel               ( 2h )
-    - [ ] 11. Networking                                 ( 1h )
-    - [ ] 12. Performance optimization                   ( 1h )
-    - [ ] 13. Future of Linux                            ( 1h )
+    - [ ] Imperative Programming        ( 2h )
+    - [ ] A complete Programme          ( 2h )
+** Linux
 ** Blog - pravaragdotcom
-*** Write a blog post on TravisCI
+*** Blog post on containerizing pravarag dot com
     :PROPERTIES:
     :ESTIMATED: 4
     :ACTUAL:
-    :OWNER:    gandalfdwite
-    :ID:       WRITE.1576074953
-    :TASKID:   WRITE.1576074953
+    :OWNER: gandalfdwite
+    :ID: WRITE.1580179018
+    :TASKID: WRITE.1580179018
     :END:
+    - [ ] Blog post on Containerizing pravarag dot com   ( 4h )
 * PLAN

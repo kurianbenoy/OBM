@@ -2,107 +2,11 @@
 #+EMAIL: akgaikwad001@gmail.com
 #+TAGS: read write dev ops event meeting # Need to be category
 * GOALS
-** Learning
-*** Linux
-**** UNIX and Linux System Administration Handbook
-:PROPERTIES:
-:ESTIMATED:
-:ACTUAL:
-:OWNER: akshay196
-:ID: READ.1555428478
-:TASKID: READ.1555428478
-:END:
-Fifth Edition.
-Dan Mackin, Ben Whaley, Trent R. Hein, Garth Snyder, Evi Nemeth.
-- [ ] Chapter 22. SMB                                   ( 2h)
-  - Samba: SMB server for UNIX
-  - Installing and configuring Samba
-  - Mounting SMB file shares
-  - Browsing SMB file shares
-  - Ensuring Samba security
-  - Debugging Samba
-- [ ] Chapter 23. Configuration Management              ( 2h)
-  - Configuration management in a nutshell
-  - Dangers of configuration management
-  - Elements of configuration management
-  - Popular CM systems compared
-  - Introduction to Ansible
-  - Introduction to Salt
-  - Ansible and Salt compared
-  - Best practices
-- [ ] Chapter 24. Virtualization                        ( 2h)
-  - Virtual vernacular
-  - Virtualization with Linux
-  - FreeBSD bhyve
-  - VMware
-  - VirtualBox
-  - Packer
-  - Vagrant
-- [ ] Chapter 25. Containers                            ( 2h)
-  - Background and core concepts
-  - Docker: the open source container engine
-  - Containers in practice
-  - Container clustering and management
-- [ ] Chapter 26. Continuous Integration and Delivery   ( 2h)
-  - CI/CD essentials
-  - Pipelines
-  - Jenkins: the open source automation server
-  - CI/CD in practice
-  - Containers and CI/CD
-- [ ] Chapter 27. Security                              ( 3h)
-  - Elements of security
-  - How security is compromised
-  - Basic security measures
-  - Passwords and user accounts
-  - Security power tools
-  - Cryptography primer
-  - SSH, the Secure SHell
-  - Firewalls
-  - Virtual private networks (VPNs)
-  - Certifications and standards
-  - Sources of security information
-  - When your site has been attacked
-- [ ] Chpater 28. Monitoring                            ( 3h)
-  - An overview of monitoring
-  - The monitoring culture
-  - The monitoring platforms
-  - Data collection
-  - Network monitoring
-  - Systems monitoring
-  - Application monitoring
-  - Security monitoring
-  - SNMP: the Simple Network Management Protocol
-  - Tips and tricks for monitoring
-- [ ] Chapter 29. Performance Analysis                  ( 2h)
-  - Performance tuning philosophy
-  - Ways to improve performance
-  - Factors that affect performance
-  - Stolen CPU cycles
-  - Analysis of performance problems
-  - System performance checkup
-  - Help! My server just got really slow!
-- [ ] Chapter 30. Data Center Basics                    ( 2h)
-  - Racks
-  - Power
-  - Cooling and environment
-  - Data center reliability tiers
-  - Data center security
-  - Tools
-- [ ] Chapter 31. Methodology, Policy and Politics      ( 3h)
-  - The grand unified theory: DevOps
-  - Ticketing and task management systems
-  - Local documentation maintenance
-  - Environment separation
-  - Disaster management
-  - IT policies and procedures
-  - Service level agreements
-  - Compliance: regulations and standards
-  - Legal issues
-  - Organizations, conferences, and other resources
-*** Python
-*** Automation with Ansible
-** Development
-*** Ansible
-** Emacs
-*** Triage Bugs
+** Linux Administration
+** Understand Software Architectures
+** Proficiency in Programming language
+** Write blogs
+** Attend meetups
+** Improve Communication Skills
+** Work on Technology stacks
 * PLAN

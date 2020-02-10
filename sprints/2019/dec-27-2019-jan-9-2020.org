@@ -1,0 +1,169 @@
+#+TITLE: December 27, 2019 - January 9, 2020 (14 days)
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 14
+  :SPRINTSTART: <2019-12-27 Wed>
+  :wpd-akshay196: 1
+  :wpd-bhavin192: 1
+  :wpd-kurianbenoy: 1
+  :END:
+** akshay196
+*** DONE The Pragmatic Programmer: your journey to mastery - Part II
+    CLOSED: [2020-01-09 Thu 20:40]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:   10.68
+    :OWNER: akshay196
+    :ID: READ.1576169089
+    :TASKID: READ.1576169089
+    :END:
+    :LOGBOOK:
+    CLOCK: [2020-01-09 Thu 19:37]--[2020-01-09 Thu 20:40] =>  1:03
+    CLOCK: [2020-01-08 Wed 20:25]--[2020-01-08 Wed 22:20] =>  1:55
+    CLOCK: [2020-01-07 Tue 22:15]--[2020-01-07 Tue 23:31] =>  1:16
+    CLOCK: [2020-01-07 Tue 06:51]--[2020-01-07 Tue 08:26] =>  1:35
+    CLOCK: [2020-01-05 Sun 09:35]--[2020-01-05 Sun 10:39] =>  1:04
+    CLOCK: [2020-01-04 Sat 08:46]--[2020-01-04 Sat 09:27] =>  0:41
+    CLOCK: [2020-01-03 Fri 07:08]--[2020-01-03 Fri 07:33] =>  0:25
+    CLOCK: [2020-01-02 Thu 08:06]--[2020-01-02 Thu 08:45] =>  0:39
+    CLOCK: [2020-01-01 Wed 22:22]--[2020-01-01 Wed 22:40] =>  0:18
+    CLOCK: [2020-01-01 Wed 20:39]--[2020-01-01 Wed 21:23] =>  0:44
+    CLOCK: [2019-12-31 Tue 20:38]--[2019-12-31 Tue 21:16] =>  0:38
+    CLOCK: [2019-12-31 Tue 08:00]--[2019-12-31 Tue 08:23] =>  0:23
+    :END:
+    - [X] Chapter 5. Bend, or Break                (2h)
+    - [X] Chapter 6. Concurrency                   (2h)
+    - [X] Chapter 7. While You Are Coding          (2h)
+    - [X] Chapter 8. Before the Project            (2h)
+    - [X] Chapter 9. Pragmatic Projects            (2h)
+*** DONE Jupyter Notebook Foundations
+    CLOSED: [2020-01-06 Mon 23:55]
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:   3.55
+    :OWNER: akshay196
+    :ID: READ.1577713184
+    :TASKID: READ.1577713184
+    :END:
+    :LOGBOOK:
+    CLOCK: [2020-01-06 Mon 20:22]--[2020-01-06 Mon 23:55] =>  3:33
+    :END:
+    https://learning.oreilly.com/live-training/courses/jupyter-notebook-foundations/0636920348528/
+** bhavin192
+*** DONE Rootconf Delhi talk preparation
+    CLOSED: [2020-01-06 Tue 20:05]
+    :PROPERTIES:
+    :ESTIMATED: 9
+    :ACTUAL:   9.08
+    :OWNER:    bhavin192
+    :ID:       WRITE.1577717861
+    :TASKID:   WRITE.1577717861
+    :END:
+    :LOGBOOK:
+    CLOCK: [2020-01-06 Mon 19:07]--[2020-01-06 Mon 20:05] =>  0:58
+    CLOCK: [2020-01-05 Sun 21:53]--[2020-01-05 Sun 22:32] =>  0:39
+    CLOCK: [2020-01-05 Sun 19:29]--[2020-01-05 Sun 20:02] =>  0:33
+    CLOCK: [2020-01-05 Sun 18:05]--[2020-01-05 Sun 19:07] =>  1:02
+    CLOCK: [2020-01-05 Sun 15:55]--[2020-01-05 Sun 16:02] =>  0:07
+    CLOCK: [2020-01-05 Sun 13:25]--[2020-01-05 Sun 14:37] =>  1:12
+    CLOCK: [2020-01-04 Sat 10:30]--[2020-01-04 Sat 12:45] =>  2:15
+    CLOCK: [2020-01-02 Thu 20:06]--[2020-01-02 Thu 20:38] =>  0:32
+    CLOCK: [2019-12-31 Tue 18:52]--[2019-12-31 Tue 20:01] =>  1:09
+    CLOCK: [2019-12-30 Mon 20:45]--[2019-12-30 Mon 21:23] =>  0:38
+    :END:
+    [[https://hasgeek.com/rootconf/2020-delhi/proposals/your-journey-from-vm-based-deployments-to-kubernet-a3zt2mqvj3vpQmMWDbc6mT][Mapping the journey from VM-based deployments to Kubernetes]]
+*** DONE Mastering Distributed Tracing - chapter 8
+    CLOSED: [2020-01-09 Thu 23:58]
+    :PROPERTIES:
+    :ESTIMATED: 2.5
+    :ACTUAL:   2.45
+    :OWNER:    bhavin192
+    :ID:       READ.1562555265
+    :TASKID:   READ.1562555265
+    :END:
+    :LOGBOOK:
+    CLOCK: [2020-01-09 Thu 23:14]--[2020-01-09 Thu 23:58] =>  0:44
+    CLOCK: [2020-01-09 Thu 19:33]--[2020-01-09 Thu 20:45] =>  1:12
+    CLOCK: [2020-01-08 Wed 19:59]--[2020-01-08 Wed 20:30] =>  0:31
+    :END:
+** kurianbenoy
+*** DONE Compete in Kaggle DSBowl competition
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:   11.81
+    :OWNER: kurianbenoy
+    :ID: DEV.1577503181
+    :TASKID: DEV.1577503181
+    :END:
+    :LOGBOOK:
+    CLOCK: [2020-01-09 Thu 14:45]--[2020-01-09 Thu 15:27] =>  0:42
+    CLOCK: [2020-01-08 Wed 10:44]--[2020-01-08 Wed 11:40] =>  0:56
+    CLOCK: [2020-01-08 Wed 08:11]--[2020-01-08 Wed 08:31] =>  0:20
+    CLOCK: [2020-01-08 Wed 06:10]--[2020-01-08 Wed 07:50] =>  1:40
+    CLOCK: [2020-01-07 Tue 18:10]--[2020-01-07 Tue 18:20] =>  0:10
+    CLOCK: [2020-01-06 Mon 23:01]--[2020-01-06 Mon 23:14] =>  0:13
+    CLOCK: [2020-01-06 Mon 21:29]--[2020-01-06 Mon 22:24] =>  0:55
+    CLOCK: [2020-01-05 Sun 23:20]--[2020-01-05 Sun 23:59] =>  0:39
+    CLOCK: [2020-01-05 Sun 11:48]--[2020-01-05 Sun 12:40] =>  0:52
+    CLOCK: [2020-01-05 Sun 10:33]--[2020-01-05 Sun 11:37] =>  1:04
+    CLOCK: [2020-01-05 Sun 09:36]--[2020-01-05 Sun 10:11] =>  0:35
+    CLOCK: [2020-01-04 Sat 23:23]--[2020-01-05 Sun 00:31] =>  1:08
+    CLOCK: [2020-01-04 Sat 08:45]--[2020-01-04 Sat 09:30] =>  0:45
+    CLOCK: [2020-01-03 Fri 20:11]--[2020-01-03 Fri 21:35] =>  1:24
+    CLOCK: [2020-01-02 Thu 06:58]--[2020-01-02 Thu 07:18] =>  0:20
+    CLOCK: [2020-01-01 Wed 22:17]--[2020-01-01 Wed 22:23] =>  0:06
+    CLOCK: [2019-12-31 Tue 16:57]--[2019-12-31 Tue 17:39] =>  0:42
+    :END:
+*** DONE Prepare for GATE 2020 - Part1
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:   13.3
+    :OWNER: kurianbenoy
+    :ID: READ.1577503246
+    :TASKID: READ.1577503246
+    :END:
+    :LOGBOOK:
+    CLOCK: [2020-01-09 Thu 09:04]--[2020-01-09 Thu 10:00] =>  0:56
+    CLOCK: [2020-01-09 Thu 06:38]--[2020-01-09 Thu 07:30] =>  0:52
+    CLOCK: [2020-01-08 Wed 20:35]--[2020-01-08 Wed 21:35] =>  1:00
+    CLOCK: [2020-01-08 Wed 17:35]--[2020-01-08 Wed 18:00] =>  0:25
+    CLOCK: [2020-01-07 Tue 21:23]--[2020-01-07 Tue 23:17] =>  1:54
+    CLOCK: [2020-01-06 Mon 08:25]--[2020-01-06 Mon 08:34] =>  0:09
+    CLOCK: [2020-01-06 Mon 07:30]--[2020-01-06 Mon 07:31] =>  0:01
+    CLOCK: [2020-01-06 Mon 06:49]--[2020-01-06 Mon 07:29] =>  0:40
+    CLOCK: [2020-01-06 Mon 06:06]--[2020-01-06 Mon 06:14] =>  0:08
+    CLOCK: [2020-01-05 Sun 22:29]--[2020-01-05 Sun 23:01] =>  0:32
+    CLOCK: [2020-01-05 Sun 22:02]--[2020-01-05 Sun 22:23] =>  0:21
+    CLOCK: [2020-01-05 Sun 21:11]--[2020-01-05 Sun 21:39] =>  0:28
+    CLOCK: [2020-01-05 Sun 20:34]--[2020-01-05 Sun 20:55] =>  0:21
+    CLOCK: [2020-01-05 Sun 19:04]--[2020-01-05 Sun 20:22] =>  1:18
+    CLOCK: [2020-01-04 Sat 22:29]--[2020-01-04 Sat 23:09] =>  0:40
+    CLOCK: [2020-01-04 Sat 21:33]--[2020-01-04 Sat 22:17] =>  0:44
+    CLOCK: [2020-01-03 Fri 16:23]--[2020-01-03 Fri 17:25] =>  1:02
+    CLOCK: [2020-01-02 Thu 07:46]--[2020-01-02 Thu 08:09] =>  0:23
+    CLOCK: [2020-01-02 Thu 06:49]--[2020-01-02 Thu 06:58] =>  0:09
+    CLOCK: [2020-01-02 Thu 05:41]--[2020-01-02 Thu 06:07] =>  0:26
+    CLOCK: [2020-01-01 Wed 23:01]--[2020-01-01 Wed 23:49] =>  0:48
+    :END:
+    
+    
