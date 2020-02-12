@@ -11,28 +11,3 @@
 ** Attend meetups
 ** Write blog posts
 * PLAN
-** Feb 12, 2020 -Feb 25, 2020(14 days)
-*** Malayalam TTS project Part-3
-   :PROPERTIES:
-   :ESTIMATED: 40
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: DEV.1581323105
-   :TASKID: DEV.1581323105
-   :END:
-***  Write a blog post
-   :PROPERTIES:
-   :ESTIMATED: 5
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: WRITE.1580731639
-   :TASKID: WRITE.1580731639
-   :END:
-*** Kaggle Bengali CV competition Part-2
-   :PROPERTIES:
-   :ESTIMATED: 25
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: DEV.1581323296
-   :TASKID: DEV.1581323296
-   :END:
