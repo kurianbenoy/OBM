@@ -95,15 +95,16 @@
     - [ ] Chapter 12
     - [ ] Chapter 13
 ** gandalfdwite
-*** Learn OCaml for Emacs Bug Triaging Part I - [4/6]
+*** Learn OCaml for Emacs Bug Triaging Part I - [6/6]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:   8.93
+    :ACTUAL:   10.35
     :OWNER: gandalfdwite
     :ID: READ.1580178290
     :TASKID: READ.1580178290
     :END:
     :LOGBOOK:
+    CLOCK: [2020-02-07 Fri 21:55]--[2020-02-07 Fri 23:20] =>  1:25
     CLOCK: [2020-02-06 Thu 18:55]--[2020-02-06 Thu 20:01] =>  1:06
     CLOCK: [2020-02-05 Wed 23:14]--[2020-02-06 Thu 00:05] =>  0:51
     CLOCK: [2020-02-04 Tue 19:21]--[2020-02-04 Tue 20:59] =>  1:38
@@ -116,18 +117,23 @@
     - [X] Base, Core and Core_Kernel    ( 2h )
     - [X] OCaml as a calculator         ( 2h )
     - [X] Functions and Type Inference  ( 2h )
-    - [ ] Tuples, List, Options and     ( 2h )
+    - [X] Tuples, List, Options and     ( 2h )
           Pattern matching
-    - [ ] Records and Variants          ( 1h )
-*** Blog post on containerizing pravarag dot com [0/1]
+    - [X] Records and Variants          ( 1h )
+*** Blog post on containerizing pravarag dot com [1/1]
     :PROPERTIES:
     :ESTIMATED: 4
-    :ACTUAL:
+    :ACTUAL:   4.02
     :OWNER: gandalfdwite
     :ID: WRITE.1580179018
     :TASKID: WRITE.1580179018
     :END:
-    - [ ] Blog post on Containerizing pravarag dot com   ( 4h )
+    :LOGBOOK:
+    CLOCK: [2020-01-30 Thu 20:00]--[2020-01-30 Thu 21:01] =>  1:01
+    CLOCK: [2020-01-27 Mon 21:15]--[2020-01-27 Mon 22:35] =>  1:20
+    CLOCK: [2020-01-26 Sun 12:30]--[2020-01-26 Sun 14:10] =>  1:40
+    :END:
+    - [X] Blog post on Containerizing pravarag dot com   ( 4h )
 ** kurianbenoy
 *** Malayalam TTS Project -2
    :PROPERTIES:
