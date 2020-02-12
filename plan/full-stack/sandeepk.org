@@ -169,16 +169,31 @@
     :END:
 
 * PLAN
-** December  27, 2019 - January    9, 2020 (14 days)
-   :PROPERTIES:
-   :wpd-sandeepk: 1
-   :END:
-** January   10, 2020 - January   25, 2020 (16 days)
-   :PROPERTIES:
-   :wpd-sandeepk: 1
-   :END:
-** January   26, 2020 - February   8, 2020 (14 days)
 ** February   9, 2020 - February  24, 2020 (16 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+*** Book Atomic Habits Reading [ /4]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1581364101
+    :TASKID: READ.1581364101
+    :END:
+    - [ ] Introduction: MyStory                        ( 60 min )
+    - [ ] The Surprising Power of Atomic Habits        ( 120 min )
+    - [ ] How Your Habits Shape your Identity          ( 120 min )
+    - [ ] How to build Better Habits in 4 Simple Steps ( 180 min ) 
+*** Write a blog post [/1]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: WRITE.1581365835
+    :TASKID: WRITE.1581365835
+    :END:
+    - [ ] First Class Function ( 8 hr )
 ** February  25, 2020 - March      8, 2020 (13 days)
    
 
