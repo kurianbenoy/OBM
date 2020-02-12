@@ -127,23 +127,32 @@
     :END:
     - [ ] Blog post on Containerizing pravarag dot com   ( 4h )
 ** kurianbenoy
-*** Malayalam TTS Project -2
+*** DONE Malayalam TTS Project - Part 2
    :PROPERTIES:
    :ESTIMATED: 14
-   :ACTUAL:
+   :ACTUAL: 4.62
    :OWNER: kurianbenoy
    :ID: DEV.1580731550
    :TASKID: DEV.1580731550
    :END:
-*** Kaggle Bengali CV competition
+   :LOGBOOK:
+   CLOCK: [2020-02-09 Sun 19:55]--[2020-02-09 Sun 21:14] =>  1:19
+   CLOCK: [2020-02-07 Fri 14:00]--[2020-02-07 Fri 14:50] =>  0:50 
+   CLOCK: [2020-02-07 Fri 11:28]--[2020-02-07 Fri 12:45] =>  1:17
+   CLOCK: [2020-02-07 Fri 09:17]--[2020-02-07 Fri 10:31] =>  1:14
+   :END:
+*** DONE Kaggle Bengali CV competition
    :PROPERTIES:
    :ESTIMATED: 10
-   :ACTUAL:
+   :ACTUAL: 3.233
    :OWNER: kurianbenoy
    :ID: DEV.1580731595
    :TASKID: DEV.1580731595
    :END:
-*** Write a blog post
+   :LOGBOOK:
+   CLOCK: [2020-02-09 Sun 21:14]--[2020-02-10 Mon 00:28] =>  3:14
+   :END:
+*** TODO Write a blog post
    :PROPERTIES:
    :ESTIMATED: 5
    :ACTUAL:
@@ -151,11 +160,15 @@
    :ID: WRITE.1580731639
    :TASKID: WRITE.1580731639
    :END:
-*** 7 habits of highly effective people
+- [ ] Tactron Paper implementation
+*** TODO 7 habits of highly effective people
    :PROPERTIES:
    :ESTIMATED: 6
    :ACTUAL:
    :OWNER: kurianbenoy
    :ID: READ.1580731688
    :TASKID: READ.1580731688
+   :END:
+   :LOGBOOK:
+   CLOCK: [2020-02-07 Fri 19:14]--[2020-02-07 Fri 20:14] =>  1:00
    :END:
