@@ -38,27 +38,6 @@
 * PLAN
 ** February   9, 2020 - February  24, 2020 (16 days)
    :PROPERTIES:
-   :wpd-akshay196: 1
-   :END:
-*** Introduction to Operating Systems - Part I
-    :PROPERTIES:
-    :ESTIMATED: 16
-    :ACTUAL:
-    :OWNER: akshay196
-    :ID: READ.1580485531
-    :TASKID: READ.1580485531
-    :END:
-    https://classroom.udacity.com/courses/ud923
-    - [ ] Introduction to Operating System      ( 60 min)
-    - [ ] Processes and Process Management      (105 min)
-    - [ ] Threads and Concurrency               (240 min)
-    - [ ] Threads Case Study: PThreads          ( 90 min)
-    - [ ] Problem Set 1                         (120 min)
-    - [ ] Thread Design Consideration           (180 min)
-    - [ ] Thread Performace Consideration       (180 min)
-** February  25, 2020 - March      8, 2020 (13 days)
-   :PROPERTIES:
-   :wpd-akshay196: 1
    :END:
 *** Introduction to Operating Systems - Part II
     :PROPERTIES:

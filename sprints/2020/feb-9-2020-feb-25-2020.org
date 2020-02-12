@@ -23,8 +23,26 @@
   :ID:       TASKS
   :SPRINTLENGTH: 17
   :SPRINTSTART: <2020-02-09 Sun>
+  :wpd-akshay196: 1
   :wpd-kurianbenoy: 4
   :END:
+** akshay196
+*** Introduction to Operating Systems - Part I
+    :PROPERTIES:
+    :ESTIMATED: 16
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1580485531
+    :TASKID: READ.1580485531
+    :END:
+    https://classroom.udacity.com/courses/ud923
+    - [ ] Introduction to Operating System      ( 60 min)
+    - [ ] Processes and Process Management      (105 min)
+    - [ ] Threads and Concurrency               (240 min)
+    - [ ] Threads Case Study: PThreads          ( 90 min)
+    - [ ] Problem Set 1                         (120 min)
+    - [ ] Thread Design Consideration           (180 min)
+    - [ ] Thread Performace Consideration       (180 min)
 ** kurianbenoy
 *** Malayalam TTS project Part-3
    :PROPERTIES:
