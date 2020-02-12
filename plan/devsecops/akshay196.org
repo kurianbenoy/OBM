@@ -3,6 +3,32 @@
 #+TAGS: read write dev ops event meeting # Need to be category
 * GOALS
 ** Linux Administration
+*** Introduction to Operating Systems
+    :PROPERTIES:
+    :ESTIMATED: 47.75
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1580485531
+    :TASKID: READ.1580485531
+    :END:
+    https://classroom.udacity.com/courses/ud923
+    - [ ] I/O Managements                       (120 min)
+    - [ ] Virtualization                        (120 min)
+    - [ ] Remote Procedure Calls                (180 min)
+    - [ ] Distributed File System               (120 min)
+    - [ ] Distributed Shared Memory             (180 min)
+    - [ ] Datacenter Technologies               (120 min)
+    - [ ] Sample Final Question                 (180 min)
+*** Case Studies in Operating System Concepts
+    :PROPERTIES:
+    :ESTIMATED:
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1580489168
+    :TASKID: READ.1580489168
+    :END:
+    - [ ] The Linux System
+    - [ ] Windows 10
 ** Understand Software Architectures
 ** Proficiency in Programming language
 ** Write blogs
@@ -10,3 +36,41 @@
 ** Improve Communication Skills
 ** Work on Technology stacks
 * PLAN
+** February   9, 2020 - February  24, 2020 (16 days)
+   :PROPERTIES:
+   :wpd-akshay196: 1
+   :END:
+*** Introduction to Operating Systems - Part I
+    :PROPERTIES:
+    :ESTIMATED: 16
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1580485531
+    :TASKID: READ.1580485531
+    :END:
+    https://classroom.udacity.com/courses/ud923
+    - [ ] Introduction to Operating System      ( 60 min)
+    - [ ] Processes and Process Management      (105 min)
+    - [ ] Threads and Concurrency               (240 min)
+    - [ ] Threads Case Study: PThreads          ( 90 min)
+    - [ ] Problem Set 1                         (120 min)
+    - [ ] Thread Design Consideration           (180 min)
+    - [ ] Thread Performace Consideration       (180 min)
+** February  25, 2020 - March      8, 2020 (13 days)
+   :PROPERTIES:
+   :wpd-akshay196: 1
+   :END:
+*** Introduction to Operating Systems - Part II
+    :PROPERTIES:
+    :ESTIMATED: 13
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1580485531
+    :TASKID: READ.1580485531
+    :END:
+    https://classroom.udacity.com/courses/ud923
+    - [ ] Sample Midterm Questions              (180 min)
+    - [ ] Scheduling                            (240 min)
+    - [ ] Memory Management                     (180 min)
+    - [ ] Inter-Process Communication           ( 90 min)
+    - [ ] Syncronization Constructs             (180 min)
