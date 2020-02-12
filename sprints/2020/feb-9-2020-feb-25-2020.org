@@ -25,6 +25,7 @@
   :SPRINTSTART: <2020-02-09 Sun>
   :wpd-akshay196: 1
   :wpd-kurianbenoy: 4
+  :wpd-sandeepk: 1
   :END:
 ** akshay196
 *** Introduction to Operating Systems - Part I
@@ -68,3 +69,25 @@
    :ID: DEV.1581323296
    :TASKID: DEV.1581323296
    :END:
+** sandeepk
+*** Book Atomic Habits Reading [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1581364101
+    :TASKID: READ.1581364101
+    :END:
+    - [ ] Introduction: MyStory                        ( 60 min )
+    - [ ] The Surprising Power of Atomic Habits        ( 120 min )
+    - [ ] How Your Habits Shape your Identity          ( 120 min )
+    - [ ] How to build Better Habits in 4 Simple Steps ( 180 min )
+*** Write a blog post [0/1]
+    :PROPERTIES:
+    :ESTIMATED: 8
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: WRITE.1581365835
+    :TASKID: WRITE.1581365835
+    :END:
+    - [ ] First Class Function ( 8 hr )
