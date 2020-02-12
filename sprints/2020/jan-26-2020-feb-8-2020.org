@@ -95,18 +95,27 @@
     - [ ] Chapter 12
     - [ ] Chapter 13
 ** gandalfdwite
-*** Learn OCaml for Emacs Bug Triaging Part I - [0/6]
+*** Learn OCaml for Emacs Bug Triaging Part I - [4/6]
     :PROPERTIES:
     :ESTIMATED: 10
-    :ACTUAL:
+    :ACTUAL:   8.93
     :OWNER: gandalfdwite
     :ID: READ.1580178290
     :TASKID: READ.1580178290
     :END:
-    - [ ] Setup OCaml and opam          ( 1h )
-    - [ ] Base, Core and Core_Kernel    ( 2h )
-    - [ ] OCaml as a calculator         ( 2h )
-    - [ ] Functions and Type Inference  ( 2h )
+    :LOGBOOK:
+    CLOCK: [2020-02-06 Thu 18:55]--[2020-02-06 Thu 20:01] =>  1:06
+    CLOCK: [2020-02-05 Wed 23:14]--[2020-02-06 Thu 00:05] =>  0:51
+    CLOCK: [2020-02-04 Tue 19:21]--[2020-02-04 Tue 20:59] =>  1:38
+    CLOCK: [2020-02-03 Mon 10:48]--[2020-02-03 Mon 12:05] =>  1:17
+    CLOCK: [2020-02-02 Sun 15:39]--[2020-02-02 Sun 17:15] =>  1:36
+    CLOCK: [2020-01-31 Fri 14:04]--[2020-01-31 Fri 15:15] =>  1:11
+    CLOCK: [2020-01-28 Tue 23:18]--[2020-01-29 Wed 00:35] =>  1:17
+    :END:
+    - [X] Setup OCaml and opam          ( 1h )
+    - [X] Base, Core and Core_Kernel    ( 2h )
+    - [X] OCaml as a calculator         ( 2h )
+    - [X] Functions and Type Inference  ( 2h )
     - [ ] Tuples, List, Options and     ( 2h )
           Pattern matching
     - [ ] Records and Variants          ( 1h )
