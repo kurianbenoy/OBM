@@ -70,16 +70,26 @@
    :TASKID: DEV.1581323296
    :END:
 ** sandeepk
-*** Book Atomic Habits Reading [0/4]
+*** IN_PROGRESS Book Atomic Habits Reading [2/4]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:
+    :ACTUAL:   4.25
     :OWNER: sandeepk
     :ID: READ.1581364101
     :TASKID: READ.1581364101
     :END:
-    - [ ] Introduction: MyStory                        ( 60 min )
-    - [ ] The Surprising Power of Atomic Habits        ( 120 min )
+    :LOGBOOK:
+    CLOCK: [2020-02-16 Sun 14:15]--[2020-02-16 Sun 15:05] =>  0:50
+    CLOCK: [2020-02-15 Sat 21:00]--[2020-02-15 Sat 21:55] =>  0:55
+    CLOCK: [2020-02-14 Fri 21:20]--[2020-02-14 Fri 21:40] =>  0:20
+    CLOCK: [2020-02-14 Fri 10:10]--[2020-02-14 Fri 10:35] =>  0:25
+    CLOCK: [2020-02-13 Thu 10:10]--[2020-02-13 Thu 10:35] =>  0:25
+    CLOCK: [2020-02-12 Wed 21:05]--[2020-02-12 Wed 21:25] =>  0:20
+    CLOCK: [2020-02-12 Wed 10:00]--[2020-02-12 Wed 10:30] =>  0:30
+    CLOCK: [2020-02-11 Tue 10:00]--[2020-02-11 Tue 10:30] =>  0:30
+    :END:
+    - [X] Introduction: MyStory                        ( 60 min )
+    - [X] The Surprising Power of Atomic Habits        ( 120 min )
     - [ ] How Your Habits Shape your Identity          ( 120 min )
     - [ ] How to build Better Habits in 4 Simple Steps ( 180 min )
 *** Write a blog post [0/1]
