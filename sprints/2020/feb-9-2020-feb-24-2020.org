@@ -28,19 +28,28 @@
   :wpd-sandeepk: 1
   :END:
 ** akshay196
-*** Introduction to Operating Systems - Part I
+*** IN_PROGRESS Introduction to Operating Systems - Part I
     :PROPERTIES:
     :ESTIMATED: 16
-    :ACTUAL:
+    :ACTUAL:   6.68
     :OWNER: akshay196
     :ID: READ.1580485531
     :TASKID: READ.1580485531
     :END:
+    :LOGBOOK:
+    CLOCK: [2020-02-17 Mon 07:41]--[2020-02-17 Mon 08:03] =>  0:22
+    CLOCK: [2020-02-16 Sun 08:32]--[2020-02-16 Sun 09:26] =>  0:54
+    CLOCK: [2020-02-15 Sat 06:54]--[2020-02-15 Sat 07:48] =>  0:54
+    CLOCK: [2020-02-14 Fri 07:23]--[2020-02-14 Fri 08:04] =>  0:41
+    CLOCK: [2020-02-13 Thu 07:21]--[2020-02-13 Thu 08:48] =>  1:27
+    CLOCK: [2020-02-12 Wed 07:10]--[2020-02-12 Wed 08:24] =>  1:14
+    CLOCK: [2020-02-11 Tue 07:05]--[2020-02-11 Tue 08:14] =>  1:09
+    :END:
     https://classroom.udacity.com/courses/ud923
-    - [ ] Introduction to Operating System      ( 60 min)
-    - [ ] Processes and Process Management      (105 min)
-    - [ ] Threads and Concurrency               (240 min)
-    - [ ] Threads Case Study: PThreads          ( 90 min)
+    - [X] Introduction to Operating System      ( 60 min)
+    - [X] Processes and Process Management      (105 min)
+    - [X] Threads and Concurrency               (240 min)
+    - [X] Threads Case Study: PThreads          ( 90 min)
     - [ ] Problem Set 1                         (120 min)
     - [ ] Thread Design Consideration           (180 min)
     - [ ] Thread Performace Consideration       (180 min)
