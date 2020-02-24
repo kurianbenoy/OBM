@@ -28,15 +28,22 @@
   :wpd-sandeepk: 1
   :END:
 ** akshay196
-*** IN_PROGRESS Introduction to Operating Systems - Part I
+*** DONE Introduction to Operating Systems - Part I
+    CLOSED: [2020-02-24 Mon 20:55]
     :PROPERTIES:
     :ESTIMATED: 16
-    :ACTUAL:   6.68
+    :ACTUAL:   13.40
     :OWNER: akshay196
     :ID: READ.1580485531
     :TASKID: READ.1580485531
     :END:
     :LOGBOOK:
+    CLOCK: [2020-02-24 Mon 19:50]--[2020-02-24 Mon 20:55] =>  1:05
+    CLOCK: [2020-02-21 Fri 07:03]--[2020-02-21 Fri 08:16] =>  1:13
+    CLOCK: [2020-02-20 Thu 07:07]--[2020-02-20 Thu 08:02] =>  0:55
+    CLOCK: [2020-02-19 Wed 20:18]--[2020-02-19 Wed 21:17] =>  0:59
+    CLOCK: [2020-02-18 Tue 20:17]--[2020-02-18 Tue 21:53] =>  1:36
+    CLOCK: [2020-02-18 Tue 07:30]--[2020-02-18 Tue 08:25] =>  0:55
     CLOCK: [2020-02-17 Mon 07:41]--[2020-02-17 Mon 08:03] =>  0:22
     CLOCK: [2020-02-16 Sun 08:32]--[2020-02-16 Sun 09:26] =>  0:54
     CLOCK: [2020-02-15 Sat 06:54]--[2020-02-15 Sat 07:48] =>  0:54
@@ -50,9 +57,9 @@
     - [X] Processes and Process Management      (105 min)
     - [X] Threads and Concurrency               (240 min)
     - [X] Threads Case Study: PThreads          ( 90 min)
-    - [ ] Problem Set 1                         (120 min)
-    - [ ] Thread Design Consideration           (180 min)
-    - [ ] Thread Performace Consideration       (180 min)
+    - [X] Problem Set 1                         (120 min)
+    - [X] Thread Design Consideration           (180 min)
+    - [X] Thread Performace Consideration       (180 min)
 ** kurianbenoy
 *** Malayalam TTS project Part-3
    :PROPERTIES:
