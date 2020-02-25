@@ -170,5 +170,135 @@
 
 * PLAN
 ** February  25, 2020 - March      8, 2020 (13 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+*** Write a blog post PART II [/1]
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: WRITE.1581365835
+    :TASKID: WRITE.1581365835
+    :END:
+    - [ ] First Class Function blog post ( 7 hr )
+*** Book Atomic Habits Reading PART II [/9]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1581364101
+    :TASKID: READ.1581364101
+    :END:
+    - [ ] The Law of least effort                                        ( 40 min )
+    - [ ] How to stop procastinating by using the two minute rule        ( 30 min )
+    - [ ] How to make Good Habits Inevitable and Bad Habits Impossible   ( 30 min )
+    - [ ] The Cardinal Rule of Behaviour Change                          ( 30 min )
+    - [ ] How to stick with Good Habits Every Day                        ( 40 min )  
+    - [ ] How an Accountablitiy Partner Can Change Everthing             ( 60 min )
+    - [ ] The turth about talent                                         ( 70 min ) 
+    - [ ] The Goldilocks Rule: How to staty motivated in life and work   ( 30 min )
+    - [ ] The downside of creating good habits                           ( 30 min )
+
+** March       9, 2020 - March     24, 2020 (16 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** March      25, 2020 - April      7, 2020 (14 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** April       8, 2020 - April     23, 2020 (16 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** April      24, 2020 - May        6, 2020 (13 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** May         7, 2020 - May       23, 2020 (17 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** May        24, 2020 - June       4, 2020 (12 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** June        5, 2020 - June      21, 2020 (17 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** June       22, 2020 - July       4, 2020 (13 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** July        5, 2020 - July      21, 2020 (17 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** July       22, 2020 - August     2, 2020 (12 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** August      3, 2020 - August    19, 2020 (17 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** August     20, 2020 - September  1, 2020 (13 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** September   2, 2020 - September 17, 2020 (16 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** Sepetmeber 18, 2020 - September 30, 2020 (13 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** October     1, 2020 - October   17, 2020 (17 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** October    18, 2020 - October   30, 2020 (13 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** October    31, 2020 - November  15, 2020 (16 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** November   16, 2020 - November  28, 2020 (13 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** November   29, 2020 - December  15, 2020 (17 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
+** December   16, 2020 - December  28, 2020 (13 days)
+   :PROPERTIES:
+   :wpd-sandeepk: 1
+   :END:
+
    
 

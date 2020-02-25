@@ -111,15 +111,23 @@
    CLOCK: [2020-02-15 Sat 09:52]--[2020-02-15 Sat 18:00] => 8:08
    :END:
 ** sandeepk
-*** IN_PROGRESS Book Atomic Habits Reading [2/4]
+*** DONE Book Atomic Habits Reading [4/4]
+    CLOSED: [2020-02-20 Thu 10:40]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:   4.25
+    :ACTUAL:   6.67
     :OWNER: sandeepk
     :ID: READ.1581364101
     :TASKID: READ.1581364101
     :END:
     :LOGBOOK:
+    CLOCK: [2020-02-20 Thu 10:15]--[2020-02-20 Thu 10:40] =>  0:25
+    CLOCK: [2020-02-19 Wed 23:15]--[2020-02-19 Wed 23:25] =>  0:10
+    CLOCK: [2020-02-19 Wed 10:05]--[2020-02-19 Wed 10:25] =>  0:20
+    CLOCK: [2020-02-18 Tue 23:00]--[2020-02-18 Tue 23:20] =>  0:20
+    CLOCK: [2020-02-18 Tue 10:10]--[2020-02-18 Tue 10:25] =>  0:15
+    CLOCK: [2020-02-17 Mon 22:30]--[2020-02-17 Mon 22:55] =>  0:25
+    CLOCK: [2020-02-17 Mon 10:00]--[2020-02-17 Mon 10:30] =>  0:30
     CLOCK: [2020-02-16 Sun 14:15]--[2020-02-16 Sun 15:05] =>  0:50
     CLOCK: [2020-02-15 Sat 21:00]--[2020-02-15 Sat 21:55] =>  0:55
     CLOCK: [2020-02-14 Fri 21:20]--[2020-02-14 Fri 21:40] =>  0:20
@@ -131,14 +139,19 @@
     :END:
     - [X] Introduction: MyStory                        ( 60 min )
     - [X] The Surprising Power of Atomic Habits        ( 120 min )
-    - [ ] How Your Habits Shape your Identity          ( 120 min )
-    - [ ] How to build Better Habits in 4 Simple Steps ( 180 min )
-*** Write a blog post [0/1]
+    - [X] How Your Habits Shape your Identity          ( 120 min )
+    - [X] How to build Better Habits in 4 Simple Steps ( 180 min )
+*** DONE Write a blog post PART I [1/1]
+    CLOSED: [2020-02-23 Sun 16:25]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:
+    :ACTUAL:   1.42
     :OWNER: sandeepk
     :ID: WRITE.1581365835
     :TASKID: WRITE.1581365835
     :END:
-    - [ ] First Class Function ( 8 hr )
+    :LOGBOOK:
+    CLOCK: [2020-02-23 Sun 16:00]--[2020-02-23 Sun 16:25] =>  0:25
+    CLOCK: [2020-02-22 Sat 22:20]--[2020-02-22 Sat 23:20] =>  1:00
+    :END:
+    - [X] First Class Function ( 8 hr )
