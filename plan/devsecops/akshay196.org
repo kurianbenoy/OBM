@@ -36,21 +36,3 @@
 ** Improve Communication Skills
 ** Work on Technology stacks
 * PLAN
-** February   25, 2020 - March      8, 2020 (13 days)
-   :PROPERTIES:
-   :wpd-akshay196: 1
-   :END:
-*** Introduction to Operating Systems - Part II
-    :PROPERTIES:
-    :ESTIMATED: 13
-    :ACTUAL:
-    :OWNER: akshay196
-    :ID: READ.1580485531
-    :TASKID: READ.1580485531
-    :END:
-    https://classroom.udacity.com/courses/ud923
-    - [ ] Sample Midterm Questions              (180 min)
-    - [ ] Scheduling                            (240 min)
-    - [ ] Memory Management                     (180 min)
-    - [ ] Inter-Process Communication           ( 90 min)
-    - [ ] Syncronization Constructs             (180 min)

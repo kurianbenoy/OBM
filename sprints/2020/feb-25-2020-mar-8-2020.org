@@ -1,0 +1,42 @@
+#+TITLE: February 25, 2020 - March 8, 2020 (13 days)
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+#+END:
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 13
+  :SPRINTSTART: <2020-02-25 Tue>
+  :wpd-akshay196: 1
+  :END:
+** akshay196
+*** Introduction to Operating Systems - Part II
+    :PROPERTIES:
+    :ESTIMATED: 13
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1580485531
+    :TASKID: READ.1580485531
+    :END:
+    https://classroom.udacity.com/courses/ud923
+    - [ ] Sample Midterm Questions              (180 min)
+    - [ ] Scheduling                            (240 min)
+    - [ ] Memory Management                     (180 min)
+    - [ ] Inter-Process Communication           ( 90 min)
+    - [ ] Syncronization Constructs             (180 min)
