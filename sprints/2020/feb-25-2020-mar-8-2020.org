@@ -24,6 +24,7 @@
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2020-02-25 Tue>
   :wpd-akshay196: 1
+  :wpd-sandeepk: 1
   :END:
 ** akshay196
 *** Introduction to Operating Systems - Part II
@@ -40,3 +41,32 @@
     - [ ] Memory Management                     (180 min)
     - [ ] Inter-Process Communication           ( 90 min)
     - [ ] Syncronization Constructs             (180 min)
+
+** sandeepk
+*** Write a blog post PART II [/1]
+    :PROPERTIES:
+    :ESTIMATED: 7
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: WRITE.1581365835
+    :TASKID: WRITE.1581365835
+    :END:
+    - [ ] First Class Function blog post ( 7 hr )
+*** Book Atomic Habits Reading PART II [/9]
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER: sandeepk
+    :ID: READ.1581364101
+    :TASKID: READ.1581364101
+    :END:
+    - [ ] The Law of least effort                                        ( 40 min )
+    - [ ] How to stop procastinating by using the two minute rule        ( 30 min )
+    - [ ] How to make Good Habits Inevitable and Bad Habits Impossible   ( 30 min )
+    - [ ] The Cardinal Rule of Behaviour Change                          ( 30 min )
+    - [ ] How to stick with Good Habits Every Day                        ( 40 min )
+    - [ ] How an Accountablitiy Partner Can Change Everthing             ( 60 min )
+    - [ ] The turth about talent                                         ( 70 min )
+    - [ ] The Goldilocks Rule: How to staty motivated in life and work   ( 30 min )
+    - [ ] The downside of creating good habits                           ( 30 min )
+
