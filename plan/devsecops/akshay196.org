@@ -36,8 +36,9 @@
 ** Improve Communication Skills
 ** Work on Technology stacks
 * PLAN
-** February   9, 2020 - February  24, 2020 (16 days)
+** February   25, 2020 - March      8, 2020 (13 days)
    :PROPERTIES:
+   :wpd-akshay196: 1
    :END:
 *** Introduction to Operating Systems - Part II
     :PROPERTIES:
