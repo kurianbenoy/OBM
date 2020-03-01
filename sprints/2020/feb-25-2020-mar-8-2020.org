@@ -52,17 +52,25 @@
     :TASKID: WRITE.1581365835
     :END:
     - [ ] First Class Function blog post ( 7 hr )
-*** Book Atomic Habits Reading PART II [/9]
+*** IN_PROGRESS Book Atomic Habits Reading PART II [3/9]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:
+    :ACTUAL:   2.58
     :OWNER: sandeepk
     :ID: READ.1581364101
     :TASKID: READ.1581364101
     :END:
-    - [ ] The Law of least effort                                        ( 40 min )
-    - [ ] How to stop procastinating by using the two minute rule        ( 30 min )
-    - [ ] How to make Good Habits Inevitable and Bad Habits Impossible   ( 30 min )
+    :LOGBOOK:
+    CLOCK: [2020-03-01 Sun 23:30]--[2020-03-02 Mon 00:00] =>  0:30
+    CLOCK: [2020-02-29 Sat 10:00]--[2020-02-29 Sat 10:30] =>  0:30
+    CLOCK: [2020-02-28 Fri 10:10]--[2020-02-28 Fri 10:30] =>  0:20
+    CLOCK: [2020-02-27 Thu 10:05]--[2020-02-27 Thu 10:30] =>  0:25
+    CLOCK: [2020-02-26 Wed 10:05]--[2020-02-26 Wed 10:30] =>  0:25
+    CLOCK: [2020-02-25 Tue 10:00]--[2020-02-25 Tue 10:25] =>  0:25
+    :END:
+    - [X] The Law of least effort                                        ( 40 min )
+    - [X] How to stop procastinating by using the two minute rule        ( 30 min )
+    - [X] How to make Good Habits Inevitable and Bad Habits Impossible   ( 30 min )
     - [ ] The Cardinal Rule of Behaviour Change                          ( 30 min )
     - [ ] How to stick with Good Habits Every Day                        ( 40 min )
     - [ ] How an Accountablitiy Partner Can Change Everthing             ( 60 min )
@@ -70,3 +78,4 @@
     - [ ] The Goldilocks Rule: How to staty motivated in life and work   ( 30 min )
     - [ ] The downside of creating good habits                           ( 30 min )
 
+      
