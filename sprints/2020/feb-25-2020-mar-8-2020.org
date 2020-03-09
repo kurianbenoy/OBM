@@ -27,20 +27,30 @@
   :wpd-sandeepk: 1
   :END:
 ** akshay196
-*** Introduction to Operating Systems - Part II
+*** DONE Introduction to Operating Systems - Part II
+    CLOSED: [2020-03-08 Sun 17:49]
     :PROPERTIES:
     :ESTIMATED: 13
-    :ACTUAL:
+    :ACTUAL:   7.93
     :OWNER: akshay196
     :ID: READ.1580485531
     :TASKID: READ.1580485531
     :END:
+    :LOGBOOK:
+    CLOCK: [2020-03-08 Sun 16:23]--[2020-03-08 Sun 17:49] =>  1:26
+    CLOCK: [2020-03-08 Sun 09:12]--[2020-03-08 Sun 09:26] =>  0:14
+    CLOCK: [2020-03-08 Sun 07:23]--[2020-03-08 Sun 08:14] =>  0:51
+    CLOCK: [2020-03-07 Sat 08:05]--[2020-03-07 Sat 09:15] =>  1:10
+    CLOCK: [2020-03-06 Fri 07:10]--[2020-03-06 Fri 08:13] =>  1:03
+    CLOCK: [2020-03-04 Wed 06:52]--[2020-03-04 Wed 07:26] =>  0:34
+    CLOCK: [2020-03-03 Tue 07:09]--[2020-03-03 Tue 07:33] =>  0:24
+    CLOCK: [2020-03-01 Sun 08:23]--[2020-03-01 Sun 09:40] =>  1:17
+    CLOCK: [2020-02-28 Fri 21:09]--[2020-02-28 Fri 22:06] =>  0:57
+    :END:
     https://classroom.udacity.com/courses/ud923
-    - [ ] Sample Midterm Questions              (180 min)
-    - [ ] Scheduling                            (240 min)
-    - [ ] Memory Management                     (180 min)
-    - [ ] Inter-Process Communication           ( 90 min)
-    - [ ] Syncronization Constructs             (180 min)
+    - [X] Sample Midterm Questions              (180 min)
+    - [X] Scheduling                            (240 min)
+    - [X] Memory Management                     (180 min)
 
 ** sandeepk
 *** Write a blog post PART II [/1]
