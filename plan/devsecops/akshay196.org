@@ -12,10 +12,6 @@
     :TASKID: READ.1580485531
     :END:
     https://classroom.udacity.com/courses/ud923
-    - [ ] I/O Managements                       (120 min)
-    - [ ] Virtualization                        (120 min)
-    - [ ] Remote Procedure Calls                (180 min)
-    - [ ] Distributed File System               (120 min)
     - [ ] Distributed Shared Memory             (180 min)
     - [ ] Datacenter Technologies               (120 min)
     - [ ] Sample Final Question                 (180 min)
@@ -36,3 +32,23 @@
 ** Improve Communication Skills
 ** Work on Technology stacks
 * PLAN
+** March       9, 2020 - March     24, 2020 (16 days)
+   :PROPERTIES:
+   :wpd-akshay196: 1
+   :END:
+*** Introduction to Operating Systems - Part III
+    :PROPERTIES:
+    :ESTIMATED: 16
+    :ACTUAL:
+    :OWNER: akshay196
+    :ID: READ.1580485531
+    :TASKID: READ.1580485531
+    :END:
+    https://classroom.udacity.com/courses/ud923
+    - [ ] Inter-Process Communication           ( 90 min)
+    - [ ] Syncronization Constructs             (180 min)
+    - [ ] I/O Managements                       (120 min)
+    - [ ] Virtualization                        (120 min)
+    - [ ] Remote Procedure Calls                (180 min)
+    - [ ] Distributed File System               (120 min)
+    - [ ] Distributed Shared Memory             (180 min)
