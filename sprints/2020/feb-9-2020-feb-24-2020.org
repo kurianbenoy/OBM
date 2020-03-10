@@ -1,4 +1,5 @@
-#+TITLE: February 9-24, 2020 (16 days)
+
+#+TITLE: February 9-25, 2020 (17 days)
 #+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
 #+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
 * REPORTS
@@ -21,47 +22,31 @@
 * TASKS
   :PROPERTIES:
   :ID:       TASKS
-  :SPRINTLENGTH: 16
+  :SPRINTLENGTH: 17
   :SPRINTSTART: <2020-02-09 Sun>
   :wpd-akshay196: 1
   :wpd-kurianbenoy: 4
   :wpd-sandeepk: 1
   :END:
 ** akshay196
-*** DONE Introduction to Operating Systems - Part I
-    CLOSED: [2020-02-24 Mon 20:55]
+*** Introduction to Operating Systems - Part I
     :PROPERTIES:
     :ESTIMATED: 16
-    :ACTUAL:   13.40
+    :ACTUAL:
     :OWNER: akshay196
     :ID: READ.1580485531
     :TASKID: READ.1580485531
     :END:
-    :LOGBOOK:
-    CLOCK: [2020-02-24 Mon 19:50]--[2020-02-24 Mon 20:55] =>  1:05
-    CLOCK: [2020-02-21 Fri 07:03]--[2020-02-21 Fri 08:16] =>  1:13
-    CLOCK: [2020-02-20 Thu 07:07]--[2020-02-20 Thu 08:02] =>  0:55
-    CLOCK: [2020-02-19 Wed 20:18]--[2020-02-19 Wed 21:17] =>  0:59
-    CLOCK: [2020-02-18 Tue 20:17]--[2020-02-18 Tue 21:53] =>  1:36
-    CLOCK: [2020-02-18 Tue 07:30]--[2020-02-18 Tue 08:25] =>  0:55
-    CLOCK: [2020-02-17 Mon 07:41]--[2020-02-17 Mon 08:03] =>  0:22
-    CLOCK: [2020-02-16 Sun 08:32]--[2020-02-16 Sun 09:26] =>  0:54
-    CLOCK: [2020-02-15 Sat 06:54]--[2020-02-15 Sat 07:48] =>  0:54
-    CLOCK: [2020-02-14 Fri 07:23]--[2020-02-14 Fri 08:04] =>  0:41
-    CLOCK: [2020-02-13 Thu 07:21]--[2020-02-13 Thu 08:48] =>  1:27
-    CLOCK: [2020-02-12 Wed 07:10]--[2020-02-12 Wed 08:24] =>  1:14
-    CLOCK: [2020-02-11 Tue 07:05]--[2020-02-11 Tue 08:14] =>  1:09
-    :END:
     https://classroom.udacity.com/courses/ud923
-    - [X] Introduction to Operating System      ( 60 min)
-    - [X] Processes and Process Management      (105 min)
-    - [X] Threads and Concurrency               (240 min)
-    - [X] Threads Case Study: PThreads          ( 90 min)
-    - [X] Problem Set 1                         (120 min)
-    - [X] Thread Design Consideration           (180 min)
-    - [X] Thread Performace Consideration       (180 min)
+    - [ ] Introduction to Operating System      ( 60 min)
+    - [ ] Processes and Process Management      (105 min)
+    - [ ] Threads and Concurrency               (240 min)
+    - [ ] Threads Case Study: PThreads          ( 90 min)
+    - [ ] Problem Set 1                         (120 min)
+    - [ ] Thread Design Consideration           (180 min)
+    - [ ] Thread Performace Consideration       (180 min)
 ** kurianbenoy
-*** IN_PROGRESS Malayalam TTS project Part-3
+*** DONE Malayalam TTS project Part-3
    :PROPERTIES:
    :ESTIMATED: 40
    :ACTUAL:
@@ -70,21 +55,16 @@
    :TASKID: DEV.1581323105
    :END:
    :LOGBOOK:
-   CLOCK: [2020-02-17 Mon 22:16]
+   CLOCK: [2020-02-24 Mon 20:11]--[2020-02-24 Mon 23:01] =>  2:50
+   CLOCK: [2020-02-19 Wed 14:06]--[2020-02-19 Wed 15:25] =>  1:19
+   CLOCK: [2020-02-18 Tue 13:00]--[2020-02-18 Tue 16:00] =>  3:00
+   CLOCK: [2020-02-17 Mon 22:16]--[2020-02-18 Tue 00:28] =>  2:12
    CLOCK: [2020-02-16 Sun 22:36]--[2020-02-17 Sun 23:15] =>  0:39
    CLOCK: [2020-02-13 Thu 23:00]--[2020-02-13 Thu 23:17] =>  0:17
    CLOCK: [2020-02-13 Thu 21:00]--[2020-02-13 Thu 22:02] =>  1:02
    CLOCK: [2020-02-13 Thu 19:53]--[2020-02-13 Thu 20:59] =>  1:06
    :END:
-*** Write a blog post
-   :PROPERTIES:
-   :ESTIMATED: 5
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: WRITE.1580731639
-   :TASKID: WRITE.1580731639
-   :END:
-*** IN_PROGRESS Kaggle Bengali CV competition Part-2
+*** DONE Kaggle Bengali CV competition Part-2
    :PROPERTIES:
    :ESTIMATED: 25
    :ACTUAL:
@@ -93,6 +73,8 @@
    :TASKID: DEV.1581323296
    :END:
    :LOGBOOK:
+   CLOCK: [2020-02-27 Thu 07:12]--[2020-02-27 Thu 09:47] =>  2:35
+   CLOCK: [2020-02-22 Sat 11:55]--[2020-02-22 Sat 13:28] =>  1:33
    CLOCK: [2020-02-17 Mon 06:53]--[2020-02-17 Mon 07:30] =>  0:37
    CLOCK: [2020-02-15 Sat 23:18]--[2020-02-16 Sun 00:38] =>  1:20
    CLOCK: [2020-02-14 Fri 21:33]--[2020-02-14 Fri 23:21] =>  1:48
@@ -111,47 +93,24 @@
    CLOCK: [2020-02-15 Sat 09:52]--[2020-02-15 Sat 18:00] => 8:08
    :END:
 ** sandeepk
-*** DONE Book Atomic Habits Reading [4/4]
-    CLOSED: [2020-02-20 Thu 10:40]
+*** Book Atomic Habits Reading [0/4]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:   6.67
+    :ACTUAL:
     :OWNER: sandeepk
     :ID: READ.1581364101
     :TASKID: READ.1581364101
     :END:
-    :LOGBOOK:
-    CLOCK: [2020-02-20 Thu 10:15]--[2020-02-20 Thu 10:40] =>  0:25
-    CLOCK: [2020-02-19 Wed 23:15]--[2020-02-19 Wed 23:25] =>  0:10
-    CLOCK: [2020-02-19 Wed 10:05]--[2020-02-19 Wed 10:25] =>  0:20
-    CLOCK: [2020-02-18 Tue 23:00]--[2020-02-18 Tue 23:20] =>  0:20
-    CLOCK: [2020-02-18 Tue 10:10]--[2020-02-18 Tue 10:25] =>  0:15
-    CLOCK: [2020-02-17 Mon 22:30]--[2020-02-17 Mon 22:55] =>  0:25
-    CLOCK: [2020-02-17 Mon 10:00]--[2020-02-17 Mon 10:30] =>  0:30
-    CLOCK: [2020-02-16 Sun 14:15]--[2020-02-16 Sun 15:05] =>  0:50
-    CLOCK: [2020-02-15 Sat 21:00]--[2020-02-15 Sat 21:55] =>  0:55
-    CLOCK: [2020-02-14 Fri 21:20]--[2020-02-14 Fri 21:40] =>  0:20
-    CLOCK: [2020-02-14 Fri 10:10]--[2020-02-14 Fri 10:35] =>  0:25
-    CLOCK: [2020-02-13 Thu 10:10]--[2020-02-13 Thu 10:35] =>  0:25
-    CLOCK: [2020-02-12 Wed 21:05]--[2020-02-12 Wed 21:25] =>  0:20
-    CLOCK: [2020-02-12 Wed 10:00]--[2020-02-12 Wed 10:30] =>  0:30
-    CLOCK: [2020-02-11 Tue 10:00]--[2020-02-11 Tue 10:30] =>  0:30
-    :END:
-    - [X] Introduction: MyStory                        ( 60 min )
-    - [X] The Surprising Power of Atomic Habits        ( 120 min )
-    - [X] How Your Habits Shape your Identity          ( 120 min )
-    - [X] How to build Better Habits in 4 Simple Steps ( 180 min )
-*** DONE Write a blog post PART I [1/1]
-    CLOSED: [2020-02-23 Sun 16:25]
+    - [ ] Introduction: MyStory                        ( 60 min )
+    - [ ] The Surprising Power of Atomic Habits        ( 120 min )
+    - [ ] How Your Habits Shape your Identity          ( 120 min )
+    - [ ] How to build Better Habits in 4 Simple Steps ( 180 min )
+*** Write a blog post [0/1]
     :PROPERTIES:
     :ESTIMATED: 8
-    :ACTUAL:   1.42
+    :ACTUAL:
     :OWNER: sandeepk
     :ID: WRITE.1581365835
     :TASKID: WRITE.1581365835
     :END:
-    :LOGBOOK:
-    CLOCK: [2020-02-23 Sun 16:00]--[2020-02-23 Sun 16:25] =>  0:25
-    CLOCK: [2020-02-22 Sat 22:20]--[2020-02-22 Sat 23:20] =>  1:00
-    :END:
-    - [X] First Class Function ( 8 hr )
+    - [ ] First Class Function ( 8 hr )
