@@ -54,29 +54,3 @@
     :END:
     - [ ] Blog post on Containerizing pravarag dot com   ( 4h )
 * PLAN
-** March       9, 2020 - March     24, 2020 (16 days)
-   :PROPERTIES:
-   :wpd-gandalfdwite: 1
-   :END:
-*** Learning Terraform
-    :PROPERTIES:
-    :ESTIMATED: 12
-    :ACTUAL:
-    :OWNER: gandalfdwite
-    :ID: OPS.1563198652
-    :TASKID: OPS.1563198652
-    :END:
-    - [ ] Introduction To Terraform   ( 2h )
-    - [ ] Terraform CLI               ( 4h )
-    - [ ] Terraform With AWS          ( 3h )
-    - [ ] Terraform With Azure        ( 3h )
-*** Learn OCaml for Emacs Bug Triaging
-    :PROPERTIES:
-    :ESTIMATED: 4
-    :ACTUAL:
-    :OWNER: gandalfdwite
-    :ID: READ.1580178290
-    :TASKID: READ.1580178290
-    :END:
-    - [ ] Imperative Programming        ( 2h )
-    - [ ] A complete Programme          ( 2h )

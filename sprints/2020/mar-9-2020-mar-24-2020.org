@@ -24,6 +24,7 @@
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2020-03-09 Mon>
   :wpd-akshay196: 1
+  :wpd-gandalfdwite: 1
   :END:
 ** akshay196
 *** Introduction to Operating Systems - Part III
@@ -43,3 +44,26 @@
     - [ ] Distributed File System               (120 min)
     - [ ] Distributed Shared Memory             (180 min)
 
+** gandalfdwite
+*** Learning Terraform
+    :PROPERTIES:
+    :ESTIMATED: 12
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: OPS.1563198652
+    :TASKID: OPS.1563198652
+    :END:
+    - [ ] Introduction To Terraform   ( 2h )
+    - [ ] Terraform CLI               ( 4h )
+    - [ ] Terraform With AWS          ( 3h )
+    - [ ] Terraform With Azure        ( 3h )
+*** Learn OCaml for Emacs Bug Triaging
+    :PROPERTIES:
+    :ESTIMATED: 4
+    :ACTUAL:
+    :OWNER: gandalfdwite
+    :ID: READ.1580178290
+    :TASKID: READ.1580178290
+    :END:
+    - [ ] Imperative Programming        ( 2h )
+    - [ ] A complete Programme          ( 2h )
