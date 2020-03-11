@@ -11,3 +11,28 @@
 ** Attend meetups
 ** Write blog posts
 * PLAN
+** March  9, 2020 - March 24, 2020 (16 days)
+*** Swift in Depth book - Part 1
+   :PROPERTIES:
+   :ESTIMATED: 7
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: READ.1583941789
+   :TASKID: READ.1583941789
+   :END:
+** Fluent Python
+   :PROPERTIES:
+   :ESTIMATED: 4
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: READ.1583941893
+   :TASKID: READ.1583941893
+   :END:
+** Learn Emacs and modifying configs
+   :PROPERTIES:
+   :ESTIMATED: 5
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: DEV.1583941968
+   :TASKID: DEV.1583941968
+   :END:
