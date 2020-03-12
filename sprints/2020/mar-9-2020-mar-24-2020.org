@@ -25,6 +25,7 @@
   :SPRINTSTART: <2020-03-09 Mon>
   :wpd-akshay196: 1
   :wpd-gandalfdwite: 1
+  :wpd-kurianbenoy: 1
   :END:
 ** akshay196
 *** IN_PROGRESS Introduction to Operating Systems - Part III
@@ -75,3 +76,37 @@
     :END:
     - [ ] Imperative Programming        ( 2h )
     - [ ] A complete Programme          ( 2h )
+** kurianbenoy
+*** Swift in Depth book - Part 1
+   :PROPERTIES:
+   :ESTIMATED: 7
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: READ.1583941789
+   :TASKID: READ.1583941789
+   :END:
+   - [ ] Hello World guide to swift
+   - [ ] Modelling Data with Enums
+   - [ ] Writing Cleaner Properties
+*** Fluent Python
+   :PROPERTIES:
+   :ESTIMATED: 4
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: READ.1583941893
+   :TASKID: READ.1583941893
+   :END:
+   - [ ] Python Data Model
+   - [ ] An array of sequences
+*** Learn Emacs and modifying configs
+   :PROPERTIES:
+   :ESTIMATED: 5
+   :ACTUAL:
+   :OWNER: kurianbenoy
+   :ID: DEV.1583941968
+   :TASKID: DEV.1583941968
+   :END:
+   - [ ] Install Magit, watch and understand functionality
+   - [ ] Modify Emacs config files
+   - [ ] Python autocomplete IDE with emacs
+   
