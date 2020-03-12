@@ -27,16 +27,21 @@
   :wpd-gandalfdwite: 1
   :END:
 ** akshay196
-*** Introduction to Operating Systems - Part III
+*** IN_PROGRESS Introduction to Operating Systems - Part III
     :PROPERTIES:
     :ESTIMATED: 16
-    :ACTUAL:
+    :ACTUAL:   1.62
     :OWNER: akshay196
     :ID: READ.1580485531
     :TASKID: READ.1580485531
     :END:
+    :LOGBOOK:
+    CLOCK: [2020-03-11 Wed 22:46]--[2020-03-11 Wed 23:07] =>  0:21
+    CLOCK: [2020-03-11 Wed 05:55]--[2020-03-11 Wed 06:17] =>  0:22
+    CLOCK: [2020-03-10 Tue 10:24]--[2020-03-10 Tue 11:18] =>  0:54
+    :END:
     https://classroom.udacity.com/courses/ud923
-    - [ ] Inter-Process Communication           ( 90 min)
+    - [X] Inter-Process Communication           ( 90 min)
     - [ ] Syncronization Constructs             (180 min)
     - [ ] I/O Managements                       (120 min)
     - [ ] Virtualization                        (120 min)
