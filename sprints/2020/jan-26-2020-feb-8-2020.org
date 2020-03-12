@@ -169,23 +169,4 @@
    :LOGBOOK:
    CLOCK: [2020-02-09 Sun 21:14]--[2020-02-10 Mon 00:28] =>  3:14
    :END:
-*** TODO Write a blog post
-   :PROPERTIES:
-   :ESTIMATED: 5
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: WRITE.1580731639
-   :TASKID: WRITE.1580731639
-   :END:
-- [ ] Tactron Paper implementation
-*** TODO 7 habits of highly effective people
-   :PROPERTIES:
-   :ESTIMATED: 6
-   :ACTUAL:
-   :OWNER: kurianbenoy
-   :ID: READ.1580731688
-   :TASKID: READ.1580731688
-   :END:
-   :LOGBOOK:
-   CLOCK: [2020-02-07 Fri 19:14]--[2020-02-07 Fri 20:14] =>  1:00
-   :END:
+
