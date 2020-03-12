@@ -20,7 +20,10 @@
    :ID: READ.1583941789
    :TASKID: READ.1583941789
    :END:
-** Fluent Python
+   - [ ] Hello World guide to swift
+   - [ ] Modelling Data with Enums
+   - [ ] Writing Cleaner Properties
+*** Fluent Python
    :PROPERTIES:
    :ESTIMATED: 4
    :ACTUAL:
@@ -28,7 +31,9 @@
    :ID: READ.1583941893
    :TASKID: READ.1583941893
    :END:
-** Learn Emacs and modifying configs
+   - [ ] Python Data Model
+   - [ ] An array of sequences
+*** Learn Emacs and modifying configs
    :PROPERTIES:
    :ESTIMATED: 5
    :ACTUAL:
@@ -36,3 +41,7 @@
    :ID: DEV.1583941968
    :TASKID: DEV.1583941968
    :END:
+   - [ ] Install Magit, watch and understand functionality
+   - [ ] Modify Emacs config files
+   - [ ] Python autocomplete IDE with emacs
+   
