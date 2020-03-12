@@ -53,10 +53,13 @@
 *** Learning Terraform
     :PROPERTIES:
     :ESTIMATED: 12
-    :ACTUAL:
+    :ACTUAL:   1.02
     :OWNER: gandalfdwite
     :ID: OPS.1563198652
     :TASKID: OPS.1563198652
+    :END:
+    :LOGBOOK:
+    CLOCK: [2020-03-11 Wed 23:49]--[2020-03-12 Thu 00:50] =>  1:01
     :END:
     - [ ] Introduction To Terraform   ( 2h )
     - [ ] Terraform CLI               ( 4h )

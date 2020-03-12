@@ -102,7 +102,8 @@
     - [X] Chapter 12
     - [X] Chapter 13
 ** gandalfdwite
-*** Learn OCaml for Emacs Bug Triaging Part I - [6/6]
+*** DONE Learn OCaml for Emacs Bug Triaging Part I - [6/6]
+    CLOSED: [2020-03-12 Thu 20:49]
     :PROPERTIES:
     :ESTIMATED: 10
     :ACTUAL:   10.35
@@ -127,7 +128,8 @@
     - [X] Tuples, List, Options and     ( 2h )
           Pattern matching
     - [X] Records and Variants          ( 1h )
-*** Blog post on containerizing pravarag dot com [1/1]
+*** DONE Blog post on containerizing pravarag dot com [1/1]
+    CLOSED: [2020-03-12 Thu 20:50]
     :PROPERTIES:
     :ESTIMATED: 4
     :ACTUAL:   4.02
