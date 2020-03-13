@@ -53,24 +53,40 @@
     - [X] Memory Management                     (180 min)
 
 ** sandeepk
-*** Write a blog post PART II [/1]
+*** DONE Write a blog post PART II [1/1]
+    CLOSED: [2020-03-08 Sun 18:00]
     :PROPERTIES:
     :ESTIMATED: 7
-    :ACTUAL:
+    :ACTUAL:   3.33
     :OWNER: sandeepk
     :ID: WRITE.1581365835
     :TASKID: WRITE.1581365835
     :END:
-    - [ ] First Class Function blog post ( 7 hr )
-*** IN_PROGRESS Book Atomic Habits Reading PART II [3/9]
+    :LOGBOOK:
+    CLOCK: [2020-03-08 Sun 17:00]--[2020-03-08 Sun 17:50] =>  0:50
+    CLOCK: [2020-03-06 Fri 23:05]--[2020-03-06 Fri 23:50] =>  0:45
+    CLOCK: [2020-03-05 Thu 23:10]--[2020-03-05 Thu 23:55] =>  0:45
+    CLOCK: [2020-03-04 Wed 22:00]--[2020-03-04 Wed 23:00] =>  1:00
+    :END:
+    - [X] First Class Function blog post ( 7 hr )
+*** DONE Book Atomic Habits Reading PART II [9/9]
+    CLOSED: [2020-03-07 Sat 18:00]
     :PROPERTIES:
     :ESTIMATED: 6
-    :ACTUAL:   2.58
+    :ACTUAL:   8.17
     :OWNER: sandeepk
     :ID: READ.1581364101
     :TASKID: READ.1581364101
     :END:
     :LOGBOOK:
+    CLOCK: [2020-03-07 Sat 17:05]--[2020-03-07 Sat 18:00] =>  0:55
+    CLOCK: [2020-03-07 Sat 14:00]--[2020-03-07 Sat 15:50] =>  1:50
+    CLOCK: [2020-03-06 Fri 10:05]--[2020-03-06 Fri 10:30] =>  0:25
+    CLOCK: [2020-03-05 Thu 10:05]--[2020-03-05 Thu 10:35] =>  0:30
+    CLOCK: [2020-03-04 Wed 10:00]--[2020-03-04 Wed 10:30] =>  0:30
+    CLOCK: [2020-03-03 Tue 22:00]--[2020-03-03 Tue 22:20] =>  0:20
+    CLOCK: [2020-03-03 Tue 09:55]--[2020-03-03 Tue 10:30] =>  0:35
+    CLOCK: [2020-03-02 Mon 10:05]--[2020-03-02 Mon 10:35] =>  0:30
     CLOCK: [2020-03-01 Sun 23:30]--[2020-03-02 Mon 00:00] =>  0:30
     CLOCK: [2020-02-29 Sat 10:00]--[2020-02-29 Sat 10:30] =>  0:30
     CLOCK: [2020-02-28 Fri 10:10]--[2020-02-28 Fri 10:30] =>  0:20
@@ -81,11 +97,11 @@
     - [X] The Law of least effort                                        ( 40 min )
     - [X] How to stop procastinating by using the two minute rule        ( 30 min )
     - [X] How to make Good Habits Inevitable and Bad Habits Impossible   ( 30 min )
-    - [ ] The Cardinal Rule of Behaviour Change                          ( 30 min )
-    - [ ] How to stick with Good Habits Every Day                        ( 40 min )
-    - [ ] How an Accountablitiy Partner Can Change Everthing             ( 60 min )
-    - [ ] The turth about talent                                         ( 70 min )
-    - [ ] The Goldilocks Rule: How to staty motivated in life and work   ( 30 min )
-    - [ ] The downside of creating good habits                           ( 30 min )
+    - [X] The Cardinal Rule of Behaviour Change                          ( 30 min )
+    - [X] How to stick with Good Habits Every Day                        ( 40 min )
+    - [X] How an Accountablitiy Partner Can Change Everthing             ( 60 min )
+    - [X] The turth about talent                                         ( 70 min )
+    - [X] The Goldilocks Rule: How to staty motivated in life and work   ( 30 min )
+    - [X] The downside of creating good habits                           ( 30 min )
 
       
