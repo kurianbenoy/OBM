@@ -24,6 +24,7 @@
   :SPRINTLENGTH: 16
   :SPRINTSTART: <2020-03-09 Mon>
   :wpd-akshay196: 1
+  :wpd-bhavin192: 1
   :wpd-gandalfdwite: 1
   :wpd-kurianbenoy: 1
   :END:
@@ -49,6 +50,43 @@
     - [ ] Remote Procedure Calls                (180 min)
     - [ ] Distributed File System               (120 min)
     - [ ] Distributed Shared Memory             (180 min)
+
+** bhavin192
+*** Work on ingress-nginx issue #5005
+    :PROPERTIES:
+    :ESTIMATED: 6
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       DEV.1584037043
+    :TASKID:   DEV.1584037043
+    :END:
+    https://github.com/kubernetes/ingress-nginx/issues/5005
+*** Watch FOSDEM 2020 videos - Part I [0/18]
+    :PROPERTIES:
+    :ESTIMATED: 10
+    :ACTUAL:
+    :OWNER:    bhavin192
+    :ID:       READ.1584036845
+    :TASKID:   READ.1584036845
+    :END:
+    - [ ] [[https://fosdem.org/2020/schedule/event/fundamental_technologies_we_need_to_work_on_for_cloud_native_networking/][Fundamental Technologies We Need to Work on for Cloud-Native Networking]]        (50m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/tanka/][Introducing Tanka]]                                                              (30m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/beam_opentelemetry_xkcd_927_success_story/][OpenTelemetry: an XKCD 927 Success Story]]                                       (25m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/containers_live_migration/][Container Live Migration ]]                                                      (25m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/containers_syscall_emulation/][Supervising and emulating syscalls]]                                             (25m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/containers_k8s_runtimes/][Below Kubernetes: Demystifying container runtimes]]                              (25m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/riek_kubernetes/][How Containers and Kubernetes re-defined the GNU/Linux Operating System]]        (25m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/codeworkload/][Code Workload Management into the Control Plane]]                                (30m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/containers_memory_management/][Linux memory management at scale]]                                               (35m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/mysql_k8s/][Running MySQL in Kubernetes in real life]]                                       (25m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/security_secure_logging_with_syslog_ng/][Secure logging with syslog-ng]]                                                  (30m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/containers_lxd/][Running full Linux systems in containers, at scale]]                             (25m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/kubernetes/][Fixing the Kubernetes clusterfuck]]                                              (60m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/security_protecting_plaintext_secrets_in_configuration_files/][Protecting plaintext secrets in configuration files]]                            (30m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/containers_k8s_security/][How (Not) To Containerise Securely]]                                             (35m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/terraform/][Hacking Terraform for fun and profit]]                                           (30m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/containers_k8s_crio_lxc/][Using crio-lxc with Kubernetes]]                                                 (35m)
+    - [ ] [[https://fosdem.org/2020/schedule/event/http3/][HTTP/3 for everyone]]                                                            (60m)
 
 ** gandalfdwite
 *** Learning Terraform
