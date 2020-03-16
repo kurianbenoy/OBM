@@ -123,18 +123,29 @@
    :ID: READ.1583941789
    :TASKID: READ.1583941789
    :END:
-   - [ ] Hello World guide to swift
+   :LOGBOOK:
+   CLOCK: [2020-03-16 Mon 14:54]--[2020-03-16 Mon 15:16] =>  0:22
+   CLOCK: [2020-03-14 Sat 23:13]--[2020-03-15 Sun 00:06] =>  0:53
+   CLOCK: [2020-03-14 Sat 21:28]--[2020-03-14 Sat 23:00] =>  1:32
+   CLOCK: [2020-03-13 Fri 20:45]--[2020-03-13 Fri 22:08] =>  1:23
+   :END:
+   - [X] Hello World guide to swift
    - [ ] Modelling Data with Enums
    - [ ] Writing Cleaner Properties
 *** Fluent Python
-   :PROPERTIES:
+  :PROPERTIES:
    :ESTIMATED: 4
    :ACTUAL:
    :OWNER: kurianbenoy
    :ID: READ.1583941893
    :TASKID: READ.1583941893
-   :END:
-   - [ ] Python Data Model
+   :END: 
+  :LOGBOOK:
+  CLOCK: [2020-03-15 Sun 22:37]--[2020-03-15 Sun 22:46] =>  0:09
+  CLOCK: [2020-03-15 Sun 21:48]--[2020-03-15 Sun 22:19] =>  0:31
+  CLOCK: [2020-03-13 Fri 00:24]--[2020-03-13 Fri 00:50] =>  0:26
+  :END:
+   - [X] Python Data Model
    - [ ] An array of sequences
 *** Learn Emacs and modifying configs
    :PROPERTIES:
